@@ -1,0 +1,21 @@
+API restauracja 
+
+
+<Pizza>
+    <Skladniki>
+        <Skladnik>Salami</Sklanik>
+        <Skladnik>Szynka</Sklanik>
+        <Skladnik>Pieczarki</Sklanik>
+    </Skladniki>
+    <Ciasto>
+        Grube
+    </Ciasto>
+    <Sos>
+        Czosnkowy
+    </Sos>
+    <Uwagi></Uwagi>
+    <DodatkiExtra>
+        Kukurydza
+    </DodatkiExtra>
+</Pizza>
+

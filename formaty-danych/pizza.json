@@ -1,0 +1,9 @@
+{
+  "Pizza": {
+    "Skladniki": ["Salami", "Szynka", "Pieczarki"],
+    "Ciasto": "Grube",
+    "Sos": "Czosnkowy",
+    "Uwagi": "",
+    "DodatkiExtra": ["Kukurydza", "Pieczarki"]
+  }
+}
