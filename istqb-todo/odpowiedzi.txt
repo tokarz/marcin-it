@@ -1,40 +1,39 @@
-1  
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
+
+1  A    Strzelam               
+2  D    Strzelam
+3  A    nie jestem pewien 
+4  B,C  Strzelam
+5  A    nie jestem pewien ale to bardziej strzal 
+6  D    strzelam 
+7  B    raczej to 
+8  A    raczej to
+9  D    nie jestem pewien   
+10 A    nie jestem pewien  
+11 B    raczej to 
+12 A    Strzelam - zapomnialem co to retrospektywy
+13 D    nie jestem pewien 
+14 B    nie jestem pewien
+15 D    raczej to
+16 C    nie jestem pewien
+17 D    raczej to
+18 B    raczej to
+19 B    nie jestem pewien
+20 B    raczej to 
+21 B    raczej to
+22 D    strzelam i nie kumam 
+24 A    raczej to
+25 D    nie jestem pewien
+27 D    strzelam
+28 A    nie jestem pewien
+29 D    raczej to 
+30 B    strzelam
+31 B    strzelam i nie kumam
+32 C    strzelam i tez nie kumam 
+33 D    nie jestem pewien , bardziej strzal
+34 D    strzelam
+35 D    strzelam
+36 C    raczej to 
+37 C    nie jestem pewien
+38 C    nie jestem pewien
+39 A    raczej to
+40 B    nie jestem pewien 
