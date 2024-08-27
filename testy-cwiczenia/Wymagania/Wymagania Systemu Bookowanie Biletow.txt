@@ -1,0 +1,2 @@
+
+REQ1: System powinien miec zarzadzanie uzytkownikiem

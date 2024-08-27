@@ -1,0 +1,7 @@
+"REQ1: System powinien miec zarzadzanie uzytkownikiem"
+
+1) User powinien moc sie zalogowac (X)
+2) User musi podac username i haslo (X)
+3) Po 3 nieudanych probach logowania system powinien sie zawiesic na 5min
+4) User przy 1 logowaniu domyslnym haslem musi zmienic haslo
+5) User powinien moc stworzyc nowe konto

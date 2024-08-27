@@ -1,0 +1,29 @@
+REQ1_TS1_TC1
+
+"REQ1: System powinien miec zarzadzanie uzytkownikiem"
+
+1) User powinien moc sie zalogowac
+
+
+--------------------------------------------------------------------------------------------------
+
+Id: REQ1_TS1_TC1,
+Tytul: Logowanie uzytkownika
+Warunki początkowe: System Startuje
+Test
+	G: System Wystartował a okienko logowania jest widoczne
+	W: User podaje poprawne haslo i username
+	T: Uzytkownik zostaje zalogowany
+Oczekiwany resultat:
+	Uzytkownik zostaje przeniesiony z ekranu logowania do glownej strony
+	
+	
+Id: REQ1_TS1_TC2,
+Tytul: Logowanie uzytkownika - nieudane
+Warunki początkowe: System Startuje
+Test
+	G: System Wystartował a okienko logowania jest widoczne
+	W: User podaje niepoprawne haslo i username
+	T: Uzytkownik dostaje informacje, ze logowanie sie nie powiodlo
+Oczekiwany resultat:
+	Uzytkownik pozostaje na ekranie logowania, wartosci w formularzu zostaja wyczyszczone
