@@ -1,0 +1,25 @@
+1) Przetestuj każdą z opcji w menu "Kibice"
+2) Przetestuj nagłówek i link do sponsora głównego
+3) Przetestuj Wyszukiwanie (zwróć uwagę na polskie znaki i czy można wyszukiwać z błędem ortograficznym albo literówką)
+4) Przetestuj linki do sponsorów (czy każdy link da się kliknąć? czy jest na to wymaganie zgodne z aktualnym zachowaniem strony?)
+	* sprawdź w devTools czy to jak teraz wyświetlani są sponsorzy pozwoli nam na łatwe dodanie klikania na każdego z nich osobno?
+	*(użyj DevTools)
+5) Przetestuj czy podczas uruchamiania strony pojawiają się jakiekolwiek błędy w konsoli
+6) Przetestuj, czy przycisk wyszukiwania ma kolor #52a580
+7) Przetestuj, czy da się wyświetlić dane o Akademii bez opuszczania strony czarnych jasło
+8) Przetestuj, czy strona jest responsywna, i dobrze wygląda na: tablecie i komórce (użyj DevTools)
+9) Użyj opcji Lighthouse w DevTools by sprawdzić dane o wydajności strony. Przeczytaj raport i zastanów się, czy jest on pozytywny,
+czy negatywny. Użyj narzędzia do screen-shotów, by wrzucić wynik z raportu gdzieś do gita
+10) W sekcji Materiały wideo - odpal DevTools i poklikaj pomiędzy równymi filmikami i przeanalizuj jak to się dzieje,
+    że widzimy materiały z youtube na stronie (zakładka Network)
+11) Swobodna sesja: 
+	- oceń stronę pod kątem używalności
+	- znajdź rzeczy do poprawy, które sprawią, że strona będzie lepsza, bardziej przyjazna
+	- znajdź dowonly błąd (albo błędy) i opisz go tworząc raport z kolumnami (lub takimi które sam uznasz za dobre)
+		- id
+		- description
+		- priority
+		- severity
+		- steps
+		- expected output
+		

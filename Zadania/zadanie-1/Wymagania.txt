@@ -1,0 +1,24 @@
+REQ1: Strona powinna się ładować poniżej 5sek (lighthouse report)
+
+REQ2: Na Stronie startowej powinien być baner z informacją o najnowszym meczu/wydarzeniu
+
+REQ3: Panel Menu powinien mieć opcje:
+		- Aktualności
+		- Klub
+		- Drużyny
+		- Rozgrywki
+				
+		REQ3_1: Po najechaniu myszką na opcje  Menu, powinny się od razy pojawić opcje menu szczegółowych
+		
+		
+REQ4: Na stronie powinien być widoczny sponsor główny oraz aktualna data i ikony do social mediów
+	- REQ4_1: Po kliknięciu na ikonę sponsora powinniśmy się przenieść na jego stronę
+	
+REQ5: Strona powinna mieć możliwość wyszukiwania z osobnym polem rozwijanym
+
+REQ6: Na stronie powinna być widoczna aktualna tabela
+
+REQ7: Stopka strony powinna zawierać wszystkich sponsorów i materiały wideo. Każdy sponsor powinien być "klikalny" i odnosić się 
+do swojej strony internetowej w 1 kliknięciu
+
+
