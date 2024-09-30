@@ -1,0 +1,16 @@
+Sprawdzenie dzialania  pola wyszukiwarka
+
+Wymagania :REQ5
+
+Tytul:Sprawdzenie poprawnego rozwijania wyszukiwarki
+
+Opis :sprawdzenie rozwiniecia 
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1.Najechac kursorem na pole wyszukiwarka
+2 w miejscu do wpisania frazy wpisac "mecze"
+
+Oczekiwany wynik:
+po wpisaniu powinny pojawic sie zakladki w ktore mozna kliknac aby przejsc do danego artykulu

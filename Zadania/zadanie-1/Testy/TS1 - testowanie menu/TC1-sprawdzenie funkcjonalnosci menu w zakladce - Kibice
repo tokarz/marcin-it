@@ -1,0 +1,15 @@
+Sprawdzenie funkcjonalnosci zakladki rozwijanej kibice
+
+Wymagania :REQ3/REQ3_1
+
+Tytul:Test rozwijania zakladki
+
+Opis :sprawdzenie dzialania rozwijanej zakladki
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1.Najechac kursorem na zakladke Kibice
+
+Oczekiwany wynik:
+Zakladka Kibice rozwinie sie i wyswietla sie cztery opcje do wyboru

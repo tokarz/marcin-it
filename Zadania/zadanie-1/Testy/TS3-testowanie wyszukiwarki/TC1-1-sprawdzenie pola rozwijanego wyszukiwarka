@@ -1,0 +1,15 @@
+Sprawdzenie dzialania  pola wyszukiwarka
+
+Wymagania :REQ5
+
+Tytul:Sprawdzenie poprawnego rozwijania wyszukiwarki
+
+Opis :sprawdzenie rozwiniecia 
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1.Najechac kursorem na pole wyszukiwarka
+
+Oczekiwany wynik:
+po kliknieciu rozwija sie panel z miejscem na wpisanie frazy do wyszukania

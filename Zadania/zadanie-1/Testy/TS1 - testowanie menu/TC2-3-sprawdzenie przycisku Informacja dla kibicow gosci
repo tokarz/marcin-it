@@ -1,0 +1,16 @@
+Sprawdzenie dzialania przycisku Informacja dla kibicow gosci
+
+Wymagania :REQ3_1
+
+Tytul:Test przycisku Informacja dla kibicow gosci
+
+Opis :sprawdzenie dzialania przycisku 
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1.Najechac kursorem na zakladke Kibice
+2.Kliknac w przycisk Informacja dla kibicow gosci
+
+Oczekiwany wynik:
+po kliknieciu otwiera sie podstrona i wyswietla dana zawartosc

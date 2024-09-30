@@ -1,0 +1,16 @@
+Testowanie funcjonalnosci przycisku akademia
+
+Wymagania :REQ?
+
+Tytul:Sprawdzenie dzialaniaprzycisku
+
+Opis :sprawdzenie funkcjonalnosci przycisku akademia
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1. w menu w gornej czesci strony zlokalizoac zakladke akademia w Menu
+2.najechac na nia i klinac
+
+Oczekiwany wynik:
+po kliknieciu zostajemy przeniesieni na strone zewnetrzna profilu akademia na Facebook 

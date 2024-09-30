@@ -1,0 +1,17 @@
+Sprawdzenie dzialania  wyszukiwarki
+
+Wymagania :REQ5
+
+Tytul:Sprawdzenie dzialania wyszukiwarki po wpisaniu znakow specjanych
+
+Opis :sprawdzenie wyszyukiwania
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1.Najechac i kliknac kursorem na pole wyszukiwarka
+2 .w miejscu do wpisania frazy wpisac "!@#$%^&"
+3. kliknac wyszukaj
+
+Oczekiwany wynik:
+po kliknieciu wyszukaj wyswietla nam sie komunikat :" niedozwolone znaki w polu wyszukiwania" i zostajemy na stronie 

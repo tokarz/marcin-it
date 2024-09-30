@@ -1,0 +1,18 @@
+Testowanie responsywnosci strony na tablecie iPhonie
+
+Wymagania :REQ?
+
+Tytul:Sprawdzenie dzialania na innym urzadzeniu
+
+Opis :dzialanie strony na iPhone 14 Pro Max
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1. uruchomic narzedzia developerskie przy pomocy przycisku F12
+2. uzyc kombinacji przyciskow (CTRL+SHIFT+M)
+3. W zakladce Dimensions: Responsive wybrac iPhone 14  Pro Max
+4. sprawdzic dzialanie strony poruszajac sie po niej klikajac w rozne przyciski
+
+Oczekiwany wynik:
+strona dziala plynnie , po kliknieciu w zakladki szybko przenosi nas do danej strony

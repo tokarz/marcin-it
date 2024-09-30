@@ -1,0 +1,19 @@
+sprawdzenie bledow podczas ladowania strony
+
+Wymagania :REQ?
+
+Tytul:Sprawdzenie bledow podczas ladowania strony
+
+Opis :sprawdzenie bledow
+
+warunki wstepne : miec uruchomiona przegladarke internetowa
+
+Kroki do wykonania :
+1. przejsc do narzedzi developerskich klikajac f12
+2.przejsc do zakladki network
+3. w polu do wyszukiwania w wyszukiwarce wpisac www.czarnijaslo.pl
+4. kliknac Enter
+
+Oczekiwany wynik:
+po kliknieciu enter zostajemy przeniesieni na strone 
+w narzedziach developerskich w zakladce network nie ma zadnych bledow o kodzie 404

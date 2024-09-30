@@ -1,0 +1,17 @@
+Sprawdzenie dzialania  wyszukiwarki
+
+Wymagania :REQ5
+
+Tytul:Sprawdzenie  dzialania wyszukiwarki z pustym polem wyszukiwania
+
+Opis :sprawdzenie wyszyukiwania
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1.Najechac i kliknac kursorem na pole wyszukiwarka
+2 .w miejscu do wpisania frazy nie wpisac nic
+3. kliknac wyszukaj
+
+Oczekiwany wynik:
+po kliknieciu wyszukaj wyswietla sie komunikat :prosze uzupelnic pole do wyszukiwania

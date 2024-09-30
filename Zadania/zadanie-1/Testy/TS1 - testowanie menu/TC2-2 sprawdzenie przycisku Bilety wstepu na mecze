@@ -1,0 +1,16 @@
+Sprawdzenie dzialania przycisku Bilety wstepu na mecze
+
+Wymagania :REQ3_1
+
+Tytul:Test przycisku Bilety wstepu na mecze
+
+Opis :sprawdzenie dzialania przycisku
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1.Najechac kursorem na zakladke Kibice
+2.Kliknac w przycisk Bilety wstepu na mecze
+
+Oczekiwany wynik:
+po kliknieciu otwiera sie podstrona i wyswietla dana zawartosc

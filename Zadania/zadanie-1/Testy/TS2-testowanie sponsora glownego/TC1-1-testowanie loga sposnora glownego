@@ -1,0 +1,15 @@
+Sprawdzenie dzialania loga sponsora glownego
+
+Wymagania :REQ4/REQ4_1
+
+Tytul:Test dzialania loga sponsora glownego
+
+Opis :sprawdzenie dzialania loga
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1.zlokalizowac Logo glownego sponsora na stronie glownej
+2. najechac na nie i kliknac
+Oczekiwany wynik:
+po kliknieciu w logo otwiera sie strona sponsora glownego w nowym oknie

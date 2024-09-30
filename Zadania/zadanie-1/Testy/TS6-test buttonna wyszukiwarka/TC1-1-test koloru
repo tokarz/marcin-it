@@ -1,0 +1,17 @@
+Testowanie poprawnego koloru zakladki wyszukiwarka
+
+Wymagania :REQ?
+
+Tytul:Sprawdzenie koloru zakladki do wyszukiwania
+
+Opis :sprawdzenie koloru
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1. przejsc do narzedzi developerskich klikajac F12
+2. w narzedziach developerskich klikac na orzycisk do sprawdzenia danego elemntu ze strony
+3. najechac na przycisk pola wyszukiwania i kliknac w niego
+
+Oczekiwany wynik:
+po kliknieciu w devtools sprawdzic czy kolor przycisku ma wartosc #52a580

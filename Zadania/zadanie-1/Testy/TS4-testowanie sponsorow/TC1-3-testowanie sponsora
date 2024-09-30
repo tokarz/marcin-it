@@ -1,0 +1,15 @@
+Testowanie dzialania liknow sponsorow
+
+Wymagania :REQ7
+
+Tytul:Sprawdzenie dzialania linkow sponsorow
+
+Opis :sprawdzenie klikniecia w logo
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1. kliknac w logo sponsora "oponex"
+
+Oczekiwany wynik:
+po kliknieciu zostajemy przeniesiemi na strone sponsora

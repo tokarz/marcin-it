@@ -1,0 +1,16 @@
+Sprawdzenie dzialania przycisku Regulamin imprez masowych
+
+Wymagania :REQ3_1
+
+Tytul:Test przycisku Regulamin imprez masowych
+
+Opis :sprawdzenie dzialania przycisku
+
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+
+Kroki do wykonania :
+1.Najechac kursorem na zakladke Kibice
+2.Kliknac w przycisk Regulamin imprez masowych
+
+Oczekiwany wynik:
+po kliknieciu otwiera sie podstrona i wyswietla dana zawartosc
