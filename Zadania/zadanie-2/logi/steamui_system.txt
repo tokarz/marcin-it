@@ -1,0 +1,2560 @@
+
+
+[2023-01-14 23:52:14] Device: name='Loopback'
+[2023-01-14 23:52:14] Device: name='Ethernet'
+[2023-01-14 23:52:14] Device: name='VPN_SmartCard'
+[2023-01-14 23:52:14] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:52:24] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:52:24] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:52:24] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:52:24] Device: name='Loopback'
+[2023-01-14 23:52:24] Device: name='Ethernet'
+[2023-01-14 23:52:24] Device: name='VPN_SmartCard'
+[2023-01-14 23:52:24] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:52:34] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:52:34] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:52:34] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:52:34] Device: name='Loopback'
+[2023-01-14 23:52:34] Device: name='Ethernet'
+[2023-01-14 23:52:34] Device: name='VPN_SmartCard'
+[2023-01-14 23:52:34] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:52:44] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:52:44] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:52:44] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:52:44] Device: name='Loopback'
+[2023-01-14 23:52:44] Device: name='Ethernet'
+[2023-01-14 23:52:44] Device: name='VPN_SmartCard'
+[2023-01-14 23:52:44] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:52:54] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:52:54] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:52:54] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:52:54] Device: name='Loopback'
+[2023-01-14 23:52:54] Device: name='Ethernet'
+[2023-01-14 23:52:54] Device: name='VPN_SmartCard'
+[2023-01-14 23:52:54] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:53:04] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:53:04] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:53:04] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:53:04] Device: name='Loopback'
+[2023-01-14 23:53:04] Device: name='Ethernet'
+[2023-01-14 23:53:04] Device: name='VPN_SmartCard'
+[2023-01-14 23:53:04] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:53:14] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:53:14] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:53:15] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:53:15] Device: name='Loopback'
+[2023-01-14 23:53:15] Device: name='Ethernet'
+[2023-01-14 23:53:15] Device: name='VPN_SmartCard'
+[2023-01-14 23:53:15] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:53:24] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:53:24] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:53:25] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:53:25] Device: name='Loopback'
+[2023-01-14 23:53:25] Device: name='Ethernet'
+[2023-01-14 23:53:25] Device: name='VPN_SmartCard'
+[2023-01-14 23:53:25] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:53:35] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:53:35] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:53:35] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:53:35] Device: name='Loopback'
+[2023-01-14 23:53:35] Device: name='Ethernet'
+[2023-01-14 23:53:35] Device: name='VPN_SmartCard'
+[2023-01-14 23:53:35] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:53:45] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:53:45] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:53:45] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:53:45] Device: name='Loopback'
+[2023-01-14 23:53:45] Device: name='Ethernet'
+[2023-01-14 23:53:45] Device: name='VPN_SmartCard'
+[2023-01-14 23:53:45] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:53:55] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:53:55] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:53:55] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:53:55] Device: name='Loopback'
+[2023-01-14 23:53:55] Device: name='Ethernet'
+[2023-01-14 23:53:55] Device: name='VPN_SmartCard'
+[2023-01-14 23:53:55] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:54:05] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:54:05] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:54:05] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:54:05] Device: name='Loopback'
+[2023-01-14 23:54:05] Device: name='Ethernet'
+[2023-01-14 23:54:05] Device: name='VPN_SmartCard'
+[2023-01-14 23:54:05] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:54:15] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:54:15] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:54:15] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:54:15] Device: name='Loopback'
+[2023-01-14 23:54:15] Device: name='Ethernet'
+[2023-01-14 23:54:15] Device: name='VPN_SmartCard'
+[2023-01-14 23:54:15] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:54:25] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:54:25] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:54:25] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:54:25] Device: name='Loopback'
+[2023-01-14 23:54:25] Device: name='Ethernet'
+[2023-01-14 23:54:25] Device: name='VPN_SmartCard'
+[2023-01-14 23:54:25] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:54:35] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:54:35] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:54:35] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:54:35] Device: name='Loopback'
+[2023-01-14 23:54:35] Device: name='Ethernet'
+[2023-01-14 23:54:35] Device: name='VPN_SmartCard'
+[2023-01-14 23:54:35] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:54:45] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:54:45] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:54:45] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:54:45] Device: name='Loopback'
+[2023-01-14 23:54:45] Device: name='Ethernet'
+[2023-01-14 23:54:45] Device: name='VPN_SmartCard'
+[2023-01-14 23:54:45] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:54:55] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:54:55] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:54:55] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:54:55] Device: name='Loopback'
+[2023-01-14 23:54:55] Device: name='Ethernet'
+[2023-01-14 23:54:55] Device: name='VPN_SmartCard'
+[2023-01-14 23:54:55] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:55:05] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:55:05] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:55:05] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:55:05] Device: name='Loopback'
+[2023-01-14 23:55:05] Device: name='Ethernet'
+[2023-01-14 23:55:05] Device: name='VPN_SmartCard'
+[2023-01-14 23:55:05] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:55:15] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:55:15] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:55:15] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:55:15] Device: name='Loopback'
+[2023-01-14 23:55:15] Device: name='Ethernet'
+[2023-01-14 23:55:15] Device: name='VPN_SmartCard'
+[2023-01-14 23:55:15] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:55:25] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:55:25] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:55:25] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:55:25] Device: name='Loopback'
+[2023-01-14 23:55:25] Device: name='Ethernet'
+[2023-01-14 23:55:25] Device: name='VPN_SmartCard'
+[2023-01-14 23:55:25] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:55:35] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:55:35] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:55:35] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:55:35] Device: name='Loopback'
+[2023-01-14 23:55:35] Device: name='Ethernet'
+[2023-01-14 23:55:35] Device: name='VPN_SmartCard'
+[2023-01-14 23:55:35] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:55:45] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:55:45] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:55:45] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:55:45] Device: name='Loopback'
+[2023-01-14 23:55:45] Device: name='Ethernet'
+[2023-01-14 23:55:45] Device: name='VPN_SmartCard'
+[2023-01-14 23:55:45] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:55:55] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:55:55] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:55:55] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:55:55] Device: name='Loopback'
+[2023-01-14 23:55:55] Device: name='Ethernet'
+[2023-01-14 23:55:55] Device: name='VPN_SmartCard'
+[2023-01-14 23:55:55] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:56:05] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:56:05] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:56:05] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:56:05] Device: name='Loopback'
+[2023-01-14 23:56:05] Device: name='Ethernet'
+[2023-01-14 23:56:05] Device: name='VPN_SmartCard'
+[2023-01-14 23:56:05] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:56:15] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:56:15] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:56:15] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:56:15] Device: name='Loopback'
+[2023-01-14 23:56:15] Device: name='Ethernet'
+[2023-01-14 23:56:15] Device: name='VPN_SmartCard'
+[2023-01-14 23:56:15] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:56:25] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:56:25] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:56:25] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:56:25] Device: name='Loopback'
+[2023-01-14 23:56:25] Device: name='Ethernet'
+[2023-01-14 23:56:25] Device: name='VPN_SmartCard'
+[2023-01-14 23:56:25] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:56:35] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:56:35] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:56:35] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:56:35] Device: name='Loopback'
+[2023-01-14 23:56:35] Device: name='Ethernet'
+[2023-01-14 23:56:35] Device: name='VPN_SmartCard'
+[2023-01-14 23:56:35] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:56:45] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:56:45] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:56:45] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:56:45] Device: name='Loopback'
+[2023-01-14 23:56:45] Device: name='Ethernet'
+[2023-01-14 23:56:45] Device: name='VPN_SmartCard'
+[2023-01-14 23:56:45] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:56:55] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:56:55] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:56:55] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:56:55] Device: name='Loopback'
+[2023-01-14 23:56:55] Device: name='Ethernet'
+[2023-01-14 23:56:55] Device: name='VPN_SmartCard'
+[2023-01-14 23:56:55] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:57:05] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:57:05] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:57:05] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:57:05] Device: name='Loopback'
+[2023-01-14 23:57:05] Device: name='Ethernet'
+[2023-01-14 23:57:05] Device: name='VPN_SmartCard'
+[2023-01-14 23:57:05] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:57:15] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:57:15] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:57:15] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:57:15] Device: name='Loopback'
+[2023-01-14 23:57:15] Device: name='Ethernet'
+[2023-01-14 23:57:15] Device: name='VPN_SmartCard'
+[2023-01-14 23:57:15] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:57:25] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:57:25] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:57:25] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:57:25] Device: name='Loopback'
+[2023-01-14 23:57:25] Device: name='Ethernet'
+[2023-01-14 23:57:25] Device: name='VPN_SmartCard'
+[2023-01-14 23:57:25] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:57:35] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:57:35] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:57:36] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:57:36] Device: name='Loopback'
+[2023-01-14 23:57:36] Device: name='Ethernet'
+[2023-01-14 23:57:36] Device: name='VPN_SmartCard'
+[2023-01-14 23:57:36] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:57:45] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:57:45] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:57:46] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:57:46] Device: name='Loopback'
+[2023-01-14 23:57:46] Device: name='Ethernet'
+[2023-01-14 23:57:46] Device: name='VPN_SmartCard'
+[2023-01-14 23:57:46] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:57:56] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:57:56] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:57:56] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:57:56] Device: name='Loopback'
+[2023-01-14 23:57:56] Device: name='Ethernet'
+[2023-01-14 23:57:56] Device: name='VPN_SmartCard'
+[2023-01-14 23:57:56] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:58:06] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:58:06] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:58:06] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:58:06] Device: name='Loopback'
+[2023-01-14 23:58:06] Device: name='Ethernet'
+[2023-01-14 23:58:06] Device: name='VPN_SmartCard'
+[2023-01-14 23:58:06] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:58:16] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:58:16] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:58:16] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:58:16] Device: name='Loopback'
+[2023-01-14 23:58:16] Device: name='Ethernet'
+[2023-01-14 23:58:16] Device: name='VPN_SmartCard'
+[2023-01-14 23:58:16] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:58:26] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:58:26] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:58:26] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:58:26] Device: name='Loopback'
+[2023-01-14 23:58:26] Device: name='Ethernet'
+[2023-01-14 23:58:26] Device: name='VPN_SmartCard'
+[2023-01-14 23:58:26] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:58:36] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:58:36] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:58:36] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:58:36] Device: name='Loopback'
+[2023-01-14 23:58:36] Device: name='Ethernet'
+[2023-01-14 23:58:36] Device: name='VPN_SmartCard'
+[2023-01-14 23:58:36] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:58:46] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:58:46] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:58:46] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:58:46] Device: name='Loopback'
+[2023-01-14 23:58:46] Device: name='Ethernet'
+[2023-01-14 23:58:46] Device: name='VPN_SmartCard'
+[2023-01-14 23:58:46] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:58:56] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:58:56] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:58:56] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:58:56] Device: name='Loopback'
+[2023-01-14 23:58:56] Device: name='Ethernet'
+[2023-01-14 23:58:56] Device: name='VPN_SmartCard'
+[2023-01-14 23:58:56] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:59:06] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:59:06] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:59:06] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:59:06] Device: name='Loopback'
+[2023-01-14 23:59:06] Device: name='Ethernet'
+[2023-01-14 23:59:06] Device: name='VPN_SmartCard'
+[2023-01-14 23:59:06] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:59:16] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:59:16] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:59:16] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:59:16] Device: name='Loopback'
+[2023-01-14 23:59:16] Device: name='Ethernet'
+[2023-01-14 23:59:16] Device: name='VPN_SmartCard'
+[2023-01-14 23:59:16] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:59:26] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:59:26] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:59:26] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:59:26] Device: name='Loopback'
+[2023-01-14 23:59:26] Device: name='Ethernet'
+[2023-01-14 23:59:26] Device: name='VPN_SmartCard'
+[2023-01-14 23:59:26] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:59:36] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:59:36] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:59:36] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:59:36] Device: name='Loopback'
+[2023-01-14 23:59:36] Device: name='Ethernet'
+[2023-01-14 23:59:36] Device: name='VPN_SmartCard'
+[2023-01-14 23:59:36] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:59:46] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:59:46] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:59:46] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:59:46] Device: name='Loopback'
+[2023-01-14 23:59:46] Device: name='Ethernet'
+[2023-01-14 23:59:46] Device: name='VPN_SmartCard'
+[2023-01-14 23:59:46] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-14 23:59:56] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-14 23:59:56] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-14 23:59:56] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-14 23:59:56] Device: name='Loopback'
+[2023-01-14 23:59:56] Device: name='Ethernet'
+[2023-01-14 23:59:56] Device: name='VPN_SmartCard'
+[2023-01-14 23:59:56] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:00:06] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:00:06] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:00:06] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:00:06] Device: name='Loopback'
+[2023-01-15 00:00:06] Device: name='Ethernet'
+[2023-01-15 00:00:06] Device: name='VPN_SmartCard'
+[2023-01-15 00:00:06] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:00:16] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:00:16] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:00:16] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:00:16] Device: name='Loopback'
+[2023-01-15 00:00:16] Device: name='Ethernet'
+[2023-01-15 00:00:16] Device: name='VPN_SmartCard'
+[2023-01-15 00:00:16] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:00:26] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:00:26] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:00:26] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:00:26] Device: name='Loopback'
+[2023-01-15 00:00:26] Device: name='Ethernet'
+[2023-01-15 00:00:26] Device: name='VPN_SmartCard'
+[2023-01-15 00:00:26] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:00:36] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:00:36] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:00:37] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:00:37] Device: name='Loopback'
+[2023-01-15 00:00:37] Device: name='Ethernet'
+[2023-01-15 00:00:37] Device: name='VPN_SmartCard'
+[2023-01-15 00:00:37] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:00:46] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:00:46] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:00:47] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:00:47] Device: name='Loopback'
+[2023-01-15 00:00:47] Device: name='Ethernet'
+[2023-01-15 00:00:47] Device: name='VPN_SmartCard'
+[2023-01-15 00:00:47] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:00:57] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:00:57] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:00:57] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:00:57] Device: name='Loopback'
+[2023-01-15 00:00:57] Device: name='Ethernet'
+[2023-01-15 00:00:57] Device: name='VPN_SmartCard'
+[2023-01-15 00:00:57] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:01:07] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:01:07] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:01:07] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:01:07] Device: name='Loopback'
+[2023-01-15 00:01:07] Device: name='Ethernet'
+[2023-01-15 00:01:07] Device: name='VPN_SmartCard'
+[2023-01-15 00:01:07] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:01:17] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:01:17] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:01:17] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:01:17] Device: name='Loopback'
+[2023-01-15 00:01:17] Device: name='Ethernet'
+[2023-01-15 00:01:17] Device: name='VPN_SmartCard'
+[2023-01-15 00:01:17] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:01:27] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:01:27] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:01:27] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:01:27] Device: name='Loopback'
+[2023-01-15 00:01:27] Device: name='Ethernet'
+[2023-01-15 00:01:27] Device: name='VPN_SmartCard'
+[2023-01-15 00:01:27] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:01:37] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:01:37] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:01:37] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:01:37] Device: name='Loopback'
+[2023-01-15 00:01:37] Device: name='Ethernet'
+[2023-01-15 00:01:37] Device: name='VPN_SmartCard'
+[2023-01-15 00:01:37] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:01:47] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:01:47] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:01:47] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:01:47] Device: name='Loopback'
+[2023-01-15 00:01:47] Device: name='Ethernet'
+[2023-01-15 00:01:47] Device: name='VPN_SmartCard'
+[2023-01-15 00:01:47] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:01:57] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:01:57] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:01:57] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:01:57] Device: name='Loopback'
+[2023-01-15 00:01:57] Device: name='Ethernet'
+[2023-01-15 00:01:57] Device: name='VPN_SmartCard'
+[2023-01-15 00:01:57] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:02:07] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:02:07] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:02:07] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:02:07] Device: name='Loopback'
+[2023-01-15 00:02:07] Device: name='Ethernet'
+[2023-01-15 00:02:07] Device: name='VPN_SmartCard'
+[2023-01-15 00:02:07] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:02:17] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:02:17] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:02:17] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:02:17] Device: name='Loopback'
+[2023-01-15 00:02:17] Device: name='Ethernet'
+[2023-01-15 00:02:17] Device: name='VPN_SmartCard'
+[2023-01-15 00:02:17] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:02:27] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:02:27] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:02:27] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:02:27] Device: name='Loopback'
+[2023-01-15 00:02:27] Device: name='Ethernet'
+[2023-01-15 00:02:27] Device: name='VPN_SmartCard'
+[2023-01-15 00:02:27] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:02:37] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:02:37] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:02:37] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:02:37] Device: name='Loopback'
+[2023-01-15 00:02:37] Device: name='Ethernet'
+[2023-01-15 00:02:37] Device: name='VPN_SmartCard'
+[2023-01-15 00:02:37] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:02:47] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:02:47] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:02:47] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:02:47] Device: name='Loopback'
+[2023-01-15 00:02:47] Device: name='Ethernet'
+[2023-01-15 00:02:47] Device: name='VPN_SmartCard'
+[2023-01-15 00:02:47] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:02:57] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:02:57] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:02:57] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:02:57] Device: name='Loopback'
+[2023-01-15 00:02:57] Device: name='Ethernet'
+[2023-01-15 00:02:57] Device: name='VPN_SmartCard'
+[2023-01-15 00:02:57] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:03:07] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:03:07] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:03:07] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:03:07] Device: name='Loopback'
+[2023-01-15 00:03:07] Device: name='Ethernet'
+[2023-01-15 00:03:07] Device: name='VPN_SmartCard'
+[2023-01-15 00:03:07] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:03:17] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:03:17] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:03:17] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:03:17] Device: name='Loopback'
+[2023-01-15 00:03:17] Device: name='Ethernet'
+[2023-01-15 00:03:17] Device: name='VPN_SmartCard'
+[2023-01-15 00:03:17] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:03:27] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:03:27] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:03:27] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:03:27] Device: name='Loopback'
+[2023-01-15 00:03:27] Device: name='Ethernet'
+[2023-01-15 00:03:27] Device: name='VPN_SmartCard'
+[2023-01-15 00:03:27] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:03:37] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:03:37] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:03:37] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:03:37] Device: name='Loopback'
+[2023-01-15 00:03:37] Device: name='Ethernet'
+[2023-01-15 00:03:37] Device: name='VPN_SmartCard'
+[2023-01-15 00:03:37] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:03:47] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:03:47] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:03:47] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:03:47] Device: name='Loopback'
+[2023-01-15 00:03:47] Device: name='Ethernet'
+[2023-01-15 00:03:47] Device: name='VPN_SmartCard'
+[2023-01-15 00:03:47] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:03:57] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:03:57] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:03:57] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:03:57] Device: name='Loopback'
+[2023-01-15 00:03:57] Device: name='Ethernet'
+[2023-01-15 00:03:57] Device: name='VPN_SmartCard'
+[2023-01-15 00:03:57] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:04:07] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:04:07] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:04:07] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:04:07] Device: name='Loopback'
+[2023-01-15 00:04:07] Device: name='Ethernet'
+[2023-01-15 00:04:07] Device: name='VPN_SmartCard'
+[2023-01-15 00:04:07] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:04:17] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:04:17] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:04:17] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:04:17] Device: name='Loopback'
+[2023-01-15 00:04:17] Device: name='Ethernet'
+[2023-01-15 00:04:17] Device: name='VPN_SmartCard'
+[2023-01-15 00:04:17] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:04:27] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:04:27] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:04:27] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:04:27] Device: name='Loopback'
+[2023-01-15 00:04:27] Device: name='Ethernet'
+[2023-01-15 00:04:27] Device: name='VPN_SmartCard'
+[2023-01-15 00:04:27] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:04:37] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:04:37] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:04:38] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:04:38] Device: name='Loopback'
+[2023-01-15 00:04:38] Device: name='Ethernet'
+[2023-01-15 00:04:38] Device: name='VPN_SmartCard'
+[2023-01-15 00:04:38] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:04:47] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:04:47] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:04:48] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:04:48] Device: name='Loopback'
+[2023-01-15 00:04:48] Device: name='Ethernet'
+[2023-01-15 00:04:48] Device: name='VPN_SmartCard'
+[2023-01-15 00:04:48] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:04:58] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:04:58] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:04:58] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:04:58] Device: name='Loopback'
+[2023-01-15 00:04:58] Device: name='Ethernet'
+[2023-01-15 00:04:58] Device: name='VPN_SmartCard'
+[2023-01-15 00:04:58] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:05:08] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:05:08] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:05:08] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:05:08] Device: name='Loopback'
+[2023-01-15 00:05:08] Device: name='Ethernet'
+[2023-01-15 00:05:08] Device: name='VPN_SmartCard'
+[2023-01-15 00:05:08] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:05:18] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:05:18] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:05:18] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:05:18] Device: name='Loopback'
+[2023-01-15 00:05:18] Device: name='Ethernet'
+[2023-01-15 00:05:18] Device: name='VPN_SmartCard'
+[2023-01-15 00:05:18] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:05:28] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:05:28] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:05:28] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:05:28] Device: name='Loopback'
+[2023-01-15 00:05:28] Device: name='Ethernet'
+[2023-01-15 00:05:28] Device: name='VPN_SmartCard'
+[2023-01-15 00:05:28] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:05:38] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:05:38] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:05:38] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:05:38] Device: name='Loopback'
+[2023-01-15 00:05:38] Device: name='Ethernet'
+[2023-01-15 00:05:38] Device: name='VPN_SmartCard'
+[2023-01-15 00:05:38] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:05:48] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:05:48] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:05:48] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:05:48] Device: name='Loopback'
+[2023-01-15 00:05:48] Device: name='Ethernet'
+[2023-01-15 00:05:48] Device: name='VPN_SmartCard'
+[2023-01-15 00:05:48] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:05:58] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:05:58] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:05:58] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:05:58] Device: name='Loopback'
+[2023-01-15 00:05:58] Device: name='Ethernet'
+[2023-01-15 00:05:58] Device: name='VPN_SmartCard'
+[2023-01-15 00:05:58] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:06:08] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:06:08] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:06:08] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:06:08] Device: name='Loopback'
+[2023-01-15 00:06:08] Device: name='Ethernet'
+[2023-01-15 00:06:08] Device: name='VPN_SmartCard'
+[2023-01-15 00:06:08] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:06:18] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:06:18] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:06:18] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:06:18] Device: name='Loopback'
+[2023-01-15 00:06:18] Device: name='Ethernet'
+[2023-01-15 00:06:18] Device: name='VPN_SmartCard'
+[2023-01-15 00:06:18] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:06:28] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:06:28] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:06:28] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:06:28] Device: name='Loopback'
+[2023-01-15 00:06:28] Device: name='Ethernet'
+[2023-01-15 00:06:28] Device: name='VPN_SmartCard'
+[2023-01-15 00:06:28] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:06:38] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:06:38] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:06:38] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:06:38] Device: name='Loopback'
+[2023-01-15 00:06:38] Device: name='Ethernet'
+[2023-01-15 00:06:38] Device: name='VPN_SmartCard'
+[2023-01-15 00:06:38] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:06:48] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:06:48] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:06:48] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:06:48] Device: name='Loopback'
+[2023-01-15 00:06:48] Device: name='Ethernet'
+[2023-01-15 00:06:48] Device: name='VPN_SmartCard'
+[2023-01-15 00:06:48] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:06:58] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:06:58] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:06:58] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:06:58] Device: name='Loopback'
+[2023-01-15 00:06:58] Device: name='Ethernet'
+[2023-01-15 00:06:58] Device: name='VPN_SmartCard'
+[2023-01-15 00:06:58] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:07:08] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:07:08] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:07:09] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:07:09] Device: name='Loopback'
+[2023-01-15 00:07:09] Device: name='Ethernet'
+[2023-01-15 00:07:09] Device: name='VPN_SmartCard'
+[2023-01-15 00:07:09] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:07:19] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:07:19] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:07:19] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:07:19] Device: name='Loopback'
+[2023-01-15 00:07:19] Device: name='Ethernet'
+[2023-01-15 00:07:19] Device: name='VPN_SmartCard'
+[2023-01-15 00:07:19] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:07:29] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:07:29] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:07:29] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:07:29] Device: name='Loopback'
+[2023-01-15 00:07:29] Device: name='Ethernet'
+[2023-01-15 00:07:29] Device: name='VPN_SmartCard'
+[2023-01-15 00:07:29] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:07:39] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:07:39] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:07:39] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:07:39] Device: name='Loopback'
+[2023-01-15 00:07:39] Device: name='Ethernet'
+[2023-01-15 00:07:39] Device: name='VPN_SmartCard'
+[2023-01-15 00:07:39] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:07:49] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:07:49] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:07:49] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:07:49] Device: name='Loopback'
+[2023-01-15 00:07:49] Device: name='Ethernet'
+[2023-01-15 00:07:49] Device: name='VPN_SmartCard'
+[2023-01-15 00:07:49] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:07:59] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:07:59] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:07:59] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:07:59] Device: name='Loopback'
+[2023-01-15 00:07:59] Device: name='Ethernet'
+[2023-01-15 00:07:59] Device: name='VPN_SmartCard'
+[2023-01-15 00:07:59] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:08:09] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:08:09] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:08:09] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:08:09] Device: name='Loopback'
+[2023-01-15 00:08:09] Device: name='Ethernet'
+[2023-01-15 00:08:09] Device: name='VPN_SmartCard'
+[2023-01-15 00:08:09] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:08:19] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:08:19] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:08:19] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:08:19] Device: name='Loopback'
+[2023-01-15 00:08:19] Device: name='Ethernet'
+[2023-01-15 00:08:19] Device: name='VPN_SmartCard'
+[2023-01-15 00:08:19] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:08:29] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:08:29] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:08:29] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:08:29] Device: name='Loopback'
+[2023-01-15 00:08:29] Device: name='Ethernet'
+[2023-01-15 00:08:29] Device: name='VPN_SmartCard'
+[2023-01-15 00:08:29] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:08:39] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:08:39] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:08:39] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:08:39] Device: name='Loopback'
+[2023-01-15 00:08:39] Device: name='Ethernet'
+[2023-01-15 00:08:39] Device: name='VPN_SmartCard'
+[2023-01-15 00:08:39] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:08:49] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:08:49] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:08:49] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:08:49] Device: name='Loopback'
+[2023-01-15 00:08:49] Device: name='Ethernet'
+[2023-01-15 00:08:49] Device: name='VPN_SmartCard'
+[2023-01-15 00:08:49] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:08:59] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:08:59] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:08:59] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:08:59] Device: name='Loopback'
+[2023-01-15 00:08:59] Device: name='Ethernet'
+[2023-01-15 00:08:59] Device: name='VPN_SmartCard'
+[2023-01-15 00:08:59] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:09:09] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:09:09] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:09:09] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:09:09] Device: name='Loopback'
+[2023-01-15 00:09:09] Device: name='Ethernet'
+[2023-01-15 00:09:09] Device: name='VPN_SmartCard'
+[2023-01-15 00:09:09] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:09:19] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:09:19] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:09:19] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:09:19] Device: name='Loopback'
+[2023-01-15 00:09:19] Device: name='Ethernet'
+[2023-01-15 00:09:19] Device: name='VPN_SmartCard'
+[2023-01-15 00:09:19] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:09:29] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:09:29] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:09:29] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:09:29] Device: name='Loopback'
+[2023-01-15 00:09:29] Device: name='Ethernet'
+[2023-01-15 00:09:29] Device: name='VPN_SmartCard'
+[2023-01-15 00:09:29] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:09:39] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:09:39] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:09:39] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:09:39] Device: name='Loopback'
+[2023-01-15 00:09:39] Device: name='Ethernet'
+[2023-01-15 00:09:39] Device: name='VPN_SmartCard'
+[2023-01-15 00:09:39] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:09:49] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:09:49] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:09:49] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:09:49] Device: name='Loopback'
+[2023-01-15 00:09:49] Device: name='Ethernet'
+[2023-01-15 00:09:49] Device: name='VPN_SmartCard'
+[2023-01-15 00:09:49] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:09:59] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:09:59] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:09:59] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:09:59] Device: name='Loopback'
+[2023-01-15 00:09:59] Device: name='Ethernet'
+[2023-01-15 00:09:59] Device: name='VPN_SmartCard'
+[2023-01-15 00:09:59] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:10:09] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:10:09] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:10:09] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:10:09] Device: name='Loopback'
+[2023-01-15 00:10:09] Device: name='Ethernet'
+[2023-01-15 00:10:09] Device: name='VPN_SmartCard'
+[2023-01-15 00:10:09] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:10:19] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:10:19] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:10:19] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:10:19] Device: name='Loopback'
+[2023-01-15 00:10:19] Device: name='Ethernet'
+[2023-01-15 00:10:19] Device: name='VPN_SmartCard'
+[2023-01-15 00:10:19] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:10:29] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:10:29] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:10:29] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:10:29] Device: name='Loopback'
+[2023-01-15 00:10:29] Device: name='Ethernet'
+[2023-01-15 00:10:29] Device: name='VPN_SmartCard'
+[2023-01-15 00:10:29] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:10:39] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:10:39] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:10:39] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:10:39] Device: name='Loopback'
+[2023-01-15 00:10:39] Device: name='Ethernet'
+[2023-01-15 00:10:39] Device: name='VPN_SmartCard'
+[2023-01-15 00:10:39] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:10:49] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:10:49] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:10:49] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:10:49] Device: name='Loopback'
+[2023-01-15 00:10:49] Device: name='Ethernet'
+[2023-01-15 00:10:49] Device: name='VPN_SmartCard'
+[2023-01-15 00:10:49] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:10:59] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:10:59] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:10:59] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:10:59] Device: name='Loopback'
+[2023-01-15 00:10:59] Device: name='Ethernet'
+[2023-01-15 00:10:59] Device: name='VPN_SmartCard'
+[2023-01-15 00:10:59] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:11:09] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:11:09] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:11:09] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:11:09] Device: name='Loopback'
+[2023-01-15 00:11:09] Device: name='Ethernet'
+[2023-01-15 00:11:09] Device: name='VPN_SmartCard'
+[2023-01-15 00:11:09] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:11:19] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:11:19] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:11:19] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:11:19] Device: name='Loopback'
+[2023-01-15 00:11:19] Device: name='Ethernet'
+[2023-01-15 00:11:19] Device: name='VPN_SmartCard'
+[2023-01-15 00:11:19] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:11:29] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:11:29] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:11:29] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:11:29] Device: name='Loopback'
+[2023-01-15 00:11:29] Device: name='Ethernet'
+[2023-01-15 00:11:29] Device: name='VPN_SmartCard'
+[2023-01-15 00:11:29] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:11:39] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:11:39] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:11:39] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:11:39] Device: name='Loopback'
+[2023-01-15 00:11:39] Device: name='Ethernet'
+[2023-01-15 00:11:39] Device: name='VPN_SmartCard'
+[2023-01-15 00:11:39] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:11:49] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:11:49] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:11:50] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:11:50] Device: name='Loopback'
+[2023-01-15 00:11:50] Device: name='Ethernet'
+[2023-01-15 00:11:50] Device: name='VPN_SmartCard'
+[2023-01-15 00:11:50] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:12:00] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:12:00] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:12:00] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:12:00] Device: name='Loopback'
+[2023-01-15 00:12:00] Device: name='Ethernet'
+[2023-01-15 00:12:00] Device: name='VPN_SmartCard'
+[2023-01-15 00:12:00] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:12:10] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:12:10] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:12:10] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:12:10] Device: name='Loopback'
+[2023-01-15 00:12:10] Device: name='Ethernet'
+[2023-01-15 00:12:10] Device: name='VPN_SmartCard'
+[2023-01-15 00:12:10] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:12:20] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:12:20] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:12:20] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:12:20] Device: name='Loopback'
+[2023-01-15 00:12:20] Device: name='Ethernet'
+[2023-01-15 00:12:20] Device: name='VPN_SmartCard'
+[2023-01-15 00:12:20] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:12:30] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:12:30] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:12:30] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:12:30] Device: name='Loopback'
+[2023-01-15 00:12:30] Device: name='Ethernet'
+[2023-01-15 00:12:30] Device: name='VPN_SmartCard'
+[2023-01-15 00:12:30] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:12:40] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:12:40] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:12:40] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:12:40] Device: name='Loopback'
+[2023-01-15 00:12:40] Device: name='Ethernet'
+[2023-01-15 00:12:40] Device: name='VPN_SmartCard'
+[2023-01-15 00:12:40] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:12:50] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:12:50] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:12:50] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:12:50] Device: name='Loopback'
+[2023-01-15 00:12:50] Device: name='Ethernet'
+[2023-01-15 00:12:50] Device: name='VPN_SmartCard'
+[2023-01-15 00:12:50] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:13:00] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:13:00] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:13:00] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:13:00] Device: name='Loopback'
+[2023-01-15 00:13:00] Device: name='Ethernet'
+[2023-01-15 00:13:00] Device: name='VPN_SmartCard'
+[2023-01-15 00:13:00] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:13:10] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:13:10] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:13:10] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:13:10] Device: name='Loopback'
+[2023-01-15 00:13:10] Device: name='Ethernet'
+[2023-01-15 00:13:10] Device: name='VPN_SmartCard'
+[2023-01-15 00:13:10] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:13:20] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:13:20] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:13:20] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:13:20] Device: name='Loopback'
+[2023-01-15 00:13:20] Device: name='Ethernet'
+[2023-01-15 00:13:20] Device: name='VPN_SmartCard'
+[2023-01-15 00:13:20] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:13:30] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:13:30] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:13:30] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:13:30] Device: name='Loopback'
+[2023-01-15 00:13:30] Device: name='Ethernet'
+[2023-01-15 00:13:30] Device: name='VPN_SmartCard'
+[2023-01-15 00:13:30] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:13:40] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:13:40] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:13:40] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:13:40] Device: name='Loopback'
+[2023-01-15 00:13:40] Device: name='Ethernet'
+[2023-01-15 00:13:40] Device: name='VPN_SmartCard'
+[2023-01-15 00:13:40] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:13:50] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:13:50] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:13:50] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:13:50] Device: name='Loopback'
+[2023-01-15 00:13:50] Device: name='Ethernet'
+[2023-01-15 00:13:50] Device: name='VPN_SmartCard'
+[2023-01-15 00:13:50] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:14:00] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:14:00] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:14:01] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:14:01] Device: name='Loopback'
+[2023-01-15 00:14:01] Device: name='Ethernet'
+[2023-01-15 00:14:01] Device: name='VPN_SmartCard'
+[2023-01-15 00:14:01] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:14:10] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:14:10] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:14:11] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:14:11] Device: name='Loopback'
+[2023-01-15 00:14:11] Device: name='Ethernet'
+[2023-01-15 00:14:11] Device: name='VPN_SmartCard'
+[2023-01-15 00:14:11] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:14:20] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:14:20] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:14:21] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:14:21] Device: name='Loopback'
+[2023-01-15 00:14:21] Device: name='Ethernet'
+[2023-01-15 00:14:21] Device: name='VPN_SmartCard'
+[2023-01-15 00:14:21] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:14:31] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:14:31] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:14:31] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:14:31] Device: name='Loopback'
+[2023-01-15 00:14:31] Device: name='Ethernet'
+[2023-01-15 00:14:31] Device: name='VPN_SmartCard'
+[2023-01-15 00:14:31] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:14:41] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:14:41] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:14:41] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:14:41] Device: name='Loopback'
+[2023-01-15 00:14:41] Device: name='Ethernet'
+[2023-01-15 00:14:41] Device: name='VPN_SmartCard'
+[2023-01-15 00:14:41] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:14:51] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:14:51] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:14:51] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:14:51] Device: name='Loopback'
+[2023-01-15 00:14:51] Device: name='Ethernet'
+[2023-01-15 00:14:51] Device: name='VPN_SmartCard'
+[2023-01-15 00:14:51] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:15:01] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:15:01] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:15:01] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:15:01] Device: name='Loopback'
+[2023-01-15 00:15:01] Device: name='Ethernet'
+[2023-01-15 00:15:01] Device: name='VPN_SmartCard'
+[2023-01-15 00:15:01] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:15:11] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:15:11] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:15:11] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:15:11] Device: name='Loopback'
+[2023-01-15 00:15:11] Device: name='Ethernet'
+[2023-01-15 00:15:11] Device: name='VPN_SmartCard'
+[2023-01-15 00:15:11] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:15:21] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:15:21] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:15:21] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:15:21] Device: name='Loopback'
+[2023-01-15 00:15:21] Device: name='Ethernet'
+[2023-01-15 00:15:21] Device: name='VPN_SmartCard'
+[2023-01-15 00:15:21] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:15:31] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:15:31] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:15:31] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:15:31] Device: name='Loopback'
+[2023-01-15 00:15:31] Device: name='Ethernet'
+[2023-01-15 00:15:31] Device: name='VPN_SmartCard'
+[2023-01-15 00:15:31] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:15:41] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:15:41] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:15:41] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:15:41] Device: name='Loopback'
+[2023-01-15 00:15:41] Device: name='Ethernet'
+[2023-01-15 00:15:41] Device: name='VPN_SmartCard'
+[2023-01-15 00:15:41] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:15:51] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:15:51] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:15:51] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:15:51] Device: name='Loopback'
+[2023-01-15 00:15:51] Device: name='Ethernet'
+[2023-01-15 00:15:51] Device: name='VPN_SmartCard'
+[2023-01-15 00:15:51] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:16:01] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:16:01] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:16:01] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:16:01] Device: name='Loopback'
+[2023-01-15 00:16:01] Device: name='Ethernet'
+[2023-01-15 00:16:01] Device: name='VPN_SmartCard'
+[2023-01-15 00:16:01] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:16:11] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:16:11] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:16:11] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:16:11] Device: name='Loopback'
+[2023-01-15 00:16:11] Device: name='Ethernet'
+[2023-01-15 00:16:11] Device: name='VPN_SmartCard'
+[2023-01-15 00:16:11] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:16:21] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:16:21] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:16:21] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:16:21] Device: name='Loopback'
+[2023-01-15 00:16:21] Device: name='Ethernet'
+[2023-01-15 00:16:21] Device: name='VPN_SmartCard'
+[2023-01-15 00:16:21] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:16:31] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:16:31] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:16:31] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:16:31] Device: name='Loopback'
+[2023-01-15 00:16:31] Device: name='Ethernet'
+[2023-01-15 00:16:31] Device: name='VPN_SmartCard'
+[2023-01-15 00:16:31] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:16:41] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:16:41] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:16:41] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:16:41] Device: name='Loopback'
+[2023-01-15 00:16:41] Device: name='Ethernet'
+[2023-01-15 00:16:41] Device: name='VPN_SmartCard'
+[2023-01-15 00:16:41] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:16:51] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:16:51] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:16:51] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:16:51] Device: name='Loopback'
+[2023-01-15 00:16:51] Device: name='Ethernet'
+[2023-01-15 00:16:51] Device: name='VPN_SmartCard'
+[2023-01-15 00:16:51] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:17:01] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:17:01] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:17:01] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:17:01] Device: name='Loopback'
+[2023-01-15 00:17:01] Device: name='Ethernet'
+[2023-01-15 00:17:01] Device: name='VPN_SmartCard'
+[2023-01-15 00:17:01] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:17:11] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:17:11] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:17:11] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:17:11] Device: name='Loopback'
+[2023-01-15 00:17:11] Device: name='Ethernet'
+[2023-01-15 00:17:11] Device: name='VPN_SmartCard'
+[2023-01-15 00:17:11] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:17:21] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:17:21] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:17:21] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:17:21] Device: name='Loopback'
+[2023-01-15 00:17:21] Device: name='Ethernet'
+[2023-01-15 00:17:21] Device: name='VPN_SmartCard'
+[2023-01-15 00:17:21] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:17:31] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:17:31] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:17:31] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:17:31] Device: name='Loopback'
+[2023-01-15 00:17:31] Device: name='Ethernet'
+[2023-01-15 00:17:31] Device: name='VPN_SmartCard'
+[2023-01-15 00:17:31] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:17:41] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:17:41] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:17:42] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:17:42] Device: name='Loopback'
+[2023-01-15 00:17:42] Device: name='Ethernet'
+[2023-01-15 00:17:42] Device: name='VPN_SmartCard'
+[2023-01-15 00:17:42] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:17:51] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:17:51] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:17:52] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:17:52] Device: name='Loopback'
+[2023-01-15 00:17:52] Device: name='Ethernet'
+[2023-01-15 00:17:52] Device: name='VPN_SmartCard'
+[2023-01-15 00:17:52] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:18:01] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:18:01] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:18:02] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:18:02] Device: name='Loopback'
+[2023-01-15 00:18:02] Device: name='Ethernet'
+[2023-01-15 00:18:02] Device: name='VPN_SmartCard'
+[2023-01-15 00:18:02] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:18:12] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:18:12] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:18:12] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:18:12] Device: name='Loopback'
+[2023-01-15 00:18:12] Device: name='Ethernet'
+[2023-01-15 00:18:12] Device: name='VPN_SmartCard'
+[2023-01-15 00:18:12] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:18:22] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:18:22] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:18:22] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:18:22] Device: name='Loopback'
+[2023-01-15 00:18:22] Device: name='Ethernet'
+[2023-01-15 00:18:22] Device: name='VPN_SmartCard'
+[2023-01-15 00:18:22] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:18:32] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:18:32] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:18:32] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:18:32] Device: name='Loopback'
+[2023-01-15 00:18:32] Device: name='Ethernet'
+[2023-01-15 00:18:32] Device: name='VPN_SmartCard'
+[2023-01-15 00:18:32] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:18:42] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:18:42] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:18:42] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:18:42] Device: name='Loopback'
+[2023-01-15 00:18:42] Device: name='Ethernet'
+[2023-01-15 00:18:42] Device: name='VPN_SmartCard'
+[2023-01-15 00:18:42] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:18:52] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:18:52] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:18:52] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:18:52] Device: name='Loopback'
+[2023-01-15 00:18:52] Device: name='Ethernet'
+[2023-01-15 00:18:52] Device: name='VPN_SmartCard'
+[2023-01-15 00:18:52] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:19:02] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:19:02] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:19:02] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:19:02] Device: name='Loopback'
+[2023-01-15 00:19:02] Device: name='Ethernet'
+[2023-01-15 00:19:02] Device: name='VPN_SmartCard'
+[2023-01-15 00:19:02] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:19:12] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:19:12] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:19:12] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:19:12] Device: name='Loopback'
+[2023-01-15 00:19:12] Device: name='Ethernet'
+[2023-01-15 00:19:12] Device: name='VPN_SmartCard'
+[2023-01-15 00:19:12] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:19:22] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:19:22] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:19:22] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:19:22] Device: name='Loopback'
+[2023-01-15 00:19:22] Device: name='Ethernet'
+[2023-01-15 00:19:22] Device: name='VPN_SmartCard'
+[2023-01-15 00:19:22] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:19:32] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:19:32] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:19:32] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:19:32] Device: name='Loopback'
+[2023-01-15 00:19:32] Device: name='Ethernet'
+[2023-01-15 00:19:32] Device: name='VPN_SmartCard'
+[2023-01-15 00:19:32] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:19:42] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:19:42] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:19:42] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:19:42] Device: name='Loopback'
+[2023-01-15 00:19:42] Device: name='Ethernet'
+[2023-01-15 00:19:42] Device: name='VPN_SmartCard'
+[2023-01-15 00:19:42] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:19:52] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:19:52] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:19:52] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:19:52] Device: name='Loopback'
+[2023-01-15 00:19:52] Device: name='Ethernet'
+[2023-01-15 00:19:52] Device: name='VPN_SmartCard'
+[2023-01-15 00:19:52] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:20:02] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:20:02] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:20:02] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:20:02] Device: name='Loopback'
+[2023-01-15 00:20:02] Device: name='Ethernet'
+[2023-01-15 00:20:02] Device: name='VPN_SmartCard'
+[2023-01-15 00:20:02] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:20:12] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:20:12] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:20:12] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:20:12] Device: name='Loopback'
+[2023-01-15 00:20:12] Device: name='Ethernet'
+[2023-01-15 00:20:12] Device: name='VPN_SmartCard'
+[2023-01-15 00:20:12] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:20:22] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:20:22] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:20:22] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:20:22] Device: name='Loopback'
+[2023-01-15 00:20:22] Device: name='Ethernet'
+[2023-01-15 00:20:22] Device: name='VPN_SmartCard'
+[2023-01-15 00:20:22] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:20:32] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:20:32] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:20:33] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:20:33] Device: name='Loopback'
+[2023-01-15 00:20:33] Device: name='Ethernet'
+[2023-01-15 00:20:33] Device: name='VPN_SmartCard'
+[2023-01-15 00:20:33] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:20:42] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:20:42] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:20:43] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:20:43] Device: name='Loopback'
+[2023-01-15 00:20:43] Device: name='Ethernet'
+[2023-01-15 00:20:43] Device: name='VPN_SmartCard'
+[2023-01-15 00:20:43] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:20:52] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:20:52] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:20:53] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:20:53] Device: name='Loopback'
+[2023-01-15 00:20:53] Device: name='Ethernet'
+[2023-01-15 00:20:53] Device: name='VPN_SmartCard'
+[2023-01-15 00:20:53] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:21:02] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:21:02] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:21:03] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:21:03] Device: name='Loopback'
+[2023-01-15 00:21:03] Device: name='Ethernet'
+[2023-01-15 00:21:03] Device: name='VPN_SmartCard'
+[2023-01-15 00:21:03] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:21:13] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:21:13] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:21:13] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:21:13] Device: name='Loopback'
+[2023-01-15 00:21:13] Device: name='Ethernet'
+[2023-01-15 00:21:13] Device: name='VPN_SmartCard'
+[2023-01-15 00:21:13] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:21:23] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:21:23] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:21:23] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:21:23] Device: name='Loopback'
+[2023-01-15 00:21:23] Device: name='Ethernet'
+[2023-01-15 00:21:23] Device: name='VPN_SmartCard'
+[2023-01-15 00:21:23] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:21:33] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:21:33] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:21:33] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:21:33] Device: name='Loopback'
+[2023-01-15 00:21:33] Device: name='Ethernet'
+[2023-01-15 00:21:33] Device: name='VPN_SmartCard'
+[2023-01-15 00:21:33] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:21:43] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:21:43] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:21:43] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:21:43] Device: name='Loopback'
+[2023-01-15 00:21:43] Device: name='Ethernet'
+[2023-01-15 00:21:43] Device: name='VPN_SmartCard'
+[2023-01-15 00:21:43] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:21:53] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:21:53] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:21:53] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:21:53] Device: name='Loopback'
+[2023-01-15 00:21:53] Device: name='Ethernet'
+[2023-01-15 00:21:53] Device: name='VPN_SmartCard'
+[2023-01-15 00:21:53] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:22:03] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:22:03] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:22:03] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:22:03] Device: name='Loopback'
+[2023-01-15 00:22:03] Device: name='Ethernet'
+[2023-01-15 00:22:03] Device: name='VPN_SmartCard'
+[2023-01-15 00:22:03] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:22:13] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:22:13] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:22:13] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:22:13] Device: name='Loopback'
+[2023-01-15 00:22:13] Device: name='Ethernet'
+[2023-01-15 00:22:13] Device: name='VPN_SmartCard'
+[2023-01-15 00:22:13] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:22:23] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:22:23] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:22:23] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:22:23] Device: name='Loopback'
+[2023-01-15 00:22:23] Device: name='Ethernet'
+[2023-01-15 00:22:23] Device: name='VPN_SmartCard'
+[2023-01-15 00:22:23] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:22:33] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:22:33] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:22:33] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:22:33] Device: name='Loopback'
+[2023-01-15 00:22:33] Device: name='Ethernet'
+[2023-01-15 00:22:33] Device: name='VPN_SmartCard'
+[2023-01-15 00:22:33] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:22:43] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:22:43] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:22:43] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:22:43] Device: name='Loopback'
+[2023-01-15 00:22:43] Device: name='Ethernet'
+[2023-01-15 00:22:43] Device: name='VPN_SmartCard'
+[2023-01-15 00:22:43] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:22:53] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:22:53] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:22:53] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:22:53] Device: name='Loopback'
+[2023-01-15 00:22:53] Device: name='Ethernet'
+[2023-01-15 00:22:53] Device: name='VPN_SmartCard'
+[2023-01-15 00:22:53] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:23:03] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:23:03] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:23:03] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:23:03] Device: name='Loopback'
+[2023-01-15 00:23:03] Device: name='Ethernet'
+[2023-01-15 00:23:03] Device: name='VPN_SmartCard'
+[2023-01-15 00:23:03] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:23:13] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:23:13] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:23:13] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:23:13] Device: name='Loopback'
+[2023-01-15 00:23:13] Device: name='Ethernet'
+[2023-01-15 00:23:13] Device: name='VPN_SmartCard'
+[2023-01-15 00:23:13] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:23:23] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:23:23] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:23:23] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:23:23] Device: name='Loopback'
+[2023-01-15 00:23:23] Device: name='Ethernet'
+[2023-01-15 00:23:23] Device: name='VPN_SmartCard'
+[2023-01-15 00:23:23] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:23:33] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:23:33] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:23:33] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:23:33] Device: name='Loopback'
+[2023-01-15 00:23:33] Device: name='Ethernet'
+[2023-01-15 00:23:33] Device: name='VPN_SmartCard'
+[2023-01-15 00:23:33] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:23:43] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:23:43] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:23:43] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:23:43] Device: name='Loopback'
+[2023-01-15 00:23:43] Device: name='Ethernet'
+[2023-01-15 00:23:43] Device: name='VPN_SmartCard'
+[2023-01-15 00:23:43] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:23:53] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:23:53] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:23:53] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:23:53] Device: name='Loopback'
+[2023-01-15 00:23:53] Device: name='Ethernet'
+[2023-01-15 00:23:53] Device: name='VPN_SmartCard'
+[2023-01-15 00:23:53] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:24:03] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:24:03] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:24:03] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:24:03] Device: name='Loopback'
+[2023-01-15 00:24:03] Device: name='Ethernet'
+[2023-01-15 00:24:03] Device: name='VPN_SmartCard'
+[2023-01-15 00:24:03] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:24:13] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:24:13] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:24:13] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:24:13] Device: name='Loopback'
+[2023-01-15 00:24:13] Device: name='Ethernet'
+[2023-01-15 00:24:13] Device: name='VPN_SmartCard'
+[2023-01-15 00:24:13] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:24:23] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:24:23] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:24:23] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:24:23] Device: name='Loopback'
+[2023-01-15 00:24:23] Device: name='Ethernet'
+[2023-01-15 00:24:23] Device: name='VPN_SmartCard'
+[2023-01-15 00:24:23] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:24:33] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:24:33] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:24:33] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:24:33] Device: name='Loopback'
+[2023-01-15 00:24:33] Device: name='Ethernet'
+[2023-01-15 00:24:33] Device: name='VPN_SmartCard'
+[2023-01-15 00:24:33] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:24:43] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:24:43] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:24:43] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:24:43] Device: name='Loopback'
+[2023-01-15 00:24:43] Device: name='Ethernet'
+[2023-01-15 00:24:43] Device: name='VPN_SmartCard'
+[2023-01-15 00:24:43] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:24:53] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:24:53] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:24:53] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:24:53] Device: name='Loopback'
+[2023-01-15 00:24:53] Device: name='Ethernet'
+[2023-01-15 00:24:53] Device: name='VPN_SmartCard'
+[2023-01-15 00:24:53] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:25:03] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:25:03] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:25:03] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:25:03] Device: name='Loopback'
+[2023-01-15 00:25:03] Device: name='Ethernet'
+[2023-01-15 00:25:03] Device: name='VPN_SmartCard'
+[2023-01-15 00:25:03] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:25:13] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:25:13] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:25:14] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:25:14] Device: name='Loopback'
+[2023-01-15 00:25:14] Device: name='Ethernet'
+[2023-01-15 00:25:14] Device: name='VPN_SmartCard'
+[2023-01-15 00:25:14] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:25:23] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:25:23] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:25:24] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:25:24] Device: name='Loopback'
+[2023-01-15 00:25:24] Device: name='Ethernet'
+[2023-01-15 00:25:24] Device: name='VPN_SmartCard'
+[2023-01-15 00:25:24] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:25:33] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:25:33] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:25:34] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:25:34] Device: name='Loopback'
+[2023-01-15 00:25:34] Device: name='Ethernet'
+[2023-01-15 00:25:34] Device: name='VPN_SmartCard'
+[2023-01-15 00:25:34] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:25:44] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:25:44] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:25:44] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:25:44] Device: name='Loopback'
+[2023-01-15 00:25:44] Device: name='Ethernet'
+[2023-01-15 00:25:44] Device: name='VPN_SmartCard'
+[2023-01-15 00:25:44] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:25:54] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:25:54] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:25:54] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:25:54] Device: name='Loopback'
+[2023-01-15 00:25:54] Device: name='Ethernet'
+[2023-01-15 00:25:54] Device: name='VPN_SmartCard'
+[2023-01-15 00:25:54] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:26:04] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:26:04] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:26:04] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:26:04] Device: name='Loopback'
+[2023-01-15 00:26:04] Device: name='Ethernet'
+[2023-01-15 00:26:04] Device: name='VPN_SmartCard'
+[2023-01-15 00:26:04] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:26:14] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:26:14] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:26:14] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:26:14] Device: name='Loopback'
+[2023-01-15 00:26:14] Device: name='Ethernet'
+[2023-01-15 00:26:14] Device: name='VPN_SmartCard'
+[2023-01-15 00:26:14] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:26:24] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:26:24] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:26:24] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:26:24] Device: name='Loopback'
+[2023-01-15 00:26:24] Device: name='Ethernet'
+[2023-01-15 00:26:24] Device: name='VPN_SmartCard'
+[2023-01-15 00:26:24] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:26:34] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:26:34] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:26:34] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:26:34] Device: name='Loopback'
+[2023-01-15 00:26:34] Device: name='Ethernet'
+[2023-01-15 00:26:34] Device: name='VPN_SmartCard'
+[2023-01-15 00:26:34] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:26:44] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:26:44] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:26:44] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:26:44] Device: name='Loopback'
+[2023-01-15 00:26:44] Device: name='Ethernet'
+[2023-01-15 00:26:44] Device: name='VPN_SmartCard'
+[2023-01-15 00:26:44] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:26:54] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:26:54] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:26:54] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:26:54] Device: name='Loopback'
+[2023-01-15 00:26:54] Device: name='Ethernet'
+[2023-01-15 00:26:54] Device: name='VPN_SmartCard'
+[2023-01-15 00:26:54] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:27:04] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:27:04] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:27:04] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:27:04] Device: name='Loopback'
+[2023-01-15 00:27:04] Device: name='Ethernet'
+[2023-01-15 00:27:04] Device: name='VPN_SmartCard'
+[2023-01-15 00:27:04] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:27:14] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:27:14] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:27:14] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:27:14] Device: name='Loopback'
+[2023-01-15 00:27:14] Device: name='Ethernet'
+[2023-01-15 00:27:14] Device: name='VPN_SmartCard'
+[2023-01-15 00:27:14] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:27:24] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:27:24] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:27:24] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:27:24] Device: name='Loopback'
+[2023-01-15 00:27:24] Device: name='Ethernet'
+[2023-01-15 00:27:24] Device: name='VPN_SmartCard'
+[2023-01-15 00:27:24] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:27:34] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:27:34] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:27:34] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:27:34] Device: name='Loopback'
+[2023-01-15 00:27:34] Device: name='Ethernet'
+[2023-01-15 00:27:34] Device: name='VPN_SmartCard'
+[2023-01-15 00:27:34] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:27:44] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:27:44] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:27:44] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:27:44] Device: name='Loopback'
+[2023-01-15 00:27:44] Device: name='Ethernet'
+[2023-01-15 00:27:44] Device: name='VPN_SmartCard'
+[2023-01-15 00:27:44] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:27:54] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:27:54] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:27:54] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:27:54] Device: name='Loopback'
+[2023-01-15 00:27:54] Device: name='Ethernet'
+[2023-01-15 00:27:54] Device: name='VPN_SmartCard'
+[2023-01-15 00:27:54] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:28:04] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:28:04] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:28:04] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:28:04] Device: name='Loopback'
+[2023-01-15 00:28:04] Device: name='Ethernet'
+[2023-01-15 00:28:04] Device: name='VPN_SmartCard'
+[2023-01-15 00:28:04] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:28:14] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:28:14] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:28:14] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:28:14] Device: name='Loopback'
+[2023-01-15 00:28:14] Device: name='Ethernet'
+[2023-01-15 00:28:14] Device: name='VPN_SmartCard'
+[2023-01-15 00:28:14] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:28:24] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:28:24] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:28:25] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:28:25] Device: name='Loopback'
+[2023-01-15 00:28:25] Device: name='Ethernet'
+[2023-01-15 00:28:25] Device: name='VPN_SmartCard'
+[2023-01-15 00:28:25] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:28:34] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:28:34] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:28:34] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:28:34] Device: name='Loopback'
+[2023-01-15 00:28:34] Device: name='Ethernet'
+[2023-01-15 00:28:34] Device: name='VPN_SmartCard'
+[2023-01-15 00:28:34] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:28:44] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:28:44] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:28:45] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:28:45] Device: name='Loopback'
+[2023-01-15 00:28:45] Device: name='Ethernet'
+[2023-01-15 00:28:45] Device: name='VPN_SmartCard'
+[2023-01-15 00:28:45] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:28:55] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:28:55] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:28:55] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:28:55] Device: name='Loopback'
+[2023-01-15 00:28:55] Device: name='Ethernet'
+[2023-01-15 00:28:55] Device: name='VPN_SmartCard'
+[2023-01-15 00:28:55] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:29:05] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:29:05] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:29:05] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:29:05] Device: name='Loopback'
+[2023-01-15 00:29:05] Device: name='Ethernet'
+[2023-01-15 00:29:05] Device: name='VPN_SmartCard'
+[2023-01-15 00:29:05] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:29:15] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:29:15] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:29:15] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:29:15] Device: name='Loopback'
+[2023-01-15 00:29:15] Device: name='Ethernet'
+[2023-01-15 00:29:15] Device: name='VPN_SmartCard'
+[2023-01-15 00:29:15] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:29:25] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:29:25] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:29:25] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:29:25] Device: name='Loopback'
+[2023-01-15 00:29:25] Device: name='Ethernet'
+[2023-01-15 00:29:25] Device: name='VPN_SmartCard'
+[2023-01-15 00:29:25] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:29:35] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:29:35] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:29:35] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:29:35] Device: name='Loopback'
+[2023-01-15 00:29:35] Device: name='Ethernet'
+[2023-01-15 00:29:35] Device: name='VPN_SmartCard'
+[2023-01-15 00:29:35] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:29:45] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:29:45] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:29:45] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:29:45] Device: name='Loopback'
+[2023-01-15 00:29:45] Device: name='Ethernet'
+[2023-01-15 00:29:45] Device: name='VPN_SmartCard'
+[2023-01-15 00:29:45] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:29:55] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:29:55] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:29:55] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:29:55] Device: name='Loopback'
+[2023-01-15 00:29:55] Device: name='Ethernet'
+[2023-01-15 00:29:55] Device: name='VPN_SmartCard'
+[2023-01-15 00:29:55] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:30:05] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:30:05] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:30:05] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:30:05] Device: name='Loopback'
+[2023-01-15 00:30:05] Device: name='Ethernet'
+[2023-01-15 00:30:05] Device: name='VPN_SmartCard'
+[2023-01-15 00:30:05] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:30:15] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:30:15] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:30:15] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:30:15] Device: name='Loopback'
+[2023-01-15 00:30:15] Device: name='Ethernet'
+[2023-01-15 00:30:15] Device: name='VPN_SmartCard'
+[2023-01-15 00:30:15] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:30:25] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:30:25] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:30:25] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:30:25] Device: name='Loopback'
+[2023-01-15 00:30:25] Device: name='Ethernet'
+[2023-01-15 00:30:25] Device: name='VPN_SmartCard'
+[2023-01-15 00:30:25] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:30:35] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:30:35] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:30:35] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:30:35] Device: name='Loopback'
+[2023-01-15 00:30:35] Device: name='Ethernet'
+[2023-01-15 00:30:35] Device: name='VPN_SmartCard'
+[2023-01-15 00:30:35] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:30:45] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:30:45] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:30:45] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:30:45] Device: name='Loopback'
+[2023-01-15 00:30:45] Device: name='Ethernet'
+[2023-01-15 00:30:45] Device: name='VPN_SmartCard'
+[2023-01-15 00:30:45] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:30:55] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:30:55] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:30:56] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:30:56] Device: name='Loopback'
+[2023-01-15 00:30:56] Device: name='Ethernet'
+[2023-01-15 00:30:56] Device: name='VPN_SmartCard'
+[2023-01-15 00:30:56] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:31:06] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:31:06] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:31:06] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:31:06] Device: name='Loopback'
+[2023-01-15 00:31:06] Device: name='Ethernet'
+[2023-01-15 00:31:06] Device: name='VPN_SmartCard'
+[2023-01-15 00:31:06] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:31:16] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:31:16] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:31:16] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:31:16] Device: name='Loopback'
+[2023-01-15 00:31:16] Device: name='Ethernet'
+[2023-01-15 00:31:16] Device: name='VPN_SmartCard'
+[2023-01-15 00:31:16] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:31:26] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:31:26] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:31:26] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:31:26] Device: name='Loopback'
+[2023-01-15 00:31:26] Device: name='Ethernet'
+[2023-01-15 00:31:26] Device: name='VPN_SmartCard'
+[2023-01-15 00:31:26] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:31:36] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:31:36] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:31:36] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:31:36] Device: name='Loopback'
+[2023-01-15 00:31:36] Device: name='Ethernet'
+[2023-01-15 00:31:36] Device: name='VPN_SmartCard'
+[2023-01-15 00:31:36] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:31:46] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:31:46] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:31:46] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:31:46] Device: name='Loopback'
+[2023-01-15 00:31:46] Device: name='Ethernet'
+[2023-01-15 00:31:46] Device: name='VPN_SmartCard'
+[2023-01-15 00:31:46] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:31:56] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:31:56] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:31:56] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:31:56] Device: name='Loopback'
+[2023-01-15 00:31:56] Device: name='Ethernet'
+[2023-01-15 00:31:56] Device: name='VPN_SmartCard'
+[2023-01-15 00:31:56] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:32:06] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:32:06] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:32:06] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:32:06] Device: name='Loopback'
+[2023-01-15 00:32:06] Device: name='Ethernet'
+[2023-01-15 00:32:06] Device: name='VPN_SmartCard'
+[2023-01-15 00:32:06] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:32:16] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:32:16] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:32:16] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:32:16] Device: name='Loopback'
+[2023-01-15 00:32:16] Device: name='Ethernet'
+[2023-01-15 00:32:16] Device: name='VPN_SmartCard'
+[2023-01-15 00:32:16] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:32:26] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:32:26] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:32:26] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:32:26] Device: name='Loopback'
+[2023-01-15 00:32:26] Device: name='Ethernet'
+[2023-01-15 00:32:26] Device: name='VPN_SmartCard'
+[2023-01-15 00:32:26] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:32:36] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:32:36] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:32:36] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:32:36] Device: name='Loopback'
+[2023-01-15 00:32:36] Device: name='Ethernet'
+[2023-01-15 00:32:36] Device: name='VPN_SmartCard'
+[2023-01-15 00:32:36] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:32:46] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:32:46] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:32:46] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:32:46] Device: name='Loopback'
+[2023-01-15 00:32:46] Device: name='Ethernet'
+[2023-01-15 00:32:46] Device: name='VPN_SmartCard'
+[2023-01-15 00:32:46] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:32:56] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:32:56] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:32:56] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:32:56] Device: name='Loopback'
+[2023-01-15 00:32:56] Device: name='Ethernet'
+[2023-01-15 00:32:56] Device: name='VPN_SmartCard'
+[2023-01-15 00:32:56] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:33:06] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:33:06] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:33:06] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:33:06] Device: name='Loopback'
+[2023-01-15 00:33:06] Device: name='Ethernet'
+[2023-01-15 00:33:06] Device: name='VPN_SmartCard'
+[2023-01-15 00:33:06] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:33:16] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:33:16] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:33:16] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:33:16] Device: name='Loopback'
+[2023-01-15 00:33:16] Device: name='Ethernet'
+[2023-01-15 00:33:16] Device: name='VPN_SmartCard'
+[2023-01-15 00:33:16] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:33:26] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:33:26] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:33:26] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:33:26] Device: name='Loopback'
+[2023-01-15 00:33:26] Device: name='Ethernet'
+[2023-01-15 00:33:26] Device: name='VPN_SmartCard'
+[2023-01-15 00:33:26] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:33:36] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:33:36] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:33:36] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:33:36] Device: name='Loopback'
+[2023-01-15 00:33:36] Device: name='Ethernet'
+[2023-01-15 00:33:36] Device: name='VPN_SmartCard'
+[2023-01-15 00:33:36] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:33:46] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:33:46] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:33:46] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:33:46] Device: name='Loopback'
+[2023-01-15 00:33:46] Device: name='Ethernet'
+[2023-01-15 00:33:46] Device: name='VPN_SmartCard'
+[2023-01-15 00:33:46] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:33:56] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:33:56] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:33:56] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:33:56] Device: name='Loopback'
+[2023-01-15 00:33:56] Device: name='Ethernet'
+[2023-01-15 00:33:56] Device: name='VPN_SmartCard'
+[2023-01-15 00:33:56] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:34:06] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:34:06] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:34:06] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:34:06] Device: name='Loopback'
+[2023-01-15 00:34:06] Device: name='Ethernet'
+[2023-01-15 00:34:06] Device: name='VPN_SmartCard'
+[2023-01-15 00:34:06] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:34:16] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:34:16] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:34:17] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:34:17] Device: name='Loopback'
+[2023-01-15 00:34:17] Device: name='Ethernet'
+[2023-01-15 00:34:17] Device: name='VPN_SmartCard'
+[2023-01-15 00:34:17] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:34:26] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:34:26] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:34:27] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:34:27] Device: name='Loopback'
+[2023-01-15 00:34:27] Device: name='Ethernet'
+[2023-01-15 00:34:27] Device: name='VPN_SmartCard'
+[2023-01-15 00:34:27] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:34:36] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:34:36] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:34:37] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:34:37] Device: name='Loopback'
+[2023-01-15 00:34:37] Device: name='Ethernet'
+[2023-01-15 00:34:37] Device: name='VPN_SmartCard'
+[2023-01-15 00:34:37] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:34:47] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:34:47] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:34:47] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:34:47] Device: name='Loopback'
+[2023-01-15 00:34:47] Device: name='Ethernet'
+[2023-01-15 00:34:47] Device: name='VPN_SmartCard'
+[2023-01-15 00:34:47] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:34:57] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:34:57] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:34:57] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:34:57] Device: name='Loopback'
+[2023-01-15 00:34:57] Device: name='Ethernet'
+[2023-01-15 00:34:57] Device: name='VPN_SmartCard'
+[2023-01-15 00:34:57] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:35:07] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:35:07] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:35:07] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:35:07] Device: name='Loopback'
+[2023-01-15 00:35:07] Device: name='Ethernet'
+[2023-01-15 00:35:07] Device: name='VPN_SmartCard'
+[2023-01-15 00:35:07] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:35:17] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:35:17] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:35:17] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:35:17] Device: name='Loopback'
+[2023-01-15 00:35:17] Device: name='Ethernet'
+[2023-01-15 00:35:17] Device: name='VPN_SmartCard'
+[2023-01-15 00:35:17] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:35:27] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:35:27] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:35:27] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:35:27] Device: name='Loopback'
+[2023-01-15 00:35:27] Device: name='Ethernet'
+[2023-01-15 00:35:27] Device: name='VPN_SmartCard'
+[2023-01-15 00:35:27] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:35:37] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:35:37] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:35:37] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:35:37] Device: name='Loopback'
+[2023-01-15 00:35:37] Device: name='Ethernet'
+[2023-01-15 00:35:37] Device: name='VPN_SmartCard'
+[2023-01-15 00:35:37] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:35:47] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:35:47] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:35:47] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:35:47] Device: name='Loopback'
+[2023-01-15 00:35:47] Device: name='Ethernet'
+[2023-01-15 00:35:47] Device: name='VPN_SmartCard'
+[2023-01-15 00:35:47] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:35:57] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:35:57] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:35:57] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:35:57] Device: name='Loopback'
+[2023-01-15 00:35:57] Device: name='Ethernet'
+[2023-01-15 00:35:57] Device: name='VPN_SmartCard'
+[2023-01-15 00:35:57] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:36:07] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:36:07] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:36:07] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:36:07] Device: name='Loopback'
+[2023-01-15 00:36:07] Device: name='Ethernet'
+[2023-01-15 00:36:07] Device: name='VPN_SmartCard'
+[2023-01-15 00:36:07] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:36:17] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:36:17] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:36:17] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:36:17] Device: name='Loopback'
+[2023-01-15 00:36:17] Device: name='Ethernet'
+[2023-01-15 00:36:17] Device: name='VPN_SmartCard'
+[2023-01-15 00:36:17] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:36:27] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:36:27] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:36:27] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:36:27] Device: name='Loopback'
+[2023-01-15 00:36:27] Device: name='Ethernet'
+[2023-01-15 00:36:27] Device: name='VPN_SmartCard'
+[2023-01-15 00:36:27] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:36:37] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:36:37] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:36:37] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:36:37] Device: name='Loopback'
+[2023-01-15 00:36:37] Device: name='Ethernet'
+[2023-01-15 00:36:37] Device: name='VPN_SmartCard'
+[2023-01-15 00:36:37] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:36:47] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:36:47] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:36:47] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:36:47] Device: name='Loopback'
+[2023-01-15 00:36:47] Device: name='Ethernet'
+[2023-01-15 00:36:47] Device: name='VPN_SmartCard'
+[2023-01-15 00:36:47] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:36:57] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:36:57] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:36:57] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:36:57] Device: name='Loopback'
+[2023-01-15 00:36:57] Device: name='Ethernet'
+[2023-01-15 00:36:57] Device: name='VPN_SmartCard'
+[2023-01-15 00:36:57] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:37:07] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:37:07] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:37:07] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:37:07] Device: name='Loopback'
+[2023-01-15 00:37:07] Device: name='Ethernet'
+[2023-01-15 00:37:07] Device: name='VPN_SmartCard'
+[2023-01-15 00:37:07] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:37:17] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:37:17] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:37:17] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:37:17] Device: name='Loopback'
+[2023-01-15 00:37:17] Device: name='Ethernet'
+[2023-01-15 00:37:17] Device: name='VPN_SmartCard'
+[2023-01-15 00:37:17] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:37:27] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:37:27] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:37:28] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:37:28] Device: name='Loopback'
+[2023-01-15 00:37:28] Device: name='Ethernet'
+[2023-01-15 00:37:28] Device: name='VPN_SmartCard'
+[2023-01-15 00:37:28] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:37:37] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:37:37] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:37:38] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:37:38] Device: name='Loopback'
+[2023-01-15 00:37:38] Device: name='Ethernet'
+[2023-01-15 00:37:38] Device: name='VPN_SmartCard'
+[2023-01-15 00:37:38] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:37:48] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:37:48] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:37:48] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:37:48] Device: name='Loopback'
+[2023-01-15 00:37:48] Device: name='Ethernet'
+[2023-01-15 00:37:48] Device: name='VPN_SmartCard'
+[2023-01-15 00:37:48] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:37:58] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:37:58] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:37:58] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:37:58] Device: name='Loopback'
+[2023-01-15 00:37:58] Device: name='Ethernet'
+[2023-01-15 00:37:58] Device: name='VPN_SmartCard'
+[2023-01-15 00:37:58] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:38:08] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:38:08] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:38:08] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:38:08] Device: name='Loopback'
+[2023-01-15 00:38:08] Device: name='Ethernet'
+[2023-01-15 00:38:08] Device: name='VPN_SmartCard'
+[2023-01-15 00:38:08] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:38:18] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:38:18] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:38:18] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:38:18] Device: name='Loopback'
+[2023-01-15 00:38:18] Device: name='Ethernet'
+[2023-01-15 00:38:18] Device: name='VPN_SmartCard'
+[2023-01-15 00:38:18] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:38:28] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:38:28] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:38:28] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:38:28] Device: name='Loopback'
+[2023-01-15 00:38:28] Device: name='Ethernet'
+[2023-01-15 00:38:28] Device: name='VPN_SmartCard'
+[2023-01-15 00:38:28] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:38:38] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:38:38] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:38:38] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:38:38] Device: name='Loopback'
+[2023-01-15 00:38:38] Device: name='Ethernet'
+[2023-01-15 00:38:38] Device: name='VPN_SmartCard'
+[2023-01-15 00:38:38] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:38:48] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:38:48] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:38:48] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:38:48] Device: name='Loopback'
+[2023-01-15 00:38:48] Device: name='Ethernet'
+[2023-01-15 00:38:48] Device: name='VPN_SmartCard'
+[2023-01-15 00:38:48] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:38:58] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:38:58] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:38:58] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:38:58] Device: name='Loopback'
+[2023-01-15 00:38:58] Device: name='Ethernet'
+[2023-01-15 00:38:58] Device: name='VPN_SmartCard'
+[2023-01-15 00:38:58] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:39:08] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:39:08] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:39:08] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:39:08] Device: name='Loopback'
+[2023-01-15 00:39:08] Device: name='Ethernet'
+[2023-01-15 00:39:08] Device: name='VPN_SmartCard'
+[2023-01-15 00:39:08] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:39:18] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:39:18] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:39:18] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:39:18] Device: name='Loopback'
+[2023-01-15 00:39:18] Device: name='Ethernet'
+[2023-01-15 00:39:18] Device: name='VPN_SmartCard'
+[2023-01-15 00:39:18] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:39:28] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:39:28] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:39:28] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:39:28] Device: name='Loopback'
+[2023-01-15 00:39:28] Device: name='Ethernet'
+[2023-01-15 00:39:28] Device: name='VPN_SmartCard'
+[2023-01-15 00:39:28] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:39:38] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:39:38] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:39:38] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:39:38] Device: name='Loopback'
+[2023-01-15 00:39:38] Device: name='Ethernet'
+[2023-01-15 00:39:38] Device: name='VPN_SmartCard'
+[2023-01-15 00:39:38] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:39:48] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:39:48] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:39:48] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:39:48] Device: name='Loopback'
+[2023-01-15 00:39:48] Device: name='Ethernet'
+[2023-01-15 00:39:48] Device: name='VPN_SmartCard'
+[2023-01-15 00:39:48] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:39:58] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:39:58] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:39:58] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:39:58] Device: name='Loopback'
+[2023-01-15 00:39:58] Device: name='Ethernet'
+[2023-01-15 00:39:58] Device: name='VPN_SmartCard'
+[2023-01-15 00:39:58] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:40:08] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:40:08] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:40:08] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:40:08] Device: name='Loopback'
+[2023-01-15 00:40:08] Device: name='Ethernet'
+[2023-01-15 00:40:08] Device: name='VPN_SmartCard'
+[2023-01-15 00:40:08] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:40:18] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:40:18] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:40:18] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:40:18] Device: name='Loopback'
+[2023-01-15 00:40:18] Device: name='Ethernet'
+[2023-01-15 00:40:18] Device: name='VPN_SmartCard'
+[2023-01-15 00:40:18] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:40:28] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:40:28] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:40:28] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:40:28] Device: name='Loopback'
+[2023-01-15 00:40:28] Device: name='Ethernet'
+[2023-01-15 00:40:28] Device: name='VPN_SmartCard'
+[2023-01-15 00:40:28] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:40:38] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:40:38] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:40:38] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:40:38] Device: name='Loopback'
+[2023-01-15 00:40:38] Device: name='Ethernet'
+[2023-01-15 00:40:38] Device: name='VPN_SmartCard'
+[2023-01-15 00:40:38] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:40:48] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:40:48] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:40:48] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:40:48] Device: name='Loopback'
+[2023-01-15 00:40:48] Device: name='Ethernet'
+[2023-01-15 00:40:48] Device: name='VPN_SmartCard'
+[2023-01-15 00:40:48] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:40:58] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:40:58] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:40:59] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:40:59] Device: name='Loopback'
+[2023-01-15 00:40:59] Device: name='Ethernet'
+[2023-01-15 00:40:59] Device: name='VPN_SmartCard'
+[2023-01-15 00:40:59] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:41:09] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:41:09] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:41:09] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:41:09] Device: name='Loopback'
+[2023-01-15 00:41:09] Device: name='Ethernet'
+[2023-01-15 00:41:09] Device: name='VPN_SmartCard'
+[2023-01-15 00:41:09] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:41:19] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:41:19] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:41:19] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:41:19] Device: name='Loopback'
+[2023-01-15 00:41:19] Device: name='Ethernet'
+[2023-01-15 00:41:19] Device: name='VPN_SmartCard'
+[2023-01-15 00:41:19] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:41:29] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:41:29] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:41:29] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:41:29] Device: name='Loopback'
+[2023-01-15 00:41:29] Device: name='Ethernet'
+[2023-01-15 00:41:29] Device: name='VPN_SmartCard'
+[2023-01-15 00:41:29] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:41:39] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:41:39] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:41:39] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:41:39] Device: name='Loopback'
+[2023-01-15 00:41:39] Device: name='Ethernet'
+[2023-01-15 00:41:39] Device: name='VPN_SmartCard'
+[2023-01-15 00:41:39] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:41:49] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:41:49] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:41:49] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:41:49] Device: name='Loopback'
+[2023-01-15 00:41:49] Device: name='Ethernet'
+[2023-01-15 00:41:49] Device: name='VPN_SmartCard'
+[2023-01-15 00:41:49] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:41:59] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:41:59] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:41:59] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:41:59] Device: name='Loopback'
+[2023-01-15 00:41:59] Device: name='Ethernet'
+[2023-01-15 00:41:59] Device: name='VPN_SmartCard'
+[2023-01-15 00:41:59] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:42:09] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:42:09] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:42:09] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:42:09] Device: name='Loopback'
+[2023-01-15 00:42:09] Device: name='Ethernet'
+[2023-01-15 00:42:09] Device: name='VPN_SmartCard'
+[2023-01-15 00:42:09] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:42:19] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:42:19] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:42:19] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:42:19] Device: name='Loopback'
+[2023-01-15 00:42:19] Device: name='Ethernet'
+[2023-01-15 00:42:19] Device: name='VPN_SmartCard'
+[2023-01-15 00:42:19] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:42:29] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:42:29] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:42:29] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:42:29] Device: name='Loopback'
+[2023-01-15 00:42:29] Device: name='Ethernet'
+[2023-01-15 00:42:29] Device: name='VPN_SmartCard'
+[2023-01-15 00:42:29] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:42:39] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:42:39] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:42:39] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:42:39] Device: name='Loopback'
+[2023-01-15 00:42:39] Device: name='Ethernet'
+[2023-01-15 00:42:39] Device: name='VPN_SmartCard'
+[2023-01-15 00:42:39] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:42:49] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:42:49] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:42:49] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:42:49] Device: name='Loopback'
+[2023-01-15 00:42:49] Device: name='Ethernet'
+[2023-01-15 00:42:49] Device: name='VPN_SmartCard'
+[2023-01-15 00:42:49] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:42:59] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:42:59] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:42:59] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:42:59] Device: name='Loopback'
+[2023-01-15 00:42:59] Device: name='Ethernet'
+[2023-01-15 00:42:59] Device: name='VPN_SmartCard'
+[2023-01-15 00:42:59] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:43:09] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:43:09] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:43:09] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:43:09] Device: name='Loopback'
+[2023-01-15 00:43:09] Device: name='Ethernet'
+[2023-01-15 00:43:09] Device: name='VPN_SmartCard'
+[2023-01-15 00:43:09] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:43:19] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:43:19] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:43:19] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:43:19] Device: name='Loopback'
+[2023-01-15 00:43:19] Device: name='Ethernet'
+[2023-01-15 00:43:19] Device: name='VPN_SmartCard'
+[2023-01-15 00:43:19] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:43:29] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:43:29] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:43:30] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:43:30] Device: name='Loopback'
+[2023-01-15 00:43:30] Device: name='Ethernet'
+[2023-01-15 00:43:30] Device: name='VPN_SmartCard'
+[2023-01-15 00:43:30] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:43:39] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:43:39] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:43:40] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:43:40] Device: name='Loopback'
+[2023-01-15 00:43:40] Device: name='Ethernet'
+[2023-01-15 00:43:40] Device: name='VPN_SmartCard'
+[2023-01-15 00:43:40] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:43:50] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:43:50] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:43:50] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:43:50] Device: name='Loopback'
+[2023-01-15 00:43:50] Device: name='Ethernet'
+[2023-01-15 00:43:50] Device: name='VPN_SmartCard'
+[2023-01-15 00:43:50] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:44:00] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:44:00] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:44:00] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:44:00] Device: name='Loopback'
+[2023-01-15 00:44:00] Device: name='Ethernet'
+[2023-01-15 00:44:00] Device: name='VPN_SmartCard'
+[2023-01-15 00:44:00] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:44:10] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:44:10] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:44:10] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:44:10] Device: name='Loopback'
+[2023-01-15 00:44:10] Device: name='Ethernet'
+[2023-01-15 00:44:10] Device: name='VPN_SmartCard'
+[2023-01-15 00:44:10] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:44:20] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:44:20] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:44:20] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:44:20] Device: name='Loopback'
+[2023-01-15 00:44:20] Device: name='Ethernet'
+[2023-01-15 00:44:20] Device: name='VPN_SmartCard'
+[2023-01-15 00:44:20] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:44:30] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:44:30] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:44:30] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:44:30] Device: name='Loopback'
+[2023-01-15 00:44:30] Device: name='Ethernet'
+[2023-01-15 00:44:30] Device: name='VPN_SmartCard'
+[2023-01-15 00:44:30] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:44:40] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:44:40] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:44:40] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:44:40] Device: name='Loopback'
+[2023-01-15 00:44:40] Device: name='Ethernet'
+[2023-01-15 00:44:40] Device: name='VPN_SmartCard'
+[2023-01-15 00:44:40] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:44:50] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:44:50] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:44:50] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:44:50] Device: name='Loopback'
+[2023-01-15 00:44:50] Device: name='Ethernet'
+[2023-01-15 00:44:50] Device: name='VPN_SmartCard'
+[2023-01-15 00:44:50] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:45:00] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:45:00] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:45:00] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:45:00] Device: name='Loopback'
+[2023-01-15 00:45:00] Device: name='Ethernet'
+[2023-01-15 00:45:00] Device: name='VPN_SmartCard'
+[2023-01-15 00:45:00] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:45:10] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:45:10] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:45:10] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:45:10] Device: name='Loopback'
+[2023-01-15 00:45:10] Device: name='Ethernet'
+[2023-01-15 00:45:10] Device: name='VPN_SmartCard'
+[2023-01-15 00:45:10] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:45:20] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:45:20] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:45:20] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:45:20] Device: name='Loopback'
+[2023-01-15 00:45:20] Device: name='Ethernet'
+[2023-01-15 00:45:20] Device: name='VPN_SmartCard'
+[2023-01-15 00:45:20] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:45:30] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:45:30] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:45:30] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:45:30] Device: name='Loopback'
+[2023-01-15 00:45:30] Device: name='Ethernet'
+[2023-01-15 00:45:30] Device: name='VPN_SmartCard'
+[2023-01-15 00:45:30] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:45:40] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:45:40] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:45:40] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:45:40] Device: name='Loopback'
+[2023-01-15 00:45:40] Device: name='Ethernet'
+[2023-01-15 00:45:40] Device: name='VPN_SmartCard'
+[2023-01-15 00:45:40] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:45:50] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:45:50] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:45:50] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:45:50] Device: name='Loopback'
+[2023-01-15 00:45:50] Device: name='Ethernet'
+[2023-01-15 00:45:50] Device: name='VPN_SmartCard'
+[2023-01-15 00:45:50] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:46:00] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:46:00] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:46:00] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:46:00] Device: name='Loopback'
+[2023-01-15 00:46:00] Device: name='Ethernet'
+[2023-01-15 00:46:00] Device: name='VPN_SmartCard'
+[2023-01-15 00:46:00] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:46:10] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:46:10] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:46:10] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:46:10] Device: name='Loopback'
+[2023-01-15 00:46:10] Device: name='Ethernet'
+[2023-01-15 00:46:10] Device: name='VPN_SmartCard'
+[2023-01-15 00:46:10] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:46:20] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:46:20] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:46:20] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:46:20] Device: name='Loopback'
+[2023-01-15 00:46:20] Device: name='Ethernet'
+[2023-01-15 00:46:20] Device: name='VPN_SmartCard'
+[2023-01-15 00:46:20] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:46:30] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:46:30] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:46:31] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:46:31] Device: name='Loopback'
+[2023-01-15 00:46:31] Device: name='Ethernet'
+[2023-01-15 00:46:31] Device: name='VPN_SmartCard'
+[2023-01-15 00:46:31] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:46:40] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:46:40] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:46:41] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:46:41] Device: name='Loopback'
+[2023-01-15 00:46:41] Device: name='Ethernet'
+[2023-01-15 00:46:41] Device: name='VPN_SmartCard'
+[2023-01-15 00:46:41] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:46:50] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:46:50] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:46:51] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:46:51] Device: name='Loopback'
+[2023-01-15 00:46:51] Device: name='Ethernet'
+[2023-01-15 00:46:51] Device: name='VPN_SmartCard'
+[2023-01-15 00:46:51] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:47:01] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:47:01] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:47:01] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:47:01] Device: name='Loopback'
+[2023-01-15 00:47:01] Device: name='Ethernet'
+[2023-01-15 00:47:01] Device: name='VPN_SmartCard'
+[2023-01-15 00:47:01] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:47:11] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:47:11] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:47:11] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:47:11] Device: name='Loopback'
+[2023-01-15 00:47:11] Device: name='Ethernet'
+[2023-01-15 00:47:11] Device: name='VPN_SmartCard'
+[2023-01-15 00:47:11] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:47:21] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:47:21] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:47:21] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:47:21] Device: name='Loopback'
+[2023-01-15 00:47:21] Device: name='Ethernet'
+[2023-01-15 00:47:21] Device: name='VPN_SmartCard'
+[2023-01-15 00:47:21] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:47:31] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:47:31] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:47:31] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:47:31] Device: name='Loopback'
+[2023-01-15 00:47:31] Device: name='Ethernet'
+[2023-01-15 00:47:31] Device: name='VPN_SmartCard'
+[2023-01-15 00:47:31] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:47:41] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:47:41] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:47:41] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:47:41] Device: name='Loopback'
+[2023-01-15 00:47:41] Device: name='Ethernet'
+[2023-01-15 00:47:41] Device: name='VPN_SmartCard'
+[2023-01-15 00:47:41] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:47:51] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:47:51] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:47:51] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:47:51] Device: name='Loopback'
+[2023-01-15 00:47:51] Device: name='Ethernet'
+[2023-01-15 00:47:51] Device: name='VPN_SmartCard'
+[2023-01-15 00:47:51] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:48:01] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:48:01] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:48:01] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:48:01] Device: name='Loopback'
+[2023-01-15 00:48:01] Device: name='Ethernet'
+[2023-01-15 00:48:01] Device: name='VPN_SmartCard'
+[2023-01-15 00:48:01] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:48:11] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:48:11] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:48:11] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:48:11] Device: name='Loopback'
+[2023-01-15 00:48:11] Device: name='Ethernet'
+[2023-01-15 00:48:11] Device: name='VPN_SmartCard'
+[2023-01-15 00:48:11] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:48:21] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:48:21] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:48:21] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:48:21] Device: name='Loopback'
+[2023-01-15 00:48:21] Device: name='Ethernet'
+[2023-01-15 00:48:21] Device: name='VPN_SmartCard'
+[2023-01-15 00:48:21] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:48:31] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:48:31] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:48:31] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:48:31] Device: name='Loopback'
+[2023-01-15 00:48:31] Device: name='Ethernet'
+[2023-01-15 00:48:31] Device: name='VPN_SmartCard'
+[2023-01-15 00:48:31] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:48:41] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:48:41] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:48:41] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:48:41] Device: name='Loopback'
+[2023-01-15 00:48:41] Device: name='Ethernet'
+[2023-01-15 00:48:41] Device: name='VPN_SmartCard'
+[2023-01-15 00:48:41] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:48:51] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:48:51] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:48:51] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:48:51] Device: name='Loopback'
+[2023-01-15 00:48:51] Device: name='Ethernet'
+[2023-01-15 00:48:51] Device: name='VPN_SmartCard'
+[2023-01-15 00:48:51] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:49:01] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:49:01] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:49:01] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:49:01] Device: name='Loopback'
+[2023-01-15 00:49:01] Device: name='Ethernet'
+[2023-01-15 00:49:01] Device: name='VPN_SmartCard'
+[2023-01-15 00:49:01] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:49:11] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:49:11] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:49:11] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:49:11] Device: name='Loopback'
+[2023-01-15 00:49:11] Device: name='Ethernet'
+[2023-01-15 00:49:11] Device: name='VPN_SmartCard'
+[2023-01-15 00:49:11] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:49:21] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:49:21] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:49:21] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:49:21] Device: name='Loopback'
+[2023-01-15 00:49:21] Device: name='Ethernet'
+[2023-01-15 00:49:21] Device: name='VPN_SmartCard'
+[2023-01-15 00:49:21] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:49:31] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:49:31] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:49:31] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:49:31] Device: name='Loopback'
+[2023-01-15 00:49:31] Device: name='Ethernet'
+[2023-01-15 00:49:31] Device: name='VPN_SmartCard'
+[2023-01-15 00:49:31] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:49:41] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:49:41] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:49:41] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:49:41] Device: name='Loopback'
+[2023-01-15 00:49:41] Device: name='Ethernet'
+[2023-01-15 00:49:41] Device: name='VPN_SmartCard'
+[2023-01-15 00:49:41] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:49:51] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:49:51] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:49:51] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:49:51] Device: name='Loopback'
+[2023-01-15 00:49:51] Device: name='Ethernet'
+[2023-01-15 00:49:51] Device: name='VPN_SmartCard'
+[2023-01-15 00:49:51] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:50:01] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:50:01] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:50:01] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:50:01] Device: name='Loopback'
+[2023-01-15 00:50:01] Device: name='Ethernet'
+[2023-01-15 00:50:01] Device: name='VPN_SmartCard'
+[2023-01-15 00:50:01] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:50:11] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:50:11] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:50:12] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:50:12] Device: name='Loopback'
+[2023-01-15 00:50:12] Device: name='Ethernet'
+[2023-01-15 00:50:12] Device: name='VPN_SmartCard'
+[2023-01-15 00:50:12] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:50:21] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:50:21] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:50:22] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:50:22] Device: name='Loopback'
+[2023-01-15 00:50:22] Device: name='Ethernet'
+[2023-01-15 00:50:22] Device: name='VPN_SmartCard'
+[2023-01-15 00:50:22] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:50:31] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:50:31] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:50:32] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:50:32] Device: name='Loopback'
+[2023-01-15 00:50:32] Device: name='Ethernet'
+[2023-01-15 00:50:32] Device: name='VPN_SmartCard'
+[2023-01-15 00:50:32] Device: name='Połączenie sieciowe Bluetooth 3'
+[2023-01-15 00:50:42] CSteamUINetworkController::RefreshNetworkDevices: refresh requested
+[2023-01-15 00:50:42] CSteamUINetworkController::OnNetworkDevicesRefreshed: mark dirty
+[2023-01-15 00:50:42] CSteamUINetworkController::BroadcastNetworkDeviceState: broadcasting new network state
+[2023-01-15 00:50:42] Device: name='Loopback'
+[2023-01-15 00:50:42] Device: name='Ethernet'
+[2023-01-15 00:50:42] Device: name='VPN_SmartCard'
+[2023-01-15 00:50:42] Device: name='Połączenie sieciowe Bluetooth 3'
+
+
+[2023-03-22 22:36:09] Initialized CSystemDockManagerController: 0
+[2023-03-22 22:36:09] Initialized CSystemAudioDeviceController: 0
+[2023-03-22 22:36:09] Initialized CSystemDisplayController: 0
+[2023-03-22 22:36:09] CSystemAudioController skipping on windows
+[2023-03-22 22:36:09] Initialized CSystemAudioController: 0
+[2023-03-22 22:36:09] CSystemAudioController handle volume keys: 0
+[2023-03-22 22:36:09] CSystemAudioController handle echo cancel load: 0
+[2023-03-22 22:36:09] Initialized CSystemPerfController: 0
+[2023-03-22 22:36:09] Initialized CSteamUINetworkController: 1
+
+
+[2024-03-04 18:57:25] Client version: 1709168962
+[2024-03-04 18:57:25] Initialized CSystemDockManagerController: 0
+[2024-03-04 18:57:25] Initialized CSystemAudioDeviceController: 0
+[2024-03-04 18:57:25] Initialized CSystemDisplayController: 0
+[2024-03-04 18:57:25] Initialized CSystemPerfController: 0
+[2024-03-04 18:57:25] Initialized CSteamUINetworkController: 1
+[2024-03-04 18:57:25] Initialized CSystemReportController
+[2024-03-04 18:57:25] CGamescopeController: initalized stub implementation
+
+
+[2024-03-08 09:20:35] Client version: 1709168962
+[2024-03-08 09:20:35] Initialized CSystemDockManagerController: 0
+[2024-03-08 09:20:35] Initialized CSystemAudioDeviceController: 0
+[2024-03-08 09:20:35] Initialized CSystemDisplayController: 0
+[2024-03-08 09:20:35] Initialized CSystemPerfController: 0
+[2024-03-08 09:20:35] Initialized CSteamUINetworkController: 1
+[2024-03-08 09:20:35] Initialized CSystemReportController
+[2024-03-08 09:20:35] CGamescopeController: initalized stub implementation
+
+
+[2024-06-05 20:16:03] Client version: 1709846872
+[2024-06-05 20:16:03] Initialized CSystemDockManagerController: 0
+[2024-06-05 20:16:03] Initialized CSystemAudioDeviceController: 0
+[2024-06-05 20:16:03] Initialized CSystemDisplayController: 0
+[2024-06-05 20:16:03] Initialized CSystemPerfController: 0
+[2024-06-05 20:16:03] Initialized CSteamUINetworkController: 1
+[2024-06-05 20:16:03] Initialized CSystemReportController
+[2024-06-05 20:16:03] CGamescopeController: initalized stub implementation
+
+
+[2024-06-11 09:59:37] Client version: 1709846872
+[2024-06-11 09:59:37] Initialized CSystemDockManagerController: 0
+[2024-06-11 09:59:37] Initialized CSystemAudioDeviceController: 0
+[2024-06-11 09:59:37] Initialized CSystemDisplayController: 0
+[2024-06-11 09:59:37] Initialized CSystemPerfController: 0
+[2024-06-11 09:59:37] Initialized CSteamUINetworkController: 1
+[2024-06-11 09:59:37] Initialized CSystemReportController
+[2024-06-11 09:59:37] CGamescopeController: initalized stub implementation
+
+
+[2024-07-03 13:14:43] Client version: 1709846872
+[2024-07-03 13:14:43] Initialized CSystemDockManagerController: 0
+[2024-07-03 13:14:43] Initialized CSystemAudioDeviceController: 0
+[2024-07-03 13:14:43] Initialized CSystemDisplayController: 0
+[2024-07-03 13:14:43] Initialized CSystemPerfController: 0
+[2024-07-03 13:14:43] Initialized CSteamUINetworkController: 1
+[2024-07-03 13:14:43] Initialized CSystemReportController
+[2024-07-03 13:14:43] CGamescopeController: initalized stub implementation
+
+
+[2024-07-14 12:04:18] Client version: 1718904662
+[2024-07-14 12:04:18] Initialized CSystemDockManagerController: 0
+[2024-07-14 12:04:18] Initialized CSystemAudioDeviceController: 0
+[2024-07-14 12:04:18] Initialized CSystemDisplayController: 0
+[2024-07-14 12:04:18] Initialized CSystemPerfController: 0
+[2024-07-14 12:04:18] Initialized CSteamUINetworkController: 1
+[2024-07-14 12:04:18] Initialized CSystemReportController
+[2024-07-14 12:04:18] CGamescopeController: initalized stub implementation
+
+
+[2024-08-22 11:47:24] Client version: 1718904662
+[2024-08-22 11:47:24] Initialized CSystemDockManagerController: 0
+[2024-08-22 11:47:24] Initialized CSystemAudioDeviceController: 0
+[2024-08-22 11:47:24] Initialized CSystemDisplayController: 0
+[2024-08-22 11:47:24] Initialized CSystemPerfController: 0
+[2024-08-22 11:47:24] Initialized CSteamUINetworkController: 1
+[2024-08-22 11:47:24] Initialized CSystemReportController
+[2024-08-22 11:47:24] CGamescopeController: initalized stub implementation
+
+
+[2024-08-24 18:26:22] Client version: 1721173382
+[2024-08-24 18:26:22] Initialized CSystemDockManagerController: 0
+[2024-08-24 18:26:22] Initialized CSystemAudioDeviceController: 0
+[2024-08-24 18:26:22] Initialized CSystemDisplayController: 0
+[2024-08-24 18:26:22] Initialized CSystemPerfController: 0
+[2024-08-24 18:26:22] Initialized CSteamUINetworkController: 1
+[2024-08-24 18:26:22] Initialized CSystemReportController
+[2024-08-24 18:26:22] CGamescopeController: initalized stub implementation
+
+
+[2024-10-01 20:23:03] Client version: 1721173382
+[2024-10-01 20:23:03] Initialized CSystemDockManagerController: 0
+[2024-10-01 20:23:03] Initialized CSystemAudioDeviceController: 0
+[2024-10-01 20:23:03] Initialized CSystemDisplayController: 0
+[2024-10-01 20:23:03] Initialized CSystemPerfController: 0
+[2024-10-01 20:23:03] Initialized CSteamUINetworkController: 1
+[2024-10-01 20:23:03] Initialized CSystemReportController
+[2024-10-01 20:23:03] CGamescopeController: initalized stub implementation
+
+
+[2024-10-02 08:33:13] Client version: 1726604483
+[2024-10-02 08:33:13] Initialized CSystemDockManagerController: 0
+[2024-10-02 08:33:13] Initialized CSystemAudioDeviceController: 0
+[2024-10-02 08:33:13] Initialized CSystemDisplayController: 0
+[2024-10-02 08:33:13] Initialized CSystemPerfController: 0
+[2024-10-02 08:33:13] Initialized CSteamUINetworkController: 1
+[2024-10-02 08:33:13] Initialized CSystemReportController
+[2024-10-02 08:33:13] CGamescopeController: initalized stub implementation

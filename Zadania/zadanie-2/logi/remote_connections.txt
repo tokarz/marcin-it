@@ -1,0 +1,174 @@
+
+
+[2021-12-05 11:14:39] Generated client id: 7299697636354478425
+[2021-12-05 11:14:39] Listening for IPv4 broadcast on: 27036
+[2021-12-05 11:14:39] Listening for connections on: 0.0.0.0:27036
+
+
+[2021-12-05 13:44:11] Loaded client id: 7299697636354478425
+[2021-12-05 13:44:11] Listening for IPv4 broadcast on: 27036
+[2021-12-05 13:44:11] Listening for connections on: 0.0.0.0:27036
+
+
+[2022-08-08 10:18:53] Loaded client id: 7299697636354478425
+[2022-08-08 10:18:53] Listening for IPv4 broadcast on: 27036
+[2022-08-08 10:18:53] Listening for connections on: 0.0.0.0:27036
+
+
+[2022-08-08 10:25:03] Loaded client id: 7299697636354478425
+[2022-08-08 10:25:03] Listening for IPv4 broadcast on: 27036
+[2022-08-08 10:25:03] Listening for connections on: 0.0.0.0:27036
+
+
+[2022-08-12 20:56:55] Loaded client id: 7299697636354478425
+[2022-08-12 20:56:55] Listening for IPv4 broadcast on: 27036
+[2022-08-12 20:56:55] Listening for connections on: 0.0.0.0:27036
+
+
+[2022-08-13 12:25:14] Loaded client id: 7299697636354478425
+[2022-08-13 12:25:14] Listening for IPv4 broadcast on: 27036
+[2022-08-13 12:25:14] Listening for connections on: 0.0.0.0:27036
+
+
+[2022-08-24 20:42:17] Loaded client id: 7299697636354478425
+[2022-08-24 20:42:17] Listening for IPv4 broadcast on: 27036
+[2022-08-24 20:42:17] Listening for connections on: 0.0.0.0:27036
+
+
+[2022-08-25 17:27:59] Loaded client id: 7299697636354478425
+[2022-08-25 17:27:59] Listening for IPv4 broadcast on: 27036
+[2022-08-25 17:27:59] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-01-13 19:57:46] Loaded client id: 7299697636354478425
+[2023-01-13 19:57:46] Listening for IPv4 broadcast on: 27036
+[2023-01-13 19:57:46] Listening for connections on: 0.0.0.0:27036
+
+
+[2023-03-22 22:36:13] Loaded client id: 7299697636354478425
+[2023-03-22 22:36:13] Listening for IPv4 broadcast on: 27036
+[2023-03-22 22:36:13] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-03-08 09:22:30] Client version: 1709168962
+[2024-03-08 09:22:30] Loaded client id: 7299697636354478425
+[2024-03-08 09:22:30] Listening for IPv4 broadcast on: 27036
+[2024-03-08 09:22:30] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-06-05 20:16:10] Client version: 1709846872
+[2024-06-05 20:16:10] Loaded client id: 7299697636354478425
+[2024-06-05 20:16:10] Listening for IPv4 broadcast on: 27036
+[2024-06-05 20:16:10] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-06-11 09:59:43] Client version: 1709846872
+[2024-06-11 09:59:43] Loaded client id: 7299697636354478425
+[2024-06-11 09:59:43] Listening for IPv4 broadcast on: 27036
+[2024-06-11 09:59:43] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-07-03 13:14:49] Client version: 1709846872
+[2024-07-03 13:14:49] Loaded client id: 7299697636354478425
+[2024-07-03 13:14:49] Listening for IPv4 broadcast on: 27036
+[2024-07-03 13:14:49] Listening for connections on: 0.0.0.0:27036
+[2024-07-03 17:21:51] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-03 17:21:51] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-03 17:21:52] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-03 20:06:28] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-03 20:06:28] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-03 20:06:31] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-03 20:06:31] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-04 08:20:25] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-04 08:20:25] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-04 08:20:26] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-04 15:33:01] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-04 15:33:01] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-04 15:33:03] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-05 10:01:50] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-05 10:01:50] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-05 10:01:53] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-05 16:43:30] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-05 16:43:30] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-06 08:38:24] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-06 08:38:24] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-06 08:38:27] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-06 09:16:49] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-06 09:16:49] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-06 09:16:51] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-06 09:16:52] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-06 12:54:51] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-06 12:54:51] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-06 12:54:53] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-07 11:24:40] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-07 11:24:40] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-07-07 11:24:44] Couldn't open to sending socket for 1.0.80.1:27036
+
+
+[2024-07-14 12:04:24] Client version: 1718904662
+[2024-07-14 12:04:24] Loaded client id: 7299697636354478425
+[2024-07-14 12:04:24] Listening for IPv4 broadcast on: 27036
+[2024-07-14 12:04:24] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-08-22 11:47:30] Client version: 1718904662
+[2024-08-22 11:47:30] Loaded client id: 7299697636354478425
+[2024-08-22 11:47:30] Listening for IPv4 broadcast on: 27036
+[2024-08-22 11:47:30] Listening for connections on: 0.0.0.0:27036
+[2024-08-22 14:44:43] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-22 14:44:43] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-22 14:44:46] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-22 14:44:46] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-22 21:18:22] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-22 21:18:22] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-22 21:18:24] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-22 21:18:25] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-22 22:11:13] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-22 22:11:13] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-22 22:11:15] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-22 22:11:16] Couldn't open to sending socket for 1.0.80.1:27036
+
+
+[2024-08-24 18:26:29] Client version: 1721173382
+[2024-08-24 18:26:29] Loaded client id: 7299697636354478425
+[2024-08-24 18:26:29] Listening for IPv4 broadcast on: 27036
+[2024-08-24 18:26:29] Listening for connections on: 0.0.0.0:27036
+[2024-08-25 09:55:43] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-25 09:55:43] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-25 09:55:44] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-25 09:55:46] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-25 19:30:03] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-25 19:30:03] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-25 19:30:05] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-25 19:30:06] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-26 09:50:32] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-26 09:50:32] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-26 09:50:35] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-26 09:50:35] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-26 13:17:29] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-26 13:17:29] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-26 13:17:31] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-26 18:33:04] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-26 18:33:04] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-26 18:33:06] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-26 18:33:07] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-27 08:32:38] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-27 08:32:38] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-27 08:32:39] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-27 08:32:40] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-27 09:57:10] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-27 09:57:10] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-27 17:45:32] Couldn't open to sending socket for 1.0.80.1:27036
+[2024-08-27 17:45:32] Couldn't open to sending socket for 1.0.80.1:27036
+
+
+[2024-10-01 20:23:09] Client version: 1721173382
+[2024-10-01 20:23:09] Loaded client id: 7299697636354478425
+[2024-10-01 20:23:09] Listening for IPv4 broadcast on: 27036
+[2024-10-01 20:23:09] Listening for connections on: 0.0.0.0:27036
+
+
+[2024-10-02 08:33:17] Client version: 1726604483
+[2024-10-02 08:33:17] Loaded client id: 7299697636354478425
+[2024-10-02 08:33:17] Listening for IPv4 broadcast on: 27036
+[2024-10-02 08:33:17] Listening for connections on: 0.0.0.0:27036

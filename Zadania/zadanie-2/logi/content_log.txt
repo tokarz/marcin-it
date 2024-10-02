@@ -1,0 +1,1546 @@
+
+
+[2021-12-05 11:14:39] Loaded 0 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2021-12-05 11:18:46] AppID 6800 state changed : Update Required,
+[2021-12-05 11:18:46] AppID 6800 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2021-12-05 11:18:46] AppID 6800 state changed : Update Required,Update Queued,
+[2021-12-05 11:18:46] AppID 6800 state changed : Update Required,Update Queued,Update Running,
+[2021-12-05 11:18:46] AppID 6800 update changed : Running,
+[2021-12-05 11:18:46] AppID 6800 update changed : Running,Reconfiguring,
+[2021-12-05 11:18:46] Download system icon for AppID 6800 to C:\Program Files (x86)\Steam\steam\games/a7426177ea23f52a2f4fc1d1fa8cd71bd84e3b79.ico
+[2021-12-05 11:18:46] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2021-12-05 11:18:46] Created download interface of type 'SteamCache' (7) to host cache2-waw1.steamcontent.com (cache2-waw1.steamcontent.com)
+[2021-12-05 11:18:46] Created download interface of type 'SteamCache' (7) to host cache3-waw1.steamcontent.com (cache3-waw1.steamcontent.com)
+[2021-12-05 11:18:46] Created download interface of type 'SteamCache' (7) to host cache4-waw1.steamcontent.com (cache4-waw1.steamcontent.com)
+[2021-12-05 11:18:47] Created ipv4-only http client
+[2021-12-05 11:18:47] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:80 / 155.133.230.19:80, host: cache2-waw1.steamcontent.com): cache2-waw1.steamcontent.com/depot/6801/manifest/6511249766619551686/5/944608857977405128 - received 200 (OK) HTTP response
+[2021-12-05 11:18:48] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:80 / 155.133.230.4:80, host: cache3-waw1.steamcontent.com): cache3-waw1.steamcontent.com/depot/6802/manifest/1044246912093648771/5/12178460313308468030 - received 200 (OK) HTTP response
+[2021-12-05 11:18:48] AppID 6800 update changed : Running,
+[2021-12-05 11:18:48] AppID 6800 update changed : Running,Validating,
+[2021-12-05 11:18:48] AppID 6800 update changed : Running,
+[2021-12-05 11:18:48] AppID 6800 update changed : Running,Preallocating,
+[2021-12-05 11:18:48] AppID 6800 update changed : Running,
+[2021-12-05 11:18:48] AppID 6800 update started : download 0/761299744, store 0/0, reuse 0/0, delta 0/0, stage 0/977831780 
+[2021-12-05 11:18:48] AppID 6800 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2021-12-05 11:18:48] AppID 6800 update changed : Running,Downloading,Staging,
+[2021-12-05 11:18:48] Downloading 1398 chunks from depot 6801
+[2021-12-05 11:18:48] AppID 6800 scheduler update : Priority User Initiated, not played for 3 seconds, update disabled for 0 seconds
+[2021-12-05 11:18:59] Increasing target number of download connections to 4 (rate was 0.000, now 38.302)
+[2021-12-05 11:18:59] Created download interface of type 'SteamCache' (7) to host cache1-waw1.steamcontent.com (cache1-waw1.steamcontent.com)
+[2021-12-05 11:19:11] Increasing target number of download connections to 5 (rate was 38.302, now 56.553)
+[2021-12-05 11:19:11] Created download interface of type 'SteamCache' (7) to host cache3-sto1.steamcontent.com (cache3-sto1.steamcontent.com)
+[2021-12-05 11:19:41] Downloading 650 chunks from depot 6802
+[2021-12-05 11:20:00] Current download rate: 63.862 Mbps
+[2021-12-05 11:20:27] AppID 6800 update changed : Running,
+[2021-12-05 11:20:27] AppID 6800 update changed : Running,Verifying,
+[2021-12-05 11:20:27] Update auto validation: enabled for all clients
+[2021-12-05 11:20:27] Update auto validation (6801): clean bytes tally of 0 bytes is less than threshold of 2048 MB, forcing full validate
+[2021-12-05 11:20:29] Update auto validation (6802): clean bytes tally of 501460952 bytes is less than threshold of 2048 MB, forcing full validate
+[2021-12-05 11:20:30] AppID 6800 update changed : Running,
+[2021-12-05 11:20:30] AppID 6800 update changed : Running,Committing,
+[2021-12-05 11:20:30] AppID 6800 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\6800" to "C:\Program Files (x86)\Steam\steamapps\common\Commandos Behind Enemy Lines" : 1265 updated, 0 moved, 0 deleted files
+[2021-12-05 11:20:31] AppID 6800 state changed : Fully Installed,Update Queued,Update Running,
+[2021-12-05 11:20:31] AppID 6800 finished update, 2 mounted depots (BuildID 994056) : 6801 (6511249766619551686),6802 (1044246912093648771),
+[2021-12-05 11:20:31] AppID 6800 update changed : Running,
+[2021-12-05 11:20:31] AppID 6800 update changed : None
+[2021-12-05 11:20:31] AppID 6800 state changed : Fully Installed,Update Queued,
+[2021-12-05 11:20:31] AppID 6800 state changed : Fully Installed,
+[2021-12-05 11:20:31] AppID 6800 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2021-12-05 11:21:01] Current download rate: 0.000 Mbps
+[2021-12-05 11:21:27] HTTP (SteamCache,197) - cache3-sto1.steamcontent.com (162.254.198.17:80 / 162.254.198.17:80, host: cache3-sto1.steamcontent.com): Closing connection
+[2021-12-05 11:21:27] HTTP (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:80 / 155.133.230.3:80, host: cache1-waw1.steamcontent.com): Closing connection
+[2021-12-05 11:21:27] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:80 / 155.133.230.19:80, host: cache2-waw1.steamcontent.com): Closing connection
+[2021-12-05 11:21:28] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:80 / 155.133.230.4:80, host: cache3-waw1.steamcontent.com): Closing connection
+[2021-12-05 11:21:28] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:80 / 155.133.230.20:80, host: cache4-waw1.steamcontent.com): Closing connection
+[2021-12-05 11:24:24] AppID 6800 state changed : Fully Installed,App Running,
+[2021-12-05 11:31:10] AppID 6800 state changed : Fully Installed,
+
+
+[2021-12-05 13:43:59] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2021-12-05 13:45:27] AppID 6800 state changed : Fully Installed,App Running,
+[2021-12-05 13:52:08] AppID 6800 state changed : Fully Installed,
+[2021-12-05 17:10:16] AppID 6800 state changed : Fully Installed,App Running,
+[2021-12-05 17:21:02] AppID 6800 state changed : Fully Installed,
+
+
+[2022-08-08 10:18:42] Loaded 1 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2022-08-08 10:20:13] AppID 358270 state changed : Update Required,
+[2022-08-08 10:20:13] AppID 358280 state changed : Uninstalled, (Missing configuration)
+[2022-08-08 10:20:13] AppID 358280 finished uninstall (Missing configuration)
+[2022-08-08 10:20:13] AppID 358270 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2022-08-08 10:20:13] AppID 358270 state changed : Update Required,Update Queued,
+[2022-08-08 10:20:13] AppID 358270 state changed : Update Required,Update Queued,Update Running,
+[2022-08-08 10:20:13] AppID 358270 update changed : Running,
+[2022-08-08 10:20:13] AppID 358270 update changed : Running,Reconfiguring,
+[2022-08-08 10:20:13] Download system icon for AppID 358270 to C:\Program Files (x86)\Steam\steam\games/1dc363e52d625a0aefe5e1f4340a457f5235220c.ico
+[2022-08-08 10:20:13] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2022-08-08 10:20:13] Created download interface of type 'SteamCache' (7) to host cache3-waw1.steamcontent.com (cache3-waw1.steamcontent.com)
+[2022-08-08 10:20:13] Created download interface of type 'SteamCache' (7) to host cache4-waw1.steamcontent.com (cache4-waw1.steamcontent.com)
+[2022-08-08 10:20:13] Created download interface of type 'SteamCache' (7) to host cache1-waw1.steamcontent.com (cache1-waw1.steamcontent.com)
+[2022-08-08 10:20:14] Created ipv4-only http client
+[2022-08-08 10:20:14] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:80 / 155.133.230.4:80, host: cache3-waw1.steamcontent.com): cache3-waw1.steamcontent.com/depot/358271/manifest/1672872052065671997/5/920165457991401696 - received 200 (OK) HTTP response
+[2022-08-08 10:20:14] AppID 358270 update changed : Running,
+[2022-08-08 10:20:14] AppID 358270 update changed : Running,Validating,
+[2022-08-08 10:20:14] AppID 358270 update changed : Running,
+[2022-08-08 10:20:14] AppID 358270 update changed : Running,Preallocating,
+[2022-08-08 10:20:14] AppID 358270 update changed : Running,
+[2022-08-08 10:20:14] AppID 358270 update started : download 0/42913888, store 0/0, reuse 0/0, delta 0/0, stage 0/47234154 
+[2022-08-08 10:20:14] AppID 358270 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-08-08 10:20:14] AppID 358270 update changed : Running,Downloading,Staging,
+[2022-08-08 10:20:14] Downloading 68 chunks from depot 358271
+[2022-08-08 10:20:14] AppID 358270 scheduler update : Priority User Initiated, not played for 2 seconds, update disabled for 0 seconds
+[2022-08-08 10:20:19] AppID 358270 update canceled : Shader Priority (Suspended)
+[2022-08-08 10:20:19] AppID 358270 update changed : Running,Downloading,Staging,Stopping,
+[2022-08-08 10:20:19] AppID 358270 update changed : Running,Stopping,
+[2022-08-08 10:20:19] AppID 358270 update changed : None
+[2022-08-08 10:20:19] AppID 358270 state changed : Update Required,Update Queued,Update Started, (Suspended)
+[2022-08-08 10:20:19] AppID 358270 state changed : Update Required,Update Started,
+[2022-08-08 10:20:19] AppID 358270 scheduler finished : removed from schedule (result Suspended, state 0x40a) 
+[2022-08-08 10:20:20] AppID 358270 scheduler update : Priority Auto Update, not played for 8 seconds, update disabled for 0 seconds
+[2022-08-08 10:20:20] AppID 358270 state changed : Update Required,Update Queued,Update Started,
+[2022-08-08 10:20:20] AppID 358270 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-08-08 10:20:20] AppID 358270 update changed : Running,
+[2022-08-08 10:20:20] AppID 358270 update changed : Running,Reconfiguring,
+[2022-08-08 10:20:20] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:80 / 155.133.230.20:80, host: cache4-waw1.steamcontent.com): cache4-waw1.steamcontent.com/depot/358270/manifest/1240896329471394379/5/3378085478218598360 - received 200 (OK) HTTP response
+[2022-08-08 10:20:20] AppID 358270 update changed : Running,
+[2022-08-08 10:20:20] AppID 358270 update changed : Running,Preallocating,
+[2022-08-08 10:20:20] AppID 358270 update changed : Running,
+[2022-08-08 10:20:20] AppID 358270 update started : download 0/2592, store 0/0, reuse 0/0, delta 0/0, stage 0/2653 
+[2022-08-08 10:20:20] AppID 358270 update changed : Running,Downloading,Staging,
+[2022-08-08 10:20:20] Downloading 2 chunks from depot 358270
+[2022-08-08 10:20:21] AppID 358270 update changed : Running,
+[2022-08-08 10:20:21] AppID 358270 update changed : Running,Committing,
+[2022-08-08 10:20:21] AppID 358270 starting commit from "C:\Program Files (x86)\Steam\steamapps\shadercache\358270/downloads/" to "C:\Program Files (x86)\Steam\steamapps\shadercache\358270/" : 6 updated, 0 moved, 0 deleted files
+[2022-08-08 10:20:21] AppID 358270 update changed : Running,
+[2022-08-08 10:20:21] AppID 358270 update changed : None
+[2022-08-08 10:20:21] AppID 358270 state changed : Update Required,Update Queued,Update Started,
+[2022-08-08 10:20:21] AppID 358270 scheduler finished : staying in schedule (result No Error, state 0x40a) 
+[2022-08-08 10:20:21] AppID 358270 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-08-08 10:20:21] AppID 358270 update changed : Running,
+[2022-08-08 10:20:21] AppID 358270 update changed : Running,Reconfiguring,
+[2022-08-08 10:20:21] AppID 358270 update changed : Running,
+[2022-08-08 10:20:21] AppID 358270 update started : download 40842800/42913888, store 0/0, reuse 0/0, delta 0/0, stage 45137002/47234154 
+[2022-08-08 10:20:21] AppID 358270 update changed : Running,Downloading,Staging,
+[2022-08-08 10:20:21] Downloading 2 chunks from depot 358271
+[2022-08-08 10:20:21] AppID 358270 update changed : Running,
+[2022-08-08 10:20:21] AppID 358270 update changed : Running,Verifying,
+[2022-08-08 10:20:21] Update auto validation: enabled for all clients
+[2022-08-08 10:20:21] Update auto validation (358271): clean bytes tally of 977831780 bytes is less than threshold of 2048 MB, forcing full validate
+[2022-08-08 10:20:22] AppID 358270 update changed : Running,
+[2022-08-08 10:20:22] AppID 358270 update changed : Running,Committing,
+[2022-08-08 10:20:22] AppID 358270 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\358270" to "C:\Program Files (x86)\Steam\steamapps\common\Death Rally" : 34 updated, 0 moved, 0 deleted files
+[2022-08-08 10:20:22] AppID 358270 state changed : Fully Installed,Update Queued,Update Running,
+[2022-08-08 10:20:22] AppID 358270 finished update, 1 mounted depots (BuildID 607265) : 358271 (1672872052065671997),
+[2022-08-08 10:20:22] AppID 358270 update changed : Running,
+[2022-08-08 10:20:22] AppID 358270 update changed : None
+[2022-08-08 10:20:22] AppID 358270 state changed : Fully Installed,Update Queued,
+[2022-08-08 10:20:22] AppID 358280 state changed : Update Required,Shared Only,
+[2022-08-08 10:20:22] Dependency added: parent 358280, child 358270, depot 358282
+[2022-08-08 10:20:22] AppID 358270 state changed : Update Required,Fully Installed,Update Queued,
+[2022-08-08 10:20:22] AppID 358270 scheduler finished : staying in schedule (result No Error, state 0xe) 
+[2022-08-08 10:20:22] AppID 358270 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2022-08-08 10:20:22] AppID 358280 state changed : Update Required,Shared Only,Update Running,
+[2022-08-08 10:20:22] AppID 358270 update changed : Running,
+[2022-08-08 10:20:22] AppID 358270 update changed : Running,Reconfiguring,
+[2022-08-08 10:20:22] Download system icon for AppID 358280 to C:\Program Files (x86)\Steam\steam\games/63933511099d5c65ffc6e2b29d2583f07cd7f7aa.ico
+[2022-08-08 10:20:23] HTTP (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:80 / 155.133.230.3:80, host: cache1-waw1.steamcontent.com): cache1-waw1.steamcontent.com/depot/358282/manifest/1875167985428786150/5/8537208122829178831 - received 200 (OK) HTTP response
+[2022-08-08 10:20:23] AppID 358270 update changed : Running,
+[2022-08-08 10:20:23] AppID 358270 update changed : Running,Validating,
+[2022-08-08 10:20:23] AppID 358270 update changed : Running,
+[2022-08-08 10:20:23] AppID 358270 update changed : Running,Preallocating,
+[2022-08-08 10:20:23] AppID 358270 update changed : Running,
+[2022-08-08 10:20:23] AppID 358280 update started : download 0/853406528, store 0/0, reuse 0/0, delta 0/0, stage 0/857632059 
+[2022-08-08 10:20:23] AppID 358280 state changed : Update Required,Shared Only,Update Running,Update Started,
+[2022-08-08 10:20:23] AppID 358270 update started : download 0/0, store 0/0, reuse 0/0, delta 0/0, stage 0/0 
+[2022-08-08 10:20:23] AppID 358270 has no changes, 1 active: 358271 (1672872052065671997), 1 target: 358271 (1672872052065671997),
+[2022-08-08 10:20:23] AppID 358270 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2022-08-08 10:20:23] AppID 358270 update changed : Running,Downloading,Staging,
+[2022-08-08 10:20:23] Downloading 847 chunks from depot 358282
+[2022-08-08 10:20:26] Increasing target number of download connections to 4 (rate was 0.000, now 52.060)
+[2022-08-08 10:20:26] Created download interface of type 'SteamCache' (7) to host cache2-waw1.steamcontent.com (cache2-waw1.steamcontent.com)
+[2022-08-08 10:20:38] Increasing target number of download connections to 5 (rate was 52.060, now 70.915)
+[2022-08-08 10:20:38] Created download interface of type 'SteamCache' (7) to host cache6-fra2.steamcontent.com (cache6-fra2.steamcontent.com)
+[2022-08-08 10:21:27] Current download rate: 78.774 Mbps
+[2022-08-08 10:21:52] AppID 358270 update changed : Running,
+[2022-08-08 10:21:52] AppID 358270 update changed : Running,Staging,
+[2022-08-08 10:21:52] AppID 358270 update changed : Running,
+[2022-08-08 10:21:52] AppID 358270 update changed : Running,Verifying,
+[2022-08-08 10:21:52] Update auto validation: enabled for all clients
+[2022-08-08 10:21:52] Update auto validation (358282): clean bytes tally of 1025065934 bytes is less than threshold of 2048 MB, forcing full validate
+[2022-08-08 10:21:54] Update auto validation: enabled for all clients
+[2022-08-08 10:21:54] AppID 358270 update changed : Running,
+[2022-08-08 10:21:54] AppID 358270 update changed : Running,Committing,
+[2022-08-08 10:21:54] AppID 358280 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\358280" to "C:\Program Files (x86)\Steam\steamapps\common\Alien Carnage  Halloween Harry" : 38 updated, 0 moved, 0 deleted files
+[2022-08-08 10:21:54] AppID 358280 state changed : Fully Installed,Shared Only,Update Running,
+[2022-08-08 10:21:54] AppID 358280 finished update, 1 mounted depots (BuildID 881927) : 358282 (1875167985428786150),
+[2022-08-08 10:21:54] AppID 358270 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\358270" to "C:\Program Files (x86)\Steam\steamapps\common\Death Rally" : 0 updated, 0 moved, 0 deleted files
+[2022-08-08 10:21:54] AppID 358270 state changed : Fully Installed,Update Queued,Update Running,
+[2022-08-08 10:21:54] AppID 358270 finished update, 1 mounted depots (BuildID 607265) : 358271 (1672872052065671997),
+[2022-08-08 10:21:54] AppID 358270 update changed : Running,
+[2022-08-08 10:21:54] AppID 358270 update changed : None
+[2022-08-08 10:21:54] AppID 358280 state changed : Fully Installed,Shared Only,
+[2022-08-08 10:21:54] AppID 358270 state changed : Fully Installed,Update Queued,
+[2022-08-08 10:21:54] AppID 358270 state changed : Fully Installed,
+[2022-08-08 10:21:54] AppID 358270 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-08-08 10:22:27] Current download rate: 0.000 Mbps
+[2022-08-08 10:22:52] HTTP (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:80 / 155.133.230.3:80, host: cache1-waw1.steamcontent.com): Closing connection
+[2022-08-08 10:22:52] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:80 / 155.133.230.4:80, host: cache3-waw1.steamcontent.com): Closing connection
+[2022-08-08 10:22:52] HTTP (SteamCache,242) - cache6-fra2.steamcontent.com (155.133.226.19:443 / 155.133.226.19:443, host: cache6-fra2.steamcontent.com): Closing connection
+[2022-08-08 10:22:52] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:80 / 155.133.230.20:80, host: cache4-waw1.steamcontent.com): Closing connection
+[2022-08-08 10:22:53] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:80 / 155.133.230.19:80, host: cache2-waw1.steamcontent.com): Closing connection
+
+
+[2022-08-08 10:25:02] Loaded 3 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2022-08-08 10:25:04] AppID 358270 scheduler update : Priority Auto Update, not played for 292 seconds, update disabled for 0 seconds
+[2022-08-08 10:25:04] AppID 358270 state changed : Fully Installed,Update Queued,
+[2022-08-08 10:25:04] AppID 358270 state changed : Fully Installed,Update Queued,Update Running,
+[2022-08-08 10:25:04] AppID 358270 update changed : Running Update,
+[2022-08-08 10:25:04] AppID 358270 update changed : Running Update,Reconfiguring,
+[2022-08-08 10:25:04] AppID 358270 update changed : Running Update,
+[2022-08-08 10:25:04] AppID 358270 update changed : Running Update,Preallocating,
+[2022-08-08 10:25:04] AppID 358270 update changed : Running Update,
+[2022-08-08 10:25:04] AppID 358270 update started : download 0/2592, store 0/0, reuse 0/0, delta 0/0, stage 0/2653 
+[2022-08-08 10:25:04] AppID 358270 update changed : Running Update,Downloading,Staging,
+[2022-08-08 10:25:05] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2022-08-08 10:25:05] Created download interface of type 'SteamCache' (7) to host cache4-waw1.steamcontent.com (cache4-waw1.steamcontent.com)
+[2022-08-08 10:25:05] Created download interface of type 'SteamCache' (7) to host cache3-waw1.steamcontent.com (cache3-waw1.steamcontent.com)
+[2022-08-08 10:25:05] Created download interface of type 'SteamCache' (7) to host cache2-waw1.steamcontent.com (cache2-waw1.steamcontent.com)
+[2022-08-08 10:25:05] Downloading 2 chunks from depot 358270
+[2022-08-08 10:25:05] Created ipv4-only http client
+[2022-08-08 10:25:05] AppID 358270 update changed : Running Update,
+[2022-08-08 10:25:05] AppID 358270 update changed : Running Update,Committing,
+[2022-08-08 10:25:05] AppID 358270 starting commit from "C:\Program Files (x86)\Steam\steamapps\shadercache\358270/downloads/" to "C:\Program Files (x86)\Steam\steamapps\shadercache\358270/" : 6 updated, 0 moved, 0 deleted files
+[2022-08-08 10:25:05] AppID 358270 update changed : Running Update,
+[2022-08-08 10:25:05] AppID 358270 update changed : None
+[2022-08-08 10:25:05] AppID 358270 state changed : Fully Installed,Update Queued,
+[2022-08-08 10:25:05] AppID 358270 state changed : Fully Installed,
+[2022-08-08 10:25:05] AppID 358270 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-08-08 10:26:06] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-waw1.steamcontent.com): Closing connection
+[2022-08-08 10:26:06] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:80 / 155.133.230.4:80, host: cache3-waw1.steamcontent.com): Closing connection
+[2022-08-08 10:26:06] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:80 / 155.133.230.19:80, host: cache2-waw1.steamcontent.com): Closing connection
+[2022-08-08 12:21:57] Game 358270 adding PID 4424 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-08 12:21:57] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-08 16:36:44] Game 358270 no longer tracking PID 4424, exit code 0
+[2022-08-08 16:36:44] AppID 358270 state changed : Fully Installed,
+[2022-08-08 16:37:02] Game 358270 adding PID 15364 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-08 16:37:02] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-08 16:46:48] Game 358270 no longer tracking PID 15364, exit code 0
+[2022-08-08 16:46:48] AppID 358270 state changed : Fully Installed,
+[2022-08-08 17:14:43] Game 358270 adding PID 14652 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-08 17:14:43] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-08 18:48:47] Game 358270 no longer tracking PID 14652, exit code 0
+[2022-08-08 18:48:47] AppID 358270 state changed : Fully Installed,
+[2022-08-08 18:49:05] Game 358270 adding PID 21992 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-08 18:49:05] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-08 19:24:38] Game 358270 no longer tracking PID 21992, exit code 0
+[2022-08-08 19:24:38] AppID 358270 state changed : Fully Installed,
+[2022-08-08 19:43:00] Game 358270 adding PID 23316 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-08 19:43:00] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-08 21:56:00] Game 358270 no longer tracking PID 23316, exit code 0
+[2022-08-08 21:56:00] AppID 358270 state changed : Fully Installed,
+[2022-08-09 13:02:54] Game 358270 adding PID 13080 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-09 13:02:54] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-09 13:47:35] Game 358270 no longer tracking PID 13080, exit code 0
+[2022-08-09 13:47:35] AppID 358270 state changed : Fully Installed,
+[2022-08-09 17:37:26] Game 358270 adding PID 10964 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-09 17:37:26] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-09 18:10:29] Game 358270 no longer tracking PID 10964, exit code 0
+[2022-08-09 18:10:29] AppID 358270 state changed : Fully Installed,
+[2022-08-09 23:25:28] Game 358270 adding PID 16956 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-09 23:25:28] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-09 23:25:41] Game 358270 no longer tracking PID 16956, exit code 0
+[2022-08-09 23:25:41] AppID 358270 state changed : Fully Installed,
+[2022-08-09 23:25:48] Game 358270 adding PID 12124 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-09 23:25:48] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-09 23:26:43] Game 358270 no longer tracking PID 12124, exit code 0
+[2022-08-09 23:26:43] AppID 358270 state changed : Fully Installed,
+
+
+[2022-08-12 20:56:46] Loaded 3 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2022-08-12 23:14:09] Game 358270 adding PID 1136 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-12 23:14:09] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-13 00:44:30] Game 358270 no longer tracking PID 1136, exit code 0
+[2022-08-13 00:44:30] AppID 358270 state changed : Fully Installed,
+[2022-08-13 01:33:35] Game 358270 adding PID 23828 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-13 01:33:35] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-13 02:08:52] Game 358270 no longer tracking PID 23828, exit code 0
+[2022-08-13 02:08:52] AppID 358270 state changed : Fully Installed,
+
+
+[2022-08-13 12:25:13] Loaded 3 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2022-08-13 12:25:53] Game 358270 adding PID 18708 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-13 12:25:53] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-13 13:26:19] Game 358270 no longer tracking PID 18708, exit code 0
+[2022-08-13 13:26:19] AppID 358270 state changed : Fully Installed,
+[2022-08-13 14:48:24] Game 358270 adding PID 12728 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-13 14:48:24] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-13 14:48:38] Game 358270 no longer tracking PID 12728, exit code 0
+[2022-08-13 14:48:38] AppID 358270 state changed : Fully Installed,
+[2022-08-13 14:49:27] Game 358270 adding PID 6416 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-13 14:49:27] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-13 14:53:01] Game 358270 no longer tracking PID 6416, exit code 0
+[2022-08-13 14:53:01] AppID 358270 state changed : Fully Installed,
+[2022-08-13 14:53:16] Game 358270 adding PID 4324 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-13 14:53:16] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-13 15:32:27] Game 358270 no longer tracking PID 4324, exit code 0
+[2022-08-13 15:32:27] AppID 358270 state changed : Fully Installed,
+[2022-08-13 15:44:07] AppID 70 state changed : Update Required,
+[2022-08-13 15:44:07] AppID 70 scheduler update : Priority First, not played for 2 seconds, update disabled for 0 seconds
+[2022-08-13 15:44:07] AppID 70 state changed : Update Required,Update Queued,
+[2022-08-13 15:44:07] AppID 70 state changed : Update Required,Update Queued,Update Running,
+[2022-08-13 15:44:07] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:07] AppID 70 update changed : Running Update,Reconfiguring,
+[2022-08-13 15:44:07] Download system icon for AppID 70 to C:\Program Files (x86)\Steam\steam\games/d991f95d96e1c76d2acb944bb09447628cd96caa.ico
+[2022-08-13 15:44:07] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2022-08-13 15:44:07] Created download interface of type 'SteamCache' (7) to host cache4-waw1.steamcontent.com (cache4-waw1.steamcontent.com)
+[2022-08-13 15:44:07] Created download interface of type 'SteamCache' (7) to host cache3-waw1.steamcontent.com (cache3-waw1.steamcontent.com)
+[2022-08-13 15:44:07] Created download interface of type 'SteamCache' (7) to host cache2-waw1.steamcontent.com (cache2-waw1.steamcontent.com)
+[2022-08-13 15:44:08] Created ipv4-only http client
+[2022-08-13 15:44:08] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:80 / 155.133.230.20:80, host: cache4-waw1.steamcontent.com): cache4-waw1.steamcontent.com/depot/1/manifest/5928322771446233610/5/2540027182338060972 - received 200 (OK) HTTP response
+[2022-08-13 15:44:08] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:80 / 155.133.230.20:80, host: cache4-waw1.steamcontent.com): cache4-waw1.steamcontent.com/depot/3/manifest/8096513071444961518/5/14029961557409210462 - received 200 (OK) HTTP response
+[2022-08-13 15:44:08] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:80 / 155.133.230.19:80, host: cache2-waw1.steamcontent.com): cache2-waw1.steamcontent.com/depot/71/manifest/9183617604528345869/5/8788467736091057694 - received 200 (OK) HTTP response
+[2022-08-13 15:44:09] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:80 / 155.133.230.20:80, host: cache4-waw1.steamcontent.com): cache4-waw1.steamcontent.com/depot/96/manifest/8007990985538868417/5/5739710086650087795 - received 200 (OK) HTTP response
+[2022-08-13 15:44:09] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:80 / 155.133.230.19:80, host: cache2-waw1.steamcontent.com): cache2-waw1.steamcontent.com/depot/2/manifest/2139852524811213490/5/13314892515470870440 - received 200 (OK) HTTP response
+[2022-08-13 15:44:09] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:09] AppID 70 update changed : Running Update,Validating,
+[2022-08-13 15:44:09] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:09] AppID 70 update changed : Running Update,Preallocating,
+[2022-08-13 15:44:09] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:09] AppID 70 update started : download 0/273658576, store 0/0, reuse 0/0, delta 0/0, stage 0/497516975 
+[2022-08-13 15:44:09] AppID 70 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-08-13 15:44:09] AppID 70 update changed : Running Update,Downloading,Staging,
+[2022-08-13 15:44:09] Downloading 3883 chunks from depot 1
+[2022-08-13 15:44:10] AppID 70 scheduler update : Priority User Initiated, not played for 5 seconds, update disabled for 0 seconds
+[2022-08-13 15:44:13] AppID 70 update canceled : Shader Priority (Suspended)
+[2022-08-13 15:44:13] AppID 70 update changed : Running Update,Downloading,Staging,Stopping,
+[2022-08-13 15:44:13] AppID 70 update changed : Running Update,Stopping,
+[2022-08-13 15:44:13] AppID 70 update changed : None
+[2022-08-13 15:44:13] AppID 70 state changed : Update Required,Update Queued,Update Started, (Suspended)
+[2022-08-13 15:44:13] AppID 70 state changed : Update Required,Update Started,
+[2022-08-13 15:44:13] AppID 70 scheduler finished : removed from schedule (result Suspended, state 0x40a) 
+[2022-08-13 15:44:13] AppID 70 scheduler update : Priority Auto Update, not played for 8 seconds, update disabled for 0 seconds
+[2022-08-13 15:44:13] AppID 70 state changed : Update Required,Update Queued,Update Started,
+[2022-08-13 15:44:13] AppID 70 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-08-13 15:44:13] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:13] AppID 70 update changed : Running Update,Reconfiguring,
+[2022-08-13 15:44:17] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:80 / 155.133.230.4:80, host: cache3-waw1.steamcontent.com): cache3-waw1.steamcontent.com/depot/70/manifest/5392289595982594325/5/3771368169762876650 - received 200 (OK) HTTP response
+[2022-08-13 15:44:17] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:17] AppID 70 update changed : Running Update,Preallocating,
+[2022-08-13 15:44:17] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:17] AppID 70 update started : download 0/45392, store 0/0, reuse 0/0, delta 0/0, stage 0/93942 
+[2022-08-13 15:44:17] AppID 70 update changed : Running Update,Downloading,Staging,
+[2022-08-13 15:44:17] Downloading 2 chunks from depot 70
+[2022-08-13 15:44:20] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:20] AppID 70 update changed : Running Update,Committing,
+[2022-08-13 15:44:20] AppID 70 starting commit from "C:\Program Files (x86)\Steam\steamapps\shadercache\70/downloads/" to "C:\Program Files (x86)\Steam\steamapps\shadercache\70/" : 6 updated, 0 moved, 0 deleted files
+[2022-08-13 15:44:20] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:20] AppID 70 update changed : None
+[2022-08-13 15:44:20] AppID 70 state changed : Update Required,Update Queued,Update Started,
+[2022-08-13 15:44:20] AppID 70 scheduler finished : staying in schedule (result No Error, state 0x40a) 
+[2022-08-13 15:44:20] AppID 70 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2022-08-13 15:44:20] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:20] AppID 70 update changed : Running Update,Reconfiguring,
+[2022-08-13 15:44:20] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:20] Increasing target number of download connections to 4 (rate was 0.000, now 44.492)
+[2022-08-13 15:44:20] Created download interface of type 'SteamCache' (7) to host cache1-waw1.steamcontent.com (cache1-waw1.steamcontent.com)
+[2022-08-13 15:44:20] AppID 70 update started : download 16915936/273658576, store 0/0, reuse 0/0, delta 0/0, stage 36977738/497516975 
+[2022-08-13 15:44:20] AppID 70 update changed : Running Update,Downloading,Staging,
+[2022-08-13 15:44:20] Downloading 3600 chunks from depot 1
+[2022-08-13 15:44:32] Increasing target number of download connections to 5 (rate was 44.492, now 62.376)
+[2022-08-13 15:44:32] Created download interface of type 'SteamCache' (7) to host cache11-fra1.steamcontent.com (cache11-fra1.steamcontent.com)
+[2022-08-13 15:44:46] Downloading 87 chunks from depot 3
+[2022-08-13 15:44:47] Downloading 19 chunks from depot 71
+[2022-08-13 15:44:48] Downloading 104 chunks from depot 96
+[2022-08-13 15:44:49] Downloading 64 chunks from depot 2
+[2022-08-13 15:44:51] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:51] AppID 70 update changed : Running Update,Verifying,
+[2022-08-13 15:44:54] Verified 474 MB in 'C:\Program Files (x86)\Steam', clean bytes tally is now 2269 MB
+[2022-08-13 15:44:54] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:54] AppID 70 update changed : Running Update,Committing,
+[2022-08-13 15:44:54] AppID 70 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\70" to "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" : 4097 updated, 0 moved, 0 deleted files
+[2022-08-13 15:44:57] AppID 70 state changed : Fully Installed,Update Queued,Update Running,
+[2022-08-13 15:44:57] AppID 70 finished update, 5 mounted depots (BuildID 5433873) : 1 (5928322771446233610),3 (8096513071444961518),71 (9183617604528345869),96 (8007990985538868417),2 (2139852524811213490),
+[2022-08-13 15:44:57] AppID 70 update changed : Running Update,
+[2022-08-13 15:44:57] AppID 70 update changed : None
+[2022-08-13 15:44:57] AppID 70 state changed : Fully Installed,Update Queued,
+[2022-08-13 15:44:57] AppID 70 state changed : Fully Installed,
+[2022-08-13 15:44:57] AppID 70 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2022-08-13 15:45:21] Current download rate: 0.000 Mbps
+[2022-08-13 15:45:48] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:80 / 155.133.230.19:80, host: cache2-waw1.steamcontent.com): Closing connection
+[2022-08-13 15:45:49] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:80 / 155.133.230.4:80, host: cache3-waw1.steamcontent.com): Closing connection
+[2022-08-13 15:45:49] HTTP (SteamCache,84) - cache11-fra1.steamcontent.com (162.254.197.5:80 / 162.254.197.5:80, host: cache11-fra1.steamcontent.com): Closing connection
+[2022-08-13 15:45:49] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:80 / 155.133.230.20:80, host: cache4-waw1.steamcontent.com): Closing connection
+[2022-08-13 15:45:52] HTTP (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:80 / 155.133.230.3:80, host: cache1-waw1.steamcontent.com): Closing connection
+[2022-08-13 15:52:52] Game 70 adding PID 17144 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Half-Life\hl.exe" -steam"
+[2022-08-13 15:52:52] AppID 70 state changed : Fully Installed,App Running,
+[2022-08-13 16:29:45] Game 70 no longer tracking PID 17144, exit code -1073740791
+[2022-08-13 16:29:45] AppID 70 state changed : Fully Installed,
+[2022-08-13 16:29:58] Game 70 adding PID 9664 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Half-Life\hl.exe" -steam"
+[2022-08-13 16:29:58] AppID 70 state changed : Fully Installed,App Running,
+[2022-08-13 16:30:26] Game 70 no longer tracking PID 9664, exit code 0
+[2022-08-13 16:30:26] AppID 70 state changed : Fully Installed,
+[2022-08-13 18:15:42] Game 70 adding PID 8616 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Half-Life\hl.exe" -steam"
+[2022-08-13 18:15:42] AppID 70 state changed : Fully Installed,App Running,
+[2022-08-13 18:16:00] Game 70 no longer tracking PID 8616, exit code 0
+[2022-08-13 18:16:00] AppID 70 state changed : Fully Installed,
+[2022-08-13 18:16:26] Game 70 adding PID 5104 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Half-Life\hl.exe" -steam"
+[2022-08-13 18:16:26] AppID 70 state changed : Fully Installed,App Running,
+[2022-08-13 18:29:29] Game 70 no longer tracking PID 5104, exit code 0
+[2022-08-13 18:29:29] AppID 70 state changed : Fully Installed,
+[2022-08-13 19:00:05] Game 70 adding PID 6836 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Half-Life\hl.exe" -steam"
+[2022-08-13 19:00:05] AppID 70 state changed : Fully Installed,App Running,
+[2022-08-13 21:53:09] Game 70 no longer tracking PID 6836, exit code 0
+[2022-08-13 21:53:09] AppID 70 state changed : Fully Installed,
+[2022-08-13 22:03:53] Game 70 adding PID 23944 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Half-Life\hl.exe" -steam"
+[2022-08-13 22:03:53] AppID 70 state changed : Fully Installed,App Running,
+[2022-08-13 23:06:45] Game 70 no longer tracking PID 23944, exit code 0
+[2022-08-13 23:06:45] AppID 70 state changed : Fully Installed,
+
+
+[2022-08-24 20:42:15] Loaded 4 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2022-08-24 20:42:31] Game 358270 adding PID 35568 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-24 20:42:31] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-24 21:32:51] Game 358270 no longer tracking PID 35568, exit code 0
+[2022-08-24 21:32:51] AppID 358270 state changed : Fully Installed,
+
+
+[2022-08-25 17:27:58] Loaded 4 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2022-08-25 17:28:18] Game 358270 adding PID 34340 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Death Rally\Death Rally\dr.exe""
+[2022-08-25 17:28:18] AppID 358270 state changed : Fully Installed,App Running,
+[2022-08-25 17:48:17] Game 358270 no longer tracking PID 34340, exit code 0
+[2022-08-25 17:48:17] AppID 358270 state changed : Fully Installed,
+[2022-08-25 17:48:25] Game 70 adding PID 30440 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Half-Life\hl.exe" -steam"
+[2022-08-25 17:48:25] AppID 70 state changed : Fully Installed,App Running,
+[2022-08-25 18:02:54] Game 70 no longer tracking PID 30440, exit code 0
+[2022-08-25 18:02:54] AppID 70 state changed : Fully Installed,
+[2022-08-25 18:08:20] Game 70 adding PID 12764 as a tracked process ""C:\Program Files (x86)\Steam\steamapps\common\Half-Life\hl.exe" -steam"
+[2022-08-25 18:08:20] AppID 70 state changed : Fully Installed,App Running,
+[2022-08-25 18:39:17] Game 70 no longer tracking PID 12764, exit code 0
+[2022-08-25 18:39:17] AppID 70 state changed : Fully Installed,
+
+
+[2023-01-13 19:57:46] Loaded 4 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2023-01-13 19:57:48] AppID 70 scheduler update : Priority Auto Update, not played for 12190710 seconds, update disabled for 0 seconds
+[2023-01-13 19:57:48] AppID 70 state changed : Fully Installed,Update Queued,
+[2023-01-13 19:57:48] AppID 358270 scheduler update : Priority Auto Update, not played for 12193771 seconds, update disabled for 0 seconds
+[2023-01-13 19:57:48] AppID 358270 state changed : Fully Installed,Update Queued,
+[2023-01-13 19:57:48] AppID 70 state changed : Fully Installed,Update Queued,Update Running,
+[2023-01-13 19:57:48] AppID 70 update changed : Running Update,
+[2023-01-13 19:57:48] AppID 70 update changed : Running Update,Reconfiguring,
+[2023-01-13 19:57:48] Got 25 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2023-01-13 19:57:48] Created download interface of type 'SteamCache' (7) to host cache3-waw1.steamcontent.com (cache3-waw1.steamcontent.com)
+[2023-01-13 19:57:48] Created download interface of type 'SteamCache' (7) to host cache4-waw1.steamcontent.com (cache4-waw1.steamcontent.com)
+[2023-01-13 19:57:48] Created download interface of type 'SteamCache' (7) to host cache2-waw1.steamcontent.com (cache2-waw1.steamcontent.com)
+[2023-01-13 19:57:48] Created ipv4-only http client
+[2023-01-13 19:57:49] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:80 / 155.133.230.4:80, host: cache3-waw1.steamcontent.com): cache3-waw1.steamcontent.com/depot/70/manifest/3617961600068062517/5/13362703741375434690 - received 200 (OK) HTTP response
+[2023-01-13 19:57:49] AppID 70 update changed : Running Update,
+[2023-01-13 19:57:49] AppID 70 update changed : Running Update,Preallocating,
+[2023-01-13 19:57:49] AppID 70 update changed : Running Update,
+[2023-01-13 19:57:49] AppID 70 update started : download 0/36848, store 0/0, reuse 0/0, delta 0/0, stage 0/82119 
+[2023-01-13 19:57:49] AppID 70 update changed : Running Update,Downloading,Staging,
+[2023-01-13 19:57:49] Downloading 2 chunks from depot 70
+[2023-01-13 19:57:49] AppID 70 update changed : Running Update,
+[2023-01-13 19:57:49] AppID 70 update changed : Running Update,Committing,
+[2023-01-13 19:57:49] AppID 70 starting commit from "C:\Program Files (x86)\Steam\steamapps\shadercache\70/downloads/" to "C:\Program Files (x86)\Steam\steamapps\shadercache\70/" : 6 updated, 0 moved, 0 deleted files
+[2023-01-13 19:57:49] AppID 70 update changed : Running Update,
+[2023-01-13 19:57:49] AppID 70 update changed : None
+[2023-01-13 19:57:49] AppID 70 state changed : Fully Installed,Update Queued,
+[2023-01-13 19:57:49] AppID 70 state changed : Fully Installed,
+[2023-01-13 19:57:49] AppID 70 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2023-01-13 19:57:49] AppID 358270 state changed : Fully Installed,Update Queued,Update Running,
+[2023-01-13 19:57:49] AppID 358270 update changed : Running Update,
+[2023-01-13 19:57:49] AppID 358270 update changed : Running Update,Reconfiguring,
+[2023-01-13 19:57:50] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:80 / 155.133.230.19:80, host: cache2-waw1.steamcontent.com): cache2-waw1.steamcontent.com/depot/358270/manifest/8814790614052242893/5/615663844033772226 - received 200 (OK) HTTP response
+[2023-01-13 19:57:50] AppID 358270 update changed : Running Update,
+[2023-01-13 19:57:50] AppID 358270 update changed : Running Update,Preallocating,
+[2023-01-13 19:57:50] AppID 358270 update changed : Running Update,
+[2023-01-13 19:57:50] AppID 358270 update started : download 0/2624, store 0/0, reuse 0/0, delta 0/0, stage 0/2646 
+[2023-01-13 19:57:50] AppID 358270 update changed : Running Update,Downloading,Staging,
+[2023-01-13 19:57:50] Downloading 2 chunks from depot 358270
+[2023-01-13 19:57:50] AppID 358270 update changed : Running Update,
+[2023-01-13 19:57:50] AppID 358270 update changed : Running Update,Committing,
+[2023-01-13 19:57:50] AppID 358270 starting commit from "C:\Program Files (x86)\Steam\steamapps\shadercache\358270/downloads/" to "C:\Program Files (x86)\Steam\steamapps\shadercache\358270/" : 6 updated, 0 moved, 0 deleted files
+[2023-01-13 19:57:50] AppID 358270 update changed : Running Update,
+[2023-01-13 19:57:50] AppID 358270 update changed : None
+[2023-01-13 19:57:50] AppID 358270 state changed : Fully Installed,Update Queued,
+[2023-01-13 19:57:50] AppID 358270 state changed : Fully Installed,
+[2023-01-13 19:57:50] AppID 358270 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2023-01-13 19:58:49] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-waw1.steamcontent.com): Closing connection
+[2023-01-13 19:58:51] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:80 / 155.133.230.19:80, host: cache2-waw1.steamcontent.com): Closing connection
+[2023-01-13 19:58:51] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:80 / 155.133.230.4:80, host: cache3-waw1.steamcontent.com): Closing connection
+
+
+[2023-03-22 22:36:12] Loaded 4 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2023-03-22 22:36:15] AppID 70 scheduler update : Priority Auto Update, not played for 18075417 seconds, update disabled for 0 seconds
+[2023-03-22 22:36:15] AppID 70 state changed : Fully Installed,Update Queued,
+[2023-03-22 22:36:15] AppID 70 state changed : Fully Installed,Update Queued,Update Running,
+[2023-03-22 22:36:15] AppID 70 update changed : Running Update,
+[2023-03-22 22:36:15] AppID 70 update changed : Running Update,Reconfiguring,
+[2023-03-22 22:36:15] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2023-03-22 22:36:15] Created download interface of type 'SteamCache' (7) to host cache3-waw1.steamcontent.com (cache3-waw1.steamcontent.com)
+[2023-03-22 22:36:15] Created download interface of type 'SteamCache' (7) to host cache4-waw1.steamcontent.com (cache4-waw1.steamcontent.com)
+[2023-03-22 22:36:15] Created download interface of type 'SteamCache' (7) to host cache1-waw1.steamcontent.com (cache1-waw1.steamcontent.com)
+[2023-03-22 22:36:16] HTTP/2 available
+[2023-03-22 22:36:16] Created ipv4-only http client
+[2023-03-22 22:36:26] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:80 / 155.133.230.4:80, host: cache3-waw1.steamcontent.com): cache3-waw1.steamcontent.com/depot/70/manifest/5123956711994743695/5/12142227484854599217 - received 503 (Service Unavailable) HTTP response
+[2023-03-22 22:36:26] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:80 / 155.133.230.4:80, host: cache3-waw1.steamcontent.com): Closing connection
+[2023-03-22 22:36:26] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 0 Bytes, 0 sec (0.00 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes)
+[2023-03-22 22:36:26] Created download interface of type 'SteamCache' (7) to host cache6-waw1.steamcontent.com (cache6-waw1.steamcontent.com)
+[2023-03-22 22:36:27] HTTP (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:80 / 155.133.230.3:80, host: cache1-waw1.steamcontent.com): cache1-waw1.steamcontent.com/depot/70/manifest/5123956711994743695/5/12142227484854599217 - received 200 (OK) HTTP response
+[2023-03-22 22:36:27] AppID 70 update changed : Running Update,
+[2023-03-22 22:36:27] AppID 70 update changed : Running Update,Preallocating,
+[2023-03-22 22:36:27] AppID 70 update changed : Running Update,
+[2023-03-22 22:36:27] AppID 70 update started : download 0/43824, store 0/0, reuse 0/0, delta 0/0, stage 0/90998 
+[2023-03-22 22:36:27] AppID 70 update changed : Running Update,Downloading,Staging,
+[2023-03-22 22:36:27] Downloading 2 chunks from depot 70
+[2023-03-22 22:36:27] AppID 70 update changed : Running Update,
+[2023-03-22 22:36:27] AppID 70 update changed : Running Update,Committing,
+[2023-03-22 22:36:27] AppID 70 starting commit from "C:\Program Files (x86)\Steam\steamapps\shadercache\70/downloads/" to "C:\Program Files (x86)\Steam\steamapps\shadercache\70/" : 2 updated, 0 moved, 0 deleted files
+[2023-03-22 22:36:27] AppID 70 update changed : Running Update,
+[2023-03-22 22:36:27] AppID 70 update changed : None
+[2023-03-22 22:36:27] AppID 70 state changed : Fully Installed,Update Queued,
+[2023-03-22 22:36:27] AppID 70 state changed : Fully Installed,
+[2023-03-22 22:36:27] AppID 70 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2023-03-22 22:37:16] HTTP (SteamCache,88) - cache4-waw1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-waw1.steamcontent.com): Closing connection
+[2023-03-22 22:37:28] HTTP (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:80 / 155.133.230.3:80, host: cache1-waw1.steamcontent.com): Closing connection
+[2023-03-22 22:37:28] HTTP (SteamCache,70) - cache6-waw1.steamcontent.com (155.133.230.21:80 / 155.133.230.21:80, host: cache6-waw1.steamcontent.com): Closing connection
+
+
+[2024-03-04 18:57:28] Client version: 1709168962
+[2024-03-04 18:57:28] Loaded Steam library folders configuration: C:\Program Files (x86)\Steam\steamapps\libraryfolders.vdf
+[2024-03-04 18:57:29] Loaded 4 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2024-03-04 18:57:29] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-03-08 09:20:37] Client version: 1709168962
+[2024-03-08 09:20:37] Loaded Steam library folders configuration: C:\Program Files (x86)\Steam\steamapps\libraryfolders.vdf
+[2024-03-08 09:22:29] Loaded 4 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2024-03-08 09:22:29] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-03-08 09:22:30] SSGL: UI mode (0->7)
+[2024-03-08 09:22:30] AppID 70 state changed : Update Required,Fully Installed, (Update delayed for 150439 secs)
+[2024-03-08 09:22:30] AppID 70 config changed : removed depots 1,3,71,96,2
+[2024-03-08 09:22:30] AppID 6800 state changed : Update Required,Fully Installed, (Update delayed for 576050 secs)
+[2024-03-08 09:22:30] AppID 6800 config changed : removed depots 6801,6802
+[2024-03-08 09:22:30] AppID 358270 state changed : Update Required,Fully Installed, (Update delayed for 424181 secs)
+[2024-03-08 09:22:30] AppID 358270 config changed : removed depots 358271
+[2024-03-08 09:22:30] AppID 358280 state changed : Update Required,Fully Installed,Shared Only,
+[2024-03-08 09:22:30] AppID 358280 config changed : removed depots 358282
+[2024-03-08 09:22:30] AppID 70 state changed : Update Required,Fully Installed,Prefetching Info, (Update delayed for 150439 secs)
+[2024-03-08 09:22:31] AppID 70 state changed : Update Required,Fully Installed, (Update delayed for 150438 secs)
+[2024-03-08 09:22:31] AppID 70 update prefetch finished : 0 bytes to download, 0 bytes to stage
+[2024-03-08 09:22:31] AppID 6800 state changed : Update Required,Fully Installed,Prefetching Info, (Update delayed for 576049 secs)
+[2024-03-08 09:22:31] AppID 6800 state changed : Update Required,Fully Installed, (Update delayed for 576049 secs)
+[2024-03-08 09:22:31] AppID 6800 update prefetch finished : 0 bytes to download, 0 bytes to stage
+[2024-03-08 09:22:31] AppID 358270 state changed : Update Required,Fully Installed,Prefetching Info, (Update delayed for 424180 secs)
+[2024-03-08 09:22:31] AppID 358270 state changed : Update Required,Fully Installed, (Update delayed for 424180 secs)
+[2024-03-08 09:22:31] AppID 358270 update prefetch finished : 0 bytes to download, 0 bytes to stage
+[2024-03-08 09:22:31] AppID 358280 state changed : Update Required,Fully Installed,Shared Only,Prefetching Info,
+[2024-03-08 09:22:31] AppID 358280 state changed : Update Required,Fully Installed,Shared Only,
+[2024-03-08 09:22:31] AppID 358280 update prefetch finished : 0 bytes to download, 0 bytes to stage
+[2024-03-08 09:22:32] AppID 228980 state changed : Update Required,Shared Only,
+[2024-03-08 09:22:32] AppID 228980 state changed : Update Required,
+[2024-03-08 09:22:32] Dependency added: parent 228980, child 70, depot 228988
+[2024-03-08 09:22:32] AppID 70 config changed : updated depots 1,3,71,96,2
+[2024-03-08 09:22:34] AppID 228980 config changed : added depots 228988
+[2024-03-08 09:22:37] AppID 228980 scheduler update : Priority Auto Update, not played for 1709886157 seconds, update disabled for 0 seconds
+[2024-03-08 09:22:37] AppID 228980 state changed : Update Required,Update Queued,
+[2024-03-08 09:22:37] AppID 228980 state changed : Update Required,Update Queued,Update Running,
+[2024-03-08 09:22:37] AppID 228980 update changed : Running Update,
+[2024-03-08 09:22:37] AppID 228980 update changed : Running Update,Reconfiguring,
+[2024-03-08 09:22:38] AppID 70 config changed : updated depots 1,3,71,96,2
+[2024-03-08 09:22:38] AppID 228980 config changed : added depots 228988
+[2024-03-08 09:22:38] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-03-08 09:22:38] Moving to source priority class '3'
+[2024-03-08 09:22:38] Created download interface of type 'SteamCache' (7) to host cache1-waw1.steamcontent.com (cache1-waw1.steamcontent.com)
+[2024-03-08 09:22:38] Created download interface of type 'SteamCache' (7) to host cache3-waw1.steamcontent.com (cache3-waw1.steamcontent.com)
+[2024-03-08 09:22:38] Created download interface of type 'SteamCache' (7) to host cache4-waw1.steamcontent.com (cache4-waw1.steamcontent.com)
+[2024-03-08 09:22:38] HTTP/2 available
+[2024-03-08 09:22:38] Created ipv4-only http client
+[2024-03-08 09:22:39] HTTPS (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:443 / 155.133.230.3:443, host: cache1-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-03-08 09:22:39] HTTP/2 (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:443 / 155.133.230.3:443, host: cache1-waw1.steamcontent.com): cache1-waw1.steamcontent.com/depot/228988/manifest/6645201662696499616/5/84064509882307230 - received 200 (OK) HTTP response
+[2024-03-08 09:22:39] AppID 228980 update changed : Running Update,
+[2024-03-08 09:22:39] AppID 228980 update changed : Running Update,Validating,
+[2024-03-08 09:22:39] AppID 228980 update changed : Running Update,
+[2024-03-08 09:22:39] AppID 228980 update changed : Running Update,Preallocating,
+[2024-03-08 09:22:39] AppID 228980 preallocated 2 files (27 MB) 
+[2024-03-08 09:22:39] AppID 228980 update changed : Running Update,
+[2024-03-08 09:22:39] AppID 228980 update started : download 0/22411856, store 0/0, reuse 0/0, delta 0/0, stage 0/29212173 
+[2024-03-08 09:22:39] AppID 228980 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-03-08 09:22:39] AppID 228980 update changed : Running Update,Downloading,Staging,
+[2024-03-08 09:22:39] Downloading 26 chunks from depot 228988
+[2024-03-08 09:22:40] HTTPS (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:443 / 155.133.230.20:443, host: cache4-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-03-08 09:22:40] HTTPS (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:443 / 155.133.230.4:443, host: cache3-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-03-08 09:22:51] Increasing target number of download connections to 4 (rate was 0.000, now 5.346)
+[2024-03-08 09:22:51] Created download interface of type 'SteamCache' (7) to host cache6-waw1.steamcontent.com (cache6-waw1.steamcontent.com)
+[2024-03-08 09:22:53] HTTPS (SteamCache,70) - cache6-waw1.steamcontent.com (155.133.230.21:443 / 155.133.230.21:443, host: cache6-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-03-08 09:23:06] Increasing target number of download connections to 5 (rate was 5.346, now 7.023)
+[2024-03-08 09:23:06] Created download interface of type 'SteamCache' (7) to host cache2-waw1.steamcontent.com (cache2-waw1.steamcontent.com)
+[2024-03-08 09:23:09] AppID 228980 update changed : Running Update,
+[2024-03-08 09:23:09] AppID 228980 update changed : Running Update,Committing,
+[2024-03-08 09:23:09] AppID 228980 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\228980" to "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared" : 5 updated, 0 moved, 0 deleted files
+[2024-03-08 09:23:09] AppID 228980 state changed : Fully Installed,Update Queued,Update Running,
+[2024-03-08 09:23:09] AppID 228980 finished update, 1 mounted depots (BuildID 11255752) : 228988 (6645201662696499616),
+[2024-03-08 09:23:09] AppID 228980 update changed : Running Update,
+[2024-03-08 09:23:10] AppID 228980 update changed : None
+[2024-03-08 09:23:10] AppID 228980 state changed : Fully Installed,Update Queued,
+[2024-03-08 09:23:10] AppID 228980 state changed : Fully Installed,
+[2024-03-08 09:23:10] AppID 228980 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-03-08 09:23:52] Current download rate: 0.000 Mbps
+[2024-03-08 09:24:06] HTTP/2 (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:443 / 155.133.230.4:443, host: cache3-waw1.steamcontent.com): Closing connection
+[2024-03-08 09:24:07] HTTP (SteamCache,176) - cache2-waw1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache2-waw1.steamcontent.com): Closing connection
+[2024-03-08 09:24:07] HTTP/2 (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:443 / 155.133.230.3:443, host: cache1-waw1.steamcontent.com): Closing connection
+[2024-03-08 09:24:09] HTTP/2 (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:443 / 155.133.230.20:443, host: cache4-waw1.steamcontent.com): Closing connection
+[2024-03-08 09:24:10] HTTP/2 (SteamCache,70) - cache6-waw1.steamcontent.com (155.133.230.21:443 / 155.133.230.21:443, host: cache6-waw1.steamcontent.com): Closing connection
+[2024-03-08 09:24:48] AppID 70 scheduler update : Priority First, not played for 48440730 seconds, update disabled for 0 seconds
+[2024-03-08 09:24:48] AppID 70 state changed : Update Required,Fully Installed,Update Queued, (Update delayed for 150301 secs)
+[2024-03-08 09:24:48] AppID 70 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2024-03-08 09:24:48] AppID 70 update changed : Running Update,
+[2024-03-08 09:24:48] AppID 70 update changed : Running Update,Reconfiguring,
+[2024-03-08 09:24:48] Moving to source priority class '3'
+[2024-03-08 09:24:48] Created download interface of type 'SteamCache' (7) to host cache1-waw1.steamcontent.com (cache1-waw1.steamcontent.com)
+[2024-03-08 09:24:48] Created download interface of type 'SteamCache' (7) to host cache3-waw1.steamcontent.com (cache3-waw1.steamcontent.com)
+[2024-03-08 09:24:48] Created download interface of type 'SteamCache' (7) to host cache4-waw1.steamcontent.com (cache4-waw1.steamcontent.com)
+[2024-03-08 09:24:49] HTTPS (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:443 / 155.133.230.3:443, host: cache1-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-03-08 09:24:49] HTTP/2 (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:443 / 155.133.230.3:443, host: cache1-waw1.steamcontent.com): cache1-waw1.steamcontent.com/depot/70/manifest/3998539757897334418/5/14736381552588724285 - received 200 (OK) HTTP response
+[2024-03-08 09:24:49] AppID 70 update changed : Running Update,
+[2024-03-08 09:24:49] AppID 70 update changed : Running Update,Preallocating,
+[2024-03-08 09:24:49] AppID 70 preallocated 0 files (0 MB) 
+[2024-03-08 09:24:49] AppID 70 update changed : Running Update,
+[2024-03-08 09:24:49] AppID 70 update started : download 0/9568, store 0/0, reuse 0/0, delta 0/0, stage 0/40375 
+[2024-03-08 09:24:49] AppID 70 update changed : Running Update,Downloading,Staging,
+[2024-03-08 09:24:49] Downloading 2 chunks from depot 70
+[2024-03-08 09:24:50] HTTPS (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:443 / 155.133.230.20:443, host: cache4-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-03-08 09:24:50] AppID 70 update changed : Running Update,
+[2024-03-08 09:24:50] AppID 70 update changed : Running Update,Committing,
+[2024-03-08 09:24:50] AppID 70 starting commit from "C:\Program Files (x86)\Steam\steamapps\shadercache\70/downloads/" to "C:\Program Files (x86)\Steam\steamapps\shadercache\70/" : 6 updated, 0 moved, 0 deleted files
+[2024-03-08 09:24:50] AppID 70 update changed : Running Update,
+[2024-03-08 09:24:50] AppID 70 update changed : None
+[2024-03-08 09:24:50] AppID 70 state changed : Update Required,Fully Installed,Update Queued,
+[2024-03-08 09:24:50] AppID 70 scheduler finished : staying in schedule (result No Error, state 0xe) 
+[2024-03-08 09:24:50] AppID 70 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2024-03-08 09:24:50] AppID 70 update changed : Running Update,
+[2024-03-08 09:24:50] AppID 70 update changed : Running Update,Reconfiguring,
+[2024-03-08 09:24:50] HTTP/2 (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:443 / 155.133.230.3:443, host: cache1-waw1.steamcontent.com): cache1-waw1.steamcontent.com/depot/3/manifest/6081070194444336449/5/3356728820725161739 - received 200 (OK) HTTP response
+[2024-03-08 09:24:51] HTTP/2 (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:443 / 155.133.230.20:443, host: cache4-waw1.steamcontent.com): cache4-waw1.steamcontent.com/depot/1/manifest/6665583105370934040/5/2013071483798204944 - received 200 (OK) HTTP response
+[2024-03-08 09:24:51] HTTPS (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:443 / 155.133.230.4:443, host: cache3-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-03-08 09:24:51] HTTP/2 (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:443 / 155.133.230.4:443, host: cache3-waw1.steamcontent.com): cache3-waw1.steamcontent.com/depot/71/manifest/5133329123964362030/5/6936407761018355649 - received 200 (OK) HTTP response
+[2024-03-08 09:24:51] HTTP/2 (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:443 / 155.133.230.4:443, host: cache3-waw1.steamcontent.com): cache3-waw1.steamcontent.com/depot/2/manifest/3124227209284380614/5/16118379796162379118 - received 200 (OK) HTTP response
+[2024-03-08 09:24:51] HTTP/2 (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:443 / 155.133.230.3:443, host: cache1-waw1.steamcontent.com): cache1-waw1.steamcontent.com/depot/96/manifest/6298465564582633871/5/2324572657664322998 - received 200 (OK) HTTP response
+[2024-03-08 09:24:52] AppID 70 update changed : Running Update,
+[2024-03-08 09:24:52] AppID 70 update changed : Running Update,Validating,
+[2024-03-08 09:24:52] AppID 70 update changed : Running Update,
+[2024-03-08 09:24:52] AppID 70 update changed : Running Update,Preallocating,
+[2024-03-08 09:24:53] AppID 70 preallocated 53 files (85 MB) 
+[2024-03-08 09:24:53] AppID 70 update changed : Running Update,
+[2024-03-08 09:24:53] AppID 70 update started : download 0/29177264, store 0/0, reuse 0/3354100, delta 0/0, stage 0/122522845 
+[2024-03-08 09:24:53] AppID 70 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2024-03-08 09:24:53] AppID 70 update changed : Running Update,Downloading,Staging,
+[2024-03-08 09:24:53] Downloading 586 chunks from depot 1
+[2024-03-08 09:24:58] AppID 358270 scheduler update : Priority First, not played for 48443801 seconds, update disabled for 0 seconds
+[2024-03-08 09:24:58] AppID 358270 state changed : Update Required,Fully Installed,Update Queued, (Update delayed for 424033 secs)
+[2024-03-08 09:24:58] AppID 70 update canceled : Priority (Suspended)
+[2024-03-08 09:24:58] AppID 70 update changed : Running Update,Downloading,Staging,Stopping,
+[2024-03-08 09:24:58] AppID 70 update changed : Running Update,Stopping,
+[2024-03-08 09:24:58] AppID 70 update changed : Running Update,Downloading,Staging,Stopping,
+[2024-03-08 09:24:58] AppID 70 update changed : Running Update,Stopping,
+[2024-03-08 09:24:58] AppID 70 update changed : None
+[2024-03-08 09:24:58] AppID 70 state changed : Update Required,Fully Installed,Update Queued,Update Started, (Suspended)
+[2024-03-08 09:24:58] AppID 70 scheduler finished : staying in schedule (result Suspended, state 0x40e) 
+[2024-03-08 09:24:58] AppID 358270 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2024-03-08 09:24:58] AppID 358270 update changed : Running Update,
+[2024-03-08 09:24:58] AppID 358270 update changed : Running Update,Reconfiguring,
+[2024-03-08 09:25:00] HTTP/2 (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:443 / 155.133.230.4:443, host: cache3-waw1.steamcontent.com): cache3-waw1.steamcontent.com/depot/358270/manifest/6430462837336332360/5/12004573685690450622 - received 200 (OK) HTTP response
+[2024-03-08 09:25:00] AppID 358270 update changed : Running Update,
+[2024-03-08 09:25:00] AppID 358270 update changed : Running Update,Preallocating,
+[2024-03-08 09:25:00] AppID 358270 preallocated 0 files (0 MB) 
+[2024-03-08 09:25:00] AppID 358270 update changed : Running Update,
+[2024-03-08 09:25:00] AppID 358270 update started : download 0/1008, store 0/0, reuse 0/0, delta 0/0, stage 0/925 
+[2024-03-08 09:25:00] AppID 358270 update changed : Running Update,Downloading,Staging,
+[2024-03-08 09:25:00] Downloading 2 chunks from depot 358270
+[2024-03-08 09:25:00] AppID 6800 scheduler update : Priority First, not played for 71165038 seconds, update disabled for 0 seconds
+[2024-03-08 09:25:00] AppID 6800 state changed : Update Required,Fully Installed,Update Queued, (Update delayed for 575900 secs)
+[2024-03-08 09:25:00] AppID 358270 update changed : Running Update,Downloading,Staging,Stopping,
+[2024-03-08 09:25:00] AppID 358270 update changed : Running Update,Stopping,
+[2024-03-08 09:25:00] AppID 358270 update changed : None
+[2024-03-08 09:25:00] AppID 358270 state changed : Update Required,Fully Installed,Update Queued,
+[2024-03-08 09:25:00] AppID 358270 scheduler finished : staying in schedule (result Suspended, state 0xe) 
+[2024-03-08 09:25:00] AppID 6800 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2024-03-08 09:25:00] AppID 6800 update changed : Running Update,
+[2024-03-08 09:25:00] AppID 6800 update changed : Running Update,Reconfiguring,
+[2024-03-08 09:25:00] AppID 6800 update changed : Running Update,
+[2024-03-08 09:25:00] AppID 6800 update changed : Running Update,Validating,
+[2024-03-08 09:25:00] AppID 6800 update changed : Running Update,
+[2024-03-08 09:25:00] AppID 6800 has no changes, 2 active: 6801 (6511249766619551686),6802 (1044246912093648771), 2 target: 6801 (6511249766619551686),6802 (1044246912093648771),
+[2024-03-08 09:25:00] AppID 6800 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2024-03-08 09:25:00] AppID 6800 update changed : Running Update,Staging,
+[2024-03-08 09:25:00] AppID 6800 update changed : Running Update,
+[2024-03-08 09:25:00] AppID 6800 update changed : Running Update,Committing,
+[2024-03-08 09:25:00] AppID 6800 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\6800" to "C:\Program Files (x86)\Steam\steamapps\common\Commandos Behind Enemy Lines" : 0 updated, 0 moved, 0 deleted files
+[2024-03-08 09:25:00] AppID 6800 state changed : Fully Installed,Update Queued,Update Running,
+[2024-03-08 09:25:00] AppID 6800 finished update, 2 mounted depots (BuildID 994056) : 6801 (6511249766619551686),6802 (1044246912093648771),
+[2024-03-08 09:25:00] AppID 6800 update changed : Running Update,
+[2024-03-08 09:25:00] AppID 6800 update changed : None
+[2024-03-08 09:25:00] AppID 6800 state changed : Fully Installed,Update Queued,
+[2024-03-08 09:25:00] AppID 6800 state changed : Fully Installed,
+[2024-03-08 09:25:00] AppID 6800 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-03-08 09:25:00] AppID 358270 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2024-03-08 09:25:00] AppID 358270 update changed : Running Update,
+[2024-03-08 09:25:00] AppID 358270 update changed : Running Update,Reconfiguring,
+[2024-03-08 09:25:00] AppID 358270 update changed : Running Update,
+[2024-03-08 09:25:00] AppID 358270 update started : download 0/1008, store 0/0, reuse 0/0, delta 0/0, stage 0/925 
+[2024-03-08 09:25:00] AppID 358270 update changed : Running Update,Downloading,Staging,
+[2024-03-08 09:25:00] Downloading 2 chunks from depot 358270
+[2024-03-08 09:25:01] Increasing target number of download connections to 4 (rate was 0.000, now 10.850)
+[2024-03-08 09:25:01] Current download rate: 10.850 Mbps
+[2024-03-08 09:25:01] Created download interface of type 'SteamCache' (7) to host cache6-waw1.steamcontent.com (cache6-waw1.steamcontent.com)
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,Committing,
+[2024-03-08 09:25:02] AppID 358270 starting commit from "C:\Program Files (x86)\Steam\steamapps\shadercache\358270/downloads/" to "C:\Program Files (x86)\Steam\steamapps\shadercache\358270/" : 6 updated, 0 moved, 0 deleted files
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,
+[2024-03-08 09:25:02] AppID 358270 update changed : None
+[2024-03-08 09:25:02] AppID 358270 state changed : Update Required,Fully Installed,Update Queued,
+[2024-03-08 09:25:02] AppID 358270 scheduler finished : staying in schedule (result No Error, state 0xe) 
+[2024-03-08 09:25:02] AppID 358270 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2024-03-08 09:25:02] AppID 358280 state changed : Update Required,Fully Installed,Shared Only,Update Running,
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,Reconfiguring,
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,Validating,
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,
+[2024-03-08 09:25:02] AppID 358280 has no changes, 1 active: 358282 (1875167985428786150), 1 target: 358282 (1875167985428786150),
+[2024-03-08 09:25:02] AppID 358280 state changed : Update Required,Fully Installed,Shared Only,Update Running,Update Started,
+[2024-03-08 09:25:02] AppID 358270 has no changes, 1 active: 358271 (1672872052065671997), 1 target: 358271 (1672872052065671997),
+[2024-03-08 09:25:02] AppID 358270 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,Staging,
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,Staging,
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,Committing,
+[2024-03-08 09:25:02] AppID 358280 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\358280" to "C:\Program Files (x86)\Steam\steamapps\common\Alien Carnage  Halloween Harry" : 0 updated, 0 moved, 0 deleted files
+[2024-03-08 09:25:02] AppID 358280 state changed : Fully Installed,Shared Only,Update Running,
+[2024-03-08 09:25:02] AppID 358280 finished update, 1 mounted depots (BuildID 881927) : 358282 (1875167985428786150),
+[2024-03-08 09:25:02] AppID 358270 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\358270" to "C:\Program Files (x86)\Steam\steamapps\common\Death Rally" : 0 updated, 0 moved, 0 deleted files
+[2024-03-08 09:25:02] AppID 358270 state changed : Fully Installed,Update Queued,Update Running,
+[2024-03-08 09:25:02] AppID 358270 finished update, 1 mounted depots (BuildID 607265) : 358271 (1672872052065671997),
+[2024-03-08 09:25:02] AppID 358270 update changed : Running Update,
+[2024-03-08 09:25:02] AppID 358270 update changed : None
+[2024-03-08 09:25:02] AppID 358280 state changed : Fully Installed,Shared Only,
+[2024-03-08 09:25:02] AppID 358270 state changed : Fully Installed,Update Queued,
+[2024-03-08 09:25:02] AppID 358270 state changed : Fully Installed,
+[2024-03-08 09:25:02] AppID 358270 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-03-08 09:25:02] AppID 70 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2024-03-08 09:25:02] AppID 70 update changed : Running Update,
+[2024-03-08 09:25:02] AppID 70 update changed : Running Update,Reconfiguring,
+[2024-03-08 09:25:03] AppID 70 update changed : Running Update,
+[2024-03-08 09:25:04] AppID 70 update started : download 11028160/29177264, store 0/0, reuse 2788200/3354100, delta 0/0, stage 44715164/122522845 
+[2024-03-08 09:25:04] AppID 70 update changed : Running Update,Downloading,Staging,
+[2024-03-08 09:25:04] Downloading 388 chunks from depot 1
+[2024-03-08 09:25:04] HTTPS (SteamCache,70) - cache6-waw1.steamcontent.com (155.133.230.21:443 / 155.133.230.21:443, host: cache6-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-03-08 09:25:07] Downloading 19 chunks from depot 3
+[2024-03-08 09:25:07] Downloading 21 chunks from depot 71
+[2024-03-08 09:25:09] Downloading 1 chunks from depot 96
+[2024-03-08 09:25:09] Downloading 27 chunks from depot 2
+[2024-03-08 09:25:11] AppID 70 update changed : Running Update,
+[2024-03-08 09:25:11] AppID 70 update changed : Running Update,Staging,
+[2024-03-08 09:25:11] AppID 70 update changed : Running Update,
+[2024-03-08 09:25:11] AppID 70 update changed : Running Update,Committing,
+[2024-03-08 09:25:11] AppID 70 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\70" to "C:\Program Files (x86)\Steam\steamapps\common\Half-Life" : 674 updated, 0 moved, 0 deleted files
+[2024-03-08 09:25:12] AppID 70 state changed : Fully Installed,Update Queued,Update Running,
+[2024-03-08 09:25:12] AppID 70 finished update, 5 mounted depots (BuildID 13032868) : 1 (6665583105370934040),3 (6081070194444336449),71 (5133329123964362030),96 (6298465564582633871),2 (3124227209284380614),
+[2024-03-08 09:25:12] AppID 70 update changed : Running Update,
+[2024-03-08 09:25:12] AppID 70 update changed : None
+[2024-03-08 09:25:12] AppID 70 state changed : Fully Installed,Update Queued,
+[2024-03-08 09:25:12] AppID 70 state changed : Fully Installed,
+[2024-03-08 09:25:12] AppID 70 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-03-08 09:26:02] Current download rate: 0.000 Mbps
+[2024-03-08 09:26:08] HTTP/2 (SteamCache,70) - cache6-waw1.steamcontent.com (155.133.230.21:443 / 155.133.230.21:443, host: cache6-waw1.steamcontent.com): Closing connection
+[2024-03-08 09:26:11] HTTP/2 (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:443 / 155.133.230.4:443, host: cache3-waw1.steamcontent.com): Closing connection
+[2024-03-08 09:26:11] HTTP/2 (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:443 / 155.133.230.3:443, host: cache1-waw1.steamcontent.com): Closing connection
+[2024-03-08 09:26:12] HTTP/2 (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:443 / 155.133.230.20:443, host: cache4-waw1.steamcontent.com): Closing connection
+[2024-03-08 09:28:09] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 18487206 Bytes, 40 sec (3.74 Mbps). 114 Hits / 2 Misses (98 %, 100 % bytes)
+[2024-03-08 09:28:09] stats: (Invalid, 0) : 60936795 Bytes, 47 sec (10.29 Mbps). 991 Hits / 3 Misses (100 %, 100 % bytes)
+[2024-03-08 09:28:09] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 19527196 Bytes, 43 sec (3.66 Mbps). 263 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-03-08 09:28:09] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 19330265 Bytes, 38 sec (4.03 Mbps). 590 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-03-08 09:28:09] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 3592128 Bytes, 21 sec (1.37 Mbps). 24 Hits / 0 Misses (100 %, 100 % bytes)
+
+
+[2024-06-05 20:16:05] Client version: 1709846872
+[2024-06-05 20:16:05] Loaded Steam library folders configuration: C:\Program Files (x86)\Steam\steamapps\libraryfolders.vdf
+[2024-06-05 20:16:08] Loaded 5 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2024-06-05 20:16:08] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-05 20:16:10] SSGL: UI mode (0->7)
+[2024-06-05 20:16:12] AppID 70 scheduler update : Priority Auto Update, not played for 56165814 seconds, update disabled for 0 seconds
+[2024-06-05 20:16:12] AppID 70 state changed : Fully Installed,Update Queued,
+[2024-06-05 20:16:12] AppID 70 state changed : Fully Installed,Update Queued,Update Running,
+[2024-06-05 20:16:12] AppID 70 update changed : Running Update,
+[2024-06-05 20:16:12] AppID 70 update changed : Running Update,Reconfiguring,
+[2024-06-05 20:16:16] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-06-05 20:16:16] Moving to source priority class '3'
+[2024-06-05 20:16:16] Created download interface of type 'SteamCache' (7) to host cache7-waw1.steamcontent.com (cache7-waw1.steamcontent.com)
+[2024-06-05 20:16:16] Created download interface of type 'SteamCache' (7) to host cache3-waw1.steamcontent.com (cache3-waw1.steamcontent.com)
+[2024-06-05 20:16:16] Created download interface of type 'SteamCache' (7) to host cache1-waw1.steamcontent.com (cache1-waw1.steamcontent.com)
+[2024-06-05 20:16:17] HTTP/2 available
+[2024-06-05 20:16:17] Created ipv4-only http client
+[2024-06-05 20:16:18] HTTPS (SteamCache,389) - cache7-waw1.steamcontent.com (155.133.230.8:443 / 155.133.230.8:443, host: cache7-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-06-05 20:16:18] HTTP/2 (SteamCache,389) - cache7-waw1.steamcontent.com (155.133.230.8:443 / 155.133.230.8:443, host: cache7-waw1.steamcontent.com): cache7-waw1.steamcontent.com/depot/70/manifest/5868778974206627992/5/3562271243529500469 - received 200 (OK) HTTP response
+[2024-06-05 20:16:18] AppID 70 update changed : Running Update,
+[2024-06-05 20:16:18] AppID 70 update changed : Running Update,Preallocating,
+[2024-06-05 20:16:18] AppID 70 preallocated 0 files (0 MB) 
+[2024-06-05 20:16:18] AppID 70 update changed : Running Update,
+[2024-06-05 20:16:18] AppID 70 update started : download 0/11904, store 0/0, reuse 0/0, delta 0/0, stage 0/20018 
+[2024-06-05 20:16:18] AppID 70 update changed : Running Update,Downloading,Staging,
+[2024-06-05 20:16:18] Downloading 2 chunks from depot 70
+[2024-06-05 20:16:19] HTTPS (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:443 / 155.133.230.3:443, host: cache1-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-06-05 20:16:19] AppID 70 update changed : Running Update,
+[2024-06-05 20:16:19] AppID 70 update changed : Running Update,Committing,
+[2024-06-05 20:16:19] AppID 70 starting commit from "C:\Program Files (x86)\Steam\steamapps\shadercache\70/downloads/" to "C:\Program Files (x86)\Steam\steamapps\shadercache\70/" : 2 updated, 0 moved, 0 deleted files
+[2024-06-05 20:16:19] AppID 70 update changed : Running Update,
+[2024-06-05 20:16:19] AppID 70 update changed : None
+[2024-06-05 20:16:19] AppID 70 state changed : Fully Installed,Update Queued,
+[2024-06-05 20:16:19] AppID 70 state changed : Fully Installed,
+[2024-06-05 20:16:19] AppID 70 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-06-05 20:17:17] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache3-waw1.steamcontent.com): Closing connection
+[2024-06-05 20:17:19] HTTP/2 (SteamCache,389) - cache7-waw1.steamcontent.com (155.133.230.8:443 / 155.133.230.8:443, host: cache7-waw1.steamcontent.com): Closing connection
+[2024-06-05 20:17:20] HTTP/2 (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:443 / 155.133.230.3:443, host: cache1-waw1.steamcontent.com): Closing connection
+
+
+[2024-06-11 09:59:39] Client version: 1709846872
+[2024-06-11 09:59:39] Loaded Steam library folders configuration: C:\Program Files (x86)\Steam\steamapps\libraryfolders.vdf
+[2024-06-11 09:59:42] Loaded 5 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2024-06-11 09:59:42] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-11 09:59:43] SSGL: UI mode (0->7)
+[2024-06-11 09:59:45] AppID 70 scheduler update : Priority Auto Update, not played for 56647227 seconds, update disabled for 0 seconds
+[2024-06-11 09:59:45] AppID 70 state changed : Fully Installed,Update Queued,
+[2024-06-11 09:59:45] AppID 70 state changed : Fully Installed,Update Queued,Update Running,
+[2024-06-11 09:59:45] AppID 70 update changed : Running Update,
+[2024-06-11 09:59:45] AppID 70 update changed : Running Update,Reconfiguring,
+[2024-06-11 09:59:45] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-06-11 09:59:45] Moving to source priority class '3'
+[2024-06-11 09:59:45] Created download interface of type 'SteamCache' (7) to host cache7-waw1.steamcontent.com (cache7-waw1.steamcontent.com)
+[2024-06-11 09:59:45] Created download interface of type 'SteamCache' (7) to host cache8-waw1.steamcontent.com (cache8-waw1.steamcontent.com)
+[2024-06-11 09:59:45] Created download interface of type 'SteamCache' (7) to host cache1-waw1.steamcontent.com (cache1-waw1.steamcontent.com)
+[2024-06-11 09:59:46] HTTP/2 available
+[2024-06-11 09:59:46] Created ipv4-only http client
+[2024-06-11 09:59:47] HTTPS (SteamCache,389) - cache7-waw1.steamcontent.com (155.133.230.8:443 / 155.133.230.8:443, host: cache7-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-06-11 09:59:47] HTTP/2 (SteamCache,389) - cache7-waw1.steamcontent.com (155.133.230.8:443 / 155.133.230.8:443, host: cache7-waw1.steamcontent.com): cache7-waw1.steamcontent.com/depot/70/manifest/7546704490327736684/5/16308467828264975489 - received 200 (OK) HTTP response
+[2024-06-11 09:59:47] AppID 70 update changed : Running Update,
+[2024-06-11 09:59:47] AppID 70 update changed : Running Update,Preallocating,
+[2024-06-11 09:59:47] AppID 70 preallocated 0 files (0 MB) 
+[2024-06-11 09:59:47] AppID 70 update changed : Running Update,
+[2024-06-11 09:59:47] AppID 70 update started : download 0/14096, store 0/0, reuse 0/0, delta 0/0, stage 0/23008 
+[2024-06-11 09:59:47] AppID 70 update changed : Running Update,Downloading,Staging,
+[2024-06-11 09:59:47] Downloading 2 chunks from depot 70
+[2024-06-11 09:59:47] AppID 70 update changed : Running Update,
+[2024-06-11 09:59:47] AppID 70 update changed : Running Update,Committing,
+[2024-06-11 09:59:47] AppID 70 starting commit from "C:\Program Files (x86)\Steam\steamapps\shadercache\70/downloads/" to "C:\Program Files (x86)\Steam\steamapps\shadercache\70/" : 2 updated, 0 moved, 0 deleted files
+[2024-06-11 09:59:47] AppID 70 update changed : Running Update,
+[2024-06-11 09:59:47] AppID 70 update changed : None
+[2024-06-11 09:59:47] AppID 70 state changed : Fully Installed,Update Queued,
+[2024-06-11 09:59:47] AppID 70 state changed : Fully Installed,
+[2024-06-11 09:59:47] AppID 70 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-06-11 10:00:47] HTTP (SteamCache,175) - cache1-waw1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-waw1.steamcontent.com): Closing connection
+[2024-06-11 10:00:47] HTTP (SteamCache,390) - cache8-waw1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache8-waw1.steamcontent.com): Closing connection
+[2024-06-11 10:00:48] HTTP/2 (SteamCache,389) - cache7-waw1.steamcontent.com (155.133.230.8:443 / 155.133.230.8:443, host: cache7-waw1.steamcontent.com): Closing connection
+
+
+[2024-07-03 13:14:45] Client version: 1709846872
+[2024-07-03 13:14:45] Loaded Steam library folders configuration: C:\Program Files (x86)\Steam\steamapps\libraryfolders.vdf
+[2024-07-03 13:14:48] Loaded 5 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2024-07-03 13:14:48] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-07-03 13:14:49] SSGL: UI mode (0->7)
+[2024-07-03 13:14:51] AppID 70 scheduler update : Priority Auto Update, not played for 58559733 seconds, update disabled for 0 seconds
+[2024-07-03 13:14:51] AppID 70 state changed : Fully Installed,Update Queued,
+[2024-07-03 13:14:51] AppID 358270 scheduler update : Priority Auto Update, not played for 58562794 seconds, update disabled for 0 seconds
+[2024-07-03 13:14:51] AppID 358270 state changed : Fully Installed,Update Queued,
+[2024-07-03 13:14:51] AppID 70 state changed : Fully Installed,Update Queued,Update Running,
+[2024-07-03 13:14:51] AppID 70 update changed : Running Update,
+[2024-07-03 13:14:51] AppID 70 update changed : Running Update,Reconfiguring,
+[2024-07-03 13:14:51] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-07-03 13:14:51] Moving to source priority class '3'
+[2024-07-03 13:14:51] Created download interface of type 'SteamCache' (7) to host cache7-waw1.steamcontent.com (cache7-waw1.steamcontent.com)
+[2024-07-03 13:14:51] Created download interface of type 'SteamCache' (7) to host cache3-waw1.steamcontent.com (cache3-waw1.steamcontent.com)
+[2024-07-03 13:14:51] Created download interface of type 'SteamCache' (7) to host cache8-waw1.steamcontent.com (cache8-waw1.steamcontent.com)
+[2024-07-03 13:14:51] HTTP/2 available
+[2024-07-03 13:14:51] Created dual-stack http client
+[2024-07-03 13:14:53] HTTPS (SteamCache,389) - cache7-waw1.steamcontent.com ([2a01:bc80:9:100::9b85:e608]:443 / [2a01:bc80:9:100::9b85:e608]:443, host: cache7-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-07-03 13:14:53] HTTP/2 (SteamCache,389) - cache7-waw1.steamcontent.com ([2a01:bc80:9:100::9b85:e608]:443 / [2a01:bc80:9:100::9b85:e608]:443, host: cache7-waw1.steamcontent.com): cache7-waw1.steamcontent.com/depot/70/manifest/3357092386258547081/5/10017518292212047283 - received 200 (OK) HTTP response
+[2024-07-03 13:14:53] AppID 70 update changed : Running Update,
+[2024-07-03 13:14:53] AppID 70 update changed : Running Update,Preallocating,
+[2024-07-03 13:14:53] AppID 70 preallocated 0 files (0 MB) 
+[2024-07-03 13:14:53] AppID 70 update changed : Running Update,
+[2024-07-03 13:14:53] AppID 70 update started : download 0/11216, store 0/0, reuse 0/0, delta 0/0, stage 0/20761 
+[2024-07-03 13:14:53] AppID 70 update changed : Running Update,Downloading,Staging,
+[2024-07-03 13:14:53] Downloading 2 chunks from depot 70
+[2024-07-03 13:14:53] HTTPS (SteamCache,390) - cache8-waw1.steamcontent.com ([2a01:bc80:9:100::9b85:e609]:443 / [2a01:bc80:9:100::9b85:e609]:443, host: cache8-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-07-03 13:14:54] AppID 70 update changed : Running Update,
+[2024-07-03 13:14:54] AppID 70 update changed : Running Update,Committing,
+[2024-07-03 13:14:54] AppID 70 starting commit from "C:\Program Files (x86)\Steam\steamapps\shadercache\70/downloads/" to "C:\Program Files (x86)\Steam\steamapps\shadercache\70/" : 2 updated, 0 moved, 0 deleted files
+[2024-07-03 13:14:54] AppID 70 update changed : Running Update,
+[2024-07-03 13:14:54] AppID 70 update changed : None
+[2024-07-03 13:14:54] AppID 70 state changed : Fully Installed,Update Queued,
+[2024-07-03 13:14:54] AppID 70 state changed : Fully Installed,
+[2024-07-03 13:14:54] AppID 70 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-07-03 13:14:54] AppID 358270 state changed : Fully Installed,Update Queued,Update Running,
+[2024-07-03 13:14:54] AppID 358270 update changed : Running Update,
+[2024-07-03 13:14:54] AppID 358270 update changed : Running Update,Reconfiguring,
+[2024-07-03 13:14:55] HTTP/2 (SteamCache,390) - cache8-waw1.steamcontent.com ([2a01:bc80:9:100::9b85:e609]:443 / [2a01:bc80:9:100::9b85:e609]:443, host: cache8-waw1.steamcontent.com): cache8-waw1.steamcontent.com/depot/358270/manifest/1604805708216293513/5/16003006954944681116 - received 200 (OK) HTTP response
+[2024-07-03 13:14:55] AppID 358270 update changed : Running Update,
+[2024-07-03 13:14:55] AppID 358270 update changed : Running Update,Preallocating,
+[2024-07-03 13:14:55] AppID 358270 preallocated 0 files (0 MB) 
+[2024-07-03 13:14:55] AppID 358270 update changed : Running Update,
+[2024-07-03 13:14:55] AppID 358270 update started : download 0/784, store 0/0, reuse 0/0, delta 0/0, stage 0/714 
+[2024-07-03 13:14:55] AppID 358270 update changed : Running Update,Downloading,Staging,
+[2024-07-03 13:14:55] Downloading 2 chunks from depot 358270
+[2024-07-03 13:14:56] AppID 358270 update changed : Running Update,
+[2024-07-03 13:14:56] AppID 358270 update changed : Running Update,Committing,
+[2024-07-03 13:14:56] AppID 358270 starting commit from "C:\Program Files (x86)\Steam\steamapps\shadercache\358270/downloads/" to "C:\Program Files (x86)\Steam\steamapps\shadercache\358270/" : 2 updated, 0 moved, 0 deleted files
+[2024-07-03 13:14:56] AppID 358270 update changed : Running Update,
+[2024-07-03 13:14:56] AppID 358270 update changed : None
+[2024-07-03 13:14:56] AppID 358270 state changed : Fully Installed,Update Queued,
+[2024-07-03 13:14:56] AppID 358270 state changed : Fully Installed,
+[2024-07-03 13:14:56] AppID 358270 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-07-03 13:15:52] HTTP (SteamCache,87) - cache3-waw1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache3-waw1.steamcontent.com): Closing connection
+[2024-07-03 13:15:56] HTTP/2 (SteamCache,390) - cache8-waw1.steamcontent.com ([2a01:bc80:9:100::9b85:e609]:443 / [2a01:bc80:9:100::9b85:e609]:443, host: cache8-waw1.steamcontent.com): Closing connection
+[2024-07-03 13:15:57] HTTP/2 (SteamCache,389) - cache7-waw1.steamcontent.com ([2a01:bc80:9:100::9b85:e608]:443 / [2a01:bc80:9:100::9b85:e608]:443, host: cache7-waw1.steamcontent.com): Closing connection
+[2024-07-03 13:20:23] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 1993 Bytes, 2 sec (0.01 Mbps). 0 Hits / 2 Misses (0 %, 0 % bytes)
+[2024-07-03 13:20:23] stats: (Invalid, 0) : 14415 Bytes, 4 sec (0.03 Mbps). 2 Hits / 2 Misses (50 %, 93 % bytes)
+[2024-07-03 13:20:23] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 12422 Bytes, 2 sec (0.06 Mbps). 2 Hits / 0 Misses (100 %, 100 % bytes)
+
+
+[2024-07-14 12:04:21] Client version: 1718904662
+[2024-07-14 12:04:21] Loaded Steam library folders configuration: C:\Program Files (x86)\Steam\steamapps\libraryfolders.vdf
+[2024-07-14 12:04:22] Loaded 5 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2024-07-14 12:04:22] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-07-14 12:04:24] SSGL: UI mode (0->7)
+
+
+[2024-08-22 11:47:26] Client version: 1718904662
+[2024-08-22 11:47:26] Loaded Steam library folders configuration: C:\Program Files (x86)\Steam\steamapps\libraryfolders.vdf
+[2024-08-22 11:47:29] Loaded 5 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2024-08-22 11:47:29] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-22 11:47:30] SSGL: UI mode (0->7)
+
+
+[2024-08-24 18:26:25] Client version: 1721173382
+[2024-08-24 18:26:25] Loaded Steam library folders configuration: C:\Program Files (x86)\Steam\steamapps\libraryfolders.vdf
+[2024-08-24 18:26:28] Loaded 5 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2024-08-24 18:26:28] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-24 18:26:29] SSGL: UI mode (0->7)
+
+
+[2024-10-01 20:23:05] Client version: 1721173382
+[2024-10-01 20:23:05] Loaded Steam library folders configuration: C:\Program Files (x86)\Steam\steamapps\libraryfolders.vdf
+[2024-10-01 20:23:07] Loaded 5 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2024-10-01 20:23:07] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-10-01 20:23:09] SSGL: UI mode (0->7)
+[2024-10-01 20:53:06] Mounted library folder "D:\SteamLibrary" : content id 8841049878237859473
+[2024-10-01 20:53:06] Loaded 0 apps from install folder "D:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2024-10-01 20:53:06] Triggered async write of Steam library folders configuration (2 libraries).
+[2024-10-01 20:53:35] AppID 1196590 state changed : Update Required,
+[2024-10-01 20:53:35] Dependency added: parent 228980, child 1196590, depot 228988
+[2024-10-01 20:53:35] Dependency added: parent 228980, child 1196590, depot 228990
+[2024-10-01 20:53:35] AppID 228980 state changed : Update Required,Fully Installed,
+[2024-10-01 20:53:35] AppID 1196590 user config changed : added depots 1196591,1196593
+[2024-10-01 20:53:35] AppID 228980 user config changed : added depots 228990
+[2024-10-01 20:53:35] AppID 1196590 scheduler update : Priority First, not played for 2 seconds, update disabled for 0 seconds
+[2024-10-01 20:53:35] AppID 1196590 state changed : Update Required,Update Queued,
+[2024-10-01 20:53:35] AppID 228980 scheduler update : Priority User Initiated, not played for 1727808815 seconds, update disabled for 0 seconds
+[2024-10-01 20:53:35] AppID 228980 state changed : Update Required,Fully Installed,Update Queued,
+[2024-10-01 20:53:35] AppID 1196590 state changed : Update Required,Update Queued,Update Running,
+[2024-10-01 20:53:35] AppID 228980 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2024-10-01 20:53:35] AppID 1196590 update changed : Running Update,
+[2024-10-01 20:53:35] AppID 1196590 update changed : Running Update,Reconfiguring,
+[2024-10-01 20:53:36] Got 17 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 20:53:36] Moving to source priority class '3'
+[2024-10-01 20:53:36] Created download interface of type 'SteamCache' (7) to host cache7-waw1.steamcontent.com (cache7-waw1.steamcontent.com)
+[2024-10-01 20:53:36] Created download interface of type 'SteamCache' (7) to host cache1-waw1.steamcontent.com (cache1-waw1.steamcontent.com)
+[2024-10-01 20:53:36] Created download interface of type 'SteamCache' (7) to host cache3-waw1.steamcontent.com (cache3-waw1.steamcontent.com)
+[2024-10-01 20:53:36] AppID 1196590 config changed : added depots 1196591,1196593
+[2024-10-01 20:53:36] AppID 1196590 config changed : added depots 1196591,1196593
+[2024-10-01 20:53:36] AppID 1196590 config changed : added depots 1196591,1196593
+[2024-10-01 20:53:36] AppID 1196590 config changed : added depots 1196591,1196593
+[2024-10-01 20:53:36] AppID 1196590 config changed : added depots 1196591,1196593
+[2024-10-01 20:53:36] AppID 1196590 config changed : added depots 1196591,1196593
+[2024-10-01 20:53:37] HTTP/2 available
+[2024-10-01 20:53:37] Created ipv4-only http client
+[2024-10-01 20:53:37] HTTPS (SteamCache,389) - cache7-waw1.steamcontent.com (155.133.230.8:443 / 155.133.230.8:443, host: cache7-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 20:53:37] HTTP/2 (SteamCache,389) - cache7-waw1.steamcontent.com (155.133.230.8:443 / 155.133.230.8:443, host: cache7-waw1.steamcontent.com): cache7-waw1.steamcontent.com/depot/228990/manifest/1829726630299308803/5/2106715756589232102 - received 200 (OK) HTTP response
+[2024-10-01 20:53:39] HTTP/2 (SteamCache,389) - cache7-waw1.steamcontent.com (155.133.230.8:443 / 155.133.230.8:443, host: cache7-waw1.steamcontent.com): cache7-waw1.steamcontent.com/depot/1196591/manifest/585232905863960465/5/10441955888752642216 - received 200 (OK) HTTP response
+[2024-10-01 20:53:39] HTTP/2 (SteamCache,389) - cache7-waw1.steamcontent.com (155.133.230.8:443 / 155.133.230.8:443, host: cache7-waw1.steamcontent.com): cache7-waw1.steamcontent.com/depot/1196593/manifest/8955452086167616663/5/14324310969877448947 - received 200 (OK) HTTP response
+[2024-10-01 20:53:39] AppID 1196590 update changed : Running Update,
+[2024-10-01 20:53:39] AppID 1196590 update changed : Running Update,Validating,
+[2024-10-01 20:53:39] AppID 1196590 update changed : Running Update,
+[2024-10-01 20:53:39] AppID 1196590 update changed : Running Update,Preallocating,
+[2024-10-01 20:53:39] AppID 228980 preallocated 84 files (89 MB) 
+[2024-10-01 20:53:39] AppID 1196590 preallocated 11 files (31008 MB) 
+[2024-10-01 20:53:39] AppID 1196590 update changed : Running Update,
+[2024-10-01 20:53:39] AppID 228980 update started : download 0/100658080, store 0/0, reuse 0/0, delta 0/0, stage 0/102931551 
+[2024-10-01 20:53:39] AppID 228980 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2024-10-01 20:53:39] AppID 1196590 update started : download 0/29869765264, store 0/0, reuse 0/0, delta 0/0, stage 0/32515156931 
+[2024-10-01 20:53:39] AppID 1196590 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-10-01 20:53:39] AppID 1196590 update changed : Running Update,Downloading,Staging,
+[2024-10-01 20:53:39] Downloading 203 chunks from depot 228990
+[2024-10-01 20:53:41] HTTPS (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:443 / 155.133.230.4:443, host: cache3-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 20:53:41] HTTPS (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:443 / 155.133.230.3:443, host: cache1-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 20:53:50] Increasing target number of download connections to 4 (rate was 0.000, now 8.814)
+[2024-10-01 20:53:50] Created download interface of type 'SteamCache' (7) to host cache8-waw1.steamcontent.com (cache8-waw1.steamcontent.com)
+[2024-10-01 20:53:52] HTTPS (SteamCache,390) - cache8-waw1.steamcontent.com (155.133.230.9:443 / 155.133.230.9:443, host: cache8-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 20:54:02] Increasing target number of download connections to 5 (rate was 8.814, now 11.195)
+[2024-10-01 20:54:02] Created download interface of type 'SteamCache' (7) to host cache6-waw1.steamcontent.com (cache6-waw1.steamcontent.com)
+[2024-10-01 20:54:05] HTTPS (SteamCache,70) - cache6-waw1.steamcontent.com (155.133.230.21:443 / 155.133.230.21:443, host: cache6-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 20:54:24] Increasing target number of download connections to 6 (rate was 11.195, now 14.419)
+[2024-10-01 20:54:24] Created download interface of type 'SteamCache' (7) to host cache4-waw1.steamcontent.com (cache4-waw1.steamcontent.com)
+[2024-10-01 20:54:25] HTTPS (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:443 / 155.133.230.20:443, host: cache4-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 20:54:32] AppID 1196590 update changed : Running Update,
+[2024-10-01 20:54:32] AppID 1196590 update changed : Running Update,Downloading,Staging,
+[2024-10-01 20:54:32] Downloading 29813 chunks from depot 1196591
+[2024-10-01 20:54:37] Increasing target number of download connections to 7 (rate was 14.419, now 31.092)
+[2024-10-01 20:54:37] Created download interface of type 'SteamCache' (7) to host cache2-waw1.steamcontent.com (cache2-waw1.steamcontent.com)
+[2024-10-01 20:54:38] HTTPS (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:443 / 155.133.230.19:443, host: cache2-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 20:54:51] Current download rate: 35.140 Mbps
+[2024-10-01 20:55:01] Increasing target number of download connections to 8 (rate was 31.092, now 38.141)
+[2024-10-01 20:55:01] Created download interface of type 'SteamCache' (7) to host cache5-waw1.steamcontent.com (cache5-waw1.steamcontent.com)
+[2024-10-01 20:55:02] HTTPS (SteamCache,69) - cache5-waw1.steamcontent.com (155.133.230.5:443 / 155.133.230.5:443, host: cache5-waw1.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 20:55:52] Current download rate: 39.923 Mbps
+[2024-10-01 20:56:53] Current download rate: 7.833 Mbps
+[2024-10-01 20:57:54] Current download rate: 8.875 Mbps
+[2024-10-01 20:58:56] Current download rate: 7.157 Mbps
+[2024-10-01 20:59:07] Got 24 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 20:59:08] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 132886006 Bytes, 330 sec (3.22 Mbps). 182 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 20:59:08] stats: (Invalid, 0) : 778778838 Bytes, 330 sec (18.89 Mbps). 982 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 20:59:08] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 116332624 Bytes, 327 sec (2.84 Mbps). 161 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 20:59:08] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 110601136 Bytes, 324 sec (2.73 Mbps). 139 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 20:59:08] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 94613056 Bytes, 317 sec (2.39 Mbps). 121 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 20:59:08] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 106722224 Bytes, 302 sec (2.82 Mbps). 140 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 20:59:08] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 64883616 Bytes, 276 sec (1.88 Mbps). 85 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 20:59:08] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 83356256 Bytes, 270 sec (2.47 Mbps). 86 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 20:59:08] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 69383920 Bytes, 244 sec (2.27 Mbps). 68 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 20:59:57] Current download rate: 14.401 Mbps
+[2024-10-01 21:00:58] Current download rate: 12.245 Mbps
+[2024-10-01 21:02:00] Current download rate: 7.812 Mbps
+[2024-10-01 21:03:01] Current download rate: 12.692 Mbps
+[2024-10-01 21:04:02] Current download rate: 7.467 Mbps
+[2024-10-01 21:04:37] Got 22 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 21:04:39] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 66521664 Bytes, 330 sec (1.61 Mbps). 249 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:04:39] stats: (Invalid, 0) : 470243360 Bytes, 331 sec (11.37 Mbps). 1454 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:04:39] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 64736048 Bytes, 329 sec (1.57 Mbps). 227 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:04:39] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 54787664 Bytes, 332 sec (1.32 Mbps). 195 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:04:39] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 61487792 Bytes, 329 sec (1.50 Mbps). 183 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:04:39] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 57308032 Bytes, 326 sec (1.41 Mbps). 197 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:04:39] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 59774928 Bytes, 330 sec (1.45 Mbps). 144 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:04:39] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 50315792 Bytes, 332 sec (1.21 Mbps). 136 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:04:39] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 55311440 Bytes, 327 sec (1.35 Mbps). 123 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:05:03] Current download rate: 8.791 Mbps
+[2024-10-01 21:06:04] Current download rate: 7.774 Mbps
+[2024-10-01 21:07:05] Current download rate: 9.490 Mbps
+[2024-10-01 21:08:07] Current download rate: 6.133 Mbps
+[2024-10-01 21:09:08] Current download rate: 7.615 Mbps
+[2024-10-01 21:09:40] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 37610880 Bytes, 297 sec (1.01 Mbps). 287 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:09:40] stats: (Invalid, 0) : 317075872 Bytes, 301 sec (8.43 Mbps). 1781 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:09:40] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 42211504 Bytes, 301 sec (1.12 Mbps). 270 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:09:40] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 37566432 Bytes, 300 sec (1.00 Mbps). 233 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:09:40] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 42406544 Bytes, 302 sec (1.12 Mbps). 228 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:09:40] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 40515456 Bytes, 305 sec (1.06 Mbps). 239 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:09:40] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 39980384 Bytes, 305 sec (1.05 Mbps). 184 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:09:40] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 36776720 Bytes, 297 sec (0.99 Mbps). 175 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:09:40] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 40007952 Bytes, 303 sec (1.05 Mbps). 165 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:10:08] Got 19 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 21:10:09] Current download rate: 8.116 Mbps
+[2024-10-01 21:11:10] Current download rate: 7.641 Mbps
+[2024-10-01 21:12:11] Current download rate: 6.160 Mbps
+[2024-10-01 21:13:13] Current download rate: 7.494 Mbps
+[2024-10-01 21:14:14] Current download rate: 8.105 Mbps
+[2024-10-01 21:14:41] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 39351680 Bytes, 299 sec (1.05 Mbps). 327 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:14:41] stats: (Invalid, 0) : 304830080 Bytes, 300 sec (8.13 Mbps). 2089 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:14:41] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 38156160 Bytes, 299 sec (1.02 Mbps). 309 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:14:41] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 31515440 Bytes, 302 sec (0.83 Mbps). 266 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:14:41] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 31532800 Bytes, 300 sec (0.84 Mbps). 258 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:14:41] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 50322256 Bytes, 299 sec (1.35 Mbps). 290 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:14:41] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 39887056 Bytes, 298 sec (1.07 Mbps). 227 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:14:41] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 35520400 Bytes, 301 sec (0.94 Mbps). 209 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:14:41] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 38544288 Bytes, 300 sec (1.03 Mbps). 203 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:15:09] Got 26 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 21:15:15] Current download rate: 8.375 Mbps
+[2024-10-01 21:16:16] Current download rate: 11.495 Mbps
+[2024-10-01 21:17:18] Current download rate: 7.216 Mbps
+[2024-10-01 21:18:19] Current download rate: 5.642 Mbps
+[2024-10-01 21:19:20] Current download rate: 7.055 Mbps
+[2024-10-01 21:19:42] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 40658320 Bytes, 306 sec (1.06 Mbps). 369 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:19:42] stats: (Invalid, 0) : 316775072 Bytes, 303 sec (8.37 Mbps). 2415 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:19:42] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 39973328 Bytes, 306 sec (1.05 Mbps). 350 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:19:42] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 39974832 Bytes, 297 sec (1.08 Mbps). 308 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:19:42] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 40616640 Bytes, 301 sec (1.08 Mbps). 300 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:19:42] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 37210736 Bytes, 295 sec (1.01 Mbps). 329 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:19:42] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 38248352 Bytes, 301 sec (1.02 Mbps). 265 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:19:42] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 39393424 Bytes, 300 sec (1.05 Mbps). 250 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:19:42] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 40699440 Bytes, 298 sec (1.09 Mbps). 244 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:20:21] Current download rate: 7.606 Mbps
+[2024-10-01 21:20:38] Got 27 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 21:21:23] Current download rate: 6.576 Mbps
+[2024-10-01 21:22:24] Current download rate: 7.917 Mbps
+[2024-10-01 21:23:25] Current download rate: 7.605 Mbps
+[2024-10-01 21:24:26] Current download rate: 6.149 Mbps
+[2024-10-01 21:24:45] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 41023776 Bytes, 301 sec (1.09 Mbps). 412 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:24:45] stats: (Invalid, 0) : 283256448 Bytes, 300 sec (7.55 Mbps). 2709 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:24:45] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 40121072 Bytes, 300 sec (1.07 Mbps). 392 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:24:45] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 38753776 Bytes, 304 sec (1.02 Mbps). 349 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:24:45] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 35604800 Bytes, 300 sec (0.95 Mbps). 337 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:24:45] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 39828032 Bytes, 307 sec (1.04 Mbps). 371 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:24:45] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 30153440 Bytes, 301 sec (0.80 Mbps). 294 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:24:45] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 28038128 Bytes, 304 sec (0.74 Mbps). 279 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:24:45] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 29733424 Bytes, 306 sec (0.78 Mbps). 275 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:25:27] Current download rate: 5.516 Mbps
+[2024-10-01 21:26:08] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 21:26:28] Current download rate: 9.655 Mbps
+[2024-10-01 21:27:29] Current download rate: 10.848 Mbps
+[2024-10-01 21:28:31] Current download rate: 15.655 Mbps
+[2024-10-01 21:29:32] Current download rate: 18.970 Mbps
+[2024-10-01 21:30:16] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 77384000 Bytes, 331 sec (1.87 Mbps). 495 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:30:16] stats: (Invalid, 0) : 547575152 Bytes, 334 sec (13.12 Mbps). 3294 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:30:16] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 59497248 Bytes, 331 sec (1.44 Mbps). 457 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:30:16] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 69566928 Bytes, 332 sec (1.68 Mbps). 424 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:30:16] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 67183184 Bytes, 334 sec (1.61 Mbps). 408 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:30:16] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 66726544 Bytes, 338 sec (1.58 Mbps). 442 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:30:16] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 75274672 Bytes, 336 sec (1.79 Mbps). 372 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:30:16] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 63634256 Bytes, 332 sec (1.53 Mbps). 345 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:30:16] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 68308320 Bytes, 333 sec (1.64 Mbps). 351 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:30:33] Current download rate: 15.557 Mbps
+[2024-10-01 21:31:34] Current download rate: 13.374 Mbps
+[2024-10-01 21:31:38] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 21:32:35] Current download rate: 13.853 Mbps
+[2024-10-01 21:33:36] Current download rate: 15.213 Mbps
+[2024-10-01 21:34:38] Current download rate: 15.813 Mbps
+[2024-10-01 21:35:39] Current download rate: 14.516 Mbps
+[2024-10-01 21:35:46] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 87064288 Bytes, 331 sec (2.10 Mbps). 578 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:35:46] stats: (Invalid, 0) : 601510320 Bytes, 330 sec (14.57 Mbps). 3891 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:35:46] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 86428656 Bytes, 331 sec (2.09 Mbps). 542 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:35:46] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 73808080 Bytes, 334 sec (1.77 Mbps). 494 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:35:46] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 71753424 Bytes, 329 sec (1.74 Mbps). 481 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:35:46] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 69492400 Bytes, 328 sec (1.69 Mbps). 508 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:35:46] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 78990848 Bytes, 329 sec (1.92 Mbps). 456 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:35:46] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 70248624 Bytes, 329 sec (1.71 Mbps). 418 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:35:46] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 63724000 Bytes, 328 sec (1.55 Mbps). 414 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:36:40] Current download rate: 14.612 Mbps
+[2024-10-01 21:37:09] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 21:37:41] Current download rate: 12.026 Mbps
+[2024-10-01 21:38:42] Current download rate: 16.548 Mbps
+[2024-10-01 21:39:44] Current download rate: 14.275 Mbps
+[2024-10-01 21:40:45] Current download rate: 14.247 Mbps
+[2024-10-01 21:41:17] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 82525712 Bytes, 329 sec (2.01 Mbps). 657 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:41:17] stats: (Invalid, 0) : 588604144 Bytes, 329 sec (14.29 Mbps). 4454 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:41:17] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 76701712 Bytes, 328 sec (1.87 Mbps). 616 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:41:17] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 67057184 Bytes, 329 sec (1.63 Mbps). 558 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:41:17] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 67113360 Bytes, 331 sec (1.62 Mbps). 545 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:41:17] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 67928096 Bytes, 331 sec (1.64 Mbps). 573 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:41:17] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 80047856 Bytes, 331 sec (1.93 Mbps). 533 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:41:17] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 73719184 Bytes, 333 sec (1.77 Mbps). 488 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:41:17] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 73511040 Bytes, 336 sec (1.75 Mbps). 484 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:41:46] Current download rate: 8.875 Mbps
+[2024-10-01 21:42:39] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 21:42:47] Current download rate: 10.625 Mbps
+[2024-10-01 21:43:29] ContentServerDirectoryService::BYieldingGetServersForSteamPipe failed (Transport Response Not Received / Result No Connection)
+[2024-10-01 21:43:29] Failed to get list of download sources
+[2024-10-01 21:43:39] IPv6 Connectivity state has changed, downgrading to ipv4-only
+[2024-10-01 21:43:49] Current download rate: 0.020 Mbps
+[2024-10-01 21:44:50] Current download rate: 24.123 Mbps
+[2024-10-01 21:45:51] Current download rate: 33.971 Mbps
+[2024-10-01 21:46:47] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 96631248 Bytes, 273 sec (2.83 Mbps). 756 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:46:47] stats: (Invalid, 0) : 729857040 Bytes, 332 sec (17.61 Mbps). 5181 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:46:47] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 107931168 Bytes, 274 sec (3.15 Mbps). 727 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:46:47] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 84529328 Bytes, 268 sec (2.53 Mbps). 644 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:46:47] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 104457808 Bytes, 270 sec (3.09 Mbps). 647 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:46:47] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 84764832 Bytes, 268 sec (2.53 Mbps). 658 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:46:47] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 79694512 Bytes, 270 sec (2.36 Mbps). 610 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:46:47] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 82651920 Bytes, 269 sec (2.46 Mbps). 568 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:46:47] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 89196224 Bytes, 267 sec (2.67 Mbps). 571 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:46:52] Current download rate: 32.908 Mbps
+[2024-10-01 21:47:53] Current download rate: 34.478 Mbps
+[2024-10-01 21:48:10] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 21:48:54] Current download rate: 36.723 Mbps
+[2024-10-01 21:49:55] Current download rate: 39.002 Mbps
+[2024-10-01 21:50:57] Current download rate: 36.595 Mbps
+[2024-10-01 21:51:58] Current download rate: 33.351 Mbps
+[2024-10-01 21:52:18] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 179266480 Bytes, 332 sec (4.32 Mbps). 932 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:52:18] stats: (Invalid, 0) : 1510615120 Bytes, 331 sec (36.52 Mbps). 6683 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:52:18] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 197976096 Bytes, 331 sec (4.78 Mbps). 925 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:52:18] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 187191104 Bytes, 330 sec (4.53 Mbps). 830 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:52:18] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 186834816 Bytes, 331 sec (4.52 Mbps). 831 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:52:18] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 181348480 Bytes, 331 sec (4.38 Mbps). 839 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:52:18] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 184781520 Bytes, 331 sec (4.47 Mbps). 793 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:52:18] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 193700320 Bytes, 331 sec (4.68 Mbps). 763 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:52:18] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 199516304 Bytes, 330 sec (4.84 Mbps). 770 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:52:59] Current download rate: 35.178 Mbps
+[2024-10-01 21:53:40] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 21:54:00] Current download rate: 37.640 Mbps
+[2024-10-01 21:55:01] Current download rate: 38.919 Mbps
+[2024-10-01 21:56:02] Current download rate: 36.913 Mbps
+[2024-10-01 21:57:02] Current download rate: 36.327 Mbps
+[2024-10-01 21:57:49] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 198930576 Bytes, 329 sec (4.83 Mbps). 1139 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:57:49] stats: (Invalid, 0) : 1539663104 Bytes, 331 sec (37.25 Mbps). 8277 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:57:49] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 192671872 Bytes, 330 sec (4.67 Mbps). 1128 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:57:49] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 193720672 Bytes, 331 sec (4.68 Mbps). 1032 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:57:49] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 181742816 Bytes, 331 sec (4.40 Mbps). 1022 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:57:49] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 178500864 Bytes, 331 sec (4.32 Mbps). 1024 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:57:49] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 215307312 Bytes, 331 sec (5.20 Mbps). 1006 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:57:49] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 205792432 Bytes, 331 sec (4.98 Mbps). 976 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:57:49] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 172996560 Bytes, 331 sec (4.18 Mbps). 950 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 21:58:03] Current download rate: 39.946 Mbps
+[2024-10-01 21:59:04] Current download rate: 35.113 Mbps
+[2024-10-01 21:59:10] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 22:00:05] Current download rate: 40.175 Mbps
+[2024-10-01 22:01:06] Current download rate: 39.533 Mbps
+[2024-10-01 22:02:07] Current download rate: 38.484 Mbps
+[2024-10-01 22:03:07] Current download rate: 38.784 Mbps
+[2024-10-01 22:03:19] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 190596688 Bytes, 332 sec (4.59 Mbps). 1337 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:03:19] stats: (Invalid, 0) : 1589311344 Bytes, 330 sec (38.48 Mbps). 9940 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:03:19] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 199084640 Bytes, 330 sec (4.83 Mbps). 1335 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:03:19] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 187892304 Bytes, 329 sec (4.57 Mbps). 1230 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:03:19] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 198051008 Bytes, 330 sec (4.80 Mbps). 1231 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:03:19] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 191808144 Bytes, 330 sec (4.64 Mbps). 1224 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:03:19] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 206131472 Bytes, 329 sec (5.01 Mbps). 1222 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:03:19] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 207412656 Bytes, 329 sec (5.04 Mbps). 1191 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:03:19] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 208334432 Bytes, 330 sec (5.05 Mbps). 1170 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:04:08] Current download rate: 29.396 Mbps
+[2024-10-01 22:04:40] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 22:05:09] Current download rate: 36.193 Mbps
+[2024-10-01 22:06:10] Current download rate: 32.286 Mbps
+[2024-10-01 22:07:11] Current download rate: 29.639 Mbps
+[2024-10-01 22:08:12] Current download rate: 15.250 Mbps
+[2024-10-01 22:08:50] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 147329552 Bytes, 329 sec (3.58 Mbps). 1491 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:08:50] stats: (Invalid, 0) : 1266203440 Bytes, 330 sec (30.67 Mbps). 11271 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:08:50] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 142368768 Bytes, 332 sec (3.43 Mbps). 1485 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:08:50] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 167057424 Bytes, 332 sec (4.02 Mbps). 1409 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:08:50] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 170025056 Bytes, 331 sec (4.12 Mbps). 1410 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:08:50] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 173436320 Bytes, 330 sec (4.20 Mbps). 1406 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:08:50] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 149399744 Bytes, 330 sec (3.62 Mbps). 1378 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:08:50] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 154091648 Bytes, 332 sec (3.72 Mbps). 1351 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:08:50] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 162494928 Bytes, 330 sec (3.94 Mbps). 1341 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:09:13] Current download rate: 37.009 Mbps
+[2024-10-01 22:10:11] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 22:10:14] Current download rate: 35.798 Mbps
+[2024-10-01 22:11:14] Current download rate: 37.500 Mbps
+[2024-10-01 22:12:15] Current download rate: 36.863 Mbps
+[2024-10-01 22:13:16] Current download rate: 37.307 Mbps
+[2024-10-01 22:14:17] Current download rate: 33.506 Mbps
+[2024-10-01 22:14:20] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 169975360 Bytes, 331 sec (4.10 Mbps). 1672 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:14:20] stats: (Invalid, 0) : 1515780432 Bytes, 331 sec (36.66 Mbps). 12879 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:14:20] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 182878656 Bytes, 329 sec (4.44 Mbps). 1680 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:14:20] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 190753808 Bytes, 331 sec (4.61 Mbps). 1612 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:14:20] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 195079344 Bytes, 332 sec (4.70 Mbps). 1616 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:14:20] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 191238272 Bytes, 330 sec (4.63 Mbps). 1607 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:14:20] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 178379968 Bytes, 332 sec (4.30 Mbps). 1567 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:14:20] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 201322320 Bytes, 330 sec (4.87 Mbps). 1564 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:14:20] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 206152704 Bytes, 331 sec (4.98 Mbps). 1561 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:15:18] Current download rate: 37.346 Mbps
+[2024-10-01 22:15:41] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 22:16:19] Current download rate: 38.501 Mbps
+[2024-10-01 22:17:20] Current download rate: 39.111 Mbps
+[2024-10-01 22:18:21] Current download rate: 36.915 Mbps
+[2024-10-01 22:19:21] Current download rate: 35.968 Mbps
+[2024-10-01 22:19:51] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 189153904 Bytes, 331 sec (4.58 Mbps). 1875 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:19:51] stats: (Invalid, 0) : 1541589152 Bytes, 330 sec (37.33 Mbps). 14527 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:19:51] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 185607088 Bytes, 330 sec (4.50 Mbps). 1874 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:19:51] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 203762304 Bytes, 329 sec (4.95 Mbps). 1832 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:19:51] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 184463504 Bytes, 329 sec (4.48 Mbps). 1816 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:19:51] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 190045584 Bytes, 331 sec (4.59 Mbps). 1808 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:19:51] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 197573232 Bytes, 329 sec (4.80 Mbps). 1779 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:19:51] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 192413104 Bytes, 331 sec (4.65 Mbps). 1770 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:19:51] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 198570432 Bytes, 330 sec (4.82 Mbps). 1773 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:20:22] Current download rate: 38.817 Mbps
+[2024-10-01 22:21:12] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 22:21:23] Current download rate: 37.844 Mbps
+[2024-10-01 22:22:24] Current download rate: 37.870 Mbps
+[2024-10-01 22:23:25] Current download rate: 36.287 Mbps
+[2024-10-01 22:24:26] Current download rate: 37.523 Mbps
+[2024-10-01 22:25:21] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 172340560 Bytes, 330 sec (4.18 Mbps). 2056 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:25:21] stats: (Invalid, 0) : 1538320448 Bytes, 331 sec (37.22 Mbps). 16151 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:25:21] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 185405648 Bytes, 331 sec (4.48 Mbps). 2071 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:25:21] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 200273408 Bytes, 331 sec (4.84 Mbps). 2045 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:25:21] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 200881216 Bytes, 332 sec (4.85 Mbps). 2028 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:25:21] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 187623872 Bytes, 331 sec (4.54 Mbps). 2004 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:25:21] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 183847504 Bytes, 331 sec (4.44 Mbps). 1977 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:25:21] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 198064112 Bytes, 330 sec (4.80 Mbps). 1980 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:25:21] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 209884128 Bytes, 331 sec (5.07 Mbps). 1990 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:25:26] Current download rate: 36.560 Mbps
+[2024-10-01 22:26:27] Current download rate: 39.042 Mbps
+[2024-10-01 22:26:42] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 22:27:28] Current download rate: 39.251 Mbps
+[2024-10-01 22:28:29] Current download rate: 39.068 Mbps
+[2024-10-01 22:29:30] Current download rate: 37.437 Mbps
+[2024-10-01 22:30:30] Current download rate: 37.381 Mbps
+[2024-10-01 22:30:52] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 192317760 Bytes, 332 sec (4.63 Mbps). 2260 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:30:52] stats: (Invalid, 0) : 1549792096 Bytes, 331 sec (37.51 Mbps). 17774 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:30:52] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 186044048 Bytes, 331 sec (4.49 Mbps). 2268 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:30:52] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 189878304 Bytes, 330 sec (4.60 Mbps). 2243 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:30:52] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 191277616 Bytes, 329 sec (4.65 Mbps). 2225 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:30:52] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 200673760 Bytes, 330 sec (4.87 Mbps). 2216 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:30:52] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 193043904 Bytes, 330 sec (4.68 Mbps). 2176 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:30:52] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 189575200 Bytes, 329 sec (4.61 Mbps). 2179 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:30:52] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 206981504 Bytes, 331 sec (5.00 Mbps). 2207 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:31:31] Current download rate: 37.518 Mbps
+[2024-10-01 22:32:13] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 22:32:32] Current download rate: 37.552 Mbps
+[2024-10-01 22:33:33] Current download rate: 37.966 Mbps
+[2024-10-01 22:34:34] Current download rate: 37.940 Mbps
+[2024-10-01 22:35:35] Current download rate: 37.410 Mbps
+[2024-10-01 22:36:22] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 175455152 Bytes, 330 sec (4.25 Mbps). 2442 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:36:22] stats: (Invalid, 0) : 1538492208 Bytes, 330 sec (37.27 Mbps). 19393 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:36:22] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 195653136 Bytes, 331 sec (4.73 Mbps). 2477 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:36:22] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 186390352 Bytes, 330 sec (4.52 Mbps). 2441 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:36:22] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 196616640 Bytes, 331 sec (4.75 Mbps). 2430 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:36:22] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 196079296 Bytes, 331 sec (4.74 Mbps). 2424 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:36:22] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 192687568 Bytes, 331 sec (4.66 Mbps). 2378 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:36:22] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 185828128 Bytes, 331 sec (4.49 Mbps). 2376 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:36:22] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 209781936 Bytes, 330 sec (5.09 Mbps). 2425 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:36:35] Current download rate: 38.825 Mbps
+[2024-10-01 22:37:36] Current download rate: 35.797 Mbps
+[2024-10-01 22:37:42] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 22:38:37] Current download rate: 37.281 Mbps
+[2024-10-01 22:39:38] Current download rate: 37.216 Mbps
+[2024-10-01 22:40:39] Current download rate: 27.248 Mbps
+[2024-10-01 22:41:40] Current download rate: 37.271 Mbps
+[2024-10-01 22:41:53] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 192246240 Bytes, 330 sec (4.66 Mbps). 2643 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:41:53] stats: (Invalid, 0) : 1521700464 Bytes, 331 sec (36.81 Mbps). 20980 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:41:53] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 185633296 Bytes, 330 sec (4.50 Mbps). 2675 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:41:53] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 194511696 Bytes, 332 sec (4.68 Mbps). 2644 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:41:53] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 193744736 Bytes, 332 sec (4.67 Mbps). 2634 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:41:53] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 178159440 Bytes, 330 sec (4.32 Mbps). 2608 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:41:53] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 188544320 Bytes, 331 sec (4.56 Mbps). 2574 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:41:53] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 200005568 Bytes, 331 sec (4.84 Mbps). 2583 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:41:53] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 188855168 Bytes, 331 sec (4.57 Mbps). 2619 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:42:40] Current download rate: 38.329 Mbps
+[2024-10-01 22:43:13] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 22:43:42] Current download rate: 38.346 Mbps
+[2024-10-01 22:44:43] Current download rate: 33.453 Mbps
+[2024-10-01 22:45:44] Current download rate: 37.628 Mbps
+[2024-10-01 22:46:44] Current download rate: 38.189 Mbps
+[2024-10-01 22:47:23] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 165258480 Bytes, 329 sec (4.02 Mbps). 2811 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:47:23] stats: (Invalid, 0) : 1529679856 Bytes, 330 sec (37.09 Mbps). 22524 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:47:23] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 202438128 Bytes, 331 sec (4.89 Mbps). 2874 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:47:23] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 191587664 Bytes, 329 sec (4.66 Mbps). 2836 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:47:23] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 184002880 Bytes, 321 sec (4.58 Mbps). 2819 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:47:23] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 202292592 Bytes, 331 sec (4.89 Mbps). 2815 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:47:23] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 190116208 Bytes, 331 sec (4.60 Mbps). 2775 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:47:23] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 218179696 Bytes, 330 sec (5.29 Mbps). 2801 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:47:23] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 175804208 Bytes, 330 sec (4.26 Mbps). 2793 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:47:46] Current download rate: 27.274 Mbps
+[2024-10-01 22:48:43] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 22:48:47] Current download rate: 33.422 Mbps
+[2024-10-01 22:49:48] Current download rate: 36.632 Mbps
+[2024-10-01 22:50:49] Current download rate: 36.189 Mbps
+[2024-10-01 22:51:50] Current download rate: 35.692 Mbps
+[2024-10-01 22:52:51] Current download rate: 34.443 Mbps
+[2024-10-01 22:52:54] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 176884496 Bytes, 331 sec (4.28 Mbps). 2986 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:52:54] stats: (Invalid, 0) : 1425665792 Bytes, 331 sec (34.49 Mbps). 23922 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:52:54] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 172958000 Bytes, 330 sec (4.19 Mbps). 3042 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:52:54] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 182606448 Bytes, 331 sec (4.41 Mbps). 3015 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:52:54] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 187721712 Bytes, 330 sec (4.55 Mbps). 3003 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:52:54] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 176311520 Bytes, 329 sec (4.28 Mbps). 2987 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:52:54] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 163854816 Bytes, 330 sec (3.97 Mbps). 2938 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:52:54] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 185946464 Bytes, 331 sec (4.49 Mbps). 2983 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:52:54] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 179382336 Bytes, 331 sec (4.34 Mbps). 2968 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:53:52] Current download rate: 37.616 Mbps
+[2024-10-01 22:54:13] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 22:54:53] Current download rate: 37.444 Mbps
+[2024-10-01 22:55:54] Current download rate: 37.560 Mbps
+[2024-10-01 22:56:55] Current download rate: 38.346 Mbps
+[2024-10-01 22:57:56] Current download rate: 36.158 Mbps
+[2024-10-01 22:58:24] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 216513120 Bytes, 331 sec (5.23 Mbps). 3202 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:58:24] stats: (Invalid, 0) : 1524995488 Bytes, 331 sec (36.90 Mbps). 25469 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:58:24] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 176387856 Bytes, 331 sec (4.26 Mbps). 3219 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 22:58:24] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 194687360 Bytes, 331 sec (4.70 Mbps). 3211 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:58:24] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 189424832 Bytes, 331 sec (4.58 Mbps). 3202 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:58:24] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 200447584 Bytes, 331 sec (4.84 Mbps). 3191 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:58:24] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 180098512 Bytes, 329 sec (4.37 Mbps). 3114 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:58:24] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 187242272 Bytes, 330 sec (4.54 Mbps). 3173 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:58:24] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 180193952 Bytes, 330 sec (4.36 Mbps). 3157 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 22:58:57] Current download rate: 36.923 Mbps
+[2024-10-01 22:59:44] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 22:59:58] Current download rate: 34.210 Mbps
+[2024-10-01 23:00:59] Current download rate: 35.188 Mbps
+[2024-10-01 23:02:00] Current download rate: 33.910 Mbps
+[2024-10-01 23:03:01] Current download rate: 28.336 Mbps
+[2024-10-01 23:03:55] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 166162640 Bytes, 331 sec (4.02 Mbps). 3370 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:03:55] stats: (Invalid, 0) : 1377864960 Bytes, 331 sec (33.34 Mbps). 26876 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 23:03:55] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 184012736 Bytes, 328 sec (4.48 Mbps). 3409 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 23:03:55] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 169182976 Bytes, 328 sec (4.13 Mbps). 3386 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:03:55] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 174682192 Bytes, 331 sec (4.22 Mbps). 3378 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:03:55] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 181750592 Bytes, 328 sec (4.43 Mbps). 3377 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:03:55] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 165508240 Bytes, 328 sec (4.04 Mbps). 3283 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:03:55] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 168902096 Bytes, 329 sec (4.10 Mbps). 3348 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:03:55] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 167663488 Bytes, 331 sec (4.06 Mbps). 3325 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:04:02] Current download rate: 23.607 Mbps
+[2024-10-01 23:05:03] Current download rate: 27.053 Mbps
+[2024-10-01 23:05:14] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 23:06:04] Current download rate: 30.759 Mbps
+[2024-10-01 23:07:05] Current download rate: 28.425 Mbps
+[2024-10-01 23:08:06] Current download rate: 31.679 Mbps
+[2024-10-01 23:09:07] Current download rate: 32.953 Mbps
+[2024-10-01 23:09:25] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 171249392 Bytes, 329 sec (4.16 Mbps). 3544 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:09:25] stats: (Invalid, 0) : 1285888992 Bytes, 331 sec (31.10 Mbps). 28166 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 23:09:25] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 158521056 Bytes, 333 sec (3.81 Mbps). 3567 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 23:09:25] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 155225104 Bytes, 333 sec (3.73 Mbps). 3543 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:09:25] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 160393216 Bytes, 330 sec (3.89 Mbps). 3537 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:09:25] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 176640768 Bytes, 334 sec (4.23 Mbps). 3551 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:09:25] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 155323600 Bytes, 334 sec (3.72 Mbps). 3441 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:09:25] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 155706560 Bytes, 332 sec (3.75 Mbps). 3505 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:09:25] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 152829296 Bytes, 330 sec (3.70 Mbps). 3478 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:10:08] Current download rate: 31.775 Mbps
+[2024-10-01 23:10:44] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 23:11:09] Current download rate: 31.825 Mbps
+[2024-10-01 23:12:10] Current download rate: 29.394 Mbps
+[2024-10-01 23:13:11] Current download rate: 31.035 Mbps
+[2024-10-01 23:14:12] Current download rate: 30.854 Mbps
+[2024-10-01 23:14:56] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 163158304 Bytes, 331 sec (3.95 Mbps). 3703 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:14:56] stats: (Invalid, 0) : 1276542720 Bytes, 330 sec (30.98 Mbps). 29414 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 23:14:56] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 143921856 Bytes, 330 sec (3.49 Mbps). 3706 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 23:14:56] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 154210480 Bytes, 330 sec (3.74 Mbps). 3692 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:14:56] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 164422080 Bytes, 331 sec (3.97 Mbps). 3697 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:14:56] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 147548448 Bytes, 329 sec (3.59 Mbps). 3694 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:14:56] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 181150368 Bytes, 328 sec (4.41 Mbps). 3626 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:14:56] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 168290816 Bytes, 331 sec (4.07 Mbps). 3669 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:14:56] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 153840368 Bytes, 330 sec (3.73 Mbps). 3627 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:15:14] Current download rate: 32.010 Mbps
+[2024-10-01 23:16:15] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 23:16:15] Current download rate: 32.180 Mbps
+[2024-10-01 23:17:16] Current download rate: 29.313 Mbps
+[2024-10-01 23:17:36] Downloading 999 chunks from depot 1196593
+[2024-10-01 23:17:36] HTTP/2 (SteamCache,88) - cache4-waw1.steamcontent.com (155.133.230.20:443 / 155.133.230.20:443, host: cache4-waw1.steamcontent.com): Closing connection
+[2024-10-01 23:17:36] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 79594768 Bytes, 162 sec (3.92 Mbps). 3703 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:17:36] Created download interface of type 'SteamCache' (7) to host cache2-sto1.steamcontent.com (cache2-sto1.steamcontent.com)
+[2024-10-01 23:17:36] HTTP/2 (SteamCache,176) - cache2-waw1.steamcontent.com (155.133.230.19:443 / 155.133.230.19:443, host: cache2-waw1.steamcontent.com): Closing connection
+[2024-10-01 23:17:36] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 75589120 Bytes, 160 sec (3.78 Mbps). 3742 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:17:36] Created download interface of type 'SteamCache' (7) to host cache2-sto2.steamcontent.com (cache2-sto2.steamcontent.com)
+[2024-10-01 23:17:36] HTTP/2 (SteamCache,70) - cache6-waw1.steamcontent.com (155.133.230.21:443 / 155.133.230.21:443, host: cache6-waw1.steamcontent.com): Closing connection
+[2024-10-01 23:17:36] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 81004448 Bytes, 160 sec (4.06 Mbps). 3773 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:17:36] Created download interface of type 'SteamCache' (7) to host cache3-sto1.steamcontent.com (cache3-sto1.steamcontent.com)
+[2024-10-01 23:17:36] HTTP/2 (SteamCache,389) - cache7-waw1.steamcontent.com (155.133.230.8:443 / 155.133.230.8:443, host: cache7-waw1.steamcontent.com): Closing connection
+[2024-10-01 23:17:36] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 78567776 Bytes, 161 sec (3.90 Mbps). 3779 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:17:36] Created download interface of type 'SteamCache' (7) to host cache6-sto1.steamcontent.com (cache6-sto1.steamcontent.com)
+[2024-10-01 23:17:36] HTTP/2 (SteamCache,390) - cache8-waw1.steamcontent.com (155.133.230.9:443 / 155.133.230.9:443, host: cache8-waw1.steamcontent.com): Closing connection
+[2024-10-01 23:17:36] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 78115248 Bytes, 161 sec (3.88 Mbps). 3773 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 23:17:36] Created download interface of type 'SteamCache' (7) to host cache4-sto2.steamcontent.com (cache4-sto2.steamcontent.com)
+[2024-10-01 23:17:36] HTTP/2 (SteamCache,87) - cache3-waw1.steamcontent.com (155.133.230.4:443 / 155.133.230.4:443, host: cache3-waw1.steamcontent.com): Closing connection
+[2024-10-01 23:17:36] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 82041264 Bytes, 160 sec (4.11 Mbps). 3785 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 23:17:36] Created download interface of type 'SteamCache' (7) to host cache6-sto2.steamcontent.com (cache6-sto2.steamcontent.com)
+[2024-10-01 23:17:36] HTTP/2 (SteamCache,175) - cache1-waw1.steamcontent.com (155.133.230.3:443 / 155.133.230.3:443, host: cache1-waw1.steamcontent.com): Closing connection
+[2024-10-01 23:17:36] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 78196352 Bytes, 161 sec (3.88 Mbps). 3768 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:17:36] Created download interface of type 'SteamCache' (7) to host cache5-sto1.steamcontent.com (cache5-sto1.steamcontent.com)
+[2024-10-01 23:17:36] HTTP/2 (SteamCache,69) - cache5-waw1.steamcontent.com (155.133.230.5:443 / 155.133.230.5:443, host: cache5-waw1.steamcontent.com): Closing connection
+[2024-10-01 23:17:36] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 76689888 Bytes, 161 sec (3.81 Mbps). 3701 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:17:36] Created download interface of type 'SteamCache' (7) to host cache8-sto2.steamcontent.com (cache8-sto2.steamcontent.com)
+[2024-10-01 23:17:37] HTTPS (SteamCache,200) - cache2-sto2.steamcontent.com (155.133.252.5:443 / 155.133.252.5:443, host: cache2-sto2.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 23:17:37] HTTPS (SteamCache,201) - cache5-sto1.steamcontent.com (162.254.198.15:443 / 162.254.198.15:443, host: cache5-sto1.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 23:17:37] HTTPS (SteamCache,297) - cache6-sto1.steamcontent.com (162.254.198.6:443 / 162.254.198.6:443, host: cache6-sto1.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 23:17:37] HTTPS (SteamCache,318) - cache4-sto2.steamcontent.com (155.133.252.7:443 / 155.133.252.7:443, host: cache4-sto2.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 23:17:37] HTTPS (SteamCache,212) - cache2-sto1.steamcontent.com (162.254.198.16:443 / 162.254.198.16:443, host: cache2-sto1.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 23:17:37] HTTPS (SteamCache,191) - cache6-sto2.steamcontent.com (155.133.252.26:443 / 155.133.252.26:443, host: cache6-sto2.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 23:17:37] HTTPS (SteamCache,202) - cache8-sto2.steamcontent.com (155.133.252.19:443 / 155.133.252.19:443, host: cache8-sto2.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 23:17:38] HTTPS (SteamCache,197) - cache3-sto1.steamcontent.com (162.254.198.17:443 / 162.254.198.17:443, host: cache3-sto1.steamcontent.com): Negotiated HTTP/2
+[2024-10-01 23:18:17] Current download rate: 32.473 Mbps
+[2024-10-01 23:19:18] Current download rate: 30.516 Mbps
+[2024-10-01 23:20:20] Current download rate: 31.606 Mbps
+[2024-10-01 23:20:26] stats: (SteamCache, 389) cache7-waw1.steamcontent.com: 78567776 Bytes, 161 sec (3.90 Mbps). 3779 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (Invalid, 0) : 1264647840 Bytes, 331 sec (30.61 Mbps). 30793 Hits / 3 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 87) cache3-waw1.steamcontent.com: 82041264 Bytes, 160 sec (4.11 Mbps). 3785 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 175) cache1-waw1.steamcontent.com: 78196352 Bytes, 161 sec (3.88 Mbps). 3768 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 390) cache8-waw1.steamcontent.com: 78115248 Bytes, 161 sec (3.88 Mbps). 3773 Hits / 1 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 70) cache6-waw1.steamcontent.com: 81004448 Bytes, 160 sec (4.06 Mbps). 3773 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 88) cache4-waw1.steamcontent.com: 79594768 Bytes, 162 sec (3.92 Mbps). 3703 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 176) cache2-waw1.steamcontent.com: 75589120 Bytes, 160 sec (3.78 Mbps). 3742 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 69) cache5-waw1.steamcontent.com: 76689888 Bytes, 161 sec (3.81 Mbps). 3701 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 212) cache2-sto1.steamcontent.com: 76295072 Bytes, 169 sec (3.62 Mbps). 94 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 200) cache2-sto2.steamcontent.com: 81680160 Bytes, 170 sec (3.85 Mbps). 100 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 197) cache3-sto1.steamcontent.com: 60131856 Bytes, 169 sec (2.84 Mbps). 77 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 297) cache6-sto1.steamcontent.com: 67183520 Bytes, 168 sec (3.20 Mbps). 85 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 318) cache4-sto2.steamcontent.com: 76610912 Bytes, 170 sec (3.61 Mbps). 91 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 191) cache6-sto2.steamcontent.com: 131723792 Bytes, 168 sec (6.27 Mbps). 147 Hits / 1 Misses (99 %, 99 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 201) cache5-sto1.steamcontent.com: 75177712 Bytes, 168 sec (3.58 Mbps). 90 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:20:26] stats: (SteamCache, 202) cache8-sto2.steamcontent.com: 66045952 Bytes, 168 sec (3.14 Mbps). 85 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-10-01 23:21:21] Current download rate: 30.342 Mbps
+[2024-10-01 23:21:29] AppID 1196590 update changed : Running Update,
+[2024-10-01 23:21:29] AppID 1196590 update changed : Running Update,Verifying,
+[2024-10-01 23:21:45] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-01 23:22:22] Current download rate: 0.000 Mbps
+[2024-10-01 23:22:28] HTTP/2 (SteamCache,191) - cache6-sto2.steamcontent.com (155.133.252.26:443 / 155.133.252.26:443, host: cache6-sto2.steamcontent.com): Closing connection
+[2024-10-01 23:22:29] HTTP/2 (SteamCache,318) - cache4-sto2.steamcontent.com (155.133.252.7:443 / 155.133.252.7:443, host: cache4-sto2.steamcontent.com): Closing connection
+[2024-10-01 23:22:29] HTTP/2 (SteamCache,212) - cache2-sto1.steamcontent.com (162.254.198.16:443 / 162.254.198.16:443, host: cache2-sto1.steamcontent.com): Closing connection
+[2024-10-01 23:22:29] HTTP/2 (SteamCache,201) - cache5-sto1.steamcontent.com (162.254.198.15:443 / 162.254.198.15:443, host: cache5-sto1.steamcontent.com): Closing connection
+[2024-10-01 23:22:29] HTTP/2 (SteamCache,202) - cache8-sto2.steamcontent.com (155.133.252.19:443 / 155.133.252.19:443, host: cache8-sto2.steamcontent.com): Closing connection
+[2024-10-01 23:22:29] HTTP/2 (SteamCache,200) - cache2-sto2.steamcontent.com (155.133.252.5:443 / 155.133.252.5:443, host: cache2-sto2.steamcontent.com): Closing connection
+[2024-10-01 23:22:29] HTTP/2 (SteamCache,197) - cache3-sto1.steamcontent.com (162.254.198.17:443 / 162.254.198.17:443, host: cache3-sto1.steamcontent.com): Closing connection
+[2024-10-01 23:22:29] HTTP/2 (SteamCache,297) - cache6-sto1.steamcontent.com (162.254.198.6:443 / 162.254.198.6:443, host: cache6-sto1.steamcontent.com): Closing connection
+[2024-10-01 23:22:45] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 183 / Launcher 0)
+[2024-10-02 08:32:27] ContentServerDirectoryService::BYieldingGetServersForSteamPipe failed (Transport Request Not Sent / Result No Connection)
+[2024-10-02 08:32:27] Failed to get list of download sources
+
+
+[2024-10-02 08:33:17] Client version: 1726604483
+[2024-10-02 08:33:17] Loaded Steam library folders configuration: C:\Program Files (x86)\Steam\steamapps\libraryfolders.vdf
+[2024-10-02 08:33:17] Loaded 5 apps from install folder "C:\Program Files (x86)\Steam\steamapps\appmanifest_*.acf".
+[2024-10-02 08:33:17] Loaded 1 apps from install folder "D:\SteamLibrary\steamapps\appmanifest_*.acf".
+[2024-10-02 08:33:17] Triggered async write of Steam library folders configuration (2 libraries).
+[2024-10-02 08:33:49] SSGL: UI mode (0->7)
+[2024-10-02 08:33:50] AppID 228980 config changed : added depots 228990
+[2024-10-02 08:33:50] AppID 228980 config changed : added depots 228990
+[2024-10-02 08:33:50] AppID 1196590 config changed : added depots 1196591,1196593
+[2024-10-02 08:33:53] AppID 228980 scheduler update : Priority Auto Update, not played for 1727850833 seconds, update disabled for 0 seconds
+[2024-10-02 08:33:53] AppID 228980 state changed : Update Required,Fully Installed,Update Queued,Update Started,
+[2024-10-02 08:33:53] AppID 1196590 scheduler update : Priority Auto Update, not played for 42020 seconds, update disabled for 0 seconds
+[2024-10-02 08:33:53] AppID 1196590 state changed : Update Required,Update Queued,Update Started,
+[2024-10-02 08:33:53] AppID 228980 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2024-10-02 08:33:53] AppID 228980 update changed : Running Update,
+[2024-10-02 08:33:53] AppID 228980 update changed : Running Update,Reconfiguring,
+[2024-10-02 08:33:53] AppID 228980 update changed : Running Update,
+[2024-10-02 08:33:53] AppID 228980 update started : download 100658080/100658080, store 0/0, reuse 0/0, delta 0/0, stage 102931551/102931551 
+[2024-10-02 08:33:53] AppID 228980 update changed : Running Update,Staging,
+[2024-10-02 08:33:53] AppID 228980 update changed : Running Update,
+[2024-10-02 08:33:53] AppID 228980 update changed : Running Update,Committing,
+[2024-10-02 08:33:53] AppID 228980 starting commit from "C:\Program Files (x86)\Steam\steamapps\downloading\228980" to "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared" : 158 updated, 0 moved, 0 deleted files
+[2024-10-02 08:33:53] AppID 228980 state changed : Fully Installed,Update Queued,Update Running,
+[2024-10-02 08:33:53] AppID 228980 finished update, 2 mounted depots (BuildID 14615842) : 228988 (6645201662696499616),228990 (1829726630299308803),
+[2024-10-02 08:33:53] AppID 228980 update changed : Running Update,
+[2024-10-02 08:33:54] AppID 228980 update changed : None
+[2024-10-02 08:33:54] AppID 228980 state changed : Fully Installed,Update Queued,
+[2024-10-02 08:33:54] AppID 228980 state changed : Fully Installed,
+[2024-10-02 08:33:54] AppID 228980 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-10-02 08:33:54] AppID 1196590 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-10-02 08:33:54] AppID 1196590 update changed : Running Update,
+[2024-10-02 08:33:54] AppID 1196590 update changed : Running Update,Reconfiguring,
+[2024-10-02 08:33:54] AppID 1196590 update changed : Running Update,
+[2024-10-02 08:33:54] AppID 1196590 update started : download 29869765264/29869765264, store 0/0, reuse 0/0, delta 0/0, stage 32515156931/32515156931 
+[2024-10-02 08:33:54] AppID 1196590 update changed : Running Update,Staging,
+[2024-10-02 08:33:54] AppID 1196590 update changed : Running Update,
+[2024-10-02 08:33:54] AppID 1196590 update changed : Running Update,Verifying,
+[2024-10-02 08:36:25] Verified 31008 MB in 'D:\SteamLibrary', clean bytes tally is now 31008 MB
+[2024-10-02 08:36:25] Triggered async write of Steam library folders configuration (2 libraries).
+[2024-10-02 08:36:25] AppID 1196590 update changed : Running Update,
+[2024-10-02 08:36:25] AppID 1196590 update changed : Running Update,Committing,
+[2024-10-02 08:36:25] AppID 1196590 starting commit from "D:\SteamLibrary\steamapps\downloading\1196590" to "D:\SteamLibrary\steamapps\common\Resident Evil Village BIOHAZARD VILLAGE" : 22 updated, 0 moved, 0 deleted files
+[2024-10-02 08:36:25] AppID 1196590 state changed : Fully Installed,Update Queued,Update Running,
+[2024-10-02 08:36:25] AppID 1196590 finished update, 2 mounted depots (BuildID 11260452) : 1196591 (585232905863960465),1196593 (8955452086167616663),
+[2024-10-02 08:36:25] AppID 1196590 update changed : Running Update,
+[2024-10-02 08:36:25] AppID 1196590 update changed : None
+[2024-10-02 08:36:25] AppID 1196590 state changed : Fully Installed,Update Queued,
+[2024-10-02 08:36:25] AppID 1196590 state changed : Fully Installed,
+[2024-10-02 08:36:25] AppID 1196590 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-10-02 09:16:50] AppID 1196590 adding PID 30212 as a tracked process ""D:\SteamLibrary\steamapps\common\Resident Evil Village BIOHAZARD VILLAGE\re8.exe""
+[2024-10-02 09:16:50] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-10-02 09:16:50] AppID 1196590 state changed : Fully Installed,App Running,
+[2024-10-02 09:16:50] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-10-02 09:16:51] SSGL: change [1196590] LCT 1572880->0
+[2024-10-02 09:16:52] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-10-02 09:21:51] CUser::UpdateHmdState: timed out waiting for detected headset, app 1196590
+[2024-10-02 09:50:56] AppID 1196590 no longer tracking PID 30212, exit code 0
+[2024-10-02 09:50:56] AppID 1196590 state changed : Fully Installed,
+[2024-10-02 09:50:56] Remove 1196590 from running list
+[2024-10-02 09:54:53] AppID 1196590 adding PID 11700 as a tracked process ""D:\SteamLibrary\steamapps\common\Resident Evil Village BIOHAZARD VILLAGE\re8.exe""
+[2024-10-02 09:54:53] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-10-02 09:54:53] AppID 1196590 state changed : Fully Installed,App Running,
+[2024-10-02 09:54:54] SSGL: change [1196590] LCT -1676647813->0
+[2024-10-02 09:54:54] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-10-02 09:54:54] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-10-02 09:59:54] CUser::UpdateHmdState: timed out waiting for detected headset, app 1196590
+[2024-10-02 09:59:57] AppID 1196590 no longer tracking PID 11700, exit code 0
+[2024-10-02 09:59:57] AppID 1196590 state changed : Fully Installed,
+[2024-10-02 09:59:57] Remove 1196590 from running list

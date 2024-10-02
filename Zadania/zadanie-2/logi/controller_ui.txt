@@ -1,0 +1,337 @@
+
+
+[2021-12-05 11:14:55] [206440]Non-Steam Controller Configs Enabled: 1
+
+[2021-12-05 11:14:57] [383870]Non-Steam Controller Configs Enabled: 1
+
+[2021-12-05 11:18:36] [6800]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2021-12-05 17:10:10] [6800]Non-Steam Controller Configs Enabled: 1
+
+[2021-12-05 20:29:59] [6800]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2022-08-08 10:24:54] Warming Config Cache 769
+
+[2022-08-08 10:25:05] Warming Config Cache 358270
+
+[2022-08-08 12:21:57] Warming Config Cache 358270
+
+[2022-08-08 12:21:57] Warming Config Cache 358270
+
+[2022-08-08 12:21:57] [358270]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-08 12:21:58] Warming Config Cache 358270
+
+[2022-08-08 12:21:58] Warming Config Cache 358270
+
+[2022-08-08 16:37:01] Warming Config Cache 358270
+
+[2022-08-08 16:37:01] Warming Config Cache 358270
+
+[2022-08-08 17:14:43] Warming Config Cache 358270
+
+[2022-08-08 17:14:43] Warming Config Cache 358270
+
+[2022-08-08 18:49:05] Warming Config Cache 358270
+
+[2022-08-08 18:49:05] Warming Config Cache 358270
+
+[2022-08-08 19:43:00] Warming Config Cache 358270
+
+[2022-08-08 19:43:00] Warming Config Cache 358270
+
+[2022-08-09 13:02:54] Warming Config Cache 358270
+
+[2022-08-09 13:02:54] Warming Config Cache 358270
+
+[2022-08-09 13:02:54] [358270]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-09 17:37:26] Warming Config Cache 358270
+
+[2022-08-09 17:37:26] Warming Config Cache 358270
+
+[2022-08-09 17:37:26] [358270]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-09 23:25:28] Warming Config Cache 358270
+
+[2022-08-09 23:25:28] Warming Config Cache 358270
+
+[2022-08-09 23:25:28] [358270]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-09 23:25:48] Warming Config Cache 358270
+
+[2022-08-09 23:25:48] Warming Config Cache 358270
+
+
+
+[2022-08-12 20:52:52] Warming Config Cache 769
+
+[2022-08-12 20:57:50] [358270]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-12 20:57:50] Warming Config Cache 358270
+
+[2022-08-12 20:57:50] Warming Config Cache 358270
+
+[2022-08-12 23:14:09] Warming Config Cache 358270
+
+[2022-08-12 23:14:09] Warming Config Cache 358270
+
+[2022-08-13 01:33:35] Warming Config Cache 358270
+
+[2022-08-13 01:33:35] Warming Config Cache 358270
+
+
+
+[2022-08-13 12:22:30] Warming Config Cache 769
+
+[2022-08-13 12:25:53] [358270]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-13 12:25:53] Warming Config Cache 358270
+
+[2022-08-13 12:25:53] Warming Config Cache 358270
+
+[2022-08-13 12:25:53] Warming Config Cache 358270
+
+[2022-08-13 12:25:53] Warming Config Cache 358270
+
+[2022-08-13 14:48:24] Warming Config Cache 358270
+
+[2022-08-13 14:48:24] Warming Config Cache 358270
+
+[2022-08-13 14:48:24] [358270]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-13 14:49:27] Warming Config Cache 358270
+
+[2022-08-13 14:49:27] Warming Config Cache 358270
+
+[2022-08-13 14:53:16] Warming Config Cache 358270
+
+[2022-08-13 14:53:16] Warming Config Cache 358270
+
+[2022-08-13 15:43:54] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-13 15:43:54] Warming Config Cache 70
+
+[2022-08-13 15:43:54] Warming Config Cache 70
+
+[2022-08-13 15:44:57] Warming Config Cache 70
+
+[2022-08-13 15:52:52] Warming Config Cache 70
+
+[2022-08-13 15:52:52] Warming Config Cache 70
+
+[2022-08-13 16:29:58] Warming Config Cache 70
+
+[2022-08-13 16:29:58] Warming Config Cache 70
+
+[2022-08-13 18:08:26] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-13 18:15:42] Warming Config Cache 70
+
+[2022-08-13 18:15:42] Warming Config Cache 70
+
+[2022-08-13 18:16:26] Warming Config Cache 70
+
+[2022-08-13 18:16:26] Warming Config Cache 70
+
+[2022-08-13 19:00:05] Warming Config Cache 70
+
+[2022-08-13 19:00:05] Warming Config Cache 70
+
+[2022-08-13 22:03:53] Warming Config Cache 70
+
+[2022-08-13 22:03:53] Warming Config Cache 70
+
+
+
+[2022-08-24 20:42:10] Warming Config Cache 769
+
+[2022-08-24 20:42:30] [358270]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-24 20:42:30] Warming Config Cache 358270
+
+[2022-08-24 20:42:30] Warming Config Cache 358270
+
+[2022-08-24 20:42:31] Warming Config Cache 358270
+
+[2022-08-24 20:42:31] Warming Config Cache 358270
+
+
+
+[2022-08-24 21:37:42] Warming Config Cache 769
+
+
+
+[2022-08-25 17:27:27] Warming Config Cache 769
+
+[2022-08-25 17:28:17] [358270]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-25 17:28:17] Warming Config Cache 358270
+
+[2022-08-25 17:28:17] Warming Config Cache 358270
+
+[2022-08-25 17:28:18] Warming Config Cache 358270
+
+[2022-08-25 17:28:18] Warming Config Cache 358270
+
+[2022-08-25 17:48:17] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-25 17:48:17] Warming Config Cache 70
+
+[2022-08-25 17:48:17] Warming Config Cache 70
+
+[2022-08-25 17:48:25] Warming Config Cache 70
+
+[2022-08-25 17:48:25] Warming Config Cache 70
+
+[2022-08-25 18:08:20] Warming Config Cache 70
+
+[2022-08-25 18:08:20] Warming Config Cache 70
+
+[2022-08-26 01:02:44] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-26 09:10:07] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-26 17:38:21] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-26 20:46:32] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-27 16:43:14] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-27 17:20:37] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-27 17:51:44] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-27 18:22:54] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-28 11:40:35] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-28 12:38:07] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-28 19:22:00] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-28 22:37:34] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-29 09:12:49] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-29 16:29:20] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-29 20:07:42] [70]Non-Steam Controller Configs Enabled: 1
+
+[2022-08-29 21:20:18] [70]Non-Steam Controller Configs Enabled: 1
+
+
+
+[2023-01-13 19:57:06] Warming Config Cache 769
+
+[2023-01-13 19:57:49] Warming Config Cache 70
+
+[2023-01-13 19:57:50] Warming Config Cache 358270
+
+
+
+[2023-03-22 22:36:09] Warming Config Cache 769
+
+[2023-03-22 22:36:27] Warming Config Cache 70
+
+
+
+[2024-03-04 18:57:25] Client version: 1709168962
+[2024-03-04 18:57:25] Warming Config Cache 769
+
+
+[2024-03-08 09:20:35] Client version: 1709168962
+[2024-03-08 09:20:35] Warming Config Cache 769
+[2024-03-08 09:22:39] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 09:22:39] [383870]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 09:22:52] [254700]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 09:23:09] Warming Config Cache 228980
+[2024-03-08 09:24:35] [320]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 09:24:54] [39150]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 09:24:58] [358270]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 09:25:00] [6800]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 09:25:00] Warming Config Cache 6800
+[2024-03-08 09:25:02] Warming Config Cache 358270
+[2024-03-08 09:25:05] [21690]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 09:25:07] [206440]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 09:25:10] [20]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 09:25:12] Warming Config Cache 70
+[2024-03-08 14:00:35] [358270]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 14:00:37] [6800]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 14:00:39] [39150]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 14:00:40] [383870]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 14:00:40] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 18:08:19] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-08 19:08:48] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-09 10:29:04] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-09 12:29:55] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-09 16:57:02] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-09 18:57:36] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-09 23:50:29] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-10 11:06:38] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-10 15:06:10] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-10 16:29:57] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-11 07:48:53] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-11 15:36:51] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-11 18:23:03] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-11 19:19:14] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-12 07:25:51] [70]Non-Steam Controller Configs Enabled: 1
+[2024-03-12 08:26:38] [70]Non-Steam Controller Configs Enabled: 1
+
+
+[2024-06-05 20:16:03] Client version: 1709846872
+[2024-06-05 20:16:03] Warming Config Cache 769
+[2024-06-05 20:16:19] Warming Config Cache 70
+
+
+[2024-06-11 09:59:37] Client version: 1709846872
+[2024-06-11 09:59:37] Warming Config Cache 769
+[2024-06-11 09:59:47] Warming Config Cache 70
+[2024-06-11 09:59:56] [70]Non-Steam Controller Configs Enabled: 1
+[2024-06-11 09:59:56] [383870]Non-Steam Controller Configs Enabled: 1
+[2024-06-11 09:59:56] [220]Non-Steam Controller Configs Enabled: 1
+[2024-06-11 09:59:57] [420]Non-Steam Controller Configs Enabled: 1
+[2024-06-11 09:59:58] [340]Non-Steam Controller Configs Enabled: 1
+[2024-06-11 10:00:01] [280]Non-Steam Controller Configs Enabled: 1
+[2024-06-11 10:00:04] [360]Non-Steam Controller Configs Enabled: 1
+[2024-06-11 10:01:50] [254700]Non-Steam Controller Configs Enabled: 1
+
+
+[2024-07-03 13:14:43] Client version: 1709846872
+[2024-07-03 13:14:43] Warming Config Cache 769
+[2024-07-03 13:14:54] Warming Config Cache 70
+[2024-07-03 13:14:56] [70]Non-Steam Controller Configs Enabled: 1
+[2024-07-03 13:14:56] [220]Non-Steam Controller Configs Enabled: 1
+[2024-07-03 13:14:56] Warming Config Cache 358270
+[2024-07-03 13:15:08] [358270]Non-Steam Controller Configs Enabled: 1
+[2024-07-03 13:15:20] [320]Non-Steam Controller Configs Enabled: 1
+
+
+[2024-07-14 12:04:18] Client version: 1718904662
+[2024-07-14 12:04:18] Warming Config Cache 769
+
+
+[2024-08-22 11:47:24] Client version: 1718904662
+[2024-08-22 11:47:24] Warming Config Cache 769
+
+
+[2024-08-24 18:26:22] Client version: 1721173382
+[2024-08-24 18:26:22] Warming Config Cache 769
+
+
+[2024-10-01 20:23:03] Client version: 1721173382
+[2024-10-01 20:23:03] Warming Config Cache 769
+
+
+[2024-10-02 08:33:13] Client version: 1726604483
+[2024-10-02 08:33:13] Warming Config Cache 769
+[2024-10-02 08:33:53] Warming Config Cache 228980
+[2024-10-02 08:36:25] Warming Config Cache 1196590
+[2024-10-02 09:16:50] Warming Config Cache 1196590
+[2024-10-02 09:16:50] Warming Config Cache 1196590
+[2024-10-02 09:54:53] Warming Config Cache 1196590
+[2024-10-02 09:54:53] Warming Config Cache 1196590

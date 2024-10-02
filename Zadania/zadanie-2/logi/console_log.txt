@@ -1,0 +1,253 @@
+
+
+[2024-03-08 09:22:31] Client version: 1709168962
+[2024-03-08 09:22:31] Loaded SDL version 3.0.0-3408-g95a67278d
+[2024-03-08 09:22:31] Failed to init SteamVR because it isn't installed
+[2024-03-08 09:22:31] LogonFailure No Connection
+[2024-03-08 09:22:31] src\clientdll\cminterface.cpp (2993) : Expected connection attempt scheduled
+[2024-03-08 09:22:31] LogonFailure No Connection
+[2024-03-08 09:22:31] LogonFailure No Connection
+[2024-03-08 09:22:31] local (potentially out of sync) copy of roaming config loaded - 231 bytes.
+[2024-03-08 09:22:31] roaming config store loaded successfully - 231 bytes.
+[2024-03-08 09:22:31] migrating temporary roaming config store
+[2024-03-08 09:22:31] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2024-03-08 09:22:31] System startup time: 115.28 seconds
+[2024-03-08 09:22:31] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2024-03-08 09:22:39] CAPIJobRequestUserStats - Server response failed 2
+[2024-03-08 09:24:36] CAPIJobRequestUserStats - Server response failed 2
+[2024-03-08 09:24:58] CAPIJobRequestUserStats - Server response failed 2
+[2024-03-08 09:25:00] CAPIJobRequestUserStats - Server response failed 2
+[2024-03-08 09:25:10] CAPIJobRequestUserStats - Server response failed 2
+[2024-03-08 10:17:53] LogonFailure No Connection
+[2024-03-08 10:18:19] LogonFailure No Connection
+[2024-03-08 10:18:48] LogonFailure No Connection
+[2024-03-08 10:48:40] LogonFailure No Connection
+[2024-03-08 13:25:42] LogonFailure No Connection
+[2024-03-08 14:00:35] CAPIJobRequestUserStats - Server response failed 2
+[2024-03-08 14:00:37] CAPIJobRequestUserStats - Server response failed 2
+[2024-03-08 14:00:40] CAPIJobRequestUserStats - Server response failed 2
+[2024-03-08 18:08:53] LogonFailure No Connection
+[2024-03-09 10:28:55] LogonFailure No Connection
+[2024-03-09 12:29:47] LogonFailure No Connection
+[2024-03-09 16:56:39] LogonFailure No Connection
+[2024-03-09 16:56:45] LogonFailure No Connection
+[2024-03-09 23:50:14] LogonFailure No Connection
+[2024-03-09 23:50:58] LogonFailure No Connection
+[2024-03-10 11:06:28] LogonFailure No Connection
+[2024-03-10 15:06:01] LogonFailure No Connection
+[2024-03-10 15:06:50] LogonFailure No Connection
+[2024-03-11 07:49:23] LogonFailure No Connection
+[2024-03-11 07:50:25] LogonFailure No Connection
+[2024-03-11 07:50:36] LogonFailure No Connection
+[2024-03-11 15:36:21] LogonFailure No Connection
+[2024-03-11 15:36:30] LogonFailure No Connection
+[2024-03-11 15:36:37] LogonFailure No Connection
+[2024-03-11 15:37:21] LogonFailure No Connection
+[2024-03-11 15:38:40] LogonFailure No Connection
+[2024-03-11 18:22:51] LogonFailure No Connection
+[2024-03-11 19:19:02] LogonFailure No Connection
+[2024-03-11 19:19:48] LogonFailure No Connection
+[2024-03-12 07:25:31] LogonFailure No Connection
+[2024-03-12 08:26:28] LogonFailure No Connection
+[2024-03-12 08:27:14] LogonFailure No Connection
+
+
+[2024-06-05 20:16:12] Client version: 1709846872
+[2024-06-05 20:16:12] Loaded SDL version 3.0.0-3408-g95a67278d
+[2024-06-05 20:16:12] Failed to init SteamVR because it isn't installed
+[2024-06-05 20:16:12] local (potentially out of sync) copy of roaming config loaded - 231 bytes.
+[2024-06-05 20:16:12] roaming config store loaded successfully - 231 bytes.
+[2024-06-05 20:16:12] migrating temporary roaming config store
+[2024-06-05 20:16:12] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2024-06-05 20:16:12] System startup time: 9.00 seconds
+[2024-06-05 20:16:12] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+
+
+[2024-06-11 09:59:45] Client version: 1709846872
+[2024-06-11 09:59:45] Loaded SDL version 3.0.0-3408-g95a67278d
+[2024-06-11 09:59:45] Failed to init SteamVR because it isn't installed
+[2024-06-11 09:59:45] local (potentially out of sync) copy of roaming config loaded - 231 bytes.
+[2024-06-11 09:59:45] roaming config store loaded successfully - 231 bytes.
+[2024-06-11 09:59:45] migrating temporary roaming config store
+[2024-06-11 09:59:45] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2024-06-11 09:59:45] System startup time: 7.31 seconds
+[2024-06-11 09:59:45] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2024-06-11 09:59:56] CAPIJobRequestUserStats - Server response failed 2
+[2024-06-11 09:59:58] CAPIJobRequestUserStats - Server response failed 2
+[2024-06-11 10:00:02] CAPIJobRequestUserStats - Server response failed 2
+[2024-06-11 10:00:04] CAPIJobRequestUserStats - Server response failed 2
+[2024-06-11 10:01:50] ExecuteSteamURL: "steam://launch/254700/Dialog"
+[2024-06-11 10:01:50] GameAction [AppID 254700, ActionID 1] : LaunchApp changed task to UpdatingAppTicket with ""
+[2024-06-11 10:01:50] GameAction [AppID 254700, ActionID 1] : LaunchApp failed with AppError_18 with ""
+[2024-06-11 10:01:50] GameAction [AppID 254700, ActionID 1] : LaunchApp changed task to Failed with ""
+
+
+[2024-07-03 13:14:51] Client version: 1709846872
+[2024-07-03 13:14:51] Loaded SDL version 3.0.0-3408-g95a67278d
+[2024-07-03 13:14:51] Failed to init SteamVR because it isn't installed
+[2024-07-03 13:14:51] local (potentially out of sync) copy of roaming config loaded - 231 bytes.
+[2024-07-03 13:14:51] roaming config store loaded successfully - 231 bytes.
+[2024-07-03 13:14:51] migrating temporary roaming config store
+[2024-07-03 13:14:51] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2024-07-03 13:14:51] System startup time: 7.50 seconds
+[2024-07-03 13:14:51] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2024-07-03 13:14:56] CAPIJobRequestUserStats - Server response failed 2
+[2024-07-03 13:15:08] CAPIJobRequestUserStats - Server response failed 2
+[2024-07-03 13:15:20] CAPIJobRequestUserStats - Server response failed 2
+[2024-07-03 17:21:59] LogonFailure No Connection
+[2024-07-03 17:22:13] LogonFailure No Connection
+[2024-07-03 17:23:09] LogonFailure No Connection
+[2024-07-03 20:06:45] LogonFailure No Connection
+[2024-07-03 20:07:33] LogonFailure No Connection
+[2024-07-04 08:20:30] LogonFailure No Connection
+[2024-07-04 15:33:01] LogonFailure No Connection
+[2024-07-04 15:33:13] LogonFailure No Connection
+[2024-07-05 10:02:04] LogonFailure No Connection
+[2024-07-05 10:02:12] LogonFailure No Connection
+[2024-07-05 10:03:07] LogonFailure No Connection
+[2024-07-05 16:43:31] LogonFailure No Connection
+[2024-07-05 16:43:38] LogonFailure No Connection
+[2024-07-06 08:38:31] LogonFailure No Connection
+[2024-07-06 08:39:31] LogonFailure No Connection
+[2024-07-06 09:17:07] LogonFailure No Connection
+[2024-07-06 12:55:02] LogonFailure No Connection
+[2024-07-06 12:55:58] LogonFailure No Connection
+[2024-07-06 12:56:06] LogonFailure No Connection
+[2024-07-06 13:18:06] LogonFailure No Connection
+[2024-07-06 14:48:56] LogonFailure No Connection
+[2024-07-07 11:24:53] LogonFailure No Connection
+
+
+[2024-07-14 12:04:25] Client version: 1718904662
+[2024-07-14 12:04:25] Loaded SDL version 3.1.2-471-g6821fb2fe
+[2024-07-14 12:04:25] Failed to init SteamVR because it isn't installed
+[2024-07-14 12:04:25] local (potentially out of sync) copy of roaming config loaded - 231 bytes.
+[2024-07-14 12:04:25] LoadShortcuts: loading shortcuts from: C:\Program Files (x86)\Steam/userdata/189284152/config/shortcuts.vdf
+[2024-07-14 12:04:25] roaming config store loaded successfully - 231 bytes.
+[2024-07-14 12:04:25] migrating temporary roaming config store
+[2024-07-14 12:04:25] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2024-07-14 12:04:25] System startup time: 6.82 seconds
+[2024-07-14 12:04:26] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2024-07-14 12:04:44] CAPIJobRequestUserStats - Server response failed 2
+[2024-07-14 12:04:58] CAPIJobRequestUserStats - Server response failed 2
+[2024-07-14 12:04:59] CAPIJobRequestUserStats - Server response failed 2
+[2024-07-14 12:04:59] CAPIJobRequestUserStats - Server response failed 2
+
+
+[2024-08-22 11:47:32] Client version: 1718904662
+[2024-08-22 11:47:32] Loaded SDL version 3.1.2-471-g6821fb2fe
+[2024-08-22 11:47:32] Failed to init SteamVR because it isn't installed
+[2024-08-22 11:47:32] local (potentially out of sync) copy of roaming config loaded - 231 bytes.
+[2024-08-22 11:47:32] LoadShortcuts: loading shortcuts from: C:\Program Files (x86)\Steam/userdata/189284152/config/shortcuts.vdf
+[2024-08-22 11:47:32] roaming config store loaded successfully - 231 bytes.
+[2024-08-22 11:47:32] migrating temporary roaming config store
+[2024-08-22 11:47:32] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2024-08-22 11:47:32] System startup time: 7.25 seconds
+[2024-08-22 11:47:33] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2024-08-22 11:47:41] CAPIJobRequestUserStats - Server response failed 2
+[2024-08-22 11:47:42] CAPIJobRequestUserStats - Server response failed 2
+[2024-08-22 14:45:03] LogonFailure No Connection
+[2024-08-22 21:18:29] LogonFailure No Connection
+[2024-08-22 22:11:27] LogonFailure No Connection
+
+
+[2024-08-24 18:26:30] Client version: 1721173382
+[2024-08-24 18:26:30] Loaded SDL version 3.1.2-471-g6821fb2fe
+[2024-08-24 18:26:30] Failed to init SteamVR because it isn't installed
+[2024-08-24 18:26:30] local (potentially out of sync) copy of roaming config loaded - 231 bytes.
+[2024-08-24 18:26:30] LoadShortcuts: loading shortcuts from: C:\Program Files (x86)\Steam/userdata/189284152/config/shortcuts.vdf
+[2024-08-24 18:26:30] roaming config store loaded successfully - 231 bytes.
+[2024-08-24 18:26:30] migrating temporary roaming config store
+[2024-08-24 18:26:30] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2024-08-24 18:26:30] System startup time: 8.80 seconds
+[2024-08-24 18:26:31] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2024-08-24 18:43:33] CAPIJobRequestUserStats - Server response failed 2
+[2024-08-24 18:43:33] CAPIJobRequestUserStats - Server response failed 2
+[2024-08-25 09:55:56] LogonFailure No Connection
+[2024-08-25 09:56:52] LogonFailure No Connection
+[2024-08-25 19:30:11] LogonFailure No Connection
+[2024-08-25 19:30:25] LogonFailure No Connection
+[2024-08-25 19:30:35] CAPIJobRequestUserStats - Server response failed 2
+[2024-08-26 09:50:33] LogonFailure No Connection
+[2024-08-26 13:17:31] LogonFailure No Connection
+[2024-08-26 13:17:43] LogonFailure No Connection
+[2024-08-26 18:33:12] LogonFailure No Connection
+[2024-08-27 08:32:56] LogonFailure No Connection
+[2024-08-27 08:33:10] CAPIJobRequestUserStats - Server response failed 2
+[2024-08-27 08:33:44] LogonFailure No Connection
+[2024-08-27 09:57:11] LogonFailure No Connection
+[2024-08-27 09:57:31] LogonFailure No Connection
+[2024-08-27 17:45:37] LogonFailure No Connection
+
+
+[2024-10-01 20:23:10] Client version: 1721173382
+[2024-10-01 20:23:10] Loaded SDL version 3.1.2-471-g6821fb2fe
+[2024-10-01 20:23:10] Failed to init SteamVR because it isn't installed
+[2024-10-01 20:23:10] local (potentially out of sync) copy of roaming config loaded - 231 bytes.
+[2024-10-01 20:23:10] LoadShortcuts: loading shortcuts from: C:\Program Files (x86)\Steam/userdata/189284152/config/shortcuts.vdf
+[2024-10-01 20:23:10] roaming config store loaded successfully - 231 bytes.
+[2024-10-01 20:23:10] migrating temporary roaming config store
+[2024-10-01 20:23:10] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2024-10-01 20:23:10] System startup time: 7.56 seconds
+[2024-10-01 20:23:12] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2024-10-01 20:23:38] ExecuteSteamURL: "steam://install/2062120"
+[2024-10-01 20:52:33] CAPIJobRequestUserStats - Server response failed 2
+[2024-10-01 20:52:43] CAPIJobRequestUserStats - Server response failed 2
+[2024-10-01 20:52:43] CAPIJobRequestUserStats - Server response failed 2
+[2024-10-01 20:52:43] CAPIJobRequestUserStats - Server response failed 2
+[2024-10-01 20:52:44] CAPIJobRequestUserStats - Server response failed 2
+
+
+[2024-10-02 08:33:17] Client version: 1726604483
+[2024-10-02 08:33:17] Loaded SDL version 3.1.2-1367-gefdcfef4b
+[2024-10-02 08:33:17] Failed to init SteamVR because it isn't installed
+[2024-10-02 08:33:17] LogonFailure No Connection
+[2024-10-02 08:33:17] local (potentially out of sync) copy of roaming config loaded - 231 bytes.
+[2024-10-02 08:33:17] LoadShortcuts: loading shortcuts from: C:\Program Files (x86)\Steam/userdata/189284152/config/shortcuts.vdf
+[2024-10-02 08:33:17] System startup time: 4.12 seconds
+[2024-10-02 08:33:17] Store/Community web auth request failed: Auth error
+[2024-10-02 08:33:23] ExecCommandLine: ""C:\Program Files (x86)\Steam\steam.exe""
+[2024-10-02 08:33:33] LogonFailure No Connection
+[2024-10-02 08:33:40] LogonFailure No Connection
+[2024-10-02 08:33:50] roaming config store loaded successfully - 231 bytes.
+[2024-10-02 08:33:52] Error: texture file 'public\steam_cloudsync' does not exist or is invalid
+[2024-10-02 08:34:26] CAPIJobRequestUserStats - Server response failed 2
+[2024-10-02 09:15:51] GameAction [AppID 1196590, ActionID 1] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-10-02 09:15:52] GameAction [AppID 1196590, ActionID 1] : LaunchApp changed task to RunningInstallScript with ""
+[2024-10-02 09:16:49] GameAction [AppID 1196590, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-10-02 09:16:49] GameAction [AppID 1196590, ActionID 1] : LaunchApp changed task to SynchronizingStats with ""
+[2024-10-02 09:16:50] GameAction [AppID 1196590, ActionID 1] : LaunchApp changed task to ShowInterstitials with ""
+[2024-10-02 09:16:50] GameAction [AppID 1196590, ActionID 1] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-10-02 09:16:50] GameAction [AppID 1196590, ActionID 1] : LaunchApp continues with user response "ShowInterstitials"
+[2024-10-02 09:16:50] GameAction [AppID 1196590, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-10-02 09:16:50] GameAction [AppID 1196590, ActionID 1] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-10-02 09:16:50] GameAction [AppID 1196590, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+[2024-10-02 09:16:50] GameAction [AppID 1196590, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-10-02 09:16:50] GameAction [AppID 1196590, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+[2024-10-02 09:16:50] Forced create of Win32Event but it already existed
+[2024-10-02 09:16:50] Forced create of Win32Event but it already existed
+[2024-10-02 09:16:50] Game process added : AppID 1196590 ""D:\SteamLibrary\steamapps\common\Resident Evil Village BIOHAZARD VILLAGE\re8.exe"", ProcID 30212, IP 0.0.0.0:0
+[2024-10-02 09:16:50] GameAction [AppID 1196590, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-10-02 09:16:50] GameAction [AppID 1196590, ActionID 1] : LaunchApp changed task to Completed with ""
+[2024-10-02 09:16:51] Game process updated : AppID 1196590 ""D:\SteamLibrary\steamapps\common\Resident Evil Village BIOHAZARD VILLAGE\re8.exe"", ProcID 30212, IP 0.0.0.0:0
+[2024-10-02 09:16:52] Game process updated : AppID 1196590 ""D:\SteamLibrary\steamapps\common\Resident Evil Village BIOHAZARD VILLAGE\re8.exe"", ProcID 30212, IP 0.0.0.0:0
+[2024-10-02 09:16:56] CAPIJobRequestUserStats - Server response failed 2
+[2024-10-02 09:50:56] Game process removed: AppID 1196590 ""D:\SteamLibrary\steamapps\common\Resident Evil Village BIOHAZARD VILLAGE\re8.exe"", ProcID 30212 
+[2024-10-02 09:54:51] GameAction [AppID 1196590, ActionID 2] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-10-02 09:54:52] GameAction [AppID 1196590, ActionID 2] : LaunchApp changed task to RunningInstallScript with ""
+[2024-10-02 09:54:52] GameAction [AppID 1196590, ActionID 2] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-10-02 09:54:53] GameAction [AppID 1196590, ActionID 2] : LaunchApp changed task to SynchronizingStats with ""
+[2024-10-02 09:54:53] GameAction [AppID 1196590, ActionID 2] : LaunchApp changed task to ShowInterstitials with ""
+[2024-10-02 09:54:53] GameAction [AppID 1196590, ActionID 2] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-10-02 09:54:53] GameAction [AppID 1196590, ActionID 2] : LaunchApp continues with user response "ShowInterstitials"
+[2024-10-02 09:54:53] GameAction [AppID 1196590, ActionID 2] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-10-02 09:54:53] GameAction [AppID 1196590, ActionID 2] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-10-02 09:54:53] GameAction [AppID 1196590, ActionID 2] : LaunchApp changed task to CreatingProcess with ""
+[2024-10-02 09:54:53] GameAction [AppID 1196590, ActionID 2] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-10-02 09:54:53] GameAction [AppID 1196590, ActionID 2] : LaunchApp continues with user response "CreatingProcess"
+[2024-10-02 09:54:53] Game process added : AppID 1196590 ""D:\SteamLibrary\steamapps\common\Resident Evil Village BIOHAZARD VILLAGE\re8.exe"", ProcID 11700, IP 0.0.0.0:0
+[2024-10-02 09:54:53] GameAction [AppID 1196590, ActionID 2] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-10-02 09:54:53] GameAction [AppID 1196590, ActionID 2] : LaunchApp changed task to Completed with ""
+[2024-10-02 09:54:54] Game process updated : AppID 1196590 ""D:\SteamLibrary\steamapps\common\Resident Evil Village BIOHAZARD VILLAGE\re8.exe"", ProcID 11700, IP 0.0.0.0:0
+[2024-10-02 09:54:54] Game process updated : AppID 1196590 ""D:\SteamLibrary\steamapps\common\Resident Evil Village BIOHAZARD VILLAGE\re8.exe"", ProcID 11700, IP 0.0.0.0:0
+[2024-10-02 09:59:57] Game process removed: AppID 1196590 ""D:\SteamLibrary\steamapps\common\Resident Evil Village BIOHAZARD VILLAGE\re8.exe"", ProcID 11700 

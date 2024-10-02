@@ -1,0 +1,651 @@
+[1101/124450.007:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1101/124450.722:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1101/124650.673:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: gpu-process
+[1102/091836.476:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1102/091836.799:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1105/085325.257:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1105/085325.549:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1105/085525.614:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: gpu-process
+[1106/133453.498:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1106/133453.788:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1106/133653.829:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: gpu-process
+[1106/140628.044:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1106/140628.056:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1106/142120.760:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1106/142120.785:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1106/142120.787:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1110/084628.695:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1110/084629.071:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1111/130943.962:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1111/130944.348:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1111/131144.300:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: gpu-process
+[1111/143454.388:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1111/143454.689:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1111/143654.720:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: gpu-process
+[1115/092629.415:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1115/092629.729:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1116/092316.873:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1116/092317.313:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1117/080036.093:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1117/080036.478:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1117/080236.496:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: gpu-process
+[1120/124205.213:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1120/124205.577:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1122/091924.544:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: browser
+[1122/091924.932:INFO:crash_reporting.cc(247)] Crash reporting enabled for process: utility
+[1123/082123.847:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1123/082124.277:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1123/082326.998:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1123/085029.616:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1123/085029.646:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1123/085218.908:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1123/085218.949:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1123/085218.966:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1123/085218.986:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1124/073821.974:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1124/073822.384:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1124/105722.394:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1124/105722.741:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1124/105922.779:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1125/075353.643:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1125/075354.464:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1125/075554.291:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1125/082332.424:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1125/082332.457:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1125/092304.818:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1125/092304.844:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1125/092304.872:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1125/092304.894:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1126/085948.310:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1126/085948.758:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1126/090148.769:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1129/231215.976:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1129/231216.408:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1130/092740.532:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1130/092740.931:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1201/071512.003:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1201/071512.406:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1201/071712.419:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1205/111357.836:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1205/111358.352:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1205/111558.329:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1205/113229.573:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1205/121358.565:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1205/121359.008:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1205/132420.917:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1205/132421.297:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1205/132621.294:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1205/143832.472:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1205/143832.487:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1205/165021.069:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1205/165021.072:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1205/165021.099:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1205/165021.123:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1205/165021.124:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1205/165021.158:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1205/202957.161:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1205/202957.178:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1205/202957.736:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1205/221747.907:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[1205/221900.171:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1205/221900.728:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1205/222100.707:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1206/091501.793:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1206/091502.264:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1206/091702.266:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1206/143747.478:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1206/143747.904:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1207/121835.420:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1207/121835.858:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1207/123552.799:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1207/123553.189:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1207/123753.234:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1208/104311.486:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1208/104311.899:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1208/104511.942:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1208/112620.798:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1208/112620.809:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1208/122913.800:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1208/122913.816:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1208/122913.822:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1208/150152.791:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1208/150152.817:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1208/150152.839:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1208/150152.843:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[1209/085136.978:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1209/085137.381:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1209/085337.383:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1209/091330.119:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1209/091330.512:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1209/091530.534:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1210/091213.550:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1210/091213.951:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1210/091413.971:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[1210/132249.995:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1210/132250.430:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[1210/134151.536:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[1210/134151.916:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[0808/101825.813:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[0808/101826.216:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[0808/101916.373:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[0808/102026.196:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[0808/102454.803:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[0808/102455.163:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[0808/102507.133:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steam-chat.com/chat/clientui/?l=polish&cc=PL&build=1658944613&origin=https%3A%2F%2Fsteamloopback.host (0)
+[0808/102655.145:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[0809/090956.840:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/090956.844:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/090956.983:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/090956.991:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/173547.365:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/173547.431:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/173547.437:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/205725.024:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/205725.031:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/205725.111:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/205725.262:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/205725.284:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/220040.331:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/220040.339:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/224632.342:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/224632.351:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0809/234754.596:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[0812/205253.144:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[0812/205253.633:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[0812/205453.611:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[0812/205700.271:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steam-chat.com/chat/clientui/?l=polish&cc=PL&build=1658944613&origin=https%3A%2F%2Fsteamloopback.host (0)
+[0813/020924.315:INFO:CONSOLE(15)] "WebSocket connection to 'ws://127.0.0.1:27060/clientsocket/' failed: Unknown reason", source: https://community.akamai.steamstatic.com/public/javascript/webui/friends.js?v=Ne8Sw6pt45Hy&l=polish (15)
+[0813/020924.316:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[0813/122230.961:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[0813/122231.359:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[0813/122431.337:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[0813/122518.951:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steam-chat.com/chat/clientui/?l=polish&cc=PL&build=1658944613&origin=https%3A%2F%2Fsteamloopback.host (0)
+[0813/142023.781:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0813/142023.816:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0813/142023.850:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0813/142023.869:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0813/153540.084:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[0813/154028.961:INFO:CONSOLE(0)] "Error with Feature-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0813/154028.961:INFO:CONSOLE(0)] "Error with Feature-Policy header: Unrecognized feature: 'speaker'.", source:  (0)
+[0813/154037.694:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[0813/154110.798:INFO:CONSOLE(0)] "Error with Feature-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0813/154110.798:INFO:CONSOLE(0)] "Error with Feature-Policy header: Unrecognized feature: 'speaker'.", source:  (0)
+[0813/180820.053:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0813/180820.084:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0813/180820.137:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0813/180820.188:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0813/180820.213:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0813/180820.265:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0813/233653.256:ERROR:network_service_instance_impl.cc(263)] Network service crashed, restarting service.
+[0824/204210.820:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[0824/204211.234:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[0824/204223.251:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steam-chat.com/chat/clientui/?l=polish&cc=PL&build=1658944613&origin=https%3A%2F%2Fsteamloopback.host (0)
+[0824/204411.215:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[0824/213742.507:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[0824/213742.913:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[0825/172728.244:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: browser
+[0825/172728.687:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: utility
+[0825/172805.935:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steam-chat.com/chat/clientui/?l=polish&cc=PL&build=1660960119&origin=https%3A%2F%2Fsteamloopback.host (0)
+[0825/172928.678:INFO:crash_reporting.cc(246)] Crash reporting enabled for process: gpu-process
+[0826/010239.275:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/010239.297:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/010239.336:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/010239.360:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/091001.113:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/091001.125:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/091001.146:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/091001.176:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/091001.180:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/173811.205:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/173811.219:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/173811.266:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/173811.294:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/173811.299:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/173811.319:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/204627.122:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/204627.172:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/204627.232:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/204627.273:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0826/204627.306:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/164301.162:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/164301.176:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/164301.235:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/164301.285:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/172031.126:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/172031.145:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/175138.093:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/175138.101:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/182248.080:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/182248.119:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/182248.158:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/182248.185:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0827/182248.193:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0828/114031.120:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0828/114031.177:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0828/114031.194:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0828/123801.134:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0828/123801.142:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0828/123801.170:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0828/192143.143:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0828/192143.204:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0828/192143.227:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0828/223722.275:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0828/223722.291:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0829/091245.067:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0829/091245.211:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0829/091245.239:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0829/091245.259:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0829/212012.328:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0829/212012.329:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0113/195707.289:INFO:crash_reporting.cc(248)] Crash reporting enabled for process: browser
+[0113/195707.743:INFO:crash_reporting.cc(248)] Crash reporting enabled for process: utility
+[0113/195750.765:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steam-chat.com/chat/clientui/?l=polish&cc=PL&build=1671236931&origin=https%3A%2F%2Fsteamloopback.host (0)
+[0113/195831.367:INFO:crash_reporting.cc(248)] Crash reporting enabled for process: utility
+[0113/195907.736:INFO:crash_reporting.cc(248)] Crash reporting enabled for process: gpu-process
+[0114/112054.182:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0114/112054.199:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0114/112054.576:INFO:CONSOLE(2)] "TypeError: Cannot read property 'CompositionStateStore' of null", source: https://steamloopback.host/156.js (2)
+[0114/112054.581:INFO:CONSOLE(2)] "Uncaught (in promise) TypeError: Cannot read property 'CompositionStateStore' of null", source: https://steamloopback.host/libraryroot.js (2)
+[0114/161148.236:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0114/161148.263:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0114/161148.617:INFO:CONSOLE(2)] "TypeError: Cannot read property 'CompositionStateStore' of null", source: https://steamloopback.host/156.js (2)
+[0114/161148.617:INFO:CONSOLE(2)] "Uncaught (in promise) TypeError: Cannot read property 'CompositionStateStore' of null", source: https://steamloopback.host/libraryroot.js (2)
+[0114/215824.245:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0114/215824.269:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0114/215824.967:INFO:CONSOLE(2)] "TypeError: Cannot read property 'CompositionStateStore' of null", source: https://steamloopback.host/156.js (2)
+[0114/215824.967:INFO:CONSOLE(2)] "Uncaught (in promise) TypeError: Cannot read property 'CompositionStateStore' of null", source: https://steamloopback.host/libraryroot.js (2)
+[0114/215828.512:INFO:CONSOLE(2)] "Uncaught (in promise) Error: [mobx] An invariant failed, however the error is obfuscated because this is a production build.", source: https://steamloopback.host/libraries/libraries.js (2)
+[0322/223610.032:INFO:crash_reporting.cc(248)] Crash reporting enabled for process: browser
+[0322/223610.507:INFO:crash_reporting.cc(248)] Crash reporting enabled for process: utility
+[0322/223617.513:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steam-chat.com/chat/clientui/?l=polish&cc=PL&build=1679359315&origin=https%3A%2F%2Fsteamloopback.host (0)
+[0322/223810.487:INFO:crash_reporting.cc(248)] Crash reporting enabled for process: gpu-process
+[0323/001944.174:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/001944.273:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/001944.751:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/082626.029:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/082626.169:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/082626.180:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/135648.333:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/135648.382:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/135648.431:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/160457.185:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/160457.208:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/160457.243:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/160457.421:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0323/160457.449:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0324/084610.775:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0324/084610.824:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0324/084610.863:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0324/113210.219:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0324/113210.257:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0324/113210.322:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0324/125734.255:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0324/125734.308:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0324/125734.372:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0326/123122.346:ERROR:network_service_instance_impl.cc(264)] Network service crashed, restarting service.
+[0304/185726.309:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0304/185726.715:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0304/185849.640:INFO:CONSOLE(1)] "Failed to poll auth session. Result 2. Transport Error: 2", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0304/185854.670:INFO:CONSOLE(1)] "Failed to poll auth session. Result 2. Transport Error: 2", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0304/185859.734:INFO:CONSOLE(1)] "Failed to poll auth session. Result 2. Transport Error: 2", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0304/185904.842:INFO:CONSOLE(1)] "Failed to poll auth session. Result 2. Transport Error: 2", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0304/185909.918:INFO:CONSOLE(1)] "Failed to poll auth session. Result 2. Transport Error: 2", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0304/185915.015:INFO:CONSOLE(1)] "Failed to poll auth session. Result 2. Transport Error: 2", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0304/185920.094:INFO:CONSOLE(1)] "Failed to poll auth session. Result 2. Transport Error: 2", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0304/185925.152:INFO:CONSOLE(1)] "Failed to poll auth session. Result 2. Transport Error: 2", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0304/185926.670:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: gpu-process
+[0304/185926.873:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0304/185930.229:INFO:CONSOLE(1)] "Failed to poll auth session. Result 2. Transport Error: 2", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0308/092036.428:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0308/092036.782:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0308/092157.825:INFO:CONSOLE(1)] "Failed to poll auth session. Result 2. Transport Error: 2", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0308/092202.947:INFO:CONSOLE(1)] "Failed to poll auth session. Result 2. Transport Error: 2", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0308/092208.009:INFO:CONSOLE(1)] "Failed to poll auth session. Result 2. Transport Error: 2", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0308/092234.475:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0308/092236.746:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: gpu-process
+[0308/092236.956:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0311/153617.990:INFO:CONSOLE(1)] "Transport Error: no pending callback for request", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0311/191850.263:INFO:CONSOLE(1)] "Transport Error: no pending callback for request", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=6fdf9eba3f9e03cd0fa8 (1)
+[0311/191928.760:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0311/191928.769:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0311/191933.780:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0311/191933.781:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0311/191943.788:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0311/191943.802:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0605/201603.573:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0605/201603.981:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0605/201613.476:INFO:CONSOLE(1)] "FriendsUI ReadyToRender - Clock Drift - ERROR undefined", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=f1735cd136d52621ffce (1)
+[0605/201617.023:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0605/201617.424:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0605/201617.475:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0605/201618.091:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0605/201803.924:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: gpu-process
+[0605/201804.114:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0611/095938.199:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0611/095938.569:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0611/095948.332:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0611/095948.332:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0611/095948.332:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0611/095948.332:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0611/095948.332:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0611/095948.332:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0611/095948.332:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0611/095948.332:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0611/095948.342:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0611/100138.535:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: gpu-process
+[0611/100138.699:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0703/131444.419:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0703/131444.791:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0703/131454.265:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0703/131454.265:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0703/131454.265:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0703/131454.750:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0703/131454.750:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0703/131454.912:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0703/131454.912:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0703/131455.026:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0703/131455.027:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?IN_CLIENT=true&LOCAL_HOSTNAME=DESKTOP-NH3UHPO&USE_POPUPS=true&DEV_MODE=false&LANGUAGE=polish&PLATFORM=windows&COUNTRY=PL&LAUNCHER_TYPE=0&IN_STEAMUI_SHARED_CONTEXT=true&ON_DECK=false&ON_STEAMOS=false&IN_GAMESCOPE=false&DECK_DISPLAY_MODE=false&USE_LONGEST_LOC_STRING=false (0)
+[0703/131456.195:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 79
+[0703/131456.212:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 81
+[0703/131456.224:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 83
+[0703/131456.256:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 85
+[0703/131456.264:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 87
+[0703/131456.290:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 89
+[0703/131456.313:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 91
+[0703/131456.333:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 93
+[0703/131456.355:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 95
+[0703/131456.372:WARNING:spdy_session.cc(3487)] Received HEADERS for invalid stream 97
+[0703/131644.756:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: gpu-process
+[0703/131644.942:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0703/172151.393:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/172151.592:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/172151.634:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/172156.602:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/172156.657:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/172206.613:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/172206.670:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/172247.947:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/172247.949:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/172252.952:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/172252.969:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/172302.960:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/172302.991:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200628.236:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200628.413:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200628.642:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200628.717:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200633.655:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200633.751:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200637.263:INFO:CONSOLE(1)] "maximum retry limit exceeeded, bailing", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=f1735cd136d52621ffce (1)
+[0703/200637.263:INFO:CONSOLE(1)] "failed to re-connect to websocket after close", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=f1735cd136d52621ffce (1)
+[0703/200637.263:INFO:CONSOLE(1)] "failed to reconnect to steam client", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=f1735cd136d52621ffce (1)
+[0703/200637.482:INFO:CONSOLE(1)] "maximum retry limit exceeeded, bailing", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=f1735cd136d52621ffce (1)
+[0703/200637.482:INFO:CONSOLE(1)] "failed to re-connect to websocket after close", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=f1735cd136d52621ffce (1)
+[0703/200637.483:INFO:CONSOLE(1)] "failed to reconnect to steam client", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=f1735cd136d52621ffce (1)
+[0703/200643.664:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200643.771:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200720.516:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200720.522:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200725.530:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200725.541:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200735.535:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0703/200735.561:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/082025.234:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/082025.339:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/082025.596:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/082025.608:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/082030.625:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/082030.627:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/082040.633:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/082040.650:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/153301.118:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/153301.254:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/153301.368:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/153301.469:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/153301.582:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/153306.477:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/153306.603:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/153316.487:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0704/153316.619:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/100150.477:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/100150.632:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/100150.851:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/100150.948:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/100155.871:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/100155.952:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/100205.890:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/100205.961:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/164330.583:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/164330.606:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/164335.615:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/164335.620:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/164345.621:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0705/164345.629:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083824.064:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083824.546:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083824.696:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083824.697:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083829.709:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083829.715:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083839.716:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083839.729:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083917.646:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083917.655:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083917.677:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083917.678:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083922.682:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083922.682:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083932.690:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/083932.695:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/091650.203:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/091650.237:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/091655.212:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/091655.246:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/091705.220:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/091705.255:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125451.575:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125451.796:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125456.596:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125456.807:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125506.612:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125506.817:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125545.721:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125545.723:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125545.761:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125545.765:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125550.768:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125550.786:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125600.778:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0706/125600.797:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0707/112441.087:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0707/112441.577:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0707/112441.601:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0707/112446.592:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0707/112446.626:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0707/112456.600:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0707/112456.648:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0714/120419.242:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0714/120419.626:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0714/120428.295:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.140:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.140:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.140:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.140:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.140:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.140:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.140:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.140:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.141:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.141:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.224:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.225:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.225:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.225:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.228:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120430.230:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0714/120431.080:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1720951458&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114725.249:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0822/114725.632:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0822/114737.813:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.813:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.813:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.814:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114737.872:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724320044&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0822/114925.573:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: gpu-process
+[0822/114925.771:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0822/144443.438:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/144443.464:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/144443.605:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/144443.637:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/144448.617:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/144448.652:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/144454.160:INFO:CONSOLE(1)] "Transport Error: no pending callback for request", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=c6062d7de50e0588cde1 (1)
+[0822/144458.626:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/144458.671:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/211822.297:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/211822.348:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/211822.406:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/211822.836:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/211822.853:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/211827.842:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/211827.870:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/211836.376:INFO:CONSOLE(1)] "Transport Error: no pending callback for request", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=c6062d7de50e0588cde1 (1)
+[0822/211837.850:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/211837.893:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/221113.501:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/221113.624:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/221113.883:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/221113.990:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/221118.896:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/221119.009:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/221127.013:INFO:CONSOLE(1)] "Transport Error: no pending callback for request", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=c6062d7de50e0588cde1 (1)
+[0822/221128.901:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/221129.033:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0822/221208.922:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+[0822/221208.990:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+[0822/221209.020:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+[0822/221209.050:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+[0822/221209.067:ERROR:gpu_process_host.cc(991)] GPU process exited unexpectedly: exit_code=1073807364
+[0822/221209.067:WARNING:gpu_process_host.cc(1338)] The GPU process has crashed 1 time(s)
+[0822/221209.087:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+[0824/182622.563:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0824/182622.979:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0824/182634.741:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724516782&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0824/182634.819:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1724516782&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[0824/182822.922:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: gpu-process
+[0824/182823.128:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0824/191443.988:INFO:CONSOLE(0)] "Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22", source: https://store.steampowered.com/app/2050650/Resident_Evil_4/ (0)
+[0825/095543.409:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/095543.547:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/095543.566:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/095543.687:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/095548.562:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/095548.715:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/095558.569:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/095558.726:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/095600.422:INFO:CONSOLE(1)] "Transport Error: no pending callback for request", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=8cf32b195020ced83261 (1)
+[0825/193003.397:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/193003.544:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/193003.632:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/193003.897:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/193003.937:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/193008.928:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/193008.959:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/193018.949:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0825/193018.965:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/095032.235:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/095032.240:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/095037.243:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/095037.258:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/095047.251:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/095047.281:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/131729.301:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/131729.342:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/131729.493:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/131729.564:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/131734.509:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/131734.574:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/131744.519:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/131744.586:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/131746.204:INFO:CONSOLE(1)] "Transport Error: no pending callback for request", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=8cf32b195020ced83261 (1)
+[0826/183304.403:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/183304.497:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/183304.664:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/183309.522:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/183309.678:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/183319.531:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/183319.687:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0826/183321.320:INFO:CONSOLE(1)] "Transport Error: no pending callback for request", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=8cf32b195020ced83261 (1)
+[0827/083238.636:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/083238.646:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/083238.892:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/083238.904:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/083243.917:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/083243.949:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/083253.928:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/083253.971:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/083255.211:INFO:CONSOLE(1)] "Transport Error: no pending callback for request", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=8cf32b195020ced83261 (1)
+[0827/095710.429:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/095710.711:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/095711.075:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/095711.264:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/095716.090:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/095716.311:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/095726.095:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/095726.328:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/095727.391:INFO:CONSOLE(1)] "Transport Error: no pending callback for request", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=8cf32b195020ced83261 (1)
+[0827/174532.196:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/174532.327:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/174537.220:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/174537.340:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/174547.232:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/174547.345:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0827/174549.406:INFO:CONSOLE(1)] "Transport Error: no pending callback for request", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=8cf32b195020ced83261 (1)
+[0827/211211.226:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+[1001/202303.776:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[1001/202304.184:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[1001/202312.492:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202312.558:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202312.558:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202312.558:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202312.558:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202312.558:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202312.558:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202312.558:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202312.559:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202312.559:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202312.559:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202312.559:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202312.560:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202313.898:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202313.976:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202314.031:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202314.053:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727806983&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1001/202504.130:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: gpu-process
+[1001/202504.320:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1001/203234.192:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[1001/203239.952:INFO:CONSOLE(4)] "TypeError: Cannot read properties of undefined (reading 'callbacks')", source: https://www.centrum24.pl/centrum24-rest/cdn/signin/signin.bundle.js?1727807553189 (4)
+[1001/205338.398:WARNING:browser_info.cc(300)] Returning a speculative frame for 90194313224 [21,8]
+[1001/205709.118:WARNING:browser_info.cc(300)] Returning a speculative frame for 94489280520 [22,8]
+[1001/211323.763:WARNING:browser_info.cc(300)] Returning a speculative frame for 103079215112 [24,8]
+[1001/211822.468:WARNING:browser_info.cc(300)] Returning a speculative frame for 107374182408 [25,8]
+[1002/083223.940:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[1002/083224.040:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[1002/083224.099:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[1002/083224.279:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[1002/083224.286:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[1002/083224.305:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[1002/083224.309:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.

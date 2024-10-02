@@ -1,0 +1,70 @@
+
+
+[2024-03-04 18:57:25] Client version: 1709168962
+[2024-03-04 18:57:25] CSystemAudioController skipping on windows
+[2024-03-04 18:57:25] Initialized CSystemAudioController: 0
+[2024-03-04 18:57:25] CSystemAudioController handle volume keys: 0
+[2024-03-04 18:57:25] CSystemAudioController handle echo cancel load: 0
+
+
+[2024-03-08 09:20:35] Client version: 1709168962
+[2024-03-08 09:20:35] CSystemAudioController skipping on windows
+[2024-03-08 09:20:35] Initialized CSystemAudioController: 0
+[2024-03-08 09:20:35] CSystemAudioController handle volume keys: 0
+[2024-03-08 09:20:35] CSystemAudioController handle echo cancel load: 0
+
+
+[2024-06-05 20:16:03] Client version: 1709846872
+[2024-06-05 20:16:03] CSystemAudioController skipping on windows
+[2024-06-05 20:16:03] Initialized CSystemAudioController: 0
+[2024-06-05 20:16:03] CSystemAudioController handle volume keys: 0
+[2024-06-05 20:16:03] CSystemAudioController handle echo cancel load: 0
+
+
+[2024-06-11 09:59:37] Client version: 1709846872
+[2024-06-11 09:59:37] CSystemAudioController skipping on windows
+[2024-06-11 09:59:37] Initialized CSystemAudioController: 0
+[2024-06-11 09:59:37] CSystemAudioController handle volume keys: 0
+[2024-06-11 09:59:37] CSystemAudioController handle echo cancel load: 0
+
+
+[2024-07-03 13:14:43] Client version: 1709846872
+[2024-07-03 13:14:43] CSystemAudioController skipping on windows
+[2024-07-03 13:14:43] Initialized CSystemAudioController: 0
+[2024-07-03 13:14:43] CSystemAudioController handle volume keys: 0
+[2024-07-03 13:14:43] CSystemAudioController handle echo cancel load: 0
+
+
+[2024-07-14 12:04:18] Client version: 1718904662
+[2024-07-14 12:04:18] CSystemAudioController skipping on windows
+[2024-07-14 12:04:18] Initialized CSystemAudioController: 0
+[2024-07-14 12:04:18] CSystemAudioController handle volume keys: 0
+[2024-07-14 12:04:18] CSystemAudioController handle echo cancel load: 0
+
+
+[2024-08-22 11:47:24] Client version: 1718904662
+[2024-08-22 11:47:24] CSystemAudioController skipping on windows
+[2024-08-22 11:47:24] Initialized CSystemAudioController: 0
+[2024-08-22 11:47:24] CSystemAudioController handle volume keys: 0
+[2024-08-22 11:47:24] CSystemAudioController handle echo cancel load: 0
+
+
+[2024-08-24 18:26:22] Client version: 1721173382
+[2024-08-24 18:26:22] CSystemAudioController skipping on windows
+[2024-08-24 18:26:22] Initialized CSystemAudioController: 0
+[2024-08-24 18:26:22] CSystemAudioController handle volume keys: 0
+[2024-08-24 18:26:22] CSystemAudioController handle echo cancel load: 0
+
+
+[2024-10-01 20:23:03] Client version: 1721173382
+[2024-10-01 20:23:03] CSystemAudioController skipping on windows
+[2024-10-01 20:23:03] Initialized CSystemAudioController: 0
+[2024-10-01 20:23:03] CSystemAudioController handle volume keys: 0
+[2024-10-01 20:23:03] CSystemAudioController handle echo cancel load: 0
+
+
+[2024-10-02 08:33:13] Client version: 1726604483
+[2024-10-02 08:33:13] CSystemAudioController skipping on windows
+[2024-10-02 08:33:13] Initialized CSystemAudioController: 0
+[2024-10-02 08:33:13] CSystemAudioController handle volume keys: 0
+[2024-10-02 08:33:13] CSystemAudioController handle echo cancel load: 0

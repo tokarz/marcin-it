@@ -1,0 +1,10 @@
+1) znajdź w logach wartości "Client version"
+2) znajdz w logach wiadomość "Starting async write" i zobacz jaki plik próbuje tam być otwarty
+3) policz, ile masz ogółem logów z tekstem "ERROR" <-- patrz na wielkość liter;)
+4) wszytskie pliki z kroku 3 spakuj i wrzuc do katalogu ./packed w aktualnym katalogu
+5) Spróbuj wyszukać logi zawierające nazwy gier, jakich używasz w Steamie
+6) jak znajdziesz, to wrzuc mi do katalogu ./packed wszystkie linijki z grami jakie masz na steamie, ktore udalo Ci sie znalezc:)
+ - przyklad -  u mnie jest taki log:
+	[2024-10-02 09:16:50] AppID 1196590 adding PID 30212 as a tracked process ""D:\SteamLibrary\steamapps\common\Resident Evil Village BIOHAZARD VILLAGE\re8.exe""
+	
+7) 

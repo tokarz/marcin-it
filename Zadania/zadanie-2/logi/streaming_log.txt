@@ -1,0 +1,38 @@
+
+
+[2021-12-05 11:14:43] Saving default audio device: Słuchawki (MAJOR III BLUETOOTH Stereo)
+[2021-12-05 11:14:43] Saving default audio device: Zestaw słuchawkowy (MAJOR III BLUETOOTH Hands-Free AG Audio)
+
+
+[2021-12-05 13:44:11] Saving default audio device: S24D390 (NVIDIA High Definition Audio)
+[2021-12-05 13:44:11] Restoring default audio device: Zestaw słuchawkowy (MAJOR III BLUETOOTH Hands-Free AG Audio)
+
+
+[2022-08-08 10:18:54] Saving default audio device: Słuchawki (2 — MAJOR III BLUETOOTH Stereo)
+[2022-08-08 10:18:54] Saving default audio device: Zestaw słuchawkowy (MAJOR III BLUETOOTH Hands-Free AG Audio)
+
+
+[2022-08-12 20:56:56] Saving default audio device: Słuchawki (2 — MAJOR III BLUETOOTH Stereo)
+[2022-08-12 20:56:56] Saving default audio device: Zestaw słuchawkowy (MAJOR III BLUETOOTH Hands-Free AG Audio)
+
+
+[2022-08-24 20:42:18] Saving default audio device: Słuchawki (MAJOR IV Stereo)
+[2022-08-24 20:42:18] Saving default audio device: Mikrofon (Realtek High Definition Audio)
+
+
+[2022-08-25 17:28:00] Saving default audio device: S24D390 (NVIDIA High Definition Audio)
+[2022-08-25 17:28:00] Restoring default audio device: Mikrofon (Realtek High Definition Audio)
+
+
+[2023-01-13 19:57:47] Saving default audio device: Głośniki (Realtek High Definition Audio)
+
+
+[2024-10-01 20:23:10] Client version: 1721173382
+[2024-10-01 20:23:10][7.566381] Saving default audio device: Słuchawki (SMX Merodi Stereo)
+
+
+[2024-10-02 09:16:50] Client version: 1726604483
+[2024-10-02 09:16:50][2618.223123] Adding process 30212 for gameID 1196590
+[2024-10-02 09:50:56][4663.797585] Removing process 30212 for gameID 1196590
+[2024-10-02 09:54:53][4901.282383] Adding process 11700 for gameID 1196590
+[2024-10-02 09:59:57][5205.531097] Removing process 11700 for gameID 1196590

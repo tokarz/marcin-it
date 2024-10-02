@@ -1,0 +1,7 @@
+1) BE - Backend - aplikacja znajdujaca sie na serwerze ( to z nią łączymy się poprzez REST Requests)
+2) FE - Aplikacja graficzna (najczęściej w przeglądarce lub telefonie) - Aplikacja której używa user, wysyła requesty do BE
+3) Release - wypuszczenie wersji programu do klienta (Często w firmach podaje się daty kolejnych "releasów"
+4) Deployment - Zainstalowanie systemu/programu na konkretnej maszynie (instalacja na serwerze testowym lub u klienta)
+5) Bugfixing - praca skupiona na naprawianiu bugów, 
+6) Feature, Featurework - "Ficzer:)" to nowa funkcjonalność, coś co dodajemy do systemu. W każdym sprincie, programiści dostają do pracy albo "Ficzery" albo "Bugi"
+

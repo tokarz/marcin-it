@@ -1,0 +1,64 @@
+
+
+[2022-08-08 10:24:54] Initialized CSteamUIUpdateController: 0
+
+
+[2022-08-12 20:52:52] Initialized CSteamUIUpdateController: 0
+
+
+[2022-08-13 12:22:30] Initialized CSteamUIUpdateController: 0
+
+
+[2022-08-24 20:42:10] Initialized CSteamUIUpdateController: 0
+
+
+[2022-08-24 21:37:42] Initialized CSteamUIUpdateController: 0
+
+
+[2022-08-25 17:27:27] Initialized CSteamUIUpdateController: 0
+
+
+[2023-01-13 19:57:06] Initialized CSteamUIUpdateController
+
+
+[2023-03-22 22:36:09] Initialized CSteamUIUpdateController
+
+
+[2024-03-04 18:57:25] Client version: 1709168962
+[2024-03-04 18:57:25] Initialized CSteamUIUpdateController
+
+
+[2024-03-08 09:20:35] Client version: 1709168962
+[2024-03-08 09:20:35] Initialized CSteamUIUpdateController
+
+
+[2024-06-05 20:16:03] Client version: 1709846872
+[2024-06-05 20:16:03] Initialized CSteamUIUpdateController
+
+
+[2024-06-11 09:59:37] Client version: 1709846872
+[2024-06-11 09:59:37] Initialized CSteamUIUpdateController
+
+
+[2024-07-03 13:14:43] Client version: 1709846872
+[2024-07-03 13:14:43] Initialized CSteamUIUpdateController
+
+
+[2024-07-14 12:04:18] Client version: 1718904662
+[2024-07-14 12:04:18] Initialized CSteamUIUpdateController
+
+
+[2024-08-22 11:47:24] Client version: 1718904662
+[2024-08-22 11:47:24] Initialized CSteamUIUpdateController
+
+
+[2024-08-24 18:26:22] Client version: 1721173382
+[2024-08-24 18:26:22] Initialized CSteamUIUpdateController
+
+
+[2024-10-01 20:23:03] Client version: 1721173382
+[2024-10-01 20:23:03] Initialized CSteamUIUpdateController
+
+
+[2024-10-02 08:33:13] Client version: 1726604483
+[2024-10-02 08:33:13] Initialized CSteamUIUpdateController

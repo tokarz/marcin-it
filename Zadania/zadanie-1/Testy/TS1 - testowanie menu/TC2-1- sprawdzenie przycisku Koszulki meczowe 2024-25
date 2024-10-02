@@ -6,7 +6,8 @@ Tytul:Test przycisku Koszulki meczowe 2024/25
 
 Opis :sprawdzenie dzialania przycisku
 
-warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl
+warunki wstepne : znajdowac sie na stronie glownej www.czarnijaso.pl (UWAGI: lepiej użyć bardziej technicznego zwrotu:
+strona www.czarnijaslo.pl załadowała się, widoczny jest główny ekran itd.)
 
 Kroki do wykonania :
 1.Najechac kursorem na zakladke Kibice

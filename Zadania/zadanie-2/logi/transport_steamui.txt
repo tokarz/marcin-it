@@ -1,0 +1,135 @@
+
+
+[2024-03-04 18:57:25] Client version: 1709168962
+[2024-03-04 18:57:25] WebUITransportController: Initialized
+[2024-03-04 20:19:07] WebUITransportController: shutting down
+
+
+[2024-03-08 09:20:35] Client version: 1709168962
+[2024-03-08 09:20:35] WebUITransportController: Initialized
+[2024-03-12 08:27:31] WebUITransportController: shutting down
+
+
+[2024-06-05 20:16:03] Client version: 1709846872
+[2024-06-05 20:16:03] WebUITransportController: Initialized
+[2024-06-05 20:18:50] WebUITransportController: shutting down
+
+
+[2024-06-11 09:59:37] Client version: 1709846872
+[2024-06-11 09:59:37] WebUITransportController: Initialized
+[2024-06-11 10:02:01] WebUITransportController: shutting down
+
+
+[2024-07-03 13:14:43] Client version: 1709846872
+[2024-07-03 13:14:43] WebUITransportController: Initialized
+[2024-07-07 11:30:31] WebUITransportController: shutting down
+
+
+[2024-07-14 12:04:18] Client version: 1718904662
+[2024-07-14 12:04:18] WebUITransportController: Initialized
+[2024-07-14 12:04:24] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-07-14 12:04:24] WebUITransport: Connection from: 127.0.0.1:52394
+[2024-07-14 12:05:21] WebUITransportController: shutting down
+
+
+[2024-08-22 11:47:24] Client version: 1718904662
+[2024-08-22 11:47:24] WebUITransportController: Initialized
+[2024-08-22 11:47:30] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-22 11:47:30] WebUITransport: Connection from: 127.0.0.1:53284
+[2024-08-22 14:44:46] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-22 14:44:46] WebUITransport: Connection from: 127.0.0.1:61113
+[2024-08-22 14:44:53] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-22 14:44:53] WebUITransport: Connection from: 127.0.0.1:61121
+[2024-08-22 14:44:54] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-22 14:44:54] WebUITransport: Connection from: 127.0.0.1:61124
+[2024-08-22 21:18:26] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-22 21:18:26] WebUITransport: Connection from: 127.0.0.1:54542
+[2024-08-22 21:18:26] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-22 21:18:26] WebUITransport: Connection from: 127.0.0.1:54544
+[2024-08-22 21:18:36] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-22 21:18:36] WebUITransport: Connection from: 127.0.0.1:54560
+[2024-08-22 21:18:36] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-22 21:18:36] WebUITransport: Connection from: 127.0.0.1:54564
+[2024-08-22 22:11:17] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-22 22:11:17] WebUITransport: Connection from: 127.0.0.1:51024
+[2024-08-22 22:11:17] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-22 22:11:17] WebUITransport: Connection from: 127.0.0.1:51028
+[2024-08-22 22:11:24] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-22 22:11:24] WebUITransport: Connection from: 127.0.0.1:51045
+[2024-08-22 22:11:26] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-22 22:11:26] WebUITransport: Connection from: 127.0.0.1:51051
+
+
+[2024-08-24 18:26:22] Client version: 1721173382
+[2024-08-24 18:26:22] WebUITransportController: Initialized
+[2024-08-24 18:26:29] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-24 18:26:29] WebUITransport: Connection from: 127.0.0.1:51352
+[2024-08-25 09:55:49] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-25 09:55:49] WebUITransport: Connection from: 127.0.0.1:59638
+[2024-08-25 09:55:49] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-25 09:55:49] WebUITransport: Connection from: 127.0.0.1:59641
+[2024-08-25 09:55:57] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-25 09:55:57] WebUITransport: Connection from: 127.0.0.1:59657
+[2024-08-25 09:56:00] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-25 09:56:00] WebUITransport: Connection from: 127.0.0.1:59672
+[2024-08-25 19:30:09] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-25 19:30:09] WebUITransport: Connection from: 127.0.0.1:61728
+[2024-08-25 19:30:10] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-25 19:30:10] WebUITransport: Connection from: 127.0.0.1:61740
+[2024-08-26 09:50:35] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-26 09:50:35] WebUITransport: Connection from: 127.0.0.1:52876
+[2024-08-26 09:50:35] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-26 09:50:35] WebUITransport: Connection from: 127.0.0.1:52880
+[2024-08-26 13:17:32] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-26 13:17:32] WebUITransport: Connection from: 127.0.0.1:54309
+[2024-08-26 13:17:41] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-26 13:17:41] WebUITransport: Connection from: 127.0.0.1:54340
+[2024-08-26 13:17:41] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-26 13:17:41] WebUITransport: Connection from: 127.0.0.1:54344
+[2024-08-26 13:17:46] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-26 13:17:46] WebUITransport: Connection from: 127.0.0.1:54355
+[2024-08-26 18:33:10] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-26 18:33:10] WebUITransport: Connection from: 127.0.0.1:57694
+[2024-08-26 18:33:10] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-26 18:33:10] WebUITransport: Connection from: 127.0.0.1:57699
+[2024-08-26 18:33:18] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-26 18:33:18] WebUITransport: Connection from: 127.0.0.1:57718
+[2024-08-26 18:33:21] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-26 18:33:21] WebUITransport: Connection from: 127.0.0.1:57726
+[2024-08-27 08:32:52] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-27 08:32:52] WebUITransport: Connection from: 127.0.0.1:53473
+[2024-08-27 08:32:52] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-27 08:32:52] WebUITransport: Connection from: 127.0.0.1:53478
+[2024-08-27 08:32:52] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-27 08:32:52] WebUITransport: Connection from: 127.0.0.1:53480
+[2024-08-27 08:32:55] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-27 08:32:55] WebUITransport: Connection from: 127.0.0.1:53485
+[2024-08-27 09:57:16] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-27 09:57:16] WebUITransport: Connection from: 127.0.0.1:54721
+[2024-08-27 09:57:16] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-27 09:57:16] WebUITransport: Connection from: 127.0.0.1:54724
+[2024-08-27 09:57:24] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-27 09:57:24] WebUITransport: Connection from: 127.0.0.1:54769
+[2024-08-27 09:57:27] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-27 09:57:27] WebUITransport: Connection from: 127.0.0.1:54783
+[2024-08-27 17:45:37] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-27 17:45:37] WebUITransport: Connection from: 127.0.0.1:56257
+[2024-08-27 17:45:37] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-27 17:45:37] WebUITransport: Connection from: 127.0.0.1:56262
+[2024-08-27 17:45:43] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-27 17:45:43] WebUITransport: Connection from: 127.0.0.1:56285
+[2024-08-27 17:45:49] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-08-27 17:45:49] WebUITransport: Connection from: 127.0.0.1:56334
+
+
+[2024-10-01 20:23:03] Client version: 1721173382
+[2024-10-01 20:23:03] WebUITransportController: Initialized
+[2024-10-01 20:23:09] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-10-01 20:23:09] WebUITransport: Connection from: 127.0.0.1:56050
+
+
+[2024-10-02 08:33:13] Client version: 1726604483
+[2024-10-02 08:33:13] WebUITransportController: Initialized
+[2024-10-02 08:33:19] WebUITransport: Websocket connection from: https://steamloopback.host
+[2024-10-02 08:33:19] WebUITransport: Connection from: 127.0.0.1:59987
+[2024-10-02 10:00:04] WebUITransportController: shutting down

@@ -1,0 +1,984 @@
+
+
+[2021-11-01 12:44:53] Inilializing System Manager
+[2021-11-01 12:44:53] Suspend inhibited
+[2021-11-01 13:06:05] Suspend inhibit released
+
+
+[2021-11-02 09:18:37] Inilializing System Manager
+[2021-11-02 09:18:37] Suspend inhibited
+[2021-11-02 09:18:47] Suspend inhibit released
+
+
+[2021-11-05 08:53:26] Inilializing System Manager
+[2021-11-05 08:53:26] Suspend inhibited
+[2021-11-05 08:55:26] Suspend inhibit released
+
+
+[2021-11-06 13:34:54] Inilializing System Manager
+[2021-11-06 13:34:54] Suspend inhibited
+[2021-11-06 14:06:26] Suspending
+[2021-11-06 14:06:26] Suspend inhibit released
+[2021-11-06 14:21:20] Resumed
+[2021-11-06 14:21:20] Suspend inhibited
+[2021-11-06 14:22:08] Suspend inhibit released
+
+
+[2021-11-10 08:46:29] Inilializing System Manager
+[2021-11-10 08:46:29] Suspend inhibited
+[2021-11-10 08:46:40] Suspend inhibit released
+
+
+[2021-11-11 13:09:45] Inilializing System Manager
+[2021-11-11 13:09:45] Suspend inhibited
+[2021-11-11 13:33:37] Suspend inhibit released
+
+
+[2021-11-11 14:34:55] Inilializing System Manager
+[2021-11-11 14:34:55] Suspend inhibited
+[2021-11-11 14:45:01] Suspend inhibit released
+
+
+[2021-11-15 09:26:30] Inilializing System Manager
+[2021-11-15 09:26:30] Suspend inhibited
+[2021-11-15 09:27:05] Suspend inhibit released
+
+
+[2021-11-16 09:23:18] Inilializing System Manager
+[2021-11-16 09:23:18] Suspend inhibited
+[2021-11-16 09:23:38] Suspend inhibit released
+
+
+[2021-11-17 08:00:37] Inilializing System Manager
+[2021-11-17 08:00:37] Suspend inhibited
+[2021-11-17 08:10:28] Suspend inhibit released
+
+
+[2021-11-20 12:42:06] Inilializing System Manager
+[2021-11-20 12:42:06] Suspend inhibited
+[2021-11-20 12:42:17] Suspend inhibit released
+
+
+[2021-11-22 09:19:25] Inilializing System Manager
+[2021-11-22 09:19:25] Suspend inhibited
+[2021-11-22 09:19:56] Suspend inhibit released
+
+
+[2021-11-23 08:21:26] Inilializing System Manager
+[2021-11-23 08:21:26] Suspend inhibited
+[2021-11-23 08:50:26] Suspending
+[2021-11-23 08:50:26] Suspend inhibit released
+[2021-11-23 08:52:18] Resumed
+[2021-11-23 08:52:18] Suspend inhibited
+[2021-11-23 08:52:32] Suspend inhibit released
+
+
+[2021-11-24 07:38:23] Inilializing System Manager
+[2021-11-24 07:38:23] Suspend inhibited
+[2021-11-24 07:38:39] Suspend inhibit released
+
+
+[2021-11-24 10:57:23] Inilializing System Manager
+[2021-11-24 10:57:23] Suspend inhibited
+[2021-11-24 11:00:04] Suspend inhibit released
+
+
+[2021-11-25 07:53:58] Inilializing System Manager
+[2021-11-25 07:53:58] Suspend inhibited
+[2021-11-25 08:23:31] Suspending
+[2021-11-25 08:23:31] Suspend inhibit released
+[2021-11-25 09:23:04] Resumed
+[2021-11-25 09:23:04] Suspend inhibited
+[2021-11-25 09:23:47] Suspend inhibit released
+
+
+[2021-11-26 08:59:49] Inilializing System Manager
+[2021-11-26 08:59:49] Suspend inhibited
+[2021-11-26 09:23:12] Suspend inhibit released
+
+
+[2021-11-29 23:12:17] Inilializing System Manager
+[2021-11-29 23:12:17] Suspend inhibited
+[2021-11-29 23:12:58] Suspend inhibit released
+
+
+[2021-11-30 09:27:41] Inilializing System Manager
+[2021-11-30 09:27:41] Suspend inhibited
+[2021-11-30 09:28:12] Suspend inhibit released
+
+
+[2021-12-01 07:15:13] Inilializing System Manager
+[2021-12-01 07:15:13] Suspend inhibited
+[2021-12-01 07:21:44] Suspend inhibit released
+
+
+[2021-12-05 11:13:58] Inilializing System Manager
+[2021-12-05 11:13:58] Suspend inhibited
+
+
+[2021-12-05 12:13:59] Inilializing System Manager
+[2021-12-05 12:13:59] Suspend inhibited
+[2021-12-05 12:14:10] Suspend inhibit released
+
+
+[2021-12-05 13:24:22] Inilializing System Manager
+[2021-12-05 13:24:22] Suspend inhibited
+[2021-12-05 14:38:30] Suspending
+[2021-12-05 14:38:30] Suspend inhibit released
+[2021-12-05 16:50:21] Resumed
+[2021-12-05 16:50:21] Suspend inhibited
+[2021-12-05 20:09:15] Suspending
+[2021-12-05 20:09:15] Suspend inhibit released
+[2021-12-05 20:29:57] Resumed
+[2021-12-05 20:29:57] Suspend inhibited
+
+
+[2021-12-06 09:15:02] Inilializing System Manager
+[2021-12-06 09:15:02] Suspend inhibited
+[2021-12-06 09:26:59] Suspend inhibit released
+
+
+[2021-12-06 14:37:48] Inilializing System Manager
+[2021-12-06 14:37:48] Suspend inhibited
+[2021-12-06 14:38:04] Suspend inhibit released
+
+
+[2021-12-07 12:18:36] Inilializing System Manager
+[2021-12-07 12:18:36] Suspend inhibited
+[2021-12-07 12:18:52] Suspend inhibit released
+
+
+[2021-12-07 12:35:53] Inilializing System Manager
+[2021-12-07 12:35:53] Suspend inhibited
+[2021-12-07 12:54:36] Suspend inhibit released
+
+
+[2021-12-08 10:43:12] Inilializing System Manager
+[2021-12-08 10:43:12] Suspend inhibited
+[2021-12-08 11:13:02] Suspending
+[2021-12-08 11:13:02] Suspend inhibit released
+[2021-12-08 11:26:20] Resumed
+[2021-12-08 11:26:20] Suspend inhibited
+[2021-12-08 11:56:47] Suspending
+[2021-12-08 11:56:47] Suspend inhibit released
+[2021-12-08 12:29:13] Resumed
+[2021-12-08 12:29:13] Suspend inhibited
+[2021-12-08 12:59:40] Suspending
+[2021-12-08 12:59:40] Suspend inhibit released
+[2021-12-08 15:01:52] Resumed
+[2021-12-08 15:01:52] Suspend inhibited
+[2021-12-08 16:39:39] Suspend inhibit released
+
+
+[2021-12-09 08:51:38] Inilializing System Manager
+[2021-12-09 08:51:38] Suspend inhibited
+[2021-12-09 08:57:44] Suspend inhibit released
+
+
+[2021-12-09 09:13:31] Inilializing System Manager
+[2021-12-09 09:13:31] Suspend inhibited
+[2021-12-09 09:22:37] Suspend inhibit released
+
+
+[2021-12-10 09:12:14] Inilializing System Manager
+[2021-12-10 09:12:14] Suspend inhibited
+[2021-12-10 09:40:38] Suspend inhibit released
+
+
+[2021-12-10 13:22:51] Inilializing System Manager
+[2021-12-10 13:22:51] Suspend inhibited
+[2021-12-10 13:23:01] Suspend inhibit released
+
+
+[2021-12-10 13:41:52] Inilializing System Manager
+[2021-12-10 13:41:52] Suspend inhibited
+[2021-12-10 13:42:03] Suspend inhibit released
+
+
+[2022-08-08 10:18:26] Inilializing System Manager
+[2022-08-08 10:18:26] Suspend inhibited
+[2022-08-08 10:24:37] Suspend inhibit released
+
+
+[2022-08-08 10:24:56] Initializing System Manager
+[2022-08-08 10:24:56] Node mode active on resume 0
+[2022-08-08 10:24:56] Error: CBatteryStateManager::ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2022-08-08 10:24:56] Error: CBatteryStateManager::Init: invalid query mode
+[2022-08-08 10:24:56] Error: CSystemManager::CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2022-08-08 10:24:56] wifi power management: 1
+[2022-08-08 10:24:56] Fan control available: 0 current: 0
+[2022-08-08 23:15:04] Suspending
+[2022-08-09 09:09:56] Resuming
+[2022-08-09 09:09:56] Node mode active on resume 0
+[2022-08-09 09:09:56] Resume complete
+[2022-08-09 16:06:11] Suspending
+[2022-08-09 17:35:47] Resuming
+[2022-08-09 17:35:47] Node mode active on resume 0
+[2022-08-09 17:35:47] Resume complete
+[2022-08-09 20:52:40] Suspending
+[2022-08-09 20:57:25] Resuming
+[2022-08-09 20:57:25] Node mode active on resume 0
+[2022-08-09 20:57:25] Resume complete
+[2022-08-09 21:27:49] Suspending
+[2022-08-09 22:00:40] Resuming
+[2022-08-09 22:00:40] Node mode active on resume 0
+[2022-08-09 22:00:40] Resume complete
+[2022-08-09 22:43:34] Suspending
+[2022-08-09 22:46:32] Resuming
+[2022-08-09 22:46:32] Node mode active on resume 0
+[2022-08-09 22:46:32] Resume complete
+
+
+[2022-08-12 20:52:54] Initializing System Manager
+[2022-08-12 20:52:54] Node mode active on resume 0
+[2022-08-12 20:52:54] Error: CBatteryStateManager::ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2022-08-12 20:52:54] Error: CBatteryStateManager::Init: invalid query mode
+[2022-08-12 20:52:54] Error: CSystemManager::CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2022-08-12 20:52:54] wifi power management: 1
+[2022-08-12 20:52:54] Fan control available: 0 current: 0
+
+
+[2022-08-13 12:22:31] Initializing System Manager
+[2022-08-13 12:22:31] Node mode active on resume 0
+[2022-08-13 12:22:31] Error: CBatteryStateManager::ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2022-08-13 12:22:31] Error: CBatteryStateManager::Init: invalid query mode
+[2022-08-13 12:22:31] Error: CSystemManager::CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2022-08-13 12:22:31] wifi power management: 1
+[2022-08-13 12:22:31] Fan control available: 0 current: 0
+[2022-08-13 14:08:50] Suspending
+[2022-08-13 14:20:23] Resuming
+[2022-08-13 14:20:23] Node mode active on resume 0
+[2022-08-13 14:20:23] Resume complete
+[2022-08-13 17:52:19] Suspending
+[2022-08-13 18:08:20] Resuming
+[2022-08-13 18:08:20] Node mode active on resume 0
+[2022-08-13 18:08:20] Resume complete
+
+
+[2022-08-24 20:42:11] Initializing System Manager
+[2022-08-24 20:42:11] Node mode active on resume 0
+[2022-08-24 20:42:11] Error: CBatteryStateManager::ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2022-08-24 20:42:11] Error: CBatteryStateManager::Init: invalid query mode
+[2022-08-24 20:42:11] Error: CSystemManager::CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2022-08-24 20:42:11] wifi power management: 1
+[2022-08-24 20:42:11] Fan control available: 0 current: 0
+
+
+[2022-08-24 21:37:44] Initializing System Manager
+[2022-08-24 21:37:44] Night mode active on resume 0
+[2022-08-24 21:37:44] Error: CBatteryStateManager::ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2022-08-24 21:37:44] Error: CBatteryStateManager::Init: invalid query mode
+[2022-08-24 21:37:44] Error: CSystemManager::CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2022-08-24 21:37:44] wifi power management: 1
+[2022-08-24 21:37:44] Fan control available: 0 current: 0
+
+
+[2022-08-25 17:27:29] Initializing System Manager
+[2022-08-25 17:27:29] Night mode active on resume 0
+[2022-08-25 17:27:29] Error: CBatteryStateManager::ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2022-08-25 17:27:29] Error: CBatteryStateManager::Init: invalid query mode
+[2022-08-25 17:27:29] Error: CSystemManager::CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2022-08-25 17:27:29] wifi power management: 1
+[2022-08-25 17:27:29] Fan control available: 0 current: 0
+[2022-08-25 20:23:30] Suspending
+[2022-08-26 01:02:39] Resuming
+[2022-08-26 01:02:39] Resume complete
+[2022-08-26 01:02:39] Night mode active on resume 0
+[2022-08-26 01:03:00] Suspending
+[2022-08-26 09:10:01] Resuming
+[2022-08-26 09:10:01] Resume complete
+[2022-08-26 09:10:01] Night mode active on resume 0
+[2022-08-26 15:34:28] Suspending
+[2022-08-26 17:38:11] Resuming
+[2022-08-26 17:38:11] Resume complete
+[2022-08-26 17:38:11] Night mode active on resume 0
+[2022-08-26 19:38:35] Suspending
+[2022-08-26 20:46:27] Resuming
+[2022-08-26 20:46:27] Resume complete
+[2022-08-26 20:46:27] Night mode active on resume 0
+[2022-08-26 21:16:51] Suspending
+[2022-08-27 16:43:01] Resuming
+[2022-08-27 16:43:01] Resume complete
+[2022-08-27 16:43:01] Night mode active on resume 0
+[2022-08-27 17:19:56] Suspending
+[2022-08-27 17:20:31] Resuming
+[2022-08-27 17:20:31] Resume complete
+[2022-08-27 17:20:31] Night mode active on resume 0
+[2022-08-27 17:50:55] Suspending
+[2022-08-27 17:51:37] Resuming
+[2022-08-27 17:51:37] Resume complete
+[2022-08-27 17:51:38] Night mode active on resume 0
+[2022-08-27 18:22:03] Suspending
+[2022-08-27 18:22:48] Resuming
+[2022-08-27 18:22:48] Resume complete
+[2022-08-27 18:22:48] Night mode active on resume 0
+[2022-08-27 19:22:43] Suspending
+[2022-08-28 11:40:31] Resuming
+[2022-08-28 11:40:31] Resume complete
+[2022-08-28 11:40:31] Night mode active on resume 0
+[2022-08-28 12:17:56] Suspending
+[2022-08-28 12:38:01] Resuming
+[2022-08-28 12:38:01] Resume complete
+[2022-08-28 12:38:01] Night mode active on resume 0
+[2022-08-28 15:40:26] Suspending
+[2022-08-28 19:21:43] Resuming
+[2022-08-28 19:21:43] Resume complete
+[2022-08-28 19:21:43] Night mode active on resume 0
+[2022-08-28 20:12:37] Suspending
+[2022-08-28 22:37:22] Resuming
+[2022-08-28 22:37:22] Resume complete
+[2022-08-28 22:37:22] Night mode active on resume 0
+[2022-08-28 23:23:17] Suspending
+[2022-08-29 09:12:45] Resuming
+[2022-08-29 09:12:45] Resume complete
+[2022-08-29 09:12:45] Night mode active on resume 0
+[2022-08-29 16:14:10] Suspending
+[2022-08-29 16:29:16] Resuming
+[2022-08-29 16:29:16] Resume complete
+[2022-08-29 16:29:16] Night mode active on resume 0
+[2022-08-29 19:16:09] Suspending
+[2022-08-29 20:07:39] Resuming
+[2022-08-29 20:07:39] Resume complete
+[2022-08-29 20:07:39] Night mode active on resume 0
+[2022-08-29 21:19:02] Suspending
+[2022-08-29 21:20:12] Resuming
+[2022-08-29 21:20:12] Resume complete
+[2022-08-29 21:20:12] Night mode active on resume 0
+
+
+[2023-01-13 19:57:08] Initializing System Manager
+[2023-01-13 19:57:08] Night mode active on resume 0
+[2023-01-13 19:57:08] Error: CBatteryStateManager::ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2023-01-13 19:57:08] Error: CBatteryStateManager::Init: invalid query mode
+[2023-01-13 19:57:08] Error: CSystemManager::CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2023-01-13 19:57:08] wifi power management: 1
+[2023-01-13 19:57:08] Fan control available: 0 current: 0
+[2023-01-13 19:59:08] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2023-01-13 19:59:08] CSystemManagerCheckForUpdateJob: starting
+[2023-01-13 19:59:08] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2023-01-13 19:59:08] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2023-01-13 19:59:09] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2023-01-13 19:59:09] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2023-01-13 19:59:09] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2023-01-13 19:59:09] CSystemManagerCheckForUpdateJob: up to date
+[2023-01-13 19:59:09] CSystemManagerCheckForUpdateJob: bAvailable=0
+[2023-01-13 20:48:55] Suspending
+[2023-01-14 11:20:53] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2023-01-14 11:20:53] CSystemManagerCheckForUpdateJob: starting
+[2023-01-14 11:20:53] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2023-01-14 11:20:53] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2023-01-14 11:20:53] Resuming
+[2023-01-14 11:20:53] Resume complete
+[2023-01-14 11:20:54] Night mode active on resume 0
+[2023-01-14 11:20:55] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2023-01-14 11:20:55] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2023-01-14 11:20:55] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2023-01-14 11:20:55] CSystemManagerCheckForUpdateJob: up to date
+[2023-01-14 11:20:55] CSystemManagerCheckForUpdateJob: bAvailable=0
+[2023-01-14 12:43:43] Suspending
+[2023-01-14 16:11:48] Resuming
+[2023-01-14 16:11:48] Resume complete
+[2023-01-14 16:11:48] Night mode active on resume 0
+[2023-01-14 19:57:07] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2023-01-14 19:57:07] CSystemManagerCheckForUpdateJob: starting
+[2023-01-14 19:57:07] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2023-01-14 19:57:07] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2023-01-14 19:57:09] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2023-01-14 19:57:09] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2023-01-14 19:57:09] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2023-01-14 19:57:09] CSystemManagerCheckForUpdateJob: up to date
+[2023-01-14 19:57:09] CSystemManagerCheckForUpdateJob: bAvailable=0
+[2023-01-14 20:28:37] Suspending
+[2023-01-14 21:58:23] Resuming
+[2023-01-14 21:58:23] Resume complete
+[2023-01-14 21:58:24] Night mode active on resume 0
+
+
+[2023-03-22 22:36:11] Initializing System Manager
+[2023-03-22 22:36:11] Night mode active on resume 0
+[2023-03-22 22:36:11] Error: CBatteryStateManager::ThreadedComputeBestBatteryQueryMode: unable to determine a suitable battery query mode for this platform
+[2023-03-22 22:36:11] Error: CBatteryStateManager::Init: invalid query mode
+[2023-03-22 22:36:11] Error: CSystemManager::CSystemManager: failed to initialize battery state manager, battery state will be unavailable
+[2023-03-22 22:36:11] wifi power management: 1
+[2023-03-22 22:36:11] Fan control available: 0 current: 0
+[2023-03-22 22:38:11] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2023-03-22 22:38:11] CSystemManagerCheckForUpdateJob: starting
+[2023-03-22 22:38:11] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2023-03-22 22:38:11] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2023-03-22 22:38:12] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2023-03-22 22:38:12] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2023-03-22 22:38:12] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2023-03-22 22:38:12] CSystemManagerCheckForUpdateJob: up to date
+[2023-03-22 22:38:12] CSystemManagerCheckForUpdateJob: bAvailable=0
+[2023-03-23 00:16:37] Suspending
+[2023-03-23 00:19:44] Resuming
+[2023-03-23 00:19:44] Resume complete
+[2023-03-23 00:19:44] Night mode active on resume 0
+[2023-03-23 01:56:07] Suspending
+[2023-03-23 08:26:26] Resuming
+[2023-03-23 08:26:26] Resume complete
+[2023-03-23 08:26:26] Night mode active on resume 0
+[2023-03-23 10:36:11] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2023-03-23 10:36:11] CSystemManagerCheckForUpdateJob: starting
+[2023-03-23 10:36:11] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2023-03-23 10:36:11] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2023-03-23 10:36:12] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2023-03-23 10:36:12] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2023-03-23 10:36:12] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2023-03-23 10:36:12] CSystemManagerCheckForUpdateJob: up to date
+[2023-03-23 10:36:12] CSystemManagerCheckForUpdateJob: bAvailable=0
+[2023-03-23 13:04:50] Suspending
+[2023-03-23 13:56:48] Resuming
+[2023-03-23 13:56:48] Resume complete
+[2023-03-23 13:56:48] Night mode active on resume 0
+[2023-03-23 14:33:11] Suspending
+[2023-03-23 16:04:57] Resuming
+[2023-03-23 16:04:57] Resume complete
+[2023-03-23 16:04:57] Night mode active on resume 0
+[2023-03-23 17:06:51] Suspending
+[2023-03-24 08:46:10] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2023-03-24 08:46:10] CSystemManagerCheckForUpdateJob: starting
+[2023-03-24 08:46:10] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2023-03-24 08:46:10] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2023-03-24 08:46:10] Resuming
+[2023-03-24 08:46:10] Resume complete
+[2023-03-24 08:46:10] Night mode active on resume 0
+[2023-03-24 08:46:13] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2023-03-24 08:46:13] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2023-03-24 08:46:13] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2023-03-24 08:46:13] CSystemManagerCheckForUpdateJob: up to date
+[2023-03-24 08:46:13] CSystemManagerCheckForUpdateJob: bAvailable=0
+[2023-03-24 10:36:08] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2023-03-24 10:36:08] CSystemManagerCheckForUpdateJob: starting
+[2023-03-24 10:36:08] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2023-03-24 10:36:08] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2023-03-24 10:36:09] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2023-03-24 10:36:09] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2023-03-24 10:36:09] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2023-03-24 10:36:09] CSystemManagerCheckForUpdateJob: up to date
+[2023-03-24 10:36:09] CSystemManagerCheckForUpdateJob: bAvailable=0
+[2023-03-24 11:25:03] Suspending
+[2023-03-24 11:32:10] Resuming
+[2023-03-24 11:32:10] Resume complete
+[2023-03-24 11:32:10] Night mode active on resume 0
+[2023-03-24 12:48:04] Suspending
+[2023-03-24 12:57:34] Resuming
+[2023-03-24 12:57:34] Resume complete
+[2023-03-24 12:57:34] Night mode active on resume 0
+[2023-03-24 15:36:58] Suspending
+[2023-03-26 12:25:25] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2023-03-26 12:25:25] CSystemManagerCheckForUpdateJob: starting
+[2023-03-26 12:25:25] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2023-03-26 12:25:25] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2023-03-26 12:25:27] Resuming
+[2023-03-26 12:25:27] Resume complete
+[2023-03-26 12:25:27] Night mode active on resume 0
+[2023-03-26 12:25:29] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:1
+[2023-03-26 12:25:29] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2023-03-26 12:25:29] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2023-03-26 12:25:29] CSystemManagerCheckForUpdateJob: update available
+[2023-03-26 12:25:29] CSystemManagerCheckForUpdateJob: bAvailable=1
+
+
+[2024-03-04 18:57:28] Client version: 1709168962
+[2024-03-04 18:57:28] Initializing System Manager
+[2024-03-04 18:57:28] Night mode active on resume 0
+[2024-03-04 18:57:28] Initialized battery manager with query mode: 1 interval: 2000000
+[2024-03-04 18:57:28] wifi power management: 1
+[2024-03-04 18:57:28] Fan control available: 0 current: 0
+[2024-03-04 18:59:28] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-03-04 18:59:28] CSystemManagerCheckForUpdateJob: starting
+[2024-03-04 18:59:28] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-03-04 18:59:28] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-03-04 18:59:33] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2024-03-04 18:59:33] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-03-04 18:59:33] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-03-04 18:59:33] CSystemManagerCheckForUpdateJob: up to date
+[2024-03-04 18:59:33] CSystemManagerCheckForUpdateJob: bAvailable=0
+
+
+[2024-03-08 09:20:37] Client version: 1709168962
+[2024-03-08 09:20:37] Initializing System Manager
+[2024-03-08 09:20:37] Night mode active on resume 0
+[2024-03-08 09:20:37] Initialized battery manager with query mode: 1 interval: 2000000
+[2024-03-08 09:20:37] wifi power management: 1
+[2024-03-08 09:20:37] Fan control available: 0 current: 0
+[2024-03-08 09:22:37] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-03-08 09:22:37] CSystemManagerCheckForUpdateJob: starting
+[2024-03-08 09:22:37] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-03-08 09:22:37] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-03-08 09:22:39] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:1
+[2024-03-08 09:22:39] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-03-08 09:22:39] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-03-08 09:22:39] CSystemManagerCheckForUpdateJob: update available
+[2024-03-08 09:22:39] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-03-08 10:46:22] Suspending
+[2024-03-08 10:48:27] Resuming
+[2024-03-08 10:48:27] Resume complete
+[2024-03-08 10:48:27] Night mode active on resume 0
+[2024-03-08 11:18:51] Suspending
+[2024-03-08 13:25:30] Resuming
+[2024-03-08 13:25:30] Resume complete
+[2024-03-08 13:25:31] Night mode active on resume 0
+[2024-03-08 17:29:51] Suspending
+[2024-03-08 18:07:52] Resuming
+[2024-03-08 18:07:52] Resume complete
+[2024-03-08 18:07:52] Night mode active on resume 0
+[2024-03-08 21:20:36] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-03-08 21:20:36] CSystemManagerCheckForUpdateJob: starting
+[2024-03-08 21:20:36] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-03-08 21:20:36] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: we already know a client update is available
+[2024-03-08 21:20:36] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: resuming bootstrapper download
+[2024-03-08 21:20:36] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-03-08 21:20:36] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-03-08 21:20:36] CSystemManagerCheckForUpdateJob: update available
+[2024-03-08 21:20:36] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-03-08 21:21:15] Suspending
+[2024-03-09 10:28:40] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-03-09 10:28:40] CSystemManagerCheckForUpdateJob: starting
+[2024-03-09 10:28:40] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-03-09 10:28:40] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: we already know a client update is available
+[2024-03-09 10:28:40] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: resuming bootstrapper download
+[2024-03-09 10:28:40] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-03-09 10:28:40] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-03-09 10:28:40] CSystemManagerCheckForUpdateJob: update available
+[2024-03-09 10:28:40] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-03-09 10:28:40] Resuming
+[2024-03-09 10:28:40] Resume complete
+[2024-03-09 10:28:40] Night mode active on resume 0
+[2024-03-09 11:00:29] Suspending
+[2024-03-09 12:29:31] Resuming
+[2024-03-09 12:29:31] Resume complete
+[2024-03-09 12:29:31] Night mode active on resume 0
+[2024-03-09 14:18:52] Suspending
+[2024-03-09 16:56:38] Resuming
+[2024-03-09 16:56:38] Resume complete
+[2024-03-09 16:56:38] Night mode active on resume 0
+[2024-03-09 21:20:33] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-03-09 21:20:33] CSystemManagerCheckForUpdateJob: starting
+[2024-03-09 21:20:33] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-03-09 21:20:33] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: we already know a client update is available
+[2024-03-09 21:20:33] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: resuming bootstrapper download
+[2024-03-09 21:20:33] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-03-09 21:20:33] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-03-09 21:20:33] CSystemManagerCheckForUpdateJob: update available
+[2024-03-09 21:20:33] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-03-09 22:29:31] Suspending
+[2024-03-09 23:50:04] Resuming
+[2024-03-09 23:50:04] Resume complete
+[2024-03-09 23:50:04] Night mode active on resume 0
+[2024-03-10 00:26:27] Suspending
+[2024-03-10 11:06:14] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-03-10 11:06:14] CSystemManagerCheckForUpdateJob: starting
+[2024-03-10 11:06:14] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-03-10 11:06:14] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: we already know a client update is available
+[2024-03-10 11:06:14] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: resuming bootstrapper download
+[2024-03-10 11:06:14] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-03-10 11:06:14] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-03-10 11:06:14] CSystemManagerCheckForUpdateJob: update available
+[2024-03-10 11:06:14] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-03-10 11:06:14] Resuming
+[2024-03-10 11:06:14] Resume complete
+[2024-03-10 11:06:14] Night mode active on resume 0
+[2024-03-10 11:40:38] Suspending
+[2024-03-10 15:05:47] Resuming
+[2024-03-10 15:05:47] Resume complete
+[2024-03-10 15:05:47] Night mode active on resume 0
+[2024-03-10 15:37:42] Suspending
+[2024-03-10 16:29:35] Resuming
+[2024-03-10 16:29:35] Resume complete
+[2024-03-10 16:29:35] Night mode active on resume 0
+[2024-03-10 17:18:59] Suspending
+[2024-03-11 07:48:32] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-03-11 07:48:32] CSystemManagerCheckForUpdateJob: starting
+[2024-03-11 07:48:32] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-03-11 07:48:32] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: we already know a client update is available
+[2024-03-11 07:48:32] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: resuming bootstrapper download
+[2024-03-11 07:48:32] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-03-11 07:48:32] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-03-11 07:48:32] CSystemManagerCheckForUpdateJob: update available
+[2024-03-11 07:48:32] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-03-11 07:48:32] Resuming
+[2024-03-11 07:48:32] Resume complete
+[2024-03-11 07:48:32] Night mode active on resume 0
+[2024-03-11 09:20:30] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-03-11 09:20:30] CSystemManagerCheckForUpdateJob: starting
+[2024-03-11 09:20:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-03-11 09:20:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: we already know a client update is available
+[2024-03-11 09:20:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: resuming bootstrapper download
+[2024-03-11 09:20:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-03-11 09:20:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-03-11 09:20:30] CSystemManagerCheckForUpdateJob: update available
+[2024-03-11 09:20:30] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-03-11 15:13:21] Suspending
+[2024-03-11 15:36:14] Resuming
+[2024-03-11 15:36:14] Resume complete
+[2024-03-11 15:36:14] Night mode active on resume 0
+[2024-03-11 16:58:37] Suspending
+[2024-03-11 18:22:39] Resuming
+[2024-03-11 18:22:39] Resume complete
+[2024-03-11 18:22:39] Night mode active on resume 0
+[2024-03-11 19:06:28] Suspending
+[2024-03-11 19:18:47] Resuming
+[2024-03-11 19:18:47] Resume complete
+[2024-03-11 19:18:47] Night mode active on resume 0
+[2024-03-11 20:39:06] Suspending
+[2024-03-12 07:25:30] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-03-12 07:25:30] CSystemManagerCheckForUpdateJob: starting
+[2024-03-12 07:25:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-03-12 07:25:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: we already know a client update is available
+[2024-03-12 07:25:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: resuming bootstrapper download
+[2024-03-12 07:25:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-03-12 07:25:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-03-12 07:25:30] CSystemManagerCheckForUpdateJob: update available
+[2024-03-12 07:25:30] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-03-12 07:25:30] Resuming
+[2024-03-12 07:25:30] Resume complete
+[2024-03-12 07:25:30] Night mode active on resume 0
+[2024-03-12 07:57:22] Suspending
+[2024-03-12 08:26:14] Resuming
+[2024-03-12 08:26:14] Resume complete
+[2024-03-12 08:26:14] Night mode active on resume 0
+
+
+[2024-06-05 20:16:05] Client version: 1709846872
+[2024-06-05 20:16:05] Initializing System Manager
+[2024-06-05 20:16:05] Night mode active on resume 0
+[2024-06-05 20:16:05] Initialized battery manager with query mode: 1 interval: 2000000
+[2024-06-05 20:16:05] wifi power management: 1
+[2024-06-05 20:16:05] Fan control available: 0 current: 0
+[2024-06-05 20:18:06] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-06-05 20:18:06] CSystemManagerCheckForUpdateJob: starting
+[2024-06-05 20:18:06] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-06-05 20:18:06] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-06-05 20:18:08] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:1
+[2024-06-05 20:18:08] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-06-05 20:18:08] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-06-05 20:18:08] CSystemManagerCheckForUpdateJob: update available
+[2024-06-05 20:18:08] CSystemManagerCheckForUpdateJob: bAvailable=1
+
+
+[2024-06-11 09:59:39] Client version: 1709846872
+[2024-06-11 09:59:39] Initializing System Manager
+[2024-06-11 09:59:39] Night mode active on resume 0
+[2024-06-11 09:59:39] Initialized battery manager with query mode: 1 interval: 2000000
+[2024-06-11 09:59:39] wifi power management: 1
+[2024-06-11 09:59:39] Fan control available: 0 current: 0
+[2024-06-11 10:01:39] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-06-11 10:01:39] CSystemManagerCheckForUpdateJob: starting
+[2024-06-11 10:01:39] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-06-11 10:01:39] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-06-11 10:01:41] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:1
+[2024-06-11 10:01:41] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-06-11 10:01:41] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-06-11 10:01:41] CSystemManagerCheckForUpdateJob: update available
+[2024-06-11 10:01:41] CSystemManagerCheckForUpdateJob: bAvailable=1
+
+
+[2024-07-03 13:14:45] Client version: 1709846872
+[2024-07-03 13:14:45] Initializing System Manager
+[2024-07-03 13:14:45] Night mode active on resume 0
+[2024-07-03 13:14:45] Initialized battery manager with query mode: 1 interval: 2000000
+[2024-07-03 13:14:45] wifi power management: 1
+[2024-07-03 13:14:45] Fan control available: 0 current: 0
+[2024-07-03 13:16:45] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-07-03 13:16:45] CSystemManagerCheckForUpdateJob: starting
+[2024-07-03 13:16:45] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-07-03 13:16:45] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-07-03 13:16:47] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:1
+[2024-07-03 13:16:47] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-07-03 13:16:47] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-07-03 13:16:47] CSystemManagerCheckForUpdateJob: update available
+[2024-07-03 13:16:47] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-07-03 14:16:13] Suspending
+[2024-07-03 17:21:50] Resuming
+[2024-07-03 17:21:50] Resume complete
+[2024-07-03 17:21:51] Night mode active on resume 0
+[2024-07-03 18:11:38] Suspending
+[2024-07-03 20:06:28] Resuming
+[2024-07-03 20:06:28] Resume complete
+[2024-07-03 20:06:28] Night mode active on resume 0
+[2024-07-03 20:38:16] Suspending
+[2024-07-04 08:20:25] Resuming
+[2024-07-04 08:20:25] Resume complete
+[2024-07-04 08:20:25] Night mode active on resume 0
+[2024-07-04 08:20:25] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-07-04 08:20:25] CSystemManagerCheckForUpdateJob: starting
+[2024-07-04 08:20:25] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-07-04 08:20:25] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: we already know a client update is available
+[2024-07-04 08:20:25] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: resuming bootstrapper download
+[2024-07-04 08:20:25] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-07-04 08:20:25] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-07-04 08:20:25] CSystemManagerCheckForUpdateJob: update available
+[2024-07-04 08:20:25] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-07-04 13:08:41] Suspending
+[2024-07-04 15:32:59] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-07-04 15:32:59] CSystemManagerCheckForUpdateJob: starting
+[2024-07-04 15:32:59] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-07-04 15:32:59] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: we already know a client update is available
+[2024-07-04 15:32:59] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: resuming bootstrapper download
+[2024-07-04 15:32:59] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-07-04 15:32:59] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-07-04 15:32:59] CSystemManagerCheckForUpdateJob: update available
+[2024-07-04 15:32:59] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-07-04 15:33:00] Resuming
+[2024-07-04 15:33:00] Resume complete
+[2024-07-04 15:33:01] Night mode active on resume 0
+[2024-07-04 17:42:19] Suspending
+[2024-07-05 10:01:50] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-07-05 10:01:50] CSystemManagerCheckForUpdateJob: starting
+[2024-07-05 10:01:50] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-07-05 10:01:50] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-07-05 10:01:50] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:1
+[2024-07-05 10:01:50] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-07-05 10:01:50] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-07-05 10:01:50] CSystemManagerCheckForUpdateJob: update available
+[2024-07-05 10:01:50] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-07-05 10:01:50] Resuming
+[2024-07-05 10:01:50] Resume complete
+[2024-07-05 10:01:50] Night mode active on resume 0
+[2024-07-05 12:57:43] Suspending
+[2024-07-05 16:43:30] Resuming
+[2024-07-05 16:43:30] Resume complete
+[2024-07-05 16:43:30] Night mode active on resume 0
+[2024-07-05 16:43:30] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-07-05 16:43:30] CSystemManagerCheckForUpdateJob: starting
+[2024-07-05 16:43:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-07-05 16:43:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: we already know a client update is available
+[2024-07-05 16:43:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: resuming bootstrapper download
+[2024-07-05 16:43:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-07-05 16:43:30] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-07-05 16:43:30] CSystemManagerCheckForUpdateJob: update available
+[2024-07-05 16:43:30] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-07-05 17:31:48] Suspending
+[2024-07-06 08:38:24] Resuming
+[2024-07-06 08:38:24] Resume complete
+[2024-07-06 08:38:24] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-07-06 08:38:24] CSystemManagerCheckForUpdateJob: starting
+[2024-07-06 08:38:24] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-07-06 08:38:24] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-07-06 08:38:24] Night mode active on resume 0
+[2024-07-06 08:38:24] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:1
+[2024-07-06 08:38:24] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-07-06 08:38:24] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-07-06 08:38:24] CSystemManagerCheckForUpdateJob: update available
+[2024-07-06 08:38:24] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-07-06 09:10:04] Suspending
+[2024-07-06 09:16:49] Resuming
+[2024-07-06 09:16:49] Resume complete
+[2024-07-06 09:16:50] Night mode active on resume 0
+[2024-07-06 10:26:08] Suspending
+[2024-07-06 12:54:51] Resuming
+[2024-07-06 12:54:51] Resume complete
+[2024-07-06 12:54:51] Night mode active on resume 0
+[2024-07-06 13:14:43] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-07-06 13:14:43] CSystemManagerCheckForUpdateJob: starting
+[2024-07-06 13:14:43] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-07-06 13:14:43] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-07-06 13:14:43] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:1
+[2024-07-06 13:14:43] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-07-06 13:14:43] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-07-06 13:14:43] CSystemManagerCheckForUpdateJob: update available
+[2024-07-06 13:14:43] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-07-06 14:56:39] Suspending
+[2024-07-07 11:24:40] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-07-07 11:24:40] CSystemManagerCheckForUpdateJob: starting
+[2024-07-07 11:24:40] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-07-07 11:24:40] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: we already know a client update is available
+[2024-07-07 11:24:40] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: resuming bootstrapper download
+[2024-07-07 11:24:40] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-07-07 11:24:40] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-07-07 11:24:40] CSystemManagerCheckForUpdateJob: update available
+[2024-07-07 11:24:40] CSystemManagerCheckForUpdateJob: bAvailable=1
+[2024-07-07 11:24:41] Resuming
+[2024-07-07 11:24:41] Resume complete
+[2024-07-07 11:24:41] Night mode active on resume 0
+
+
+[2024-07-14 12:04:21] Client version: 1718904662
+[2024-07-14 12:04:21] Initializing System Manager
+[2024-07-14 12:04:21] Night mode active on resume 0
+[2024-07-14 12:04:21] Initialized battery manager with query mode: 1 interval: 2000000
+[2024-07-14 12:04:21] wifi power management: 1
+[2024-07-14 12:04:21] Fan control available: 0 current: 0
+
+
+[2024-08-22 11:47:26] Client version: 1718904662
+[2024-08-22 11:47:26] Initializing System Manager
+[2024-08-22 11:47:26] Night mode active on resume 0
+[2024-08-22 11:47:26] Initialized battery manager with query mode: 1 interval: 2000000
+[2024-08-22 11:47:26] wifi power management: 1
+[2024-08-22 11:47:26] Fan control available: 0 current: 0
+[2024-08-22 11:49:26] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-08-22 11:49:26] CSystemManagerCheckForUpdateJob: starting
+[2024-08-22 11:49:26] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-08-22 11:49:26] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-08-22 11:49:27] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:1
+[2024-08-22 11:49:27] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-08-22 11:49:27] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-08-22 11:49:27] CSystemManagerCheckForUpdateJob: update available
+[2024-08-22 11:49:27] CSystemManagerCheckForUpdateJob: nAvailable=1 nRestartPendingCount=0
+[2024-08-22 14:39:25] Suspending
+[2024-08-22 14:44:43] Resuming
+[2024-08-22 14:44:43] Resume complete
+[2024-08-22 14:44:43] Night mode active on resume 0
+[2024-08-22 17:30:30] Suspending
+[2024-08-22 21:18:20] Resuming
+[2024-08-22 21:18:20] Resume complete
+[2024-08-22 21:18:22] Night mode active on resume 0
+[2024-08-22 21:50:09] Suspending
+[2024-08-22 22:11:13] Resuming
+[2024-08-22 22:11:13] Resume complete
+[2024-08-22 22:11:13] Night mode active on resume 0
+
+
+[2024-08-24 18:26:25] Client version: 1721173382
+[2024-08-24 18:26:25] Initializing System Manager
+[2024-08-24 18:26:25] Night mode active on resume 0
+[2024-08-24 18:26:25] Initialized battery manager with query mode: 1 interval: 2000000
+[2024-08-24 18:26:25] wifi power management: 1
+[2024-08-24 18:26:25] Fan control available: 0 current: 0
+[2024-08-24 18:28:25] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-08-24 18:28:25] CSystemManagerCheckForUpdateJob: starting
+[2024-08-24 18:28:25] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-08-24 18:28:25] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-08-24 18:28:26] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2024-08-24 18:28:26] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-08-24 18:28:26] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-08-24 18:28:26] CSystemManagerCheckForUpdateJob: up to date
+[2024-08-24 18:28:26] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+[2024-08-24 20:17:02] Suspending
+[2024-08-25 09:55:43] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-08-25 09:55:43] CSystemManagerCheckForUpdateJob: starting
+[2024-08-25 09:55:43] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-08-25 09:55:43] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-08-25 09:55:43] Resuming
+[2024-08-25 09:55:43] Resume complete
+[2024-08-25 09:55:43] Night mode active on resume 0
+[2024-08-25 09:55:45] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2024-08-25 09:55:45] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-08-25 09:55:45] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-08-25 09:55:45] CSystemManagerCheckForUpdateJob: up to date
+[2024-08-25 09:55:45] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+[2024-08-25 10:43:00] Suspending
+[2024-08-25 19:30:03] Resuming
+[2024-08-25 19:30:03] Resume complete
+[2024-08-25 19:30:03] Night mode active on resume 0
+[2024-08-25 19:30:03] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-08-25 19:30:03] CSystemManagerCheckForUpdateJob: starting
+[2024-08-25 19:30:03] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-08-25 19:30:03] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-08-25 19:30:05] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2024-08-25 19:30:05] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-08-25 19:30:05] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-08-25 19:30:05] CSystemManagerCheckForUpdateJob: up to date
+[2024-08-25 19:30:05] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+[2024-08-25 22:31:58] Suspending
+[2024-08-26 09:50:31] Resuming
+[2024-08-26 09:50:31] Resume complete
+[2024-08-26 09:50:32] Night mode active on resume 0
+[2024-08-26 09:50:32] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-08-26 09:50:32] CSystemManagerCheckForUpdateJob: starting
+[2024-08-26 09:50:32] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-08-26 09:50:32] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-08-26 09:50:34] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2024-08-26 09:50:34] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-08-26 09:50:34] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-08-26 09:50:34] CSystemManagerCheckForUpdateJob: up to date
+[2024-08-26 09:50:34] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+[2024-08-26 12:42:12] Suspending
+[2024-08-26 13:17:29] Resuming
+[2024-08-26 13:17:29] Resume complete
+[2024-08-26 13:17:29] Night mode active on resume 0
+[2024-08-26 17:34:45] Suspending
+[2024-08-26 18:33:04] Resuming
+[2024-08-26 18:33:04] Resume complete
+[2024-08-26 18:33:04] Night mode active on resume 0
+[2024-08-26 18:33:04] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-08-26 18:33:04] CSystemManagerCheckForUpdateJob: starting
+[2024-08-26 18:33:04] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-08-26 18:33:04] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-08-26 18:33:06] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2024-08-26 18:33:06] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-08-26 18:33:06] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-08-26 18:33:06] CSystemManagerCheckForUpdateJob: up to date
+[2024-08-26 18:33:06] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+[2024-08-26 19:04:46] Suspending
+[2024-08-27 08:32:36] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-08-27 08:32:36] CSystemManagerCheckForUpdateJob: starting
+[2024-08-27 08:32:36] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-08-27 08:32:36] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-08-27 08:32:38] Resuming
+[2024-08-27 08:32:38] Resume complete
+[2024-08-27 08:32:38] Night mode active on resume 0
+[2024-08-27 08:32:50] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2024-08-27 08:32:50] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-08-27 08:32:50] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-08-27 08:32:50] CSystemManagerCheckForUpdateJob: up to date
+[2024-08-27 08:32:50] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+[2024-08-27 09:30:25] Suspending
+[2024-08-27 09:57:10] Resuming
+[2024-08-27 09:57:10] Resume complete
+[2024-08-27 09:57:10] Night mode active on resume 0
+[2024-08-27 17:44:01] Suspending
+[2024-08-27 17:45:31] Resuming
+[2024-08-27 17:45:31] Resume complete
+[2024-08-27 17:45:32] Night mode active on resume 0
+[2024-08-27 18:26:21] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-08-27 18:26:21] CSystemManagerCheckForUpdateJob: starting
+[2024-08-27 18:26:21] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-08-27 18:26:21] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-08-27 18:26:22] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2024-08-27 18:26:22] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-08-27 18:26:22] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-08-27 18:26:22] CSystemManagerCheckForUpdateJob: up to date
+[2024-08-27 18:26:22] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0
+
+
+[2024-10-01 20:23:05] Client version: 1721173382
+[2024-10-01 20:23:05] Initializing System Manager
+[2024-10-01 20:23:05] Night mode active on resume 0
+[2024-10-01 20:23:05] Initialized battery manager with query mode: 1 interval: 2000000
+[2024-10-01 20:23:05] wifi power management: 1
+[2024-10-01 20:23:05] Fan control available: 0 current: 0
+[2024-10-01 20:25:05] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-10-01 20:25:05] CSystemManagerCheckForUpdateJob: starting
+[2024-10-01 20:25:05] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-10-01 20:25:05] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-10-01 20:25:06] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:1
+[2024-10-01 20:25:06] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-10-01 20:25:06] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-10-01 20:25:06] CSystemManagerCheckForUpdateJob: update available
+[2024-10-01 20:25:06] CSystemManagerCheckForUpdateJob: nAvailable=1 nRestartPendingCount=0
+[2024-10-01 23:23:02] Suspending
+[2024-10-02 08:32:23] Resuming
+[2024-10-02 08:32:23] Resume complete
+[2024-10-02 08:32:27] Night mode active on resume 0
+[2024-10-02 08:32:27] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-10-02 08:32:27] CSystemManagerCheckForUpdateJob: starting
+[2024-10-02 08:32:27] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-10-02 08:32:27] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: we already know a client update is available
+[2024-10-02 08:32:27] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: resuming bootstrapper download
+[2024-10-02 08:32:27] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-10-02 08:32:27] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-10-02 08:32:27] CSystemManagerCheckForUpdateJob: update available
+[2024-10-02 08:32:27] CSystemManagerCheckForUpdateJob: nAvailable=1 nRestartPendingCount=0
+
+
+[2024-10-02 08:33:16] Client version: 1726604483
+[2024-10-02 08:33:16] Initializing System Manager
+[2024-10-02 08:33:16] Night mode active on resume 0
+[2024-10-02 08:33:16] Initialized battery manager with query mode: 1 interval: 2000000
+[2024-10-02 08:33:16] wifi power management: 1
+[2024-10-02 08:33:16] Fan control available: 0 current: 0
+[2024-10-02 08:33:18] CSystemManagerGetCurrentOSBranchJob: starting
+[2024-10-02 08:33:18] CSystemManagerGetCurrentOSBranchJob: skipping on unsupported OS
+[2024-10-02 08:35:16] CSystemManager::PeriodicUpdateCheck: starting periodic update check
+[2024-10-02 08:35:16] CSystemManagerCheckForUpdateJob: starting
+[2024-10-02 08:35:16] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: starting check
+[2024-10-02 08:35:16] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: requesting update check
+[2024-10-02 08:35:17] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateSteamClient: update check success: available:0
+[2024-10-02 08:35:17] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateOS: skipping OS update for non-steamos platforms
+[2024-10-02 08:35:17] CSystemManagerCheckForUpdateJob::YieldingCheckForUpdateBIOS: skipping BIOS update for non-steamos platforms
+[2024-10-02 08:35:17] CSystemManagerCheckForUpdateJob: up to date
+[2024-10-02 08:35:17] CSystemManagerCheckForUpdateJob: nAvailable=0 nRestartPendingCount=0

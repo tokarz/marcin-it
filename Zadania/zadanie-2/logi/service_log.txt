@@ -1,0 +1,4 @@
+pon. lis 01 11:44:51 2021 UTC : Failed to create Service pipe (GLE 2)
+pon. lis 01 11:44:51 2021 UTC : Failed to connect to Steam Service (GLE 131)
+czw. lis 25 06:53:56 2021 UTC : Failed to create Service pipe (GLE 2)
+czw. lis 25 06:53:56 2021 UTC : Failed to connect to Steam Service (GLE 183)

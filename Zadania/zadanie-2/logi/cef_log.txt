@@ -1,0 +1,28 @@
+[1002/083314.096:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[1002/083314.676:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[1002/083323.002:INFO:CONSOLE(1)] "CDynamicStore.InternalLoad Unknown Error: AxiosError: Network Error [object Object]", source: https://steamloopback.host/chunk~2dcc5aaf7.js?contenthash=370b912b6cb445537b20 (1)
+[1002/083327.450:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727850793&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1002/083350.928:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727850793&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1002/083350.928:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727850793&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1002/083350.928:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727850793&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1002/083350.928:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727850793&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1002/083350.928:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727850793&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1002/083350.928:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727850793&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1002/083350.928:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727850793&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1002/083350.928:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727850793&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1002/083351.034:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727850793&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1002/083357.631:INFO:CONSOLE(0)] "Uncaught (in promise) #<Object>", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727850793&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (0)
+[1002/083422.191:INFO:CONSOLE(1)] "ResizeObserver loop limit exceeded", source: https://steamloopback.host/index.html?LOCAL_HOSTNAME=DESKTOP-NH3UHPO&LANGUAGE=polish&COUNTRY=PL&LAUNCHER_TYPE=0&CLIENT_SESSION=1727850793&IN_CLIENT=true&USE_POPUPS=true&IN_STEAMUI_SHARED_CONTEXT=true&PLATFORM=windows (1)
+[1002/083514.504:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: gpu-process
+[1002/083514.711:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1002/091631.740:WARNING:browser_info.cc(300)] Returning a speculative frame for 90194313224 [21,8]
+[1002/091633.542:WARNING:browser_info.cc(300)] Returning a speculative frame for 94489280520 [22,8]
+[1002/091633.798:WARNING:browser_info.cc(300)] Returning a speculative frame for 94489280520 [22,8]
+[1002/091633.798:WARNING:browser_info.cc(300)] Returning a speculative frame for 94489280520 [22,8]
+[1002/091633.798:WARNING:browser_info.cc(300)] Returning a speculative frame for 94489280520 [22,8]
+[1002/091633.798:WARNING:browser_info.cc(300)] Returning a speculative frame for 94489280520 [22,8]
+[1002/095502.673:WARNING:browser_info.cc(300)] Returning a speculative frame for 111669149704 [26,8]
+[1002/095503.125:WARNING:browser_info.cc(300)] Returning a speculative frame for 111669149704 [26,8]
+[1002/095503.126:WARNING:browser_info.cc(300)] Returning a speculative frame for 111669149704 [26,8]
+[1002/095503.126:WARNING:browser_info.cc(300)] Returning a speculative frame for 111669149704 [26,8]
+[1002/095503.126:WARNING:browser_info.cc(300)] Returning a speculative frame for 111669149704 [26,8]

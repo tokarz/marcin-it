@@ -1,0 +1,28 @@
+
+
+[2024-10-02 08:33:13] Client version: 1726604483
+[2024-10-02 08:33:13] [ None ] Starting login
+[2024-10-02 08:33:13] [ None ] SetLoginState: WaitingForNetwork - OK
+[2024-10-02 08:33:17] [ WaitingForNetwork ] Initiating LogOn via state machine transition
+[2024-10-02 08:33:17] [ WaitingForNetwork ] SetLoginState: WaitingForServerResponse - OK
+[2024-10-02 08:33:17] [ WaitingForServerResponse ] Received logon failure response
+[2024-10-02 08:33:17] [ WaitingForServerResponse ] Start offline - 0
+[2024-10-02 08:33:17] [ WaitingForServerResponse ] SetLoginState: WaitingForLibraryReady - OK
+[2024-10-02 08:33:17] [ WaitingForLibraryReady ] Received post-logon callback
+[2024-10-02 08:33:17] [ WaitingForLibraryReady ] SetLoginState: Success - OK
+[2024-10-02 08:33:33] [ Success ] Received logon failure response
+[2024-10-02 08:33:40] [ Success ] Received logon failure response
+[2024-10-02 08:33:49] [ Success ] Received logon success response
+[2024-10-02 08:33:49] [ Success ] Ignoring success response due to current state
+[2024-10-02 08:33:49] [ Success ] Received post-logon callback
+[2024-10-02 08:33:49] [ Success ] Ignoring post-logon callback due to current state
+[2024-10-02 08:33:49] [ Success ] Received post-logon callback
+[2024-10-02 08:33:49] [ Success ] Ignoring post-logon callback due to current state
+[2024-10-02 08:33:49] [ Success ] Received post-logon callback
+[2024-10-02 08:33:49] [ Success ] Ignoring post-logon callback due to current state
+[2024-10-02 08:33:50] [ Success ] Received post-logon callback
+[2024-10-02 08:33:50] [ Success ] Ignoring post-logon callback due to current state
+[2024-10-02 08:33:50] [ Success ] Received post-logon callback
+[2024-10-02 08:33:50] [ Success ] Ignoring post-logon callback due to current state
+[2024-10-02 08:33:51] [ Success ] Received post-logon callback
+[2024-10-02 08:33:51] [ Success ] Ignoring post-logon callback due to current state

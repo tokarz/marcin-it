@@ -1,0 +1,2746 @@
+
+
+[2021-12-05 11:14:40] Change number 0->13334575, apps: 0/0, packages: 0/0
+[2021-12-05 11:14:40] Requesting 2 apps, 7 packages (meta data, 1024 prev attempts)
+[2021-12-05 11:14:40] Downloaded 1 apps via HTTP, 12 KB (3 KB compressed)
+[2021-12-05 11:14:40] Requesting 1 apps, 7 packages (full data, 1024 prev attempts)
+[2021-12-05 11:14:40] UpdatesJob: finished OK, apps updated 2 (13 KB), packages updated 7 (10 KB)
+[2021-12-05 11:14:41] Requesting 196 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-12-05 11:14:41] Requested 35 app access tokens, 34 received, 1 denied
+[2021-12-05 11:14:41] Updated SHAs with 34 new access tokens
+[2021-12-05 11:14:42] Downloaded 10 apps via HTTP, 513 KB (87 KB compressed)
+[2021-12-05 11:14:42] Requesting 186 apps, 0 packages (full data, 1024 prev attempts)
+[2021-12-05 11:14:43] UpdatesJob: finished OK, apps updated 196 (861 KB), packages updated 0 (0 KB)
+[2021-12-05 11:14:43] Requesting 12 apps, 0 packages (meta data, 0 prev attempts)
+[2021-12-05 11:14:44] Requested 2 app access tokens, 0 received, 2 denied
+[2021-12-05 11:14:44] Downloaded 10 apps via HTTP, 95 KB (25 KB compressed)
+[2021-12-05 11:14:44] Requesting 2 apps, 0 packages (full data, 0 prev attempts)
+[2021-12-05 11:14:44] UpdatesJob: finished OK, apps updated 12 (95 KB), packages updated 0 (0 KB)
+[2021-12-05 11:14:59] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (751812 bytes)
+[2021-12-05 11:18:24] Requesting 0 apps, 1 packages (meta data, 0 prev attempts)
+[2021-12-05 11:18:24] Requesting 0 apps, 1 packages (full data, 0 prev attempts)
+[2021-12-05 11:18:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 1 (0 KB)
+[2021-12-05 11:18:25] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2021-12-05 11:18:25] Downloaded 1 apps via HTTP, 3 KB (1 KB compressed)
+[2021-12-05 11:18:25] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2021-12-05 11:18:37] RequestAppInfoUpdate: AppIDs 6800
+[2021-12-05 11:18:37] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2021-12-05 11:18:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2021-12-05 11:18:40] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (754212 bytes)
+[2021-12-05 11:30:34] Apps changed: 
+[2021-12-05 11:30:34] Change number 13334575->13334639, apps: 0/63, packages: 0/0
+
+
+[2021-12-05 13:44:11] Packages changed: 
+[2021-12-05 13:44:11] Apps changed: 
+[2021-12-05 13:44:11] Change number 13334639->13335064, apps: 0/331, packages: 0/23
+[2021-12-05 13:44:11] Requesting 3 apps, 0 packages (meta data, 0 prev attempts)
+[2021-12-05 13:44:11] Requested 3 app access tokens, 0 received, 3 denied
+[2021-12-05 13:44:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2021-12-05 14:00:26] Packages changed: 
+[2021-12-05 14:00:26] Apps changed: 
+[2021-12-05 14:00:26] Change number 13335064->13335118, apps: 0/31, packages: 0/6
+[2021-12-05 14:15:49] Packages changed: 
+[2021-12-05 14:15:49] Apps changed: 
+[2021-12-05 14:15:49] Change number 13335118->13335162, apps: 0/36, packages: 0/4
+[2021-12-05 14:30:20] Packages changed: 
+[2021-12-05 14:30:20] Apps changed: 
+[2021-12-05 14:30:20] Change number 13335162->13335258, apps: 0/86, packages: 0/7
+[2021-12-05 16:50:31] Packages changed: force all
+[2021-12-05 16:50:31] Apps changed: 
+[2021-12-05 16:50:31] Change number 13335258->13335826, apps: 0/347, packages: 0/0
+[2021-12-05 16:50:31] Requesting 0 apps, 8 packages (meta data, 0 prev attempts)
+[2021-12-05 16:50:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2021-12-05 17:06:59] Packages changed: 
+[2021-12-05 17:06:59] Apps changed: 
+[2021-12-05 17:06:59] Change number 13335826->13335875, apps: 0/36, packages: 0/2
+[2021-12-05 17:21:45] Packages changed: 
+[2021-12-05 17:21:45] Apps changed: 
+[2021-12-05 17:21:45] Change number 13335875->13335909, apps: 0/23, packages: 0/4
+[2021-12-05 17:37:24] Packages changed: 
+[2021-12-05 17:37:24] Apps changed: 
+[2021-12-05 17:37:24] Change number 13335909->13336014, apps: 0/88, packages: 0/2
+[2021-12-05 17:52:12] Packages changed: 
+[2021-12-05 17:52:12] Apps changed: 
+[2021-12-05 17:52:12] Change number 13336014->13336070, apps: 0/41, packages: 0/10
+[2021-12-05 18:07:15] Packages changed: 
+[2021-12-05 18:07:15] Apps changed: 294420=13336207,
+[2021-12-05 18:07:15] Change number 13336070->13336212, apps: 1/138, packages: 0/1
+[2021-12-05 18:07:15] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2021-12-05 18:07:16] Downloaded 1 apps via HTTP, 7 KB (2 KB compressed)
+[2021-12-05 18:07:16] UpdatesJob: finished OK, apps updated 1 (7 KB), packages updated 0 (0 KB)
+[2021-12-05 18:07:31] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (754212 bytes)
+[2021-12-05 18:22:43] Apps changed: 
+[2021-12-05 18:22:43] Change number 13336212->13336251, apps: 0/34, packages: 0/0
+[2021-12-05 18:36:33] Packages changed: 
+[2021-12-05 18:36:33] Apps changed: 
+[2021-12-05 18:36:33] Change number 13336251->13336360, apps: 0/101, packages: 0/6
+[2021-12-05 18:51:36] Packages changed: 
+[2021-12-05 18:51:36] Apps changed: 
+[2021-12-05 18:51:36] Change number 13336360->13336411, apps: 0/42, packages: 0/3
+[2021-12-05 19:07:08] Packages changed: force all
+[2021-12-05 19:07:08] Apps changed: 
+[2021-12-05 19:07:08] Change number 13336411->13336465, apps: 0/35, packages: 0/0
+[2021-12-05 19:07:08] Requesting 0 apps, 8 packages (meta data, 0 prev attempts)
+[2021-12-05 19:07:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2021-12-05 19:22:30] Apps changed: 
+[2021-12-05 19:22:30] Change number 13336465->13336503, apps: 0/29, packages: 0/0
+[2021-12-05 19:38:51] Packages changed: 
+[2021-12-05 19:38:51] Apps changed: 
+[2021-12-05 19:38:51] Change number 13336503->13336604, apps: 0/84, packages: 0/10
+[2021-12-05 19:54:02] Apps changed: 
+[2021-12-05 19:54:02] Change number 13336604->13336640, apps: 0/30, packages: 0/0
+[2021-12-05 20:29:59] Packages changed: 
+[2021-12-05 20:29:59] Apps changed: 
+[2021-12-05 20:29:59] Change number 13336640->13336802, apps: 0/130, packages: 0/13
+[2021-12-05 20:45:02] Packages changed: 
+[2021-12-05 20:45:02] Apps changed: 
+[2021-12-05 20:45:02] Change number 13336802->13336848, apps: 0/42, packages: 0/5
+[2021-12-05 21:01:25] Packages changed: 
+[2021-12-05 21:01:25] Apps changed: 
+[2021-12-05 21:01:25] Change number 13336848->13336909, apps: 0/42, packages: 0/11
+[2021-12-05 21:15:02] Packages changed: 
+[2021-12-05 21:15:02] Apps changed: 
+[2021-12-05 21:15:02] Change number 13336909->13336951, apps: 0/30, packages: 0/5
+[2021-12-05 21:29:24] Packages changed: 
+[2021-12-05 21:29:24] Apps changed: 
+[2021-12-05 21:29:24] Change number 13336951->13337043, apps: 0/87, packages: 0/3
+[2021-12-05 21:44:54] Apps changed: 
+[2021-12-05 21:44:54] Change number 13337043->13337088, apps: 0/38, packages: 0/0
+[2021-12-05 22:01:04] Packages changed: 
+[2021-12-05 22:01:04] Apps changed: 
+[2021-12-05 22:01:04] Change number 13337088->13337124, apps: 0/33, packages: 0/1
+[2021-12-05 22:15:55] Packages changed: 
+[2021-12-05 22:15:55] Apps changed: 
+[2021-12-05 22:15:55] Change number 13337124->13337241, apps: 0/102, packages: 0/10
+
+
+[2022-08-08 10:18:54] Packages changed: force all
+[2022-08-08 10:18:54] Apps changed: force all
+[2022-08-08 10:18:54] Change number 13337241->15662887, apps: 0/0, packages: 0/0
+[2022-08-08 10:18:54] Requesting 211 apps, 8 packages (meta data, 0 prev attempts)
+[2022-08-08 10:18:54] Requested 37 app access tokens, 34 received, 3 denied
+[2022-08-08 10:18:55] Updated SHAs with 34 new access tokens
+[2022-08-08 10:18:56] Downloaded 101 apps via HTTP, 979 KB (232 KB compressed)
+[2022-08-08 10:18:56] Requesting 14 apps, 1 packages (full data, 0 prev attempts)
+[2022-08-08 10:18:56] UpdatesJob: finished OK, apps updated 115 (988 KB), packages updated 1 (9 KB)
+[2022-08-08 10:18:56] Requesting 8 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 10:18:57] Requested 5 app access tokens, 4 received, 1 denied
+[2022-08-08 10:18:57] Updated SHAs with 4 new access tokens
+[2022-08-08 10:18:57] Downloaded 3 apps via HTTP, 7 KB (2 KB compressed)
+[2022-08-08 10:18:57] Requesting 4 apps, 0 packages (full data, 0 prev attempts)
+[2022-08-08 10:18:58] UpdatesJob: finished OK, apps updated 7 (9 KB), packages updated 0 (0 KB)
+[2022-08-08 10:19:13] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (871825 bytes)
+[2022-08-08 10:20:00] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 10:20:00] Downloaded 1 apps via HTTP, 4 KB (1 KB compressed)
+[2022-08-08 10:20:00] Requesting 0 apps, 1 packages (full data, 0 prev attempts)
+[2022-08-08 10:20:01] UpdatesJob: finished OK, apps updated 1 (4 KB), packages updated 1 (0 KB)
+[2022-08-08 10:20:01] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-08 10:20:01] RequestAppInfoUpdate: AppIDs 358270
+[2022-08-08 10:20:01] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 10:20:01] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-08 10:20:13] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 10:20:13] Downloaded 1 apps via HTTP, 3 KB (1 KB compressed)
+[2022-08-08 10:20:13] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2022-08-08 10:20:28] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877351 bytes)
+
+
+[2022-08-08 10:25:04] Apps changed: 
+[2022-08-08 10:25:04] Change number 15662887->15662927, apps: 0/37, packages: 0/0
+[2022-08-08 10:25:04] Requesting 3 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 10:25:04] Requested 3 app access tokens, 0 received, 3 denied
+[2022-08-08 10:25:04] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-08 10:41:12] Packages changed: 
+[2022-08-08 10:41:12] Apps changed: 
+[2022-08-08 10:41:12] Change number 15662927->15663072, apps: 0/115, packages: 0/10
+[2022-08-08 10:56:06] Packages changed: 
+[2022-08-08 10:56:06] Apps changed: 
+[2022-08-08 10:56:06] Change number 15663072->15663171, apps: 0/82, packages: 0/9
+[2022-08-08 11:10:54] Packages changed: 
+[2022-08-08 11:10:54] Apps changed: 
+[2022-08-08 11:10:54] Change number 15663171->15663336, apps: 0/140, packages: 0/10
+[2022-08-08 11:26:07] Packages changed: 
+[2022-08-08 11:26:07] Apps changed: 
+[2022-08-08 11:26:07] Change number 15663336->15663417, apps: 0/67, packages: 0/2
+[2022-08-08 11:40:33] Packages changed: 
+[2022-08-08 11:40:33] Apps changed: 
+[2022-08-08 11:40:33] Change number 15663417->15663563, apps: 0/132, packages: 0/8
+[2022-08-08 11:55:15] Packages changed: 
+[2022-08-08 11:55:15] Apps changed: 
+[2022-08-08 11:55:15] Change number 15663563->15663655, apps: 0/72, packages: 0/8
+[2022-08-08 12:08:56] Packages changed: 
+[2022-08-08 12:08:56] Apps changed: 
+[2022-08-08 12:08:56] Change number 15663655->15663731, apps: 0/67, packages: 0/28
+[2022-08-08 12:24:49] Packages changed: 
+[2022-08-08 12:24:49] Apps changed: 
+[2022-08-08 12:24:49] Change number 15663731->15663818, apps: 0/73, packages: 0/2
+[2022-08-08 12:38:22] Packages changed: 
+[2022-08-08 12:38:22] Apps changed: 
+[2022-08-08 12:38:22] Change number 15663818->15663971, apps: 0/133, packages: 0/9
+[2022-08-08 12:53:58] Packages changed: 
+[2022-08-08 12:53:58] Apps changed: 
+[2022-08-08 12:53:58] Change number 15663971->15664070, apps: 0/74, packages: 0/23
+[2022-08-08 13:09:23] Packages changed: 
+[2022-08-08 13:09:23] Apps changed: 
+[2022-08-08 13:09:23] Change number 15664070->15664177, apps: 0/84, packages: 0/7
+[2022-08-08 13:23:33] Packages changed: 
+[2022-08-08 13:23:33] Apps changed: 
+[2022-08-08 13:23:33] Change number 15664177->15664270, apps: 0/65, packages: 0/7
+[2022-08-08 13:39:13] Packages changed: 
+[2022-08-08 13:39:13] Apps changed: 
+[2022-08-08 13:39:13] Change number 15664270->15664422, apps: 0/121, packages: 0/16
+[2022-08-08 13:53:23] Packages changed: 
+[2022-08-08 13:53:23] Apps changed: 
+[2022-08-08 13:53:23] Change number 15664422->15664503, apps: 0/65, packages: 0/4
+[2022-08-08 14:07:58] Packages changed: 
+[2022-08-08 14:07:58] Apps changed: 
+[2022-08-08 14:07:58] Change number 15664503->15664600, apps: 0/72, packages: 0/6
+[2022-08-08 14:22:34] Packages changed: 
+[2022-08-08 14:22:34] Apps changed: 
+[2022-08-08 14:22:34] Change number 15664600->15664711, apps: 0/89, packages: 0/3
+[2022-08-08 14:36:34] Packages changed: 
+[2022-08-08 14:36:34] Apps changed: 1493710=15664866,
+[2022-08-08 14:36:34] Change number 15664711->15664872, apps: 1/137, packages: 0/14
+[2022-08-08 14:36:35] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 14:36:35] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-08 14:36:35] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-08 14:36:50] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-08 14:52:56] Packages changed: 
+[2022-08-08 14:52:56] Apps changed: 
+[2022-08-08 14:52:56] Change number 15664872->15665038, apps: 0/115, packages: 0/30
+[2022-08-08 15:07:05] Packages changed: 
+[2022-08-08 15:07:05] Apps changed: 
+[2022-08-08 15:07:05] Change number 15665038->15665160, apps: 0/89, packages: 0/9
+[2022-08-08 15:23:17] Packages changed: force all
+[2022-08-08 15:23:17] Apps changed: 
+[2022-08-08 15:23:17] Change number 15665160->15665465, apps: 0/212, packages: 0/0
+[2022-08-08 15:23:17] Requesting 0 apps, 9 packages (meta data, 0 prev attempts)
+[2022-08-08 15:23:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-08 15:38:40] Packages changed: force all
+[2022-08-08 15:38:40] Apps changed: 
+[2022-08-08 15:38:40] Change number 15665465->15665716, apps: 0/177, packages: 0/0
+[2022-08-08 15:38:40] Requesting 0 apps, 9 packages (meta data, 0 prev attempts)
+[2022-08-08 15:38:40] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-08 15:53:48] Packages changed: force all
+[2022-08-08 15:53:48] Apps changed: 
+[2022-08-08 15:53:48] Change number 15665716->15665837, apps: 0/91, packages: 0/0
+[2022-08-08 15:53:48] Requesting 0 apps, 9 packages (meta data, 0 prev attempts)
+[2022-08-08 15:53:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-08 16:08:29] Packages changed: 
+[2022-08-08 16:08:29] Apps changed: 1493710=15665962,
+[2022-08-08 16:08:29] Change number 15665837->15665963, apps: 1/95, packages: 0/30
+[2022-08-08 16:08:29] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 16:08:29] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-08 16:08:29] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-08 16:08:44] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-08 16:22:56] Packages changed: 
+[2022-08-08 16:22:56] Apps changed: 1874900=15665995,
+[2022-08-08 16:22:56] Change number 15665963->15666072, apps: 1/89, packages: 0/6
+[2022-08-08 16:22:56] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 16:22:57] Downloaded 1 apps via HTTP, 5 KB (1 KB compressed)
+[2022-08-08 16:22:57] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2022-08-08 16:23:12] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-08 16:37:00] Packages changed: 
+[2022-08-08 16:37:00] Apps changed: 
+[2022-08-08 16:37:00] Change number 15666072->15666202, apps: 0/114, packages: 0/12
+[2022-08-08 16:52:50] Packages changed: 
+[2022-08-08 16:52:50] Apps changed: 
+[2022-08-08 16:52:50] Change number 15666202->15666343, apps: 0/103, packages: 0/31
+[2022-08-08 17:08:30] Packages changed: force all
+[2022-08-08 17:08:30] Apps changed: 
+[2022-08-08 17:08:30] Change number 15666343->15666491, apps: 0/101, packages: 0/0
+[2022-08-08 17:08:30] Requesting 0 apps, 9 packages (meta data, 0 prev attempts)
+[2022-08-08 17:08:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-08 17:24:30] Packages changed: force all
+[2022-08-08 17:24:30] Apps changed: 
+[2022-08-08 17:24:30] Change number 15666491->15666671, apps: 0/101, packages: 0/0
+[2022-08-08 17:24:30] Requesting 0 apps, 9 packages (meta data, 0 prev attempts)
+[2022-08-08 17:24:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-08 17:40:50] Packages changed: 
+[2022-08-08 17:40:50] Apps changed: 
+[2022-08-08 17:40:50] Change number 15666671->15666844, apps: 0/147, packages: 0/7
+[2022-08-08 17:56:47] Packages changed: 
+[2022-08-08 17:56:47] Apps changed: 1042420=15666868,
+[2022-08-08 17:56:47] Change number 15666844->15666976, apps: 1/99, packages: 0/3
+[2022-08-08 17:56:47] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 17:56:48] Downloaded 1 apps via HTTP, 7 KB (2 KB compressed)
+[2022-08-08 17:56:48] UpdatesJob: finished OK, apps updated 1 (7 KB), packages updated 0 (0 KB)
+[2022-08-08 17:57:03] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-08 18:11:04] Packages changed: 
+[2022-08-08 18:11:04] Apps changed: 
+[2022-08-08 18:11:04] Change number 15666976->15667101, apps: 0/88, packages: 0/23
+[2022-08-08 18:27:17] Packages changed: 
+[2022-08-08 18:27:17] Apps changed: 
+[2022-08-08 18:27:17] Change number 15667101->15667194, apps: 0/76, packages: 0/11
+[2022-08-08 18:41:12] Packages changed: 
+[2022-08-08 18:41:12] Apps changed: 
+[2022-08-08 18:41:12] Change number 15667194->15667341, apps: 0/119, packages: 0/7
+[2022-08-08 18:56:24] Packages changed: 
+[2022-08-08 18:56:24] Apps changed: 
+[2022-08-08 18:56:24] Change number 15667341->15667445, apps: 0/74, packages: 0/7
+[2022-08-08 19:09:57] Packages changed: force all
+[2022-08-08 19:09:57] Apps changed: 
+[2022-08-08 19:09:57] Change number 15667445->15667604, apps: 0/100, packages: 0/0
+[2022-08-08 19:09:57] Requesting 0 apps, 9 packages (meta data, 0 prev attempts)
+[2022-08-08 19:09:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-08 19:26:23] Packages changed: 
+[2022-08-08 19:26:23] Apps changed: 
+[2022-08-08 19:26:23] Change number 15667604->15667753, apps: 0/117, packages: 0/15
+[2022-08-08 19:42:10] Packages changed: 
+[2022-08-08 19:42:10] Apps changed: 1493710=15667869,
+[2022-08-08 19:42:10] Change number 15667753->15667935, apps: 1/145, packages: 0/25
+[2022-08-08 19:42:10] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 19:42:11] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-08 19:42:11] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-08 19:42:26] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-08 19:57:36] Packages changed: 
+[2022-08-08 19:57:36] Apps changed: 250820=15667990,
+[2022-08-08 19:57:36] Change number 15667935->15668035, apps: 1/82, packages: 0/12
+[2022-08-08 19:57:36] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 19:57:36] Downloaded 1 apps via HTTP, 43 KB (12 KB compressed)
+[2022-08-08 19:57:36] UpdatesJob: finished OK, apps updated 1 (43 KB), packages updated 0 (0 KB)
+[2022-08-08 19:57:51] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-08 20:12:18] Packages changed: 
+[2022-08-08 20:12:18] Apps changed: 
+[2022-08-08 20:12:18] Change number 15668035->15668139, apps: 0/74, packages: 0/22
+[2022-08-08 20:27:54] Packages changed: 
+[2022-08-08 20:27:54] Apps changed: 
+[2022-08-08 20:27:54] Change number 15668139->15668234, apps: 0/71, packages: 0/5
+[2022-08-08 20:41:39] Packages changed: 
+[2022-08-08 20:41:39] Apps changed: 4940=15668347,
+[2022-08-08 20:41:39] Change number 15668234->15668361, apps: 1/115, packages: 0/7
+[2022-08-08 20:41:39] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 20:41:39] Downloaded 1 apps via HTTP, 4 KB (1 KB compressed)
+[2022-08-08 20:41:39] UpdatesJob: finished OK, apps updated 1 (4 KB), packages updated 0 (0 KB)
+[2022-08-08 20:41:54] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-08 20:55:52] Packages changed: 
+[2022-08-08 20:55:52] Apps changed: 
+[2022-08-08 20:55:52] Change number 15668361->15668448, apps: 0/59, packages: 0/11
+[2022-08-08 21:12:05] Packages changed: 
+[2022-08-08 21:12:05] Apps changed: 250820=15668521,
+[2022-08-08 21:12:05] Change number 15668448->15668528, apps: 1/66, packages: 0/10
+[2022-08-08 21:12:05] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 21:12:05] Downloaded 1 apps via HTTP, 43 KB (12 KB compressed)
+[2022-08-08 21:12:05] UpdatesJob: finished OK, apps updated 1 (43 KB), packages updated 0 (0 KB)
+[2022-08-08 21:12:20] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-08 21:26:47] Packages changed: 
+[2022-08-08 21:26:47] Apps changed: 
+[2022-08-08 21:26:47] Change number 15668528->15668627, apps: 0/71, packages: 0/15
+[2022-08-08 21:42:27] Packages changed: 
+[2022-08-08 21:42:27] Apps changed: 4940=15668662,
+[2022-08-08 21:42:27] Change number 15668627->15668783, apps: 1/136, packages: 0/15
+[2022-08-08 21:42:27] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 21:42:27] Downloaded 1 apps via HTTP, 4 KB (1 KB compressed)
+[2022-08-08 21:42:27] UpdatesJob: finished OK, apps updated 1 (4 KB), packages updated 0 (0 KB)
+[2022-08-08 21:42:42] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-08 21:56:08] Packages changed: 
+[2022-08-08 21:56:08] Apps changed: 
+[2022-08-08 21:56:08] Change number 15668783->15668871, apps: 0/70, packages: 0/6
+[2022-08-08 22:10:14] Packages changed: 
+[2022-08-08 22:10:14] Apps changed: 250820=15668930,
+[2022-08-08 22:10:14] Change number 15668871->15668955, apps: 1/78, packages: 0/11
+[2022-08-08 22:10:14] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 22:10:15] Downloaded 1 apps via HTTP, 43 KB (12 KB compressed)
+[2022-08-08 22:10:15] UpdatesJob: finished OK, apps updated 1 (43 KB), packages updated 0 (0 KB)
+[2022-08-08 22:10:30] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-08 22:25:34] Packages changed: 
+[2022-08-08 22:25:34] Apps changed: 4940=15668996,
+[2022-08-08 22:25:34] Change number 15668955->15669053, apps: 1/88, packages: 0/6
+[2022-08-08 22:25:34] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 22:25:34] Downloaded 1 apps via HTTP, 4 KB (1 KB compressed)
+[2022-08-08 22:25:34] UpdatesJob: finished OK, apps updated 1 (4 KB), packages updated 0 (0 KB)
+[2022-08-08 22:25:49] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-08 22:40:17] Packages changed: 
+[2022-08-08 22:40:17] Apps changed: 
+[2022-08-08 22:40:17] Change number 15669053->15669211, apps: 0/128, packages: 0/10
+[2022-08-08 22:53:58] Packages changed: 
+[2022-08-08 22:53:58] Apps changed: 250820=15669219,
+[2022-08-08 22:53:58] Change number 15669211->15669283, apps: 1/68, packages: 0/6
+[2022-08-08 22:53:59] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 22:53:59] Downloaded 1 apps via HTTP, 43 KB (12 KB compressed)
+[2022-08-08 22:53:59] UpdatesJob: finished OK, apps updated 1 (43 KB), packages updated 0 (0 KB)
+[2022-08-08 22:54:14] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-08 23:08:08] Packages changed: 
+[2022-08-08 23:08:08] Apps changed: 1493710=15669347,
+[2022-08-08 23:08:08] Change number 15669283->15669399, apps: 1/65, packages: 0/36
+[2022-08-08 23:08:08] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-08 23:08:09] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-08 23:08:09] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-08 23:08:24] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-09 09:10:12] Packages changed: force all
+[2022-08-09 09:10:12] Apps changed: force all
+[2022-08-09 09:10:12] Change number 15669399->15673240, apps: 0/0, packages: 0/0
+[2022-08-09 09:10:12] Requesting 220 apps, 9 packages (meta data, 0 prev attempts)
+[2022-08-09 09:10:13] Requested 41 app access tokens, 38 received, 3 denied
+[2022-08-09 09:10:13] Updated SHAs with 38 new access tokens
+[2022-08-09 09:10:14] Downloaded 9 apps via HTTP, 424 KB (68 KB compressed)
+[2022-08-09 09:10:14] UpdatesJob: finished OK, apps updated 9 (424 KB), packages updated 0 (0 KB)
+[2022-08-09 09:10:29] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-09 09:24:29] Packages changed: 
+[2022-08-09 09:24:29] Apps changed: 
+[2022-08-09 09:24:29] Change number 15673240->15673382, apps: 0/119, packages: 0/5
+[2022-08-09 09:38:14] Packages changed: 
+[2022-08-09 09:38:14] Apps changed: 
+[2022-08-09 09:38:14] Change number 15673382->15673512, apps: 0/93, packages: 0/18
+[2022-08-09 09:52:40] Packages changed: 
+[2022-08-09 09:52:40] Apps changed: 
+[2022-08-09 09:52:40] Change number 15673512->15673602, apps: 0/56, packages: 0/15
+[2022-08-09 10:06:15] Packages changed: 
+[2022-08-09 10:06:15] Apps changed: 
+[2022-08-09 10:06:15] Change number 15673602->15673708, apps: 0/75, packages: 0/9
+[2022-08-09 10:20:45] Packages changed: 
+[2022-08-09 10:20:45] Apps changed: 
+[2022-08-09 10:20:45] Change number 15673708->15673814, apps: 0/74, packages: 0/7
+[2022-08-09 10:34:54] Packages changed: 
+[2022-08-09 10:34:54] Apps changed: 4940=15673910,1493710=15673895,
+[2022-08-09 10:34:54] Change number 15673814->15673969, apps: 2/138, packages: 0/9
+[2022-08-09 10:34:54] Requesting 2 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-09 10:34:54] Downloaded 2 apps via HTTP, 6 KB (2 KB compressed)
+[2022-08-09 10:34:54] UpdatesJob: finished OK, apps updated 2 (6 KB), packages updated 0 (0 KB)
+[2022-08-09 10:35:10] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-09 10:50:29] Packages changed: 
+[2022-08-09 10:50:29] Apps changed: 
+[2022-08-09 10:50:29] Change number 15673969->15674072, apps: 0/89, packages: 0/5
+[2022-08-09 11:06:32] Packages changed: 
+[2022-08-09 11:06:32] Apps changed: 
+[2022-08-09 11:06:32] Change number 15674072->15674240, apps: 0/117, packages: 0/14
+[2022-08-09 11:21:59] Packages changed: 
+[2022-08-09 11:21:59] Apps changed: 
+[2022-08-09 11:21:59] Change number 15674240->15674408, apps: 0/145, packages: 0/4
+[2022-08-09 11:36:20] Packages changed: 
+[2022-08-09 11:36:20] Apps changed: 
+[2022-08-09 11:36:20] Change number 15674408->15674557, apps: 0/122, packages: 0/19
+[2022-08-09 11:50:41] Packages changed: 
+[2022-08-09 11:50:41] Apps changed: 
+[2022-08-09 11:50:41] Change number 15674557->15674648, apps: 0/71, packages: 0/7
+[2022-08-09 12:06:26] Packages changed: 
+[2022-08-09 12:06:26] Apps changed: 
+[2022-08-09 12:06:26] Change number 15674648->15674765, apps: 0/95, packages: 0/4
+[2022-08-09 12:20:10] Packages changed: 
+[2022-08-09 12:20:10] Apps changed: 
+[2022-08-09 12:20:10] Change number 15674765->15674875, apps: 0/77, packages: 0/11
+[2022-08-09 12:36:30] Packages changed: 
+[2022-08-09 12:36:30] Apps changed: 
+[2022-08-09 12:36:30] Change number 15674875->15675028, apps: 0/128, packages: 0/6
+[2022-08-09 12:50:17] Packages changed: 
+[2022-08-09 12:50:17] Apps changed: 443030=15675125,
+[2022-08-09 12:50:17] Change number 15675028->15675141, apps: 1/93, packages: 0/9
+[2022-08-09 12:50:17] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-09 12:50:17] Downloaded 1 apps via HTTP, 12 KB (3 KB compressed)
+[2022-08-09 12:50:17] UpdatesJob: finished OK, apps updated 1 (12 KB), packages updated 0 (0 KB)
+[2022-08-09 12:50:32] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-09 13:05:16] Packages changed: 
+[2022-08-09 13:05:16] Apps changed: 
+[2022-08-09 13:05:16] Change number 15675141->15675244, apps: 0/83, packages: 0/3
+[2022-08-09 13:18:49] Packages changed: 
+[2022-08-09 13:18:49] Apps changed: 
+[2022-08-09 13:18:49] Change number 15675244->15675323, apps: 0/67, packages: 0/2
+[2022-08-09 13:34:17] Packages changed: 
+[2022-08-09 13:34:17] Apps changed: 
+[2022-08-09 13:34:17] Change number 15675323->15675454, apps: 0/103, packages: 0/12
+[2022-08-09 13:50:18] Packages changed: 
+[2022-08-09 13:50:18] Apps changed: 
+[2022-08-09 13:50:18] Change number 15675454->15675603, apps: 0/120, packages: 0/16
+[2022-08-09 14:03:48] Packages changed: 
+[2022-08-09 14:03:48] Apps changed: 
+[2022-08-09 14:03:48] Change number 15675603->15675707, apps: 0/77, packages: 0/11
+[2022-08-09 14:19:50] Packages changed: 
+[2022-08-09 14:19:50] Apps changed: 
+[2022-08-09 14:19:50] Change number 15675707->15675825, apps: 0/94, packages: 0/9
+[2022-08-09 14:34:22] Packages changed: 
+[2022-08-09 14:34:22] Apps changed: 
+[2022-08-09 14:34:22] Change number 15675825->15675954, apps: 0/114, packages: 0/1
+[2022-08-09 14:48:21] Packages changed: 
+[2022-08-09 14:48:21] Apps changed: 1493710=15675970,
+[2022-08-09 14:48:21] Change number 15675954->15676055, apps: 1/85, packages: 0/4
+[2022-08-09 14:48:21] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-09 14:48:22] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-09 14:48:22] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-09 14:48:37] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-09 15:03:59] Packages changed: 
+[2022-08-09 15:03:59] Apps changed: 
+[2022-08-09 15:03:59] Change number 15676055->15676174, apps: 0/85, packages: 0/11
+[2022-08-09 15:19:47] Packages changed: 
+[2022-08-09 15:19:47] Apps changed: 
+[2022-08-09 15:19:47] Change number 15676174->15676359, apps: 0/158, packages: 0/7
+[2022-08-09 15:35:43] Packages changed: 
+[2022-08-09 15:35:43] Apps changed: 
+[2022-08-09 15:35:43] Change number 15676359->15676538, apps: 0/152, packages: 0/11
+[2022-08-09 15:50:03] Packages changed: 
+[2022-08-09 15:50:03] Apps changed: 1493710=15676676,
+[2022-08-09 15:50:03] Change number 15676538->15676704, apps: 1/116, packages: 0/19
+[2022-08-09 15:50:03] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-09 15:50:03] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-09 15:50:03] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-09 15:50:18] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877350 bytes)
+[2022-08-09 16:06:02] Packages changed: 
+[2022-08-09 16:06:02] Apps changed: 1899670=15676845,
+[2022-08-09 16:06:02] Change number 15676704->15676853, apps: 1/118, packages: 0/14
+[2022-08-09 16:06:02] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-09 16:06:03] Downloaded 1 apps via HTTP, 1 KB (0 KB compressed)
+[2022-08-09 16:06:03] UpdatesJob: finished OK, apps updated 1 (1 KB), packages updated 0 (0 KB)
+[2022-08-09 17:35:47] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877349 bytes)
+[2022-08-09 17:35:51] Packages changed: force all
+[2022-08-09 17:35:51] Apps changed: 
+[2022-08-09 17:35:51] Change number 15676853->15677720, apps: 0/508, packages: 0/0
+[2022-08-09 17:35:51] Requesting 0 apps, 9 packages (meta data, 0 prev attempts)
+[2022-08-09 17:35:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-09 17:49:29] Packages changed: 
+[2022-08-09 17:49:29] Apps changed: 1042420=15677784,
+[2022-08-09 17:49:29] Change number 15677720->15677824, apps: 1/86, packages: 0/4
+[2022-08-09 17:49:29] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-09 17:49:30] Downloaded 1 apps via HTTP, 7 KB (2 KB compressed)
+[2022-08-09 17:49:30] UpdatesJob: finished OK, apps updated 1 (7 KB), packages updated 0 (0 KB)
+[2022-08-09 17:49:45] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877349 bytes)
+[2022-08-09 18:05:44] Packages changed: 
+[2022-08-09 18:05:44] Apps changed: 
+[2022-08-09 18:05:44] Change number 15677824->15677942, apps: 0/91, packages: 0/22
+[2022-08-09 18:20:12] Packages changed: 
+[2022-08-09 18:20:12] Apps changed: 
+[2022-08-09 18:20:12] Change number 15677942->15678055, apps: 0/85, packages: 0/21
+[2022-08-09 18:36:23] Packages changed: 
+[2022-08-09 18:36:23] Apps changed: 
+[2022-08-09 18:36:23] Change number 15678055->15678247, apps: 0/161, packages: 0/13
+[2022-08-09 18:52:40] Packages changed: 
+[2022-08-09 18:52:40] Apps changed: 1874900=15678352,
+[2022-08-09 18:52:40] Change number 15678247->15678357, apps: 1/76, packages: 0/7
+[2022-08-09 18:52:40] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-09 18:52:40] Downloaded 1 apps via HTTP, 5 KB (1 KB compressed)
+[2022-08-09 18:52:40] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2022-08-09 18:52:55] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877349 bytes)
+[2022-08-09 19:08:57] Packages changed: force all
+[2022-08-09 19:08:57] Apps changed: 1874900=15678512,
+[2022-08-09 19:08:57] Change number 15678357->15678519, apps: 1/95, packages: 0/0
+[2022-08-09 19:08:57] Requesting 1 apps, 9 packages (meta data, 0 prev attempts)
+[2022-08-09 19:08:58] Downloaded 1 apps via HTTP, 5 KB (1 KB compressed)
+[2022-08-09 19:08:58] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2022-08-09 19:09:13] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877349 bytes)
+[2022-08-09 19:24:27] Packages changed: 
+[2022-08-09 19:24:27] Apps changed: 
+[2022-08-09 19:24:27] Change number 15678519->15678749, apps: 0/198, packages: 0/20
+[2022-08-09 19:40:52] Packages changed: 
+[2022-08-09 19:40:52] Apps changed: 
+[2022-08-09 19:40:52] Change number 15678749->15678926, apps: 0/135, packages: 0/6
+[2022-08-09 19:55:11] Packages changed: 
+[2022-08-09 19:55:11] Apps changed: 4940=15678964,
+[2022-08-09 19:55:11] Change number 15678926->15679034, apps: 1/78, packages: 0/13
+[2022-08-09 19:55:11] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-09 19:55:12] Downloaded 1 apps via HTTP, 4 KB (1 KB compressed)
+[2022-08-09 19:55:12] UpdatesJob: finished OK, apps updated 1 (4 KB), packages updated 0 (0 KB)
+[2022-08-09 19:55:27] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877349 bytes)
+[2022-08-09 20:10:31] Packages changed: 
+[2022-08-09 20:10:31] Apps changed: 
+[2022-08-09 20:10:31] Change number 15679034->15679145, apps: 0/87, packages: 0/11
+[2022-08-09 20:26:00] Packages changed: 
+[2022-08-09 20:26:00] Apps changed: 
+[2022-08-09 20:26:00] Change number 15679145->15679258, apps: 0/97, packages: 0/3
+[2022-08-09 20:41:11] Packages changed: 
+[2022-08-09 20:41:11] Apps changed: 
+[2022-08-09 20:41:11] Change number 15679258->15679407, apps: 0/127, packages: 0/2
+[2022-08-09 20:57:30] Packages changed: 
+[2022-08-09 20:57:30] Apps changed: 
+[2022-08-09 20:57:30] Change number 15679407->15679502, apps: 0/67, packages: 0/14
+[2022-08-09 21:13:22] Packages changed: 
+[2022-08-09 21:13:22] Apps changed: 
+[2022-08-09 21:13:22] Change number 15679502->15679608, apps: 0/74, packages: 0/12
+[2022-08-09 21:27:33] Packages changed: 
+[2022-08-09 21:27:33] Apps changed: 
+[2022-08-09 21:27:33] Change number 15679608->15679707, apps: 0/75, packages: 0/8
+[2022-08-09 22:00:45] Packages changed: 
+[2022-08-09 22:00:45] Apps changed: 4940=15679737,
+[2022-08-09 22:00:45] Change number 15679707->15679957, apps: 1/194, packages: 0/14
+[2022-08-09 22:00:45] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-09 22:00:46] Downloaded 1 apps via HTTP, 4 KB (1 KB compressed)
+[2022-08-09 22:00:46] UpdatesJob: finished OK, apps updated 1 (4 KB), packages updated 0 (0 KB)
+[2022-08-09 22:01:01] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877349 bytes)
+[2022-08-09 22:15:50] Packages changed: 
+[2022-08-09 22:15:50] Apps changed: 
+[2022-08-09 22:15:50] Change number 15679957->15680057, apps: 0/70, packages: 0/11
+[2022-08-09 22:29:28] Packages changed: 
+[2022-08-09 22:29:28] Apps changed: 
+[2022-08-09 22:29:28] Change number 15680057->15680132, apps: 0/62, packages: 0/11
+[2022-08-09 22:46:37] Packages changed: 
+[2022-08-09 22:46:37] Apps changed: 
+[2022-08-09 22:46:37] Change number 15680132->15680294, apps: 0/137, packages: 0/9
+[2022-08-09 23:00:39] Packages changed: 
+[2022-08-09 23:00:39] Apps changed: 
+[2022-08-09 23:00:39] Change number 15680294->15680371, apps: 0/68, packages: 0/2
+[2022-08-09 23:14:14] Packages changed: 
+[2022-08-09 23:14:14] Apps changed: 
+[2022-08-09 23:14:14] Change number 15680371->15680540, apps: 0/153, packages: 0/4
+[2022-08-09 23:29:40] Packages changed: 
+[2022-08-09 23:29:40] Apps changed: 
+[2022-08-09 23:29:40] Change number 15680540->15680673, apps: 0/93, packages: 0/25
+[2022-08-09 23:44:24] Packages changed: 
+[2022-08-09 23:44:24] Apps changed: 1493710=15680760,
+[2022-08-09 23:44:24] Change number 15680673->15680808, apps: 1/109, packages: 0/10
+[2022-08-09 23:44:24] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-09 23:44:25] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-09 23:44:25] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-09 23:44:40] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877349 bytes)
+
+
+[2022-08-12 20:56:55] Packages changed: force all
+[2022-08-12 20:56:55] Apps changed: force all
+[2022-08-12 20:56:55] Change number 15680808->15714042, apps: 0/0, packages: 0/0
+[2022-08-12 20:56:55] Requesting 220 apps, 9 packages (meta data, 0 prev attempts)
+[2022-08-12 20:56:56] Requested 41 app access tokens, 38 received, 3 denied
+[2022-08-12 20:56:56] Updated SHAs with 38 new access tokens
+[2022-08-12 20:56:56] Downloaded 10 apps via HTTP, 468 KB (76 KB compressed)
+[2022-08-12 20:56:56] UpdatesJob: finished OK, apps updated 10 (468 KB), packages updated 0 (0 KB)
+[2022-08-12 20:57:11] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877338 bytes)
+[2022-08-12 21:11:13] Packages changed: 
+[2022-08-12 21:11:13] Apps changed: 
+[2022-08-12 21:11:13] Change number 15714042->15714158, apps: 0/86, packages: 0/9
+[2022-08-12 21:26:27] Packages changed: 
+[2022-08-12 21:26:27] Apps changed: 
+[2022-08-12 21:26:27] Change number 15714158->15714427, apps: 0/238, packages: 0/17
+[2022-08-12 21:40:32] Packages changed: 
+[2022-08-12 21:40:32] Apps changed: 
+[2022-08-12 21:40:32] Change number 15714427->15714517, apps: 0/74, packages: 0/2
+[2022-08-12 21:55:19] Packages changed: 
+[2022-08-12 21:55:19] Apps changed: 
+[2022-08-12 21:55:19] Change number 15714517->15714632, apps: 0/84, packages: 0/6
+[2022-08-12 22:09:57] Packages changed: 
+[2022-08-12 22:09:57] Apps changed: 
+[2022-08-12 22:09:57] Change number 15714632->15714744, apps: 0/81, packages: 0/18
+[2022-08-12 22:25:29] Packages changed: 
+[2022-08-12 22:25:29] Apps changed: 
+[2022-08-12 22:25:29] Change number 15714744->15714911, apps: 0/141, packages: 0/14
+[2022-08-12 22:41:31] Packages changed: 
+[2022-08-12 22:41:31] Apps changed: 
+[2022-08-12 22:41:31] Change number 15714911->15715015, apps: 0/75, packages: 0/12
+[2022-08-12 22:56:29] Packages changed: 
+[2022-08-12 22:56:29] Apps changed: 
+[2022-08-12 22:56:29] Change number 15715015->15715132, apps: 0/87, packages: 0/10
+[2022-08-12 23:12:07] Packages changed: 
+[2022-08-12 23:12:07] Apps changed: 
+[2022-08-12 23:12:07] Change number 15715132->15715269, apps: 0/104, packages: 0/12
+[2022-08-12 23:27:40] Packages changed: 
+[2022-08-12 23:27:40] Apps changed: 
+[2022-08-12 23:27:40] Change number 15715269->15715416, apps: 0/127, packages: 0/7
+[2022-08-12 23:42:22] Packages changed: 
+[2022-08-12 23:42:22] Apps changed: 
+[2022-08-12 23:42:22] Change number 15715416->15715510, apps: 0/67, packages: 0/18
+[2022-08-12 23:58:13] Packages changed: 
+[2022-08-12 23:58:13] Apps changed: 
+[2022-08-12 23:58:13] Change number 15715510->15715616, apps: 0/73, packages: 0/17
+[2022-08-13 00:12:50] Packages changed: 
+[2022-08-13 00:12:50] Apps changed: 
+[2022-08-13 00:12:50] Change number 15715616->15715710, apps: 0/61, packages: 0/15
+[2022-08-13 00:27:14] Packages changed: 
+[2022-08-13 00:27:14] Apps changed: 
+[2022-08-13 00:27:14] Change number 15715710->15715843, apps: 0/115, packages: 0/6
+[2022-08-13 00:42:10] Packages changed: 
+[2022-08-13 00:42:10] Apps changed: 
+[2022-08-13 00:42:10] Change number 15715843->15715913, apps: 0/55, packages: 0/7
+[2022-08-13 00:56:03] Packages changed: 
+[2022-08-13 00:56:03] Apps changed: 443030=15715969,294420=15715948,
+[2022-08-13 00:56:03] Change number 15715913->15715985, apps: 2/61, packages: 0/12
+[2022-08-13 00:56:03] Requesting 2 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-13 00:56:03] Downloaded 2 apps via HTTP, 19 KB (5 KB compressed)
+[2022-08-13 00:56:03] UpdatesJob: finished OK, apps updated 2 (19 KB), packages updated 0 (0 KB)
+[2022-08-13 00:56:18] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877338 bytes)
+[2022-08-13 01:10:03] Packages changed: 
+[2022-08-13 01:10:03] Apps changed: 
+[2022-08-13 01:10:03] Change number 15715985->15716043, apps: 0/43, packages: 0/9
+[2022-08-13 01:24:27] Packages changed: 
+[2022-08-13 01:24:27] Apps changed: 
+[2022-08-13 01:24:27] Change number 15716043->15716214, apps: 0/165, packages: 0/4
+[2022-08-13 01:40:02] Packages changed: 
+[2022-08-13 01:40:02] Apps changed: 
+[2022-08-13 01:40:02] Change number 15716214->15716283, apps: 0/51, packages: 0/10
+[2022-08-13 01:56:06] Packages changed: 
+[2022-08-13 01:56:06] Apps changed: 766=15716361,1493710=15716311,
+[2022-08-13 01:56:06] Change number 15716283->15716380, apps: 2/69, packages: 0/2
+[2022-08-13 01:56:06] Requesting 2 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-13 01:56:06] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-13 01:56:06] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-13 01:56:21] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877338 bytes)
+
+
+[2022-08-13 12:25:14] Packages changed: force all
+[2022-08-13 12:25:14] Apps changed: force all
+[2022-08-13 12:25:14] Change number 15716380->15719129, apps: 0/0, packages: 0/0
+[2022-08-13 12:25:14] Requesting 220 apps, 9 packages (meta data, 0 prev attempts)
+[2022-08-13 12:25:15] Requested 41 app access tokens, 38 received, 3 denied
+[2022-08-13 12:25:15] Updated SHAs with 38 new access tokens
+[2022-08-13 12:25:15] Downloaded 3 apps via HTTP, 388 KB (56 KB compressed)
+[2022-08-13 12:25:15] UpdatesJob: finished OK, apps updated 3 (388 KB), packages updated 0 (0 KB)
+[2022-08-13 12:25:30] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (877656 bytes)
+[2022-08-13 12:40:14] Packages changed: 
+[2022-08-13 12:40:14] Apps changed: 
+[2022-08-13 12:40:14] Change number 15719129->15719178, apps: 0/35, packages: 0/10
+[2022-08-13 12:54:01] Packages changed: 
+[2022-08-13 12:54:01] Apps changed: 
+[2022-08-13 12:54:01] Change number 15719178->15719218, apps: 0/33, packages: 0/2
+[2022-08-13 13:09:22] Packages changed: 
+[2022-08-13 13:09:22] Apps changed: 
+[2022-08-13 13:09:22] Change number 15719218->15719262, apps: 0/30, packages: 0/8
+[2022-08-13 13:24:41] Packages changed: 
+[2022-08-13 13:24:41] Apps changed: 
+[2022-08-13 13:24:41] Change number 15719262->15719414, apps: 0/137, packages: 0/9
+[2022-08-13 13:39:53] Packages changed: 
+[2022-08-13 13:39:53] Apps changed: 
+[2022-08-13 13:39:53] Change number 15719414->15719464, apps: 0/31, packages: 0/2
+[2022-08-13 13:53:51] Packages changed: 
+[2022-08-13 13:53:51] Apps changed: 
+[2022-08-13 13:53:51] Change number 15719464->15719525, apps: 0/41, packages: 0/5
+[2022-08-13 14:20:29] Packages changed: 
+[2022-08-13 14:20:29] Apps changed: 
+[2022-08-13 14:20:29] Change number 15719525->15719656, apps: 0/105, packages: 0/12
+[2022-08-13 14:34:20] Packages changed: 
+[2022-08-13 14:34:20] Apps changed: 
+[2022-08-13 14:34:20] Change number 15719656->15719693, apps: 0/31, packages: 0/4
+[2022-08-13 14:49:01] Packages changed: 
+[2022-08-13 14:49:01] Apps changed: 
+[2022-08-13 14:49:01] Change number 15719693->15719731, apps: 0/26, packages: 0/6
+[2022-08-13 15:04:27] Packages changed: 
+[2022-08-13 15:04:27] Apps changed: 
+[2022-08-13 15:04:27] Change number 15719731->15719776, apps: 0/37, packages: 0/6
+[2022-08-13 15:18:50] Packages changed: 
+[2022-08-13 15:18:50] Apps changed: 
+[2022-08-13 15:18:50] Change number 15719776->15719857, apps: 0/77, packages: 0/1
+[2022-08-13 15:35:19] Packages changed: 
+[2022-08-13 15:35:19] Apps changed: 
+[2022-08-13 15:35:19] Change number 15719857->15719930, apps: 0/48, packages: 0/7
+[2022-08-13 15:41:48] Requesting 0 apps, 8 packages (meta data, 0 prev attempts)
+[2022-08-13 15:41:48] Requesting 0 apps, 8 packages (full data, 0 prev attempts)
+[2022-08-13 15:41:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 8 (1 KB)
+[2022-08-13 15:41:48] Requesting 12 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-13 15:41:49] Requested 1 app access tokens, 1 received, 0 denied
+[2022-08-13 15:41:49] Updated SHAs with 1 new access tokens
+[2022-08-13 15:41:49] Failed to download /appinfo/20/sha/439a7a53c2f7975d0bfa0d3ceccda0f64c9cee9a.txt.gz (HTTP error 404)
+[2022-08-13 15:41:49] Failed to download /appinfo/50/sha/167a17cbca18f346d96a3fc1d69163b13a04aa73.txt.gz (HTTP error 404)
+[2022-08-13 15:41:49] Failed to download /appinfo/130/sha/f29059bd6ea79adc1da21e4ed111a33a4ec302b2.txt.gz (HTTP error 404)
+[2022-08-13 15:41:49] Failed to download /appinfo/320/sha/73f46f09c6a4c6c3da4bdc38c67ef741581a5af8.txt.gz (HTTP error 404)
+[2022-08-13 15:41:49] Downloaded 6 apps via HTTP, 47 KB (13 KB compressed)
+[2022-08-13 15:41:49] Requesting 6 apps, 0 packages (full data, 0 prev attempts)
+[2022-08-13 15:41:50] UpdatesJob: finished OK, apps updated 12 (80 KB), packages updated 0 (0 KB)
+[2022-08-13 15:42:05] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (934502 bytes)
+[2022-08-13 15:43:55] RequestAppInfoUpdate: AppIDs 70
+[2022-08-13 15:43:55] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-13 15:43:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-13 15:49:55] Apps changed: 
+[2022-08-13 15:49:55] Change number 15719930->15719963, apps: 0/26, packages: 0/0
+[2022-08-13 15:52:59] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-13 15:52:59] Downloaded 1 apps via HTTP, 1 KB (0 KB compressed)
+[2022-08-13 15:52:59] UpdatesJob: finished OK, apps updated 1 (1 KB), packages updated 0 (0 KB)
+[2022-08-13 15:53:14] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935348 bytes)
+[2022-08-13 16:05:12] Packages changed: 
+[2022-08-13 16:05:12] Apps changed: 
+[2022-08-13 16:05:12] Change number 15719963->15720017, apps: 0/41, packages: 0/4
+[2022-08-13 16:19:24] Packages changed: 
+[2022-08-13 16:19:24] Apps changed: 
+[2022-08-13 16:19:24] Change number 15720017->15720106, apps: 0/82, packages: 0/8
+[2022-08-13 16:35:41] Packages changed: 
+[2022-08-13 16:35:41] Apps changed: 1493710=15720168,
+[2022-08-13 16:35:41] Change number 15720106->15720169, apps: 1/45, packages: 0/4
+[2022-08-13 16:35:41] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-13 16:35:41] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-13 16:35:41] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-13 16:35:56] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935348 bytes)
+[2022-08-13 16:51:02] Packages changed: 
+[2022-08-13 16:51:02] Apps changed: 
+[2022-08-13 16:51:02] Change number 15720169->15720208, apps: 0/26, packages: 0/6
+[2022-08-13 17:07:19] Packages changed: 
+[2022-08-13 17:07:19] Apps changed: 
+[2022-08-13 17:07:19] Change number 15720208->15720279, apps: 0/41, packages: 0/13
+[2022-08-13 17:21:02] Packages changed: 
+[2022-08-13 17:21:02] Apps changed: 294420=15720316,
+[2022-08-13 17:21:02] Change number 15720279->15720370, apps: 1/80, packages: 0/6
+[2022-08-13 17:21:02] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-13 17:21:03] Downloaded 1 apps via HTTP, 7 KB (2 KB compressed)
+[2022-08-13 17:21:03] UpdatesJob: finished OK, apps updated 1 (7 KB), packages updated 0 (0 KB)
+[2022-08-13 17:21:18] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935348 bytes)
+[2022-08-13 17:36:47] Packages changed: 
+[2022-08-13 17:36:47] Apps changed: 
+[2022-08-13 17:36:47] Change number 15720370->15720488, apps: 0/110, packages: 0/1
+[2022-08-13 18:08:25] Packages changed: 
+[2022-08-13 18:08:25] Apps changed: 
+[2022-08-13 18:08:25] Change number 15720488->15720582, apps: 0/69, packages: 0/6
+[2022-08-13 18:23:44] Packages changed: 
+[2022-08-13 18:23:44] Apps changed: 
+[2022-08-13 18:23:44] Change number 15720582->15720690, apps: 0/99, packages: 0/6
+[2022-08-13 18:37:18] Packages changed: 
+[2022-08-13 18:37:18] Apps changed: 
+[2022-08-13 18:37:18] Change number 15720690->15720728, apps: 0/32, packages: 0/2
+[2022-08-13 18:51:30] Packages changed: 
+[2022-08-13 18:51:30] Apps changed: 
+[2022-08-13 18:51:30] Change number 15720728->15720777, apps: 0/37, packages: 0/2
+[2022-08-13 19:05:28] Packages changed: 
+[2022-08-13 19:05:28] Apps changed: 
+[2022-08-13 19:05:28] Change number 15720777->15720824, apps: 0/31, packages: 0/63
+[2022-08-13 19:20:41] Packages changed: 
+[2022-08-13 19:20:41] Apps changed: 
+[2022-08-13 19:20:41] Change number 15720824->15720921, apps: 0/87, packages: 0/1
+[2022-08-13 19:35:52] Packages changed: 
+[2022-08-13 19:35:52] Apps changed: 
+[2022-08-13 19:35:52] Change number 15720921->15720958, apps: 0/27, packages: 0/2
+[2022-08-13 19:51:10] Packages changed: 
+[2022-08-13 19:51:10] Apps changed: 
+[2022-08-13 19:51:10] Change number 15720958->15720996, apps: 0/33, packages: 0/6
+[2022-08-13 20:05:10] Packages changed: 
+[2022-08-13 20:05:10] Apps changed: 
+[2022-08-13 20:05:10] Change number 15720996->15721020, apps: 0/21, packages: 0/3
+[2022-08-13 20:18:40] Packages changed: 
+[2022-08-13 20:18:40] Apps changed: 28050=15721052,
+[2022-08-13 20:18:40] Change number 15721020->15721126, apps: 1/94, packages: 0/2
+[2022-08-13 20:18:40] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-13 20:18:41] Downloaded 1 apps via HTTP, 5 KB (1 KB compressed)
+[2022-08-13 20:18:41] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2022-08-13 20:18:56] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935361 bytes)
+[2022-08-13 20:34:05] Apps changed: 
+[2022-08-13 20:34:05] Change number 15721126->15721166, apps: 0/35, packages: 0/0
+[2022-08-13 20:49:34] Packages changed: 
+[2022-08-13 20:49:34] Apps changed: 
+[2022-08-13 20:49:34] Change number 15721166->15721207, apps: 0/32, packages: 0/1
+[2022-08-13 21:05:46] Packages changed: 
+[2022-08-13 21:05:46] Apps changed: 
+[2022-08-13 21:05:46] Change number 15721207->15721262, apps: 0/41, packages: 0/3
+[2022-08-13 21:22:07] Packages changed: 
+[2022-08-13 21:22:07] Apps changed: 
+[2022-08-13 21:22:07] Change number 15721262->15721358, apps: 0/82, packages: 0/1
+[2022-08-13 21:35:56] Packages changed: 
+[2022-08-13 21:35:56] Apps changed: 
+[2022-08-13 21:35:56] Change number 15721358->15721478, apps: 0/105, packages: 0/8
+[2022-08-13 21:51:08] Packages changed: 
+[2022-08-13 21:51:08] Apps changed: 
+[2022-08-13 21:51:08] Change number 15721478->15721514, apps: 0/26, packages: 0/5
+[2022-08-13 22:07:13] Packages changed: 
+[2022-08-13 22:07:13] Apps changed: 
+[2022-08-13 22:07:13] Change number 15721514->15721560, apps: 0/30, packages: 0/5
+[2022-08-13 22:23:02] Packages changed: 
+[2022-08-13 22:23:02] Apps changed: 
+[2022-08-13 22:23:02] Change number 15721560->15721656, apps: 0/90, packages: 0/2
+[2022-08-13 22:37:42] Packages changed: 
+[2022-08-13 22:37:42] Apps changed: 
+[2022-08-13 22:37:42] Change number 15721656->15721699, apps: 0/34, packages: 0/4
+[2022-08-13 22:51:51] Packages changed: 
+[2022-08-13 22:51:51] Apps changed: 
+[2022-08-13 22:51:51] Change number 15721699->15721725, apps: 0/20, packages: 0/1
+[2022-08-13 23:08:02] Packages changed: 
+[2022-08-13 23:08:02] Apps changed: 
+[2022-08-13 23:08:02] Change number 15721725->15721772, apps: 0/33, packages: 0/2
+[2022-08-13 23:23:35] Apps changed: 
+[2022-08-13 23:23:35] Change number 15721772->15721857, apps: 0/70, packages: 0/0
+
+
+[2022-08-24 20:42:17] Packages changed: force all
+[2022-08-24 20:42:17] Apps changed: force all
+[2022-08-24 20:42:17] Change number 15721857->15830000, apps: 0/0, packages: 0/0
+[2022-08-24 20:42:18] Requesting 233 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-24 20:42:18] Requested 42 app access tokens, 39 received, 3 denied
+[2022-08-24 20:42:18] Updated SHAs with 39 new access tokens
+[2022-08-24 20:42:19] Downloaded 19 apps via HTTP, 514 KB (94 KB compressed)
+[2022-08-24 20:42:19] Requesting 2 apps, 0 packages (full data, 0 prev attempts)
+[2022-08-24 20:42:19] UpdatesJob: finished OK, apps updated 21 (515 KB), packages updated 0 (0 KB)
+[2022-08-24 20:42:34] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935400 bytes)
+[2022-08-24 20:57:05] Packages changed: 
+[2022-08-24 20:57:05] Apps changed: 
+[2022-08-24 20:57:05] Change number 15830000->15830146, apps: 0/98, packages: 0/20
+[2022-08-24 21:11:30] Packages changed: 
+[2022-08-24 21:11:30] Apps changed: 
+[2022-08-24 21:11:30] Change number 15830146->15830277, apps: 0/98, packages: 0/8
+[2022-08-24 21:26:31] Packages changed: 
+[2022-08-24 21:26:31] Apps changed: 
+[2022-08-24 21:26:31] Change number 15830277->15830429, apps: 0/126, packages: 0/14
+
+
+[2022-08-25 17:28:00] Packages changed: force all
+[2022-08-25 17:28:00] Apps changed: force all
+[2022-08-25 17:28:00] Change number 15830429->15840584, apps: 0/0, packages: 0/0
+[2022-08-25 17:28:00] Requesting 233 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-25 17:28:00] Requested 42 app access tokens, 39 received, 3 denied
+[2022-08-25 17:28:01] Updated SHAs with 39 new access tokens
+[2022-08-25 17:28:01] Downloaded 12 apps via HTTP, 424 KB (68 KB compressed)
+[2022-08-25 17:28:01] UpdatesJob: finished OK, apps updated 12 (424 KB), packages updated 0 (0 KB)
+[2022-08-25 17:28:16] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935399 bytes)
+[2022-08-25 17:41:55] Packages changed: 
+[2022-08-25 17:41:55] Apps changed: 
+[2022-08-25 17:41:55] Change number 15840584->15840743, apps: 0/122, packages: 0/2
+[2022-08-25 17:58:01] Packages changed: 
+[2022-08-25 17:58:01] Apps changed: 1493710=15840766,1042420=15840757,
+[2022-08-25 17:58:01] Change number 15840743->15840925, apps: 2/132, packages: 0/7
+[2022-08-25 17:58:01] Requesting 2 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-25 17:58:01] Downloaded 2 apps via HTTP, 9 KB (3 KB compressed)
+[2022-08-25 17:58:01] UpdatesJob: finished OK, apps updated 2 (9 KB), packages updated 0 (0 KB)
+[2022-08-25 17:58:16] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935400 bytes)
+[2022-08-25 18:12:25] Packages changed: 
+[2022-08-25 18:12:25] Apps changed: 
+[2022-08-25 18:12:25] Change number 15840925->15841060, apps: 0/114, packages: 0/63
+[2022-08-25 18:26:50] Packages changed: 
+[2022-08-25 18:26:50] Apps changed: 
+[2022-08-25 18:26:50] Change number 15841060->15841257, apps: 0/153, packages: 0/19
+[2022-08-25 18:40:35] Packages changed: 
+[2022-08-25 18:40:35] Apps changed: 
+[2022-08-25 18:40:35] Change number 15841257->15842034, apps: 0/319, packages: 0/10
+[2022-08-25 18:54:37] Packages changed: 
+[2022-08-25 18:54:37] Apps changed: 
+[2022-08-25 18:54:37] Change number 15842034->15842146, apps: 0/93, packages: 0/14
+[2022-08-25 19:10:12] Packages changed: force all
+[2022-08-25 19:10:12] Apps changed: 1493710=15842167,
+[2022-08-25 19:10:12] Change number 15842146->15842311, apps: 1/98, packages: 0/0
+[2022-08-25 19:10:12] Requesting 1 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-25 19:10:13] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-25 19:10:13] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-25 19:10:28] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935400 bytes)
+[2022-08-25 19:25:15] Packages changed: 
+[2022-08-25 19:25:15] Apps changed: 
+[2022-08-25 19:25:15] Change number 15842311->15842455, apps: 0/126, packages: 0/4
+[2022-08-25 19:38:51] Packages changed: 
+[2022-08-25 19:38:51] Apps changed: 1874900=15842672,
+[2022-08-25 19:38:51] Change number 15842455->15842721, apps: 1/191, packages: 0/56
+[2022-08-25 19:38:51] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-25 19:38:51] Downloaded 1 apps via HTTP, 5 KB (1 KB compressed)
+[2022-08-25 19:38:51] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2022-08-25 19:39:06] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935400 bytes)
+[2022-08-25 19:52:49] Packages changed: 
+[2022-08-25 19:52:49] Apps changed: 
+[2022-08-25 19:52:49] Change number 15842721->15842824, apps: 0/76, packages: 0/12
+[2022-08-25 20:07:51] Packages changed: 
+[2022-08-25 20:07:51] Apps changed: 
+[2022-08-25 20:07:51] Change number 15842824->15842915, apps: 0/80, packages: 0/8
+[2022-08-25 20:22:53] Packages changed: 
+[2022-08-25 20:22:53] Apps changed: 
+[2022-08-25 20:22:53] Change number 15842915->15843094, apps: 0/156, packages: 0/11
+[2022-08-26 01:02:43] Packages changed: force all
+[2022-08-26 01:02:43] Apps changed: force all
+[2022-08-26 01:02:43] Change number 15843094->15845301, apps: 0/0, packages: 0/0
+[2022-08-26 01:02:43] Requesting 233 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-26 01:02:44] Requested 42 app access tokens, 39 received, 3 denied
+[2022-08-26 01:02:44] Updated SHAs with 39 new access tokens
+[2022-08-26 01:02:45] Downloaded 3 apps via HTTP, 23 KB (7 KB compressed)
+[2022-08-26 01:02:45] UpdatesJob: finished OK, apps updated 3 (23 KB), packages updated 0 (0 KB)
+[2022-08-26 01:03:00] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935400 bytes)
+[2022-08-26 09:10:06] Packages changed: force all
+[2022-08-26 09:10:06] Apps changed: force all
+[2022-08-26 09:10:06] Change number 15845301->15849291, apps: 0/0, packages: 0/0
+[2022-08-26 09:10:06] Requesting 233 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-26 09:10:07] Requested 42 app access tokens, 39 received, 3 denied
+[2022-08-26 09:10:07] Updated SHAs with 39 new access tokens
+[2022-08-26 09:10:08] Downloaded 8 apps via HTTP, 407 KB (63 KB compressed)
+[2022-08-26 09:10:08] UpdatesJob: finished OK, apps updated 8 (407 KB), packages updated 0 (0 KB)
+[2022-08-26 09:10:23] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935424 bytes)
+[2022-08-26 09:25:21] Packages changed: 
+[2022-08-26 09:25:21] Apps changed: 
+[2022-08-26 09:25:21] Change number 15849291->15849480, apps: 0/113, packages: 0/6
+[2022-08-26 09:40:54] Packages changed: 
+[2022-08-26 09:40:54] Apps changed: 
+[2022-08-26 09:40:54] Change number 15849480->15849632, apps: 0/87, packages: 0/8
+[2022-08-26 09:56:35] Packages changed: 
+[2022-08-26 09:56:35] Apps changed: 1042420=15849722,
+[2022-08-26 09:56:35] Change number 15849632->15849842, apps: 1/119, packages: 0/7
+[2022-08-26 09:56:35] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-26 09:56:35] Downloaded 1 apps via HTTP, 7 KB (2 KB compressed)
+[2022-08-26 09:56:35] UpdatesJob: finished OK, apps updated 1 (7 KB), packages updated 0 (0 KB)
+[2022-08-26 09:56:50] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935424 bytes)
+[2022-08-26 10:12:10] Packages changed: 
+[2022-08-26 10:12:10] Apps changed: 
+[2022-08-26 10:12:10] Change number 15849842->15849954, apps: 0/74, packages: 0/67
+[2022-08-26 10:27:21] Packages changed: 
+[2022-08-26 10:27:21] Apps changed: 
+[2022-08-26 10:27:21] Change number 15849954->15850103, apps: 0/120, packages: 0/8
+[2022-08-26 10:43:42] Packages changed: 
+[2022-08-26 10:43:42] Apps changed: 
+[2022-08-26 10:43:42] Change number 15850103->15850196, apps: 0/75, packages: 0/5
+[2022-08-26 10:59:07] Packages changed: 
+[2022-08-26 10:59:07] Apps changed: 
+[2022-08-26 10:59:07] Change number 15850196->15850344, apps: 0/111, packages: 0/31
+[2022-08-26 11:13:04] Packages changed: 
+[2022-08-26 11:13:04] Apps changed: 
+[2022-08-26 11:13:04] Change number 15850344->15850495, apps: 0/136, packages: 0/24
+[2022-08-26 11:27:18] Packages changed: 
+[2022-08-26 11:27:18] Apps changed: 
+[2022-08-26 11:27:18] Change number 15850495->15850654, apps: 0/130, packages: 0/15
+[2022-08-26 11:41:30] Packages changed: 
+[2022-08-26 11:41:30] Apps changed: 
+[2022-08-26 11:41:30] Change number 15850654->15850838, apps: 0/146, packages: 0/17
+[2022-08-26 11:55:28] Apps changed: 
+[2022-08-26 11:55:28] Change number 15850838->15850940, apps: 0/78, packages: 0/0
+[2022-08-26 12:11:13] Packages changed: 
+[2022-08-26 12:11:13] Apps changed: 
+[2022-08-26 12:11:13] Change number 15850940->15851097, apps: 0/113, packages: 0/18
+[2022-08-26 12:26:34] Packages changed: 
+[2022-08-26 12:26:34] Apps changed: 
+[2022-08-26 12:26:34] Change number 15851097->15851264, apps: 0/128, packages: 0/7
+[2022-08-26 12:42:39] Packages changed: 
+[2022-08-26 12:42:39] Apps changed: 
+[2022-08-26 12:42:39] Change number 15851264->15851386, apps: 0/89, packages: 0/19
+[2022-08-26 12:57:59] Packages changed: 
+[2022-08-26 12:57:59] Apps changed: 
+[2022-08-26 12:57:59] Change number 15851386->15851494, apps: 0/81, packages: 0/10
+[2022-08-26 13:12:58] Packages changed: 
+[2022-08-26 13:12:58] Apps changed: 
+[2022-08-26 13:12:58] Change number 15851494->15851645, apps: 0/132, packages: 0/10
+[2022-08-26 13:27:04] Packages changed: 
+[2022-08-26 13:27:04] Apps changed: 
+[2022-08-26 13:27:04] Change number 15851645->15851772, apps: 0/110, packages: 0/6
+[2022-08-26 13:42:18] Packages changed: 
+[2022-08-26 13:42:18] Apps changed: 
+[2022-08-26 13:42:18] Change number 15851772->15851916, apps: 0/118, packages: 0/12
+[2022-08-26 13:56:35] Packages changed: 
+[2022-08-26 13:56:35] Apps changed: 
+[2022-08-26 13:56:35] Change number 15851916->15852011, apps: 0/72, packages: 0/4
+[2022-08-26 14:12:19] Packages changed: 
+[2022-08-26 14:12:19] Apps changed: 233780=15852101,
+[2022-08-26 14:12:19] Change number 15852011->15852122, apps: 1/92, packages: 0/10
+[2022-08-26 14:12:19] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-26 14:12:20] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2022-08-26 14:12:20] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2022-08-26 14:12:35] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935424 bytes)
+[2022-08-26 14:26:33] Packages changed: 
+[2022-08-26 14:26:33] Apps changed: 
+[2022-08-26 14:26:33] Change number 15852122->15852309, apps: 0/159, packages: 0/13
+[2022-08-26 14:40:55] Packages changed: 
+[2022-08-26 14:40:55] Apps changed: 
+[2022-08-26 14:40:55] Change number 15852309->15852430, apps: 0/101, packages: 0/12
+[2022-08-26 14:56:21] Packages changed: 
+[2022-08-26 14:56:21] Apps changed: 
+[2022-08-26 14:56:21] Change number 15852430->15852577, apps: 0/118, packages: 0/9
+[2022-08-26 15:12:22] Packages changed: 
+[2022-08-26 15:12:22] Apps changed: 
+[2022-08-26 15:12:22] Change number 15852577->15852653, apps: 0/71, packages: 0/2
+[2022-08-26 15:28:32] Packages changed: 
+[2022-08-26 15:28:32] Apps changed: 
+[2022-08-26 15:28:32] Change number 15852653->15852950, apps: 0/261, packages: 0/8
+[2022-08-26 17:38:20] Packages changed: force all
+[2022-08-26 17:38:20] Apps changed: 1493710=15853853,
+[2022-08-26 17:38:20] Change number 15852950->15854191, apps: 1/738, packages: 0/0
+[2022-08-26 17:38:21] Requesting 1 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-26 17:38:21] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-26 17:38:21] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-26 17:38:36] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935424 bytes)
+[2022-08-26 17:54:06] Packages changed: 
+[2022-08-26 17:54:06] Apps changed: 1874900=15854306,1042420=15854212,
+[2022-08-26 17:54:06] Change number 15854191->15854330, apps: 2/101, packages: 0/14
+[2022-08-26 17:54:06] Requesting 2 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-26 17:54:07] Downloaded 2 apps via HTTP, 12 KB (4 KB compressed)
+[2022-08-26 17:54:07] UpdatesJob: finished OK, apps updated 2 (12 KB), packages updated 0 (0 KB)
+[2022-08-26 17:54:22] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935424 bytes)
+[2022-08-26 18:10:17] Packages changed: 
+[2022-08-26 18:10:17] Apps changed: 
+[2022-08-26 18:10:17] Change number 15854330->15854498, apps: 0/118, packages: 0/19
+[2022-08-26 18:24:41] Packages changed: 
+[2022-08-26 18:24:41] Apps changed: 
+[2022-08-26 18:24:41] Change number 15854498->15854678, apps: 0/160, packages: 0/10
+[2022-08-26 18:39:16] Packages changed: 
+[2022-08-26 18:39:16] Apps changed: 1493710=15854782,
+[2022-08-26 18:39:16] Change number 15854678->15854798, apps: 1/102, packages: 0/3
+[2022-08-26 18:39:16] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-26 18:39:16] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-26 18:39:16] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-26 18:39:32] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935424 bytes)
+[2022-08-26 18:54:21] Packages changed: 
+[2022-08-26 18:54:21] Apps changed: 
+[2022-08-26 18:54:21] Change number 15854798->15854910, apps: 0/85, packages: 0/10
+[2022-08-26 19:09:15] Packages changed: force all
+[2022-08-26 19:09:15] Apps changed: 
+[2022-08-26 19:09:15] Change number 15854910->15855096, apps: 0/86, packages: 0/0
+[2022-08-26 19:09:15] Requesting 0 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-26 19:09:15] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-26 19:22:48] Packages changed: 
+[2022-08-26 19:22:48] Apps changed: 
+[2022-08-26 19:22:48] Change number 15855096->15855247, apps: 0/135, packages: 0/5
+[2022-08-26 19:37:27] Packages changed: 
+[2022-08-26 19:37:27] Apps changed: 
+[2022-08-26 19:37:27] Change number 15855247->15855464, apps: 0/171, packages: 0/9
+[2022-08-26 20:46:31] Packages changed: force all
+[2022-08-26 20:46:31] Apps changed: 1493710=15855925,
+[2022-08-26 20:46:31] Change number 15855464->15856015, apps: 1/368, packages: 0/0
+[2022-08-26 20:46:31] Requesting 1 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-26 20:46:32] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-26 20:46:32] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-26 20:46:47] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935424 bytes)
+[2022-08-26 21:02:49] Packages changed: 
+[2022-08-26 21:02:49] Apps changed: 
+[2022-08-26 21:02:49] Change number 15856015->15856138, apps: 0/99, packages: 0/11
+[2022-08-27 16:43:13] Packages changed: force all
+[2022-08-27 16:43:13] Apps changed: force all
+[2022-08-27 16:43:13] Change number 15856138->15862576, apps: 0/0, packages: 0/0
+[2022-08-27 16:43:14] Requesting 233 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-27 16:43:14] Requested 42 app access tokens, 39 received, 3 denied
+[2022-08-27 16:43:14] Updated SHAs with 39 new access tokens
+[2022-08-27 16:43:16] Downloaded 6 apps via HTTP, 442 KB (72 KB compressed)
+[2022-08-27 16:43:16] UpdatesJob: finished OK, apps updated 6 (442 KB), packages updated 0 (0 KB)
+[2022-08-27 16:43:31] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935424 bytes)
+[2022-08-27 16:57:56] Packages changed: 
+[2022-08-27 16:57:56] Apps changed: 
+[2022-08-27 16:57:56] Change number 15862576->15862623, apps: 0/38, packages: 0/5
+[2022-08-27 17:13:26] Packages changed: 
+[2022-08-27 17:13:26] Apps changed: 
+[2022-08-27 17:13:26] Change number 15862623->15862735, apps: 0/90, packages: 0/17
+[2022-08-27 17:20:36] Packages changed: 
+[2022-08-27 17:20:36] Apps changed: 
+[2022-08-27 17:20:36] Change number 15862735->15862744, apps: 0/7, packages: 0/3
+[2022-08-27 17:34:44] Apps changed: 
+[2022-08-27 17:34:44] Change number 15862744->15862789, apps: 0/33, packages: 0/0
+[2022-08-27 17:50:35] Packages changed: 
+[2022-08-27 17:50:35] Apps changed: 
+[2022-08-27 17:50:35] Change number 15862789->15862844, apps: 0/39, packages: 0/7
+[2022-08-27 17:51:43] Apps changed: 
+[2022-08-27 17:51:43] Change number 15862844->15862846, apps: 0/1, packages: 0/0
+[2022-08-27 18:08:08] Packages changed: 
+[2022-08-27 18:08:08] Apps changed: 
+[2022-08-27 18:08:08] Change number 15862846->15862918, apps: 0/42, packages: 0/23
+[2022-08-27 18:22:53] Packages changed: 
+[2022-08-27 18:22:53] Apps changed: 
+[2022-08-27 18:22:53] Change number 15862918->15863032, apps: 0/96, packages: 0/1
+[2022-08-27 18:38:23] Packages changed: 
+[2022-08-27 18:38:23] Apps changed: 
+[2022-08-27 18:38:23] Change number 15863032->15863091, apps: 0/44, packages: 0/3
+[2022-08-27 18:51:59] Packages changed: 
+[2022-08-27 18:51:59] Apps changed: 
+[2022-08-27 18:51:59] Change number 15863091->15863143, apps: 0/37, packages: 0/5
+[2022-08-27 19:07:50] Packages changed: force all
+[2022-08-27 19:07:50] Apps changed: 
+[2022-08-27 19:07:50] Change number 15863143->15863213, apps: 0/47, packages: 0/0
+[2022-08-27 19:07:50] Requesting 0 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-27 19:07:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-27 19:21:22] Packages changed: 
+[2022-08-27 19:21:22] Apps changed: 
+[2022-08-27 19:21:22] Change number 15863213->15863301, apps: 0/79, packages: 0/4
+[2022-08-28 11:40:35] Packages changed: force all
+[2022-08-28 11:40:35] Apps changed: force all
+[2022-08-28 11:40:35] Change number 15863301->15866874, apps: 0/0, packages: 0/0
+[2022-08-28 11:40:35] Requesting 233 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-28 11:40:35] Requested 42 app access tokens, 39 received, 3 denied
+[2022-08-28 11:40:35] Updated SHAs with 39 new access tokens
+[2022-08-28 11:40:37] Downloaded 3 apps via HTTP, 19 KB (6 KB compressed)
+[2022-08-28 11:40:37] UpdatesJob: finished OK, apps updated 3 (19 KB), packages updated 0 (0 KB)
+[2022-08-28 11:40:52] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935424 bytes)
+[2022-08-28 11:55:11] Packages changed: 
+[2022-08-28 11:55:11] Apps changed: 
+[2022-08-28 11:55:11] Change number 15866874->15866918, apps: 0/33, packages: 0/9
+[2022-08-28 12:09:41] Apps changed: 
+[2022-08-28 12:09:41] Change number 15866918->15866949, apps: 0/26, packages: 0/0
+[2022-08-28 12:38:06] Packages changed: 
+[2022-08-28 12:38:06] Apps changed: 
+[2022-08-28 12:38:06] Change number 15866949->15867070, apps: 0/94, packages: 0/11
+[2022-08-28 12:51:44] Packages changed: 
+[2022-08-28 12:51:44] Apps changed: 
+[2022-08-28 12:51:44] Change number 15867070->15867103, apps: 0/24, packages: 0/2
+[2022-08-28 13:07:32] Packages changed: 
+[2022-08-28 13:07:32] Apps changed: 
+[2022-08-28 13:07:32] Change number 15867103->15867145, apps: 0/35, packages: 0/4
+[2022-08-28 13:23:22] Packages changed: 
+[2022-08-28 13:23:22] Apps changed: 
+[2022-08-28 13:23:22] Change number 15867145->15867257, apps: 0/94, packages: 0/1
+[2022-08-28 13:39:20] Apps changed: 
+[2022-08-28 13:39:20] Change number 15867257->15867297, apps: 0/29, packages: 0/0
+[2022-08-28 13:55:32] Packages changed: 
+[2022-08-28 13:55:32] Apps changed: 
+[2022-08-28 13:55:32] Change number 15867297->15867343, apps: 0/37, packages: 0/3
+[2022-08-28 14:09:39] Packages changed: 
+[2022-08-28 14:09:39] Apps changed: 
+[2022-08-28 14:09:39] Change number 15867343->15867373, apps: 0/23, packages: 0/4
+[2022-08-28 14:24:08] Packages changed: 
+[2022-08-28 14:24:08] Apps changed: 
+[2022-08-28 14:24:08] Change number 15867373->15867468, apps: 0/82, packages: 0/3
+[2022-08-28 14:40:13] Packages changed: 
+[2022-08-28 14:40:13] Apps changed: 
+[2022-08-28 14:40:13] Change number 15867468->15867516, apps: 0/35, packages: 0/2
+[2022-08-28 14:55:46] Apps changed: 
+[2022-08-28 14:55:46] Change number 15867516->15867570, apps: 0/41, packages: 0/0
+[2022-08-28 15:09:17] Packages changed: 
+[2022-08-28 15:09:17] Apps changed: 
+[2022-08-28 15:09:17] Change number 15867570->15867608, apps: 0/20, packages: 0/2
+[2022-08-28 15:24:26] Packages changed: 
+[2022-08-28 15:24:26] Apps changed: 
+[2022-08-28 15:24:26] Change number 15867608->15867717, apps: 0/91, packages: 0/11
+[2022-08-28 19:21:59] Packages changed: force all
+[2022-08-28 19:21:59] Apps changed: 
+[2022-08-28 19:21:59] Change number 15867717->15868773, apps: 0/683, packages: 0/0
+[2022-08-28 19:21:59] Requesting 0 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-28 19:21:59] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-28 19:38:02] Packages changed: 
+[2022-08-28 19:38:02] Apps changed: 
+[2022-08-28 19:38:02] Change number 15868773->15868924, apps: 0/136, packages: 0/4
+[2022-08-28 19:53:14] Packages changed: 
+[2022-08-28 19:53:14] Apps changed: 
+[2022-08-28 19:53:14] Change number 15868924->15868971, apps: 0/39, packages: 0/3
+[2022-08-28 20:09:38] Packages changed: 
+[2022-08-28 20:09:38] Apps changed: 
+[2022-08-28 20:09:38] Change number 15868971->15869092, apps: 0/96, packages: 0/12
+[2022-08-28 22:37:33] Packages changed: 
+[2022-08-28 22:37:33] Apps changed: 
+[2022-08-28 22:37:33] Change number 15869092->15869617, apps: 0/357, packages: 0/36
+[2022-08-28 22:51:13] Packages changed: 
+[2022-08-28 22:51:13] Apps changed: 
+[2022-08-28 22:51:13] Change number 15869617->15869651, apps: 0/29, packages: 0/2
+[2022-08-28 23:06:39] Apps changed: 
+[2022-08-28 23:06:39] Change number 15869651->15869682, apps: 0/26, packages: 0/0
+[2022-08-28 23:20:42] Packages changed: 
+[2022-08-28 23:20:42] Apps changed: 
+[2022-08-28 23:20:42] Change number 15869682->15869762, apps: 0/71, packages: 0/2
+[2022-08-29 09:12:48] Packages changed: force all
+[2022-08-29 09:12:48] Apps changed: force all
+[2022-08-29 09:12:48] Change number 15869762->15872545, apps: 0/0, packages: 0/0
+[2022-08-29 09:12:48] Requesting 233 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-29 09:12:49] Requested 42 app access tokens, 39 received, 3 denied
+[2022-08-29 09:12:49] Updated SHAs with 39 new access tokens
+[2022-08-29 09:12:50] Downloaded 5 apps via HTTP, 397 KB (59 KB compressed)
+[2022-08-29 09:12:50] UpdatesJob: finished OK, apps updated 5 (397 KB), packages updated 0 (0 KB)
+[2022-08-29 09:13:05] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935422 bytes)
+[2022-08-29 09:26:28] Packages changed: 
+[2022-08-29 09:26:28] Apps changed: 
+[2022-08-29 09:26:28] Change number 15872545->15872655, apps: 0/104, packages: 0/4
+[2022-08-29 09:41:42] Packages changed: 
+[2022-08-29 09:41:42] Apps changed: 
+[2022-08-29 09:41:42] Change number 15872655->15872765, apps: 0/76, packages: 0/17
+[2022-08-29 09:57:16] Apps changed: 233780=15872879,
+[2022-08-29 09:57:16] Change number 15872765->15872880, apps: 1/90, packages: 0/0
+[2022-08-29 09:57:16] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-29 09:57:16] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2022-08-29 09:57:16] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2022-08-29 09:57:31] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935422 bytes)
+[2022-08-29 10:12:11] Packages changed: 
+[2022-08-29 10:12:11] Apps changed: 
+[2022-08-29 10:12:11] Change number 15872880->15872992, apps: 0/95, packages: 0/10
+[2022-08-29 10:26:45] Packages changed: 
+[2022-08-29 10:26:45] Apps changed: 
+[2022-08-29 10:26:45] Change number 15872992->15873074, apps: 0/66, packages: 0/1
+[2022-08-29 10:41:13] Packages changed: 
+[2022-08-29 10:41:13] Apps changed: 
+[2022-08-29 10:41:13] Change number 15873074->15873193, apps: 0/88, packages: 0/14
+[2022-08-29 10:57:25] Packages changed: 
+[2022-08-29 10:57:25] Apps changed: 
+[2022-08-29 10:57:25] Change number 15873193->15873291, apps: 0/70, packages: 0/14
+[2022-08-29 11:11:18] Packages changed: 
+[2022-08-29 11:11:18] Apps changed: 
+[2022-08-29 11:11:18] Change number 15873291->15873411, apps: 0/99, packages: 0/12
+[2022-08-29 11:25:52] Packages changed: 
+[2022-08-29 11:25:52] Apps changed: 
+[2022-08-29 11:25:52] Change number 15873411->15873557, apps: 0/103, packages: 0/49
+[2022-08-29 11:40:47] Packages changed: 
+[2022-08-29 11:40:47] Apps changed: 
+[2022-08-29 11:40:47] Change number 15873557->15873710, apps: 0/129, packages: 0/13
+[2022-08-29 11:56:31] Packages changed: 
+[2022-08-29 11:56:31] Apps changed: 233780=15873742,
+[2022-08-29 11:56:31] Change number 15873710->15873809, apps: 1/80, packages: 0/6
+[2022-08-29 11:56:31] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-29 11:56:31] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2022-08-29 11:56:31] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2022-08-29 11:56:46] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935422 bytes)
+[2022-08-29 12:10:47] Packages changed: 
+[2022-08-29 12:10:47] Apps changed: 443030=15873845,294420=15873836,570=15873814,
+[2022-08-29 12:10:47] Change number 15873809->15873949, apps: 3/107, packages: 0/22
+[2022-08-29 12:10:47] Requesting 3 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-29 12:10:47] Downloaded 3 apps via HTTP, 389 KB (56 KB compressed)
+[2022-08-29 12:10:47] UpdatesJob: finished OK, apps updated 3 (389 KB), packages updated 0 (0 KB)
+[2022-08-29 12:11:02] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935423 bytes)
+[2022-08-29 12:26:42] Packages changed: 
+[2022-08-29 12:26:42] Apps changed: 
+[2022-08-29 12:26:42] Change number 15873949->15874075, apps: 0/86, packages: 0/12
+[2022-08-29 12:43:02] Packages changed: 
+[2022-08-29 12:43:02] Apps changed: 1493710=15874140,
+[2022-08-29 12:43:02] Change number 15874075->15874192, apps: 1/90, packages: 0/6
+[2022-08-29 12:43:02] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-29 12:43:02] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-29 12:43:02] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-29 12:43:17] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (935423 bytes)
+[2022-08-29 12:57:50] Packages changed: 
+[2022-08-29 12:57:50] Apps changed: 
+[2022-08-29 12:57:50] Change number 15874192->15874285, apps: 0/70, packages: 0/10
+[2022-08-29 13:13:03] Packages changed: 
+[2022-08-29 13:13:03] Apps changed: 
+[2022-08-29 13:13:03] Change number 15874285->15874430, apps: 0/127, packages: 0/3
+[2022-08-29 13:28:11] Packages changed: 
+[2022-08-29 13:28:11] Apps changed: 
+[2022-08-29 13:28:11] Change number 15874430->15874552, apps: 0/90, packages: 0/14
+[2022-08-29 13:42:29] Packages changed: 
+[2022-08-29 13:42:29] Apps changed: 233780=15874626,
+[2022-08-29 13:42:29] Change number 15874552->15874654, apps: 1/73, packages: 0/18
+[2022-08-29 13:42:29] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-29 13:42:30] Downloaded 1 apps via HTTP, 11 KB (3 KB compressed)
+[2022-08-29 13:42:30] UpdatesJob: finished OK, apps updated 1 (11 KB), packages updated 0 (0 KB)
+[2022-08-29 13:42:45] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (936297 bytes)
+[2022-08-29 13:56:27] Packages changed: 
+[2022-08-29 13:56:27] Apps changed: 233780=15874724,
+[2022-08-29 13:56:27] Change number 15874654->15874781, apps: 1/95, packages: 0/18
+[2022-08-29 13:56:27] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-29 13:56:27] Downloaded 1 apps via HTTP, 11 KB (3 KB compressed)
+[2022-08-29 13:56:27] UpdatesJob: finished OK, apps updated 1 (11 KB), packages updated 0 (0 KB)
+[2022-08-29 13:56:42] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (936297 bytes)
+[2022-08-29 14:09:57] Packages changed: 
+[2022-08-29 14:09:57] Apps changed: 
+[2022-08-29 14:09:57] Change number 15874781->15874911, apps: 0/109, packages: 0/9
+[2022-08-29 14:26:19] Packages changed: 
+[2022-08-29 14:26:19] Apps changed: 
+[2022-08-29 14:26:19] Change number 15874911->15875037, apps: 0/95, packages: 0/6
+[2022-08-29 14:42:35] Packages changed: 
+[2022-08-29 14:42:35] Apps changed: 
+[2022-08-29 14:42:35] Change number 15875037->15875164, apps: 0/96, packages: 0/12
+[2022-08-29 14:58:23] Packages changed: 
+[2022-08-29 14:58:23] Apps changed: 
+[2022-08-29 14:58:23] Change number 15875164->15875283, apps: 0/92, packages: 0/12
+[2022-08-29 15:14:50] Packages changed: 
+[2022-08-29 15:14:50] Apps changed: 
+[2022-08-29 15:14:50] Change number 15875283->15875427, apps: 0/121, packages: 0/10
+[2022-08-29 15:29:27] Packages changed: 
+[2022-08-29 15:29:27] Apps changed: 
+[2022-08-29 15:29:27] Change number 15875427->15875632, apps: 0/171, packages: 0/19
+[2022-08-29 15:44:15] Packages changed: 
+[2022-08-29 15:44:15] Apps changed: 
+[2022-08-29 15:44:15] Change number 15875632->15875737, apps: 0/77, packages: 0/10
+[2022-08-29 15:59:08] Packages changed: 
+[2022-08-29 15:59:08] Apps changed: 
+[2022-08-29 15:59:08] Change number 15875737->15875857, apps: 0/86, packages: 0/12
+[2022-08-29 16:29:18] Packages changed: force all
+[2022-08-29 16:29:18] Apps changed: 
+[2022-08-29 16:29:18] Change number 15875857->15876185, apps: 0/208, packages: 0/0
+[2022-08-29 16:29:19] Requesting 0 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-29 16:29:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-08-29 16:45:30] Packages changed: 
+[2022-08-29 16:45:30] Apps changed: 
+[2022-08-29 16:45:30] Change number 15876185->15876340, apps: 0/106, packages: 0/12
+[2022-08-29 16:59:37] Packages changed: 
+[2022-08-29 16:59:37] Apps changed: 
+[2022-08-29 16:59:37] Change number 15876340->15876439, apps: 0/74, packages: 0/3
+[2022-08-29 17:14:26] Packages changed: 
+[2022-08-29 17:14:26] Apps changed: 
+[2022-08-29 17:14:26] Change number 15876439->15876607, apps: 0/135, packages: 0/7
+[2022-08-29 17:30:15] Packages changed: 
+[2022-08-29 17:30:15] Apps changed: 
+[2022-08-29 17:30:15] Change number 15876607->15876750, apps: 0/100, packages: 0/18
+[2022-08-29 17:46:02] Packages changed: 
+[2022-08-29 17:46:02] Apps changed: 1493710=15876857,
+[2022-08-29 17:46:02] Change number 15876750->15876893, apps: 1/107, packages: 0/17
+[2022-08-29 17:46:02] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-29 17:46:02] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-29 17:46:02] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-29 17:46:17] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (936297 bytes)
+[2022-08-29 18:01:29] Packages changed: 
+[2022-08-29 18:01:29] Apps changed: 1042420=15876900,
+[2022-08-29 18:01:29] Change number 15876893->15877040, apps: 1/101, packages: 0/17
+[2022-08-29 18:01:29] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-29 18:01:30] Downloaded 1 apps via HTTP, 7 KB (2 KB compressed)
+[2022-08-29 18:01:30] UpdatesJob: finished OK, apps updated 1 (7 KB), packages updated 0 (0 KB)
+[2022-08-29 18:01:45] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (936297 bytes)
+[2022-08-29 18:17:53] Packages changed: 
+[2022-08-29 18:17:53] Apps changed: 
+[2022-08-29 18:17:53] Change number 15877040->15877217, apps: 0/139, packages: 0/10
+[2022-08-29 18:32:07] Packages changed: 
+[2022-08-29 18:32:07] Apps changed: 
+[2022-08-29 18:32:07] Change number 15877217->15877331, apps: 0/83, packages: 0/15
+[2022-08-29 18:48:02] Packages changed: 
+[2022-08-29 18:48:02] Apps changed: 1493710=15877422,1899670=15877366,
+[2022-08-29 18:48:02] Change number 15877331->15877440, apps: 2/92, packages: 0/9
+[2022-08-29 18:48:02] Requesting 2 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-29 18:48:03] Downloaded 2 apps via HTTP, 3 KB (1 KB compressed)
+[2022-08-29 18:48:03] UpdatesJob: finished OK, apps updated 2 (3 KB), packages updated 0 (0 KB)
+[2022-08-29 18:48:18] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (936297 bytes)
+[2022-08-29 19:02:18] Packages changed: force all
+[2022-08-29 19:02:18] Apps changed: 219=15877491,220=15877491,
+[2022-08-29 19:02:18] Change number 15877440->15877589, apps: 2/99, packages: 0/0
+[2022-08-29 19:02:18] Requesting 2 apps, 17 packages (meta data, 0 prev attempts)
+[2022-08-29 19:02:19] Downloaded 2 apps via HTTP, 16 KB (4 KB compressed)
+[2022-08-29 19:02:19] UpdatesJob: finished OK, apps updated 2 (16 KB), packages updated 0 (0 KB)
+[2022-08-29 19:02:34] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (936299 bytes)
+[2022-08-29 19:15:58] Packages changed: 
+[2022-08-29 19:15:58] Apps changed: 
+[2022-08-29 19:15:58] Change number 15877589->15877735, apps: 0/115, packages: 0/17
+[2022-08-29 20:07:41] Packages changed: 
+[2022-08-29 20:07:41] Apps changed: 1493710=15878108,740=15877930,340=15877923,420=15877917,380=15877916,219=15877852,220=15877852,250820=15877766,
+[2022-08-29 20:07:41] Change number 15877735->15878139, apps: 8/297, packages: 0/27
+[2022-08-29 20:07:41] Requesting 8 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-29 20:07:41] Downloaded 8 apps via HTTP, 97 KB (27 KB compressed)
+[2022-08-29 20:07:41] UpdatesJob: finished OK, apps updated 8 (97 KB), packages updated 0 (0 KB)
+[2022-08-29 20:07:56] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (936423 bytes)
+[2022-08-29 20:21:52] Packages changed: 
+[2022-08-29 20:21:52] Apps changed: 
+[2022-08-29 20:21:52] Change number 15878139->15878319, apps: 0/139, packages: 0/8
+[2022-08-29 20:37:47] Packages changed: 
+[2022-08-29 20:37:47] Apps changed: 
+[2022-08-29 20:37:47] Change number 15878319->15878436, apps: 0/95, packages: 0/12
+[2022-08-29 20:53:58] Packages changed: 
+[2022-08-29 20:53:58] Apps changed: 400=15878502,410=15878502,
+[2022-08-29 20:53:58] Change number 15878436->15878545, apps: 2/77, packages: 0/18
+[2022-08-29 20:53:59] Requesting 2 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-29 20:53:59] Downloaded 2 apps via HTTP, 15 KB (4 KB compressed)
+[2022-08-29 20:53:59] UpdatesJob: finished OK, apps updated 2 (15 KB), packages updated 0 (0 KB)
+[2022-08-29 20:54:14] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (936424 bytes)
+[2022-08-29 21:10:16] Packages changed: 
+[2022-08-29 21:10:16] Apps changed: 
+[2022-08-29 21:10:16] Change number 15878545->15878697, apps: 0/132, packages: 0/13
+[2022-08-29 21:20:17] Packages changed: 
+[2022-08-29 21:20:17] Apps changed: 
+[2022-08-29 21:20:17] Change number 15878697->15878771, apps: 0/58, packages: 0/3
+[2022-08-29 21:34:44] Packages changed: 
+[2022-08-29 21:34:44] Apps changed: 
+[2022-08-29 21:34:44] Change number 15878771->15878890, apps: 0/96, packages: 0/5
+[2022-08-29 21:50:59] Packages changed: 
+[2022-08-29 21:50:59] Apps changed: 1493710=15878906,
+[2022-08-29 21:50:59] Change number 15878890->15878988, apps: 1/80, packages: 0/11
+[2022-08-29 21:50:59] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2022-08-29 21:50:59] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2022-08-29 21:50:59] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2022-08-29 21:51:14] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (936424 bytes)
+[2022-08-29 22:06:22] Packages changed: 
+[2022-08-29 22:06:22] Apps changed: 
+[2022-08-29 22:06:22] Change number 15878988->15879094, apps: 0/82, packages: 0/10
+
+
+[2023-01-13 19:57:46] Packages changed: force all
+[2023-01-13 19:57:46] Apps changed: force all
+[2023-01-13 19:57:46] Change number 15879094->17371384, apps: 0/0, packages: 0/0
+[2023-01-13 19:57:46] Requesting 233 apps, 17 packages (meta data, 0 prev attempts)
+[2023-01-13 19:57:47] Requested 42 app access tokens, 39 received, 3 denied
+[2023-01-13 19:57:47] Updated SHAs with 39 new access tokens
+[2023-01-13 19:57:48] Failed to download /appinfo/27040/sha/bb2bbbefd83b6f142ce22dc6b2af22e266c686de.txt.gz (HTTP error 404)
+[2023-01-13 19:57:49] Downloaded 65 apps via HTTP, 963 KB (218 KB compressed)
+[2023-01-13 19:57:49] Requesting 6 apps, 1 packages (full data, 0 prev attempts)
+[2023-01-13 19:57:49] UpdatesJob: finished OK, apps updated 71 (968 KB), packages updated 1 (9 KB)
+[2023-01-13 19:57:49] Requesting 3 apps, 0 packages (meta data, 0 prev attempts)
+[2023-01-13 19:57:49] Requested 3 app access tokens, 2 received, 1 denied
+[2023-01-13 19:57:50] Updated SHAs with 2 new access tokens
+[2023-01-13 19:57:50] Requesting 2 apps, 0 packages (full data, 0 prev attempts)
+[2023-01-13 19:57:50] UpdatesJob: finished OK, apps updated 2 (1 KB), packages updated 0 (0 KB)
+[2023-01-13 19:58:05] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (950532 bytes)
+[2023-01-13 20:11:57] Packages changed: 
+[2023-01-13 20:11:57] Apps changed: 
+[2023-01-13 20:11:57] Change number 17371384->17371523, apps: 0/93, packages: 0/14
+[2023-01-13 20:26:31] Packages changed: 
+[2023-01-13 20:26:31] Apps changed: 
+[2023-01-13 20:26:31] Change number 17371523->17371707, apps: 0/155, packages: 0/13
+[2023-01-13 20:41:18] Packages changed: 
+[2023-01-13 20:41:18] Apps changed: 
+[2023-01-13 20:41:18] Change number 17371707->17371811, apps: 0/84, packages: 0/2
+[2023-01-14 11:20:59] Packages changed: force all
+[2023-01-14 11:20:59] Apps changed: force all
+[2023-01-14 11:20:59] Change number 17371811->17377048, apps: 0/0, packages: 0/0
+[2023-01-14 11:20:59] Requesting 235 apps, 17 packages (meta data, 0 prev attempts)
+[2023-01-14 11:20:59] Requested 44 app access tokens, 41 received, 3 denied
+[2023-01-14 11:21:00] Updated SHAs with 41 new access tokens
+[2023-01-14 11:21:01] Downloaded 4 apps via HTTP, 28 KB (9 KB compressed)
+[2023-01-14 11:21:01] UpdatesJob: finished OK, apps updated 4 (28 KB), packages updated 0 (0 KB)
+[2023-01-14 11:21:16] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (950528 bytes)
+[2023-01-14 11:37:14] Packages changed: 
+[2023-01-14 11:37:14] Apps changed: 
+[2023-01-14 11:37:14] Change number 17377048->17377174, apps: 0/113, packages: 0/5
+[2023-01-14 11:52:23] Packages changed: 
+[2023-01-14 11:52:23] Apps changed: 
+[2023-01-14 11:52:23] Change number 17377174->17377218, apps: 0/34, packages: 0/1
+[2023-01-14 12:08:13] Packages changed: 
+[2023-01-14 12:08:13] Apps changed: 
+[2023-01-14 12:08:13] Change number 17377218->17377277, apps: 0/43, packages: 0/8
+[2023-01-14 12:22:13] Apps changed: 
+[2023-01-14 12:22:13] Change number 17377277->17377327, apps: 0/38, packages: 0/0
+[2023-01-14 12:35:47] Packages changed: 
+[2023-01-14 12:35:47] Apps changed: 
+[2023-01-14 12:35:47] Change number 17377327->17377423, apps: 0/90, packages: 0/6
+[2023-01-14 16:11:51] Packages changed: force all
+[2023-01-14 16:11:51] Apps changed: 70=17377874,
+[2023-01-14 16:11:51] Change number 17377423->17378563, apps: 1/674, packages: 0/0
+[2023-01-14 16:11:51] Requesting 1 apps, 17 packages (meta data, 0 prev attempts)
+[2023-01-14 16:11:52] Downloaded 1 apps via HTTP, 9 KB (2 KB compressed)
+[2023-01-14 16:11:52] UpdatesJob: finished OK, apps updated 1 (9 KB), packages updated 0 (0 KB)
+[2023-01-14 16:12:07] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (950528 bytes)
+[2023-01-14 16:26:22] Packages changed: 
+[2023-01-14 16:26:22] Apps changed: 
+[2023-01-14 16:26:22] Change number 17378563->17378708, apps: 0/121, packages: 0/5
+[2023-01-14 16:41:18] Packages changed: 
+[2023-01-14 16:41:18] Apps changed: 
+[2023-01-14 16:41:18] Change number 17378708->17378768, apps: 0/49, packages: 0/1
+[2023-01-14 16:56:32] Packages changed: 
+[2023-01-14 16:56:32] Apps changed: 
+[2023-01-14 16:56:32] Change number 17378768->17378812, apps: 0/33, packages: 0/3
+[2023-01-14 17:11:19] Packages changed: 
+[2023-01-14 17:11:19] Apps changed: 
+[2023-01-14 17:11:19] Change number 17378812->17378870, apps: 0/40, packages: 0/8
+[2023-01-14 17:27:23] Packages changed: 
+[2023-01-14 17:27:23] Apps changed: 
+[2023-01-14 17:27:23] Change number 17378870->17378995, apps: 0/111, packages: 0/8
+[2023-01-14 17:41:04] Packages changed: 
+[2023-01-14 17:41:04] Apps changed: 
+[2023-01-14 17:41:04] Change number 17378995->17379046, apps: 0/39, packages: 0/6
+[2023-01-14 17:54:47] Packages changed: 
+[2023-01-14 17:54:47] Apps changed: 
+[2023-01-14 17:54:47] Change number 17379046->17379087, apps: 0/27, packages: 0/1
+[2023-01-14 18:08:21] Packages changed: 
+[2023-01-14 18:08:21] Apps changed: 
+[2023-01-14 18:08:21] Change number 17379087->17379147, apps: 0/44, packages: 0/6
+[2023-01-14 18:23:46] Packages changed: 
+[2023-01-14 18:23:46] Apps changed: 
+[2023-01-14 18:23:46] Change number 17379147->17379269, apps: 0/111, packages: 0/1
+[2023-01-14 18:38:20] Packages changed: 
+[2023-01-14 18:38:20] Apps changed: 
+[2023-01-14 18:38:20] Change number 17379269->17379378, apps: 0/95, packages: 0/5
+[2023-01-14 18:53:10] Packages changed: 
+[2023-01-14 18:53:10] Apps changed: 
+[2023-01-14 18:53:10] Change number 17379378->17379418, apps: 0/36, packages: 0/4
+[2023-01-14 19:09:27] Packages changed: force all
+[2023-01-14 19:09:27] Apps changed: 
+[2023-01-14 19:09:27] Change number 17379418->17379482, apps: 0/45, packages: 0/0
+[2023-01-14 19:09:27] Requesting 0 apps, 17 packages (meta data, 0 prev attempts)
+[2023-01-14 19:09:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-01-14 19:23:46] Packages changed: 
+[2023-01-14 19:23:46] Apps changed: 
+[2023-01-14 19:23:46] Change number 17379482->17379552, apps: 0/50, packages: 0/8
+[2023-01-14 19:38:58] Packages changed: 
+[2023-01-14 19:38:58] Apps changed: 
+[2023-01-14 19:38:58] Change number 17379552->17379678, apps: 0/112, packages: 0/2
+[2023-01-14 19:53:44] Packages changed: 
+[2023-01-14 19:53:44] Apps changed: 1493710=17379742,
+[2023-01-14 19:53:44] Change number 17379678->17379760, apps: 1/60, packages: 0/6
+[2023-01-14 19:53:44] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2023-01-14 19:53:44] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2023-01-14 19:53:44] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2023-01-14 19:53:59] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (950528 bytes)
+[2023-01-14 20:08:04] Packages changed: 
+[2023-01-14 20:08:04] Apps changed: 
+[2023-01-14 20:08:04] Change number 17379760->17379828, apps: 0/52, packages: 0/2
+[2023-01-14 20:22:30] Packages changed: 
+[2023-01-14 20:22:30] Apps changed: 
+[2023-01-14 20:22:30] Change number 17379828->17379886, apps: 0/38, packages: 0/5
+[2023-01-14 21:58:27] Packages changed: 
+[2023-01-14 21:58:27] Apps changed: 
+[2023-01-14 21:58:27] Change number 17379886->17380380, apps: 0/354, packages: 0/40
+[2023-01-14 22:14:49] Packages changed: 
+[2023-01-14 22:14:49] Apps changed: 294420=17380419,
+[2023-01-14 22:14:49] Change number 17380380->17380541, apps: 1/142, packages: 0/7
+[2023-01-14 22:14:49] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2023-01-14 22:14:50] Downloaded 1 apps via HTTP, 7 KB (2 KB compressed)
+[2023-01-14 22:14:50] UpdatesJob: finished OK, apps updated 1 (7 KB), packages updated 0 (0 KB)
+[2023-01-14 22:15:05] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (950528 bytes)
+[2023-01-14 22:29:54] Packages changed: 
+[2023-01-14 22:29:54] Apps changed: 
+[2023-01-14 22:29:54] Change number 17380541->17380692, apps: 0/127, packages: 0/7
+[2023-01-14 22:44:31] Packages changed: 
+[2023-01-14 22:44:31] Apps changed: 
+[2023-01-14 22:44:31] Change number 17380692->17380749, apps: 0/39, packages: 0/2
+[2023-01-14 23:00:07] Packages changed: 
+[2023-01-14 23:00:07] Apps changed: 
+[2023-01-14 23:00:07] Change number 17380749->17380788, apps: 0/34, packages: 0/1
+[2023-01-14 23:15:52] Packages changed: 
+[2023-01-14 23:15:52] Apps changed: 
+[2023-01-14 23:15:52] Change number 17380788->17380857, apps: 0/54, packages: 0/10
+[2023-01-14 23:30:25] Packages changed: 
+[2023-01-14 23:30:25] Apps changed: 
+[2023-01-14 23:30:25] Change number 17380857->17381007, apps: 0/102, packages: 0/41
+[2023-01-14 23:44:34] Packages changed: 
+[2023-01-14 23:44:34] Apps changed: 
+[2023-01-14 23:44:34] Change number 17381007->17381046, apps: 0/29, packages: 0/4
+[2023-01-15 00:00:08] Packages changed: 
+[2023-01-15 00:00:08] Apps changed: 
+[2023-01-15 00:00:08] Change number 17381046->17381088, apps: 0/32, packages: 0/1
+[2023-01-15 00:16:34] Packages changed: 
+[2023-01-15 00:16:34] Apps changed: 
+[2023-01-15 00:16:34] Change number 17381088->17381151, apps: 0/47, packages: 0/18
+[2023-01-15 00:32:46] Packages changed: 
+[2023-01-15 00:32:46] Apps changed: 
+[2023-01-15 00:32:46] Change number 17381151->17381258, apps: 0/98, packages: 0/3
+[2023-01-15 00:46:32] Packages changed: 
+[2023-01-15 00:46:32] Apps changed: 443030=17381289,
+[2023-01-15 00:46:32] Change number 17381258->17381294, apps: 1/31, packages: 0/1
+[2023-01-15 00:46:32] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2023-01-15 00:46:32] Downloaded 1 apps via HTTP, 12 KB (3 KB compressed)
+[2023-01-15 00:46:32] UpdatesJob: finished OK, apps updated 1 (12 KB), packages updated 0 (0 KB)
+[2023-01-15 00:46:47] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (950528 bytes)
+
+
+[2023-03-22 22:36:14] Packages changed: force all
+[2023-03-22 22:36:14] Apps changed: force all
+[2023-03-22 22:36:14] Change number 17381294->18175384, apps: 0/0, packages: 0/0
+[2023-03-22 22:36:14] Requesting 235 apps, 17 packages (meta data, 0 prev attempts, expected 11 KB)
+[2023-03-22 22:36:14] Requested 44 app access tokens, 41 received, 3 denied
+[2023-03-22 22:36:14] Updated SHAs with 41 new access tokens
+[2023-03-22 22:36:17] Downloaded 153 apps via HTTP, 1206 KB (310 KB compressed)
+[2023-03-22 22:36:17] Requesting 9 apps, 0 packages (full data, 0 prev attempts, expected 6 KB)
+[2023-03-22 22:36:17] UpdatesJob: finished OK, apps updated 162 (1212 KB), packages updated 0 (0 KB)
+[2023-03-22 22:36:32] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-22 22:52:11] Change number 18175384->18175486, apps: 0/89, packages: 0/1
+[2023-03-22 23:06:02] Change number 18175486->18175600, apps: 0/101, packages: 0/3
+[2023-03-22 23:19:39] Change number 18175600->18175691, apps: 0/73, packages: 0/6
+[2023-03-22 23:35:58] Change number 18175691->18175839, apps: 0/123, packages: 0/6
+[2023-03-22 23:51:44] Change number 18175839->18175924, apps: 0/67, packages: 0/9
+[2023-03-23 00:07:38] Change number 18175924->18176032, apps: 0/97, packages: 0/6
+[2023-03-23 00:19:48] Change number 18176032->18176098, apps: 0/74, packages: 0/6
+[2023-03-23 00:33:49] Apps changed: 443030=18176103,
+[2023-03-23 00:33:49] Change number 18176098->18176190, apps: 1/80, packages: 0/8
+[2023-03-23 00:33:49] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-23 00:33:50] Downloaded 1 apps via HTTP, 13 KB (3 KB compressed)
+[2023-03-23 00:33:50] UpdatesJob: finished OK, apps updated 1 (13 KB), packages updated 0 (0 KB)
+[2023-03-23 00:34:05] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-23 00:47:59] Apps changed: 443030=18176243,1042420=18176231,
+[2023-03-23 00:47:59] Change number 18176190->18176329, apps: 2/120, packages: 0/5
+[2023-03-23 00:47:59] Requesting 2 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-23 00:48:00] Downloaded 2 apps via HTTP, 22 KB (6 KB compressed)
+[2023-03-23 00:48:00] UpdatesJob: finished OK, apps updated 2 (22 KB), packages updated 0 (0 KB)
+[2023-03-23 00:48:15] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-23 01:02:35] Change number 18176329->18176427, apps: 0/67, packages: 0/24
+[2023-03-23 01:17:46] Change number 18176427->18176604, apps: 0/164, packages: 0/1
+[2023-03-23 01:32:30] Change number 18176604->18176669, apps: 0/52, packages: 0/5
+[2023-03-23 01:48:09] Change number 18176669->18176781, apps: 0/96, packages: 0/4
+[2023-03-23 08:26:32] Packages changed: force all
+[2023-03-23 08:26:32] Apps changed: force all
+[2023-03-23 08:26:32] Change number 18176781->18179555, apps: 0/0, packages: 0/0
+[2023-03-23 08:26:32] Requesting 235 apps, 17 packages (meta data, 0 prev attempts, expected 11 KB)
+[2023-03-23 08:26:33] Requested 44 app access tokens, 41 received, 3 denied
+[2023-03-23 08:26:33] Updated SHAs with 41 new access tokens
+[2023-03-23 08:26:35] Downloaded 4 apps via HTTP, 80 KB (24 KB compressed)
+[2023-03-23 08:26:35] UpdatesJob: finished OK, apps updated 4 (80 KB), packages updated 0 (0 KB)
+[2023-03-23 08:26:50] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-23 08:42:43] Change number 18179555->18179705, apps: 0/115, packages: 0/6
+[2023-03-23 08:57:34] Change number 18179705->18179835, apps: 0/91, packages: 0/11
+[2023-03-23 09:14:03] Change number 18179835->18180009, apps: 0/142, packages: 0/13
+[2023-03-23 09:29:54] Change number 18180009->18180161, apps: 0/91, packages: 0/15
+[2023-03-23 09:43:31] Change number 18180161->18180317, apps: 0/131, packages: 0/10
+[2023-03-23 09:58:32] Change number 18180317->18180429, apps: 0/91, packages: 0/5
+[2023-03-23 10:14:39] Change number 18180429->18180584, apps: 0/108, packages: 0/11
+[2023-03-23 10:29:03] Apps changed: 1874900=18180633,
+[2023-03-23 10:29:03] Change number 18180584->18180742, apps: 1/119, packages: 0/17
+[2023-03-23 10:29:03] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-23 10:29:03] Downloaded 1 apps via HTTP, 6 KB (2 KB compressed)
+[2023-03-23 10:29:03] UpdatesJob: finished OK, apps updated 1 (6 KB), packages updated 0 (0 KB)
+[2023-03-23 10:29:18] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-23 10:44:50] Change number 18180742->18180961, apps: 0/171, packages: 0/16
+[2023-03-23 11:00:44] Change number 18180961->18181148, apps: 0/130, packages: 0/13
+[2023-03-23 11:14:44] Change number 18181148->18181279, apps: 0/108, packages: 0/9
+[2023-03-23 11:28:55] Packages changed: force all
+[2023-03-23 11:28:55] Change number 18181279->18181477, apps: 0/135, packages: 0/0
+[2023-03-23 11:28:55] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-23 11:28:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-03-23 11:42:37] Change number 18181477->18181627, apps: 0/129, packages: 0/4
+[2023-03-23 11:56:20] Change number 18181627->18181719, apps: 0/80, packages: 0/12
+[2023-03-23 12:12:08] Apps changed: 1874900=18181762,
+[2023-03-23 12:12:08] Change number 18181719->18181870, apps: 1/105, packages: 0/16
+[2023-03-23 12:12:08] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-23 12:12:09] Downloaded 1 apps via HTTP, 6 KB (2 KB compressed)
+[2023-03-23 12:12:09] UpdatesJob: finished OK, apps updated 1 (6 KB), packages updated 0 (0 KB)
+[2023-03-23 12:12:24] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-23 12:26:52] Change number 18181870->18182068, apps: 0/167, packages: 0/10
+[2023-03-23 12:43:10] Change number 18182068->18182261, apps: 0/163, packages: 0/13
+[2023-03-23 12:57:04] Change number 18182261->18182386, apps: 0/108, packages: 0/6
+[2023-03-23 13:56:52] Apps changed: 443030=18182917,1874900=18182433,
+[2023-03-23 13:56:52] Change number 18182386->18183037, apps: 2/435, packages: 0/67
+[2023-03-23 13:56:52] Requesting 2 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-23 13:56:52] Downloaded 2 apps via HTTP, 20 KB (6 KB compressed)
+[2023-03-23 13:56:52] UpdatesJob: finished OK, apps updated 2 (20 KB), packages updated 0 (0 KB)
+[2023-03-23 13:57:07] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-23 14:11:34] Apps changed: 70=18183170,223350=18183105,
+[2023-03-23 14:11:34] Change number 18183037->18183293, apps: 2/204, packages: 0/22
+[2023-03-23 14:11:34] Requesting 2 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-23 14:11:34] Downloaded 2 apps via HTTP, 20 KB (6 KB compressed)
+[2023-03-23 14:11:34] UpdatesJob: finished OK, apps updated 2 (20 KB), packages updated 0 (0 KB)
+[2023-03-23 14:11:49] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-23 14:27:02] Change number 18183293->18183505, apps: 0/172, packages: 0/31
+[2023-03-23 16:05:03] Apps changed: 1493710=18184412,
+[2023-03-23 16:05:03] Change number 18183505->18184573, apps: 1/715, packages: 0/67
+[2023-03-23 16:05:03] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-23 16:05:04] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2023-03-23 16:05:04] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2023-03-23 16:05:19] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-23 16:21:00] Change number 18184573->18184725, apps: 0/124, packages: 0/9
+[2023-03-23 16:36:49] Packages changed: force all
+[2023-03-23 16:36:49] Change number 18184725->18185012, apps: 0/195, packages: 0/0
+[2023-03-23 16:36:49] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-23 16:36:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-03-23 16:50:47] Apps changed: 1493710=18185166,
+[2023-03-23 16:50:47] Change number 18185012->18185170, apps: 1/119, packages: 0/21
+[2023-03-23 16:50:47] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-23 16:50:48] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2023-03-23 16:50:48] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2023-03-23 16:51:03] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-23 17:05:42] Packages changed: force all
+[2023-03-23 17:05:42] Change number 18185170->18185429, apps: 0/134, packages: 0/0
+[2023-03-23 17:05:42] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-23 17:05:42] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-03-24 08:46:14] Packages changed: force all
+[2023-03-24 08:46:14] Apps changed: force all
+[2023-03-24 08:46:14] Change number 18185429->18194201, apps: 0/0, packages: 0/0
+[2023-03-24 08:46:14] Requesting 235 apps, 17 packages (meta data, 0 prev attempts, expected 11 KB)
+[2023-03-24 08:46:15] Requested 44 app access tokens, 41 received, 3 denied
+[2023-03-24 08:46:15] Updated SHAs with 41 new access tokens
+[2023-03-24 08:46:17] Downloaded 8 apps via HTTP, 475 KB (82 KB compressed)
+[2023-03-24 08:46:17] UpdatesJob: finished OK, apps updated 8 (475 KB), packages updated 0 (0 KB)
+[2023-03-24 08:46:32] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-24 09:00:05] Apps changed: 443030=18194270,
+[2023-03-24 09:00:05] Change number 18194201->18194365, apps: 1/143, packages: 0/7
+[2023-03-24 09:00:05] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-24 09:00:06] Downloaded 1 apps via HTTP, 13 KB (3 KB compressed)
+[2023-03-24 09:00:06] UpdatesJob: finished OK, apps updated 1 (13 KB), packages updated 0 (0 KB)
+[2023-03-24 09:00:21] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-24 09:15:24] Change number 18194365->18194548, apps: 0/142, packages: 0/14
+[2023-03-24 09:29:16] Apps changed: 443030=18194615,
+[2023-03-24 09:29:16] Change number 18194548->18194667, apps: 1/90, packages: 0/18
+[2023-03-24 09:29:16] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-24 09:29:17] Downloaded 1 apps via HTTP, 13 KB (3 KB compressed)
+[2023-03-24 09:29:17] UpdatesJob: finished OK, apps updated 1 (13 KB), packages updated 0 (0 KB)
+[2023-03-24 09:29:32] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-24 09:43:26] Apps changed: 1899670=18194729,
+[2023-03-24 09:43:26] Change number 18194667->18194778, apps: 1/95, packages: 0/1
+[2023-03-24 09:43:27] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-24 09:43:27] Downloaded 1 apps via HTTP, 1 KB (0 KB compressed)
+[2023-03-24 09:43:27] UpdatesJob: finished OK, apps updated 1 (1 KB), packages updated 0 (0 KB)
+[2023-03-24 09:43:42] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-24 09:58:35] Change number 18194778->18194978, apps: 0/100, packages: 0/52
+[2023-03-24 10:12:19] Apps changed: 443030=18194996,
+[2023-03-24 10:12:19] Change number 18194978->18195144, apps: 1/134, packages: 0/8
+[2023-03-24 10:12:19] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-24 10:12:20] Downloaded 1 apps via HTTP, 13 KB (3 KB compressed)
+[2023-03-24 10:12:20] UpdatesJob: finished OK, apps updated 1 (13 KB), packages updated 0 (0 KB)
+[2023-03-24 10:12:35] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-24 10:27:32] Change number 18195144->18195272, apps: 0/99, packages: 0/8
+[2023-03-24 10:43:46] Apps changed: 443030=18195309,
+[2023-03-24 10:43:46] Change number 18195272->18195427, apps: 1/114, packages: 0/10
+[2023-03-24 10:43:46] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-24 10:43:47] Downloaded 1 apps via HTTP, 13 KB (3 KB compressed)
+[2023-03-24 10:43:47] UpdatesJob: finished OK, apps updated 1 (13 KB), packages updated 0 (0 KB)
+[2023-03-24 10:44:02] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-24 10:58:14] Change number 18195427->18195562, apps: 0/100, packages: 0/7
+[2023-03-24 11:13:26] Change number 18195562->18195725, apps: 0/138, packages: 0/6
+[2023-03-24 11:32:12] Change number 18195725->18195906, apps: 0/144, packages: 0/9
+[2023-03-24 11:47:36] Change number 18195906->18196031, apps: 0/108, packages: 0/10
+[2023-03-24 12:02:57] Change number 18196031->18196201, apps: 0/143, packages: 0/14
+[2023-03-24 12:18:58] Change number 18196201->18196379, apps: 0/135, packages: 0/13
+[2023-03-24 12:34:58] Apps changed: 443030=18196509,
+[2023-03-24 12:34:58] Change number 18196379->18196620, apps: 1/156, packages: 0/59
+[2023-03-24 12:34:58] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-24 12:34:59] Downloaded 1 apps via HTTP, 13 KB (3 KB compressed)
+[2023-03-24 12:34:59] UpdatesJob: finished OK, apps updated 1 (13 KB), packages updated 0 (0 KB)
+[2023-03-24 12:35:14] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-24 12:57:39] Apps changed: 1042420=18196836,443030=18196737,
+[2023-03-24 12:57:39] Change number 18196620->18196845, apps: 2/153, packages: 0/22
+[2023-03-24 12:57:39] Requesting 2 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-24 12:57:40] Downloaded 2 apps via HTTP, 22 KB (6 KB compressed)
+[2023-03-24 12:57:40] UpdatesJob: finished OK, apps updated 2 (22 KB), packages updated 0 (0 KB)
+[2023-03-24 12:57:55] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-24 13:13:54] Apps changed: 1042420=18197146,443030=18197122,
+[2023-03-24 13:13:54] Change number 18196845->18197171, apps: 2/294, packages: 0/12
+[2023-03-24 13:13:54] Requesting 2 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2023-03-24 13:13:55] Downloaded 2 apps via HTTP, 22 KB (6 KB compressed)
+[2023-03-24 13:13:55] UpdatesJob: finished OK, apps updated 2 (22 KB), packages updated 0 (0 KB)
+[2023-03-24 13:14:10] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (957 KB)
+[2023-03-24 13:29:21] Change number 18197171->18197339, apps: 0/125, packages: 0/7
+[2023-03-24 13:45:11] Change number 18197339->18197477, apps: 0/117, packages: 0/8
+[2023-03-24 14:00:14] Change number 18197477->18197609, apps: 0/98, packages: 0/3
+[2023-03-24 14:16:39] Change number 18197609->18197832, apps: 0/187, packages: 0/7
+[2023-03-24 14:32:21] Change number 18197832->18198015, apps: 0/130, packages: 0/16
+[2023-03-24 14:48:13] Change number 18198015->18198184, apps: 0/135, packages: 0/8
+[2023-03-24 15:04:20] Change number 18198184->18198432, apps: 0/209, packages: 0/13
+[2023-03-24 15:20:49] Change number 18198432->18198611, apps: 0/134, packages: 0/5
+[2023-03-24 15:36:56] Change number 18198611->18198763, apps: 0/132, packages: 0/9
+[2023-03-26 12:25:38] Packages changed: force all
+[2023-03-26 12:25:38] Apps changed: force all
+[2023-03-26 12:25:38] Change number 18198763->18214280, apps: 0/0, packages: 0/0
+[2023-03-26 12:25:38] Requesting 235 apps, 17 packages (meta data, 0 prev attempts, expected 11 KB)
+[2023-03-26 12:25:38] Requested 44 app access tokens, 41 received, 3 denied
+[2023-03-26 12:25:39] Updated SHAs with 41 new access tokens
+[2023-03-26 12:25:39] Downloaded 11 apps via HTTP, 510 KB (94 KB compressed)
+[2023-03-26 12:25:39] UpdatesJob: finished OK, apps updated 11 (510 KB), packages updated 0 (0 KB)
+[2023-03-26 12:25:54] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (958 KB)
+
+
+[2024-03-08 09:22:30] Client version: 1709168962
+[2024-03-08 09:22:30] Packages changed: force all
+[2024-03-08 09:22:30] Apps changed: force all
+[2024-03-08 09:22:30] Change number 18214280->22683806, apps: 0/0, packages: 0/0
+[2024-03-08 09:22:30] Requesting 235 apps, 17 packages (meta data, 0 prev attempts, expected 11 KB)
+[2024-03-08 09:22:31] Requested 44 app access tokens, 40 received, 4 denied
+[2024-03-08 09:22:31] Updated SHAs with 40 new access tokens
+[2024-03-08 09:22:36] Downloaded 159 apps via HTTP, 1300 KB (329 KB compressed)
+[2024-03-08 09:22:36] Requesting 38 apps, 1 packages (full data, 0 prev attempts, expected 36 KB)
+[2024-03-08 09:22:36] UpdatesJob: finished OK, apps updated 197 (1326 KB), packages updated 1 (9 KB)
+[2024-03-08 09:22:36] Requesting 5 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-08 09:22:37] Requested 4 app access tokens, 3 received, 1 denied
+[2024-03-08 09:22:37] Updated SHAs with 3 new access tokens
+[2024-03-08 09:22:37] Downloaded 2 apps via HTTP, 4 KB (1 KB compressed)
+[2024-03-08 09:22:37] Requesting 2 apps, 0 packages (full data, 0 prev attempts, expected 1 KB)
+[2024-03-08 09:22:38] UpdatesJob: finished OK, apps updated 4 (5 KB), packages updated 0 (0 KB)
+[2024-03-08 09:22:53] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 09:38:35] Apps changed: 1874900=22683904,
+[2024-03-08 09:38:35] Change number 22683806->22683967, apps: 1/126, packages: 0/15
+[2024-03-08 09:38:35] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-08 09:38:35] Downloaded 1 apps via HTTP, 5 KB (2 KB compressed)
+[2024-03-08 09:38:35] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2024-03-08 09:38:50] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 09:52:40] Apps changed: 443030=22684046,
+[2024-03-08 09:52:40] Change number 22683967->22684119, apps: 1/117, packages: 0/9
+[2024-03-08 09:52:40] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-08 09:52:40] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2024-03-08 09:52:40] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2024-03-08 09:52:56] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 10:08:55] Change number 22684119->22684329, apps: 0/148, packages: 0/23
+[2024-03-08 10:19:30] Change number 22684329->22684460, apps: 0/154, packages: 0/8
+[2024-03-08 10:33:20] Change number 22684460->22684615, apps: 0/126, packages: 0/5
+[2024-03-08 10:48:48] Change number 22684615->22684800, apps: 0/149, packages: 0/5
+[2024-03-08 11:02:54] Change number 22684800->22685011, apps: 0/253, packages: 0/45
+[2024-03-08 11:18:09] Apps changed: 1493710=22685147,
+[2024-03-08 11:18:09] Change number 22685011->22685166, apps: 1/170, packages: 0/12
+[2024-03-08 11:18:09] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-08 11:18:10] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-03-08 11:18:10] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-03-08 11:18:25] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 13:25:54] Packages changed: force all
+[2024-03-08 13:25:54] Apps changed: force all
+[2024-03-08 13:25:54] Change number 22685166->22686662, apps: 0/0, packages: 0/0
+[2024-03-08 13:25:54] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-03-08 13:25:54] Requested 47 app access tokens, 43 received, 4 denied
+[2024-03-08 13:25:55] Updated SHAs with 43 new access tokens
+[2024-03-08 13:25:55] Downloaded 1 apps via HTTP, 12 KB (3 KB compressed)
+[2024-03-08 13:25:55] UpdatesJob: finished OK, apps updated 1 (12 KB), packages updated 0 (0 KB)
+[2024-03-08 13:26:10] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 13:41:39] Change number 22686662->22686850, apps: 0/148, packages: 0/19
+[2024-03-08 13:57:23] Change number 22686850->22687031, apps: 0/136, packages: 0/14
+[2024-03-08 14:12:22] Change number 22687031->22687182, apps: 0/122, packages: 0/13
+[2024-03-08 14:32:05] Change number 22687182->22687424, apps: 0/251, packages: 0/19
+[2024-03-08 14:46:04] Change number 22687424->22687557, apps: 0/104, packages: 0/9
+[2024-03-08 14:59:37] Change number 22687557->22687705, apps: 0/215, packages: 0/8
+[2024-03-08 15:15:24] Apps changed: 2180100=22687887,
+[2024-03-08 15:15:24] Change number 22687705->22687892, apps: 1/226, packages: 0/16
+[2024-03-08 15:15:24] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-08 15:15:24] Downloaded 1 apps via HTTP, 1 KB (0 KB compressed)
+[2024-03-08 15:15:24] UpdatesJob: finished OK, apps updated 1 (1 KB), packages updated 0 (0 KB)
+[2024-03-08 15:15:39] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 15:29:11] Change number 22687892->22688035, apps: 0/116, packages: 0/11
+[2024-03-08 15:44:38] Change number 22688035->22688234, apps: 0/166, packages: 0/3
+[2024-03-08 16:00:35] Change number 22688234->22688485, apps: 0/183, packages: 0/14
+[2024-03-08 16:14:37] Change number 22688485->22688670, apps: 0/220, packages: 0/13
+[2024-03-08 16:29:23] Apps changed: 1493710=22688847,
+[2024-03-08 16:29:23] Change number 22688670->22688862, apps: 1/136, packages: 0/14
+[2024-03-08 16:29:23] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-08 16:29:24] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-03-08 16:29:24] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-03-08 16:29:39] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 16:44:50] Apps changed: 1493710=22688865,
+[2024-03-08 16:44:50] Change number 22688862->22689070, apps: 1/161, packages: 0/16
+[2024-03-08 16:44:50] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-08 16:44:51] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-03-08 16:44:51] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-03-08 16:45:06] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 17:01:02] Apps changed: 233780=22689128,
+[2024-03-08 17:01:02] Change number 22689070->22689305, apps: 1/171, packages: 0/41
+[2024-03-08 17:01:03] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-08 17:01:03] Downloaded 1 apps via HTTP, 12 KB (3 KB compressed)
+[2024-03-08 17:01:03] UpdatesJob: finished OK, apps updated 1 (12 KB), packages updated 0 (0 KB)
+[2024-03-08 17:01:18] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 17:14:59] Change number 22689305->22689482, apps: 0/233, packages: 0/11
+[2024-03-08 18:08:16] Apps changed: 1628350=22689587,1391110=22689560,1070560=22689535,
+[2024-03-08 18:08:16] Change number 22689482->22690158, apps: 3/426, packages: 0/50
+[2024-03-08 18:08:16] Requesting 3 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-08 18:08:20] Downloaded 3 apps via HTTP, 4 KB (2 KB compressed)
+[2024-03-08 18:08:20] UpdatesJob: finished OK, apps updated 3 (4 KB), packages updated 0 (0 KB)
+[2024-03-08 18:08:35] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 18:09:04] Change number 22690158->22690168, apps: 0/9, packages: 0/1
+[2024-03-08 18:23:13] Change number 22690168->22690351, apps: 0/204, packages: 0/18
+[2024-03-08 18:38:42] Change number 22690351->22690535, apps: 0/144, packages: 0/13
+[2024-03-08 18:53:11] Change number 22690535->22690732, apps: 0/139, packages: 0/12
+[2024-03-08 19:08:47] Packages changed: force all
+[2024-03-08 19:08:47] Apps changed: 70=22690739,
+[2024-03-08 19:08:47] Change number 22690732->22690970, apps: 1/265, packages: 0/0
+[2024-03-08 19:08:47] Requesting 1 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-08 19:08:48] Downloaded 1 apps via HTTP, 18 KB (5 KB compressed)
+[2024-03-08 19:08:48] UpdatesJob: finished OK, apps updated 1 (18 KB), packages updated 0 (0 KB)
+[2024-03-08 19:09:03] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 19:23:21] Apps changed: 1493710=22691107,
+[2024-03-08 19:23:21] Change number 22690970->22691124, apps: 1/187, packages: 0/9
+[2024-03-08 19:23:21] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-08 19:23:22] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-03-08 19:23:22] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-03-08 19:23:37] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 19:37:47] Change number 22691124->22691353, apps: 0/135, packages: 0/12
+[2024-03-08 19:53:42] Change number 22691353->22691495, apps: 0/109, packages: 0/9
+[2024-03-08 20:09:02] Apps changed: 1493710=22691589,
+[2024-03-08 20:09:02] Change number 22691495->22691670, apps: 1/115, packages: 0/34
+[2024-03-08 20:09:02] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-08 20:09:02] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-03-08 20:09:02] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-03-08 20:09:17] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-08 20:25:29] Change number 22691670->22691846, apps: 0/211, packages: 0/13
+[2024-03-08 20:40:30] Change number 22691846->22691988, apps: 0/102, packages: 0/7
+[2024-03-08 20:54:28] Change number 22691988->22692109, apps: 0/97, packages: 0/9
+[2024-03-08 21:08:40] Change number 22692109->22692251, apps: 0/98, packages: 0/12
+[2024-03-09 10:29:03] Packages changed: force all
+[2024-03-09 10:29:03] Apps changed: force all
+[2024-03-09 10:29:03] Change number 22692251->22696963, apps: 0/0, packages: 0/0
+[2024-03-09 10:29:03] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-03-09 10:29:04] Requested 47 app access tokens, 43 received, 4 denied
+[2024-03-09 10:29:04] Updated SHAs with 43 new access tokens
+[2024-03-09 10:29:06] Downloaded 5 apps via HTTP, 414 KB (64 KB compressed)
+[2024-03-09 10:29:06] UpdatesJob: finished OK, apps updated 5 (414 KB), packages updated 0 (0 KB)
+[2024-03-09 10:29:21] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-09 10:44:13] Apps changed: 1874900=22696965,
+[2024-03-09 10:44:13] Change number 22696963->22697057, apps: 1/63, packages: 0/8
+[2024-03-09 10:44:13] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-09 10:44:14] Downloaded 1 apps via HTTP, 5 KB (2 KB compressed)
+[2024-03-09 10:44:14] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2024-03-09 10:44:29] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-09 10:59:43] Change number 22697057->22697120, apps: 0/118, packages: 0/1
+[2024-03-09 12:29:54] Change number 22697120->22697550, apps: 0/361, packages: 0/60
+[2024-03-09 12:43:33] Change number 22697550->22697617, apps: 0/52, packages: 0/5
+[2024-03-09 12:59:07] Change number 22697617->22697683, apps: 0/48, packages: 0/4
+[2024-03-09 13:13:48] Change number 22697683->22697773, apps: 0/146, packages: 0/18
+[2024-03-09 13:30:04] Change number 22697773->22697888, apps: 0/107, packages: 0/8
+[2024-03-09 13:45:17] Change number 22697888->22697963, apps: 0/57, packages: 0/3
+[2024-03-09 13:58:51] Change number 22697963->22698027, apps: 0/54, packages: 0/4
+[2024-03-09 14:13:09] Change number 22698027->22698097, apps: 0/114, packages: 0/5
+[2024-03-09 16:57:01] Packages changed: force all
+[2024-03-09 16:57:01] Change number 22698097->22698943, apps: 0/681, packages: 0/0
+[2024-03-09 16:57:01] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-09 16:57:01] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-03-09 17:10:55] Change number 22698943->22699007, apps: 0/135, packages: 0/8
+[2024-03-09 17:27:06] Change number 22699007->22699084, apps: 0/57, packages: 0/9
+[2024-03-09 17:42:26] Apps changed: 1874900=22699147,
+[2024-03-09 17:42:26] Change number 22699084->22699172, apps: 1/68, packages: 0/10
+[2024-03-09 17:42:26] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-09 17:42:26] Downloaded 1 apps via HTTP, 5 KB (2 KB compressed)
+[2024-03-09 17:42:26] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2024-03-09 17:42:42] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-09 17:57:03] Change number 22699172->22699255, apps: 0/64, packages: 0/10
+[2024-03-09 18:12:03] Packages changed: force all
+[2024-03-09 18:12:03] Change number 22699255->22699351, apps: 0/157, packages: 0/0
+[2024-03-09 18:12:03] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-09 18:12:03] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-03-09 18:27:09] Change number 22699351->22699437, apps: 0/66, packages: 0/2
+[2024-03-09 18:42:05] Change number 22699437->22699501, apps: 0/53, packages: 0/5
+[2024-03-09 18:57:35] Apps changed: 70=22699559,39150=22699559,
+[2024-03-09 18:57:35] Change number 22699501->22699574, apps: 2/207, packages: 0/7
+[2024-03-09 18:57:35] Requesting 2 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-09 18:57:36] Downloaded 2 apps via HTTP, 28 KB (8 KB compressed)
+[2024-03-09 18:57:36] UpdatesJob: finished OK, apps updated 2 (28 KB), packages updated 0 (0 KB)
+[2024-03-09 18:57:51] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-09 19:12:22] Packages changed: force all
+[2024-03-09 19:12:22] Change number 22699574->22699657, apps: 0/155, packages: 0/0
+[2024-03-09 19:12:22] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-09 19:12:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-03-09 19:27:05] Change number 22699657->22699736, apps: 0/62, packages: 0/0
+[2024-03-09 19:43:08] Change number 22699736->22699819, apps: 0/69, packages: 0/3
+[2024-03-09 19:59:07] Change number 22699819->22699885, apps: 0/54, packages: 0/4
+[2024-03-09 20:13:37] Change number 22699885->22699949, apps: 0/110, packages: 0/8
+[2024-03-09 20:30:05] Change number 22699949->22700040, apps: 0/71, packages: 0/6
+[2024-03-09 20:46:14] Change number 22700040->22700102, apps: 0/55, packages: 0/1
+[2024-03-09 21:00:01] Change number 22700102->22700168, apps: 0/49, packages: 0/9
+[2024-03-09 21:13:46] Change number 22700168->22700215, apps: 0/115, packages: 0/10
+[2024-03-09 21:29:00] Change number 22700215->22700282, apps: 0/51, packages: 0/9
+[2024-03-09 21:44:55] Change number 22700282->22700349, apps: 0/55, packages: 0/5
+[2024-03-09 21:59:16] Change number 22700349->22700427, apps: 0/55, packages: 0/13
+[2024-03-09 22:13:50] Change number 22700427->22700495, apps: 0/114, packages: 0/2
+[2024-03-09 22:29:19] Change number 22700495->22700564, apps: 0/49, packages: 0/11
+[2024-03-09 23:50:28] Apps changed: 1874900=22700808,
+[2024-03-09 23:50:28] Change number 22700564->22700869, apps: 1/269, packages: 0/29
+[2024-03-09 23:50:28] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-09 23:50:28] Downloaded 1 apps via HTTP, 5 KB (2 KB compressed)
+[2024-03-09 23:50:28] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2024-03-09 23:50:44] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-09 23:51:18] Change number 22700869->22700872, apps: 0/1, packages: 0/2
+[2024-03-10 00:07:14] Change number 22700872->22700938, apps: 0/164, packages: 0/7
+[2024-03-10 00:21:00] Change number 22700938->22700990, apps: 0/39, packages: 0/5
+[2024-03-10 11:06:37] Packages changed: force all
+[2024-03-10 11:06:37] Apps changed: force all
+[2024-03-10 11:06:37] Change number 22700990->22703362, apps: 0/0, packages: 0/0
+[2024-03-10 11:06:37] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-03-10 11:06:37] Requested 47 app access tokens, 43 received, 4 denied
+[2024-03-10 11:06:38] Updated SHAs with 43 new access tokens
+[2024-03-10 11:06:38] Downloaded 2 apps via HTTP, 15 KB (5 KB compressed)
+[2024-03-10 11:06:38] UpdatesJob: finished OK, apps updated 2 (15 KB), packages updated 0 (0 KB)
+[2024-03-10 11:06:53] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-10 11:21:00] Change number 22703362->22703415, apps: 0/101, packages: 0/8
+[2024-03-10 11:35:15] Change number 22703415->22703478, apps: 0/45, packages: 0/19
+[2024-03-10 15:06:09] Packages changed: force all
+[2024-03-10 15:06:09] Change number 22703478->22704427, apps: 0/800, packages: 0/0
+[2024-03-10 15:06:09] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-10 15:06:09] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-03-10 15:07:00] Change number 22704427->22704430, apps: 0/3, packages: 0/0
+[2024-03-10 15:21:07] Change number 22704430->22704490, apps: 0/136, packages: 0/13
+[2024-03-10 15:35:09] Change number 22704490->22704547, apps: 0/44, packages: 0/5
+[2024-03-10 16:29:56] Change number 22704547->22704863, apps: 0/349, packages: 0/57
+[2024-03-10 16:46:01] Change number 22704863->22704931, apps: 0/55, packages: 0/8
+[2024-03-10 16:59:37] Change number 22704931->22704997, apps: 0/50, packages: 0/4
+[2024-03-10 17:15:05] Change number 22704997->22705072, apps: 0/138, packages: 0/8
+[2024-03-11 07:48:52] Packages changed: force all
+[2024-03-11 07:48:52] Apps changed: force all
+[2024-03-11 07:48:52] Change number 22705072->22709638, apps: 0/0, packages: 0/0
+[2024-03-11 07:48:52] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-03-11 07:48:53] Requested 47 app access tokens, 43 received, 4 denied
+[2024-03-11 07:48:53] Updated SHAs with 43 new access tokens
+[2024-03-11 07:48:55] Downloaded 2 apps via HTTP, 15 KB (5 KB compressed)
+[2024-03-11 07:48:55] UpdatesJob: finished OK, apps updated 2 (15 KB), packages updated 0 (0 KB)
+[2024-03-11 07:49:10] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-11 07:49:43] Change number 22709638->22709645, apps: 0/4, packages: 0/2
+[2024-03-11 07:50:48] Change number 22709645->22709655, apps: 0/8, packages: 0/0
+[2024-03-11 08:05:35] Apps changed: 570=22709668,
+[2024-03-11 08:05:35] Change number 22709655->22709766, apps: 1/140, packages: 0/9
+[2024-03-11 08:05:35] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-11 08:05:36] Downloaded 1 apps via HTTP, 384 KB (55 KB compressed)
+[2024-03-11 08:05:36] UpdatesJob: finished OK, apps updated 1 (384 KB), packages updated 0 (0 KB)
+[2024-03-11 08:05:51] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-11 08:21:06] Change number 22709766->22709903, apps: 0/114, packages: 0/16
+[2024-03-11 08:35:03] Change number 22709903->22709992, apps: 0/59, packages: 0/10
+[2024-03-11 08:51:19] Change number 22709992->22710149, apps: 0/98, packages: 0/31
+[2024-03-11 09:06:41] Change number 22710149->22710291, apps: 0/101, packages: 0/13
+[2024-03-11 09:20:44] Change number 22710291->22710406, apps: 0/120, packages: 0/8
+[2024-03-11 09:35:07] Change number 22710406->22710545, apps: 0/105, packages: 0/11
+[2024-03-11 09:51:12] Change number 22710545->22710737, apps: 0/131, packages: 0/18
+[2024-03-11 10:05:11] Change number 22710737->22710890, apps: 0/98, packages: 0/9
+[2024-03-11 10:19:49] Apps changed: 1874900=22710980,
+[2024-03-11 10:19:49] Change number 22710890->22711074, apps: 1/153, packages: 0/52
+[2024-03-11 10:19:49] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-11 10:19:50] Downloaded 1 apps via HTTP, 5 KB (2 KB compressed)
+[2024-03-11 10:19:50] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2024-03-11 10:20:05] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-11 10:34:51] Change number 22711074->22711233, apps: 0/134, packages: 0/17
+[2024-03-11 10:49:40] Change number 22711233->22711398, apps: 0/123, packages: 0/16
+[2024-03-11 11:05:28] Change number 22711398->22711592, apps: 0/146, packages: 0/16
+[2024-03-11 11:20:53] Change number 22711592->22711781, apps: 0/202, packages: 0/21
+[2024-03-11 11:36:32] Change number 22711781->22711944, apps: 0/128, packages: 0/14
+[2024-03-11 11:52:13] Apps changed: 1874900=22712084,
+[2024-03-11 11:52:13] Change number 22711944->22712140, apps: 1/148, packages: 0/18
+[2024-03-11 11:52:13] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-11 11:52:14] Downloaded 1 apps via HTTP, 5 KB (2 KB compressed)
+[2024-03-11 11:52:14] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2024-03-11 11:52:29] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-11 12:06:25] Change number 22712140->22712291, apps: 0/208, packages: 0/22
+[2024-03-11 12:21:20] Change number 22712291->22712428, apps: 0/154, packages: 0/7
+[2024-03-11 12:37:35] Change number 22712428->22712602, apps: 0/129, packages: 0/19
+[2024-03-11 12:53:27] Change number 22712602->22712789, apps: 0/157, packages: 0/17
+[2024-03-11 13:07:33] Change number 22712789->22712929, apps: 0/100, packages: 0/10
+[2024-03-11 13:22:18] Change number 22712929->22713144, apps: 0/226, packages: 0/7
+[2024-03-11 13:37:11] Change number 22713144->22713297, apps: 0/139, packages: 0/10
+[2024-03-11 13:52:42] Change number 22713297->22713465, apps: 0/135, packages: 0/9
+[2024-03-11 14:07:29] Change number 22713465->22713652, apps: 0/147, packages: 0/24
+[2024-03-11 14:23:28] Change number 22713652->22713826, apps: 0/191, packages: 0/10
+[2024-03-11 14:38:02] Change number 22713826->22714011, apps: 0/156, packages: 0/12
+[2024-03-11 14:51:43] Change number 22714011->22714197, apps: 0/141, packages: 0/8
+[2024-03-11 15:06:05] Change number 22714197->22714357, apps: 0/119, packages: 0/9
+[2024-03-11 15:36:50] Change number 22714357->22714783, apps: 0/347, packages: 0/49
+[2024-03-11 15:37:42] Change number 22714783->22714788, apps: 0/3, packages: 0/2
+[2024-03-11 15:38:51] Change number 22714788->22714801, apps: 0/11, packages: 0/4
+[2024-03-11 15:53:34] Apps changed: 564=22714902,
+[2024-03-11 15:53:34] Change number 22714801->22715007, apps: 1/156, packages: 0/27
+[2024-03-11 15:53:34] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-11 15:53:35] Downloaded 1 apps via HTTP, 2 KB (0 KB compressed)
+[2024-03-11 15:53:35] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-03-11 15:53:50] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-11 16:09:58] Apps changed: 383870=22715009,
+[2024-03-11 16:09:58] Change number 22715007->22715223, apps: 1/351, packages: 0/24
+[2024-03-11 16:09:58] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-11 16:09:58] Downloaded 1 apps via HTTP, 10 KB (2 KB compressed)
+[2024-03-11 16:09:58] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2024-03-11 16:10:13] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-11 16:24:26] Change number 22715223->22715431, apps: 0/145, packages: 0/19
+[2024-03-11 16:40:19] Apps changed: 233780=22715474,
+[2024-03-11 16:40:19] Change number 22715431->22715634, apps: 1/161, packages: 0/17
+[2024-03-11 16:40:19] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-11 16:40:19] Downloaded 1 apps via HTTP, 12 KB (3 KB compressed)
+[2024-03-11 16:40:19] UpdatesJob: finished OK, apps updated 1 (12 KB), packages updated 0 (0 KB)
+[2024-03-11 16:40:35] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-11 16:56:13] Change number 22715634->22715853, apps: 0/169, packages: 0/34
+[2024-03-11 18:23:02] Packages changed: force all
+[2024-03-11 18:23:02] Apps changed: 1493710=22716670,564=22716365,
+[2024-03-11 18:23:02] Change number 22715853->22717050, apps: 2/831, packages: 0/0
+[2024-03-11 18:23:02] Requesting 2 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-11 18:23:02] Downloaded 2 apps via HTTP, 4 KB (2 KB compressed)
+[2024-03-11 18:23:02] UpdatesJob: finished OK, apps updated 2 (4 KB), packages updated 0 (0 KB)
+[2024-03-11 18:23:17] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-11 18:36:47] Change number 22717050->22717189, apps: 0/106, packages: 0/13
+[2024-03-11 18:50:34] Change number 22717189->22717409, apps: 0/141, packages: 0/11
+[2024-03-11 19:05:16] Packages changed: force all
+[2024-03-11 19:05:16] Change number 22717409->22717634, apps: 0/141, packages: 0/0
+[2024-03-11 19:05:16] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-11 19:05:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-03-11 19:19:12] Apps changed: 443030=22717714,
+[2024-03-11 19:19:12] Change number 22717634->22717815, apps: 1/210, packages: 0/22
+[2024-03-11 19:19:12] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-03-11 19:19:13] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2024-03-11 19:19:13] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2024-03-11 19:19:28] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-11 19:20:02] Change number 22717815->22717827, apps: 0/10, packages: 0/2
+[2024-03-11 19:34:32] Change number 22717827->22718041, apps: 0/148, packages: 0/42
+[2024-03-11 19:50:46] Change number 22718041->22718225, apps: 0/133, packages: 0/21
+[2024-03-11 20:04:34] Change number 22718225->22718407, apps: 0/272, packages: 0/11
+[2024-03-11 20:18:34] Change number 22718407->22718533, apps: 0/167, packages: 0/1
+[2024-03-11 20:34:53] Change number 22718533->22718756, apps: 0/147, packages: 0/25
+[2024-03-12 07:25:50] Packages changed: force all
+[2024-03-12 07:25:50] Apps changed: force all
+[2024-03-12 07:25:50] Change number 22718756->22724472, apps: 0/0, packages: 0/0
+[2024-03-12 07:25:50] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-03-12 07:25:51] Requested 47 app access tokens, 43 received, 4 denied
+[2024-03-12 07:25:51] Updated SHAs with 43 new access tokens
+[2024-03-12 07:26:07] Downloaded 6 apps via HTTP, 470 KB (81 KB compressed)
+[2024-03-12 07:26:07] UpdatesJob: finished OK, apps updated 6 (470 KB), packages updated 0 (0 KB)
+[2024-03-12 07:26:22] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (987 KB)
+[2024-03-12 07:40:06] Change number 22724472->22724581, apps: 0/86, packages: 0/10
+[2024-03-12 07:55:41] Change number 22724581->22724686, apps: 0/186, packages: 0/6
+[2024-03-12 08:26:37] Change number 22724686->22724960, apps: 0/232, packages: 0/34
+[2024-03-12 08:27:27] Change number 22724960->22724967, apps: 0/7, packages: 0/0
+
+
+[2024-06-05 20:16:11] Client version: 1709846872
+[2024-06-05 20:16:11] Packages changed: force all
+[2024-06-05 20:16:11] Apps changed: force all
+[2024-06-05 20:16:11] Change number 22724967->23843321, apps: 0/0, packages: 0/0
+[2024-06-05 20:16:11] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-06-05 20:16:11] Requested 47 app access tokens, 43 received, 4 denied
+[2024-06-05 20:16:11] Updated SHAs with 43 new access tokens
+[2024-06-05 20:16:16] Downloaded 78 apps via HTTP, 1097 KB (254 KB compressed)
+[2024-06-05 20:16:16] Requesting 3 apps, 1 packages (full data, 0 prev attempts, expected 11 KB)
+[2024-06-05 20:16:17] UpdatesJob: finished OK, apps updated 81 (1099 KB), packages updated 1 (9 KB)
+[2024-06-05 20:16:17] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-06-05 20:16:17] Requested 1 app access tokens, 0 received, 1 denied
+[2024-06-05 20:16:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-05 20:16:32] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (989 KB)
+
+
+[2024-06-11 09:59:44] Client version: 1709846872
+[2024-06-11 09:59:44] Packages changed: force all
+[2024-06-11 09:59:44] Apps changed: force all
+[2024-06-11 09:59:44] Change number 23843321->23919104, apps: 0/0, packages: 0/0
+[2024-06-11 09:59:44] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-06-11 09:59:44] Requested 47 app access tokens, 43 received, 4 denied
+[2024-06-11 09:59:45] Updated SHAs with 43 new access tokens
+[2024-06-11 09:59:45] Downloaded 11 apps via HTTP, 501 KB (85 KB compressed)
+[2024-06-11 09:59:45] UpdatesJob: finished OK, apps updated 11 (501 KB), packages updated 0 (0 KB)
+[2024-06-11 10:00:00] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (988 KB)
+[2024-06-11 10:01:50] RequestAppInfoUpdate: AppIDs 254700
+[2024-06-11 10:01:50] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-06-11 10:01:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-07-03 13:14:50] Client version: 1709846872
+[2024-07-03 13:14:50] Packages changed: force all
+[2024-07-03 13:14:50] Apps changed: force all
+[2024-07-03 13:14:50] Change number 23919104->24221078, apps: 0/0, packages: 0/0
+[2024-07-03 13:14:50] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-07-03 13:14:51] Requested 47 app access tokens, 43 received, 4 denied
+[2024-07-03 13:14:51] Updated SHAs with 43 new access tokens
+[2024-07-03 13:14:52] Downloaded 36 apps via HTTP, 791 KB (164 KB compressed)
+[2024-07-03 13:14:52] Requesting 1 apps, 0 packages (full data, 0 prev attempts, expected 0 KB)
+[2024-07-03 13:14:52] UpdatesJob: finished OK, apps updated 37 (791 KB), packages updated 0 (0 KB)
+[2024-07-03 13:15:07] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (989 KB)
+[2024-07-03 13:30:25] Change number 24221078->24221233, apps: 0/121, packages: 0/11
+[2024-07-03 13:45:51] Change number 24221233->24221379, apps: 0/172, packages: 0/10
+[2024-07-03 14:01:02] Apps changed: 223350=24221533,
+[2024-07-03 14:01:02] Change number 24221379->24221558, apps: 1/138, packages: 0/8
+[2024-07-03 14:01:02] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-07-03 14:01:03] Downloaded 1 apps via HTTP, 14 KB (4 KB compressed)
+[2024-07-03 14:01:03] UpdatesJob: finished OK, apps updated 1 (14 KB), packages updated 0 (0 KB)
+[2024-07-03 14:01:18] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (989 KB)
+[2024-07-03 17:22:24] Packages changed: force all
+[2024-07-03 17:22:24] Apps changed: force all
+[2024-07-03 17:22:24] Change number 24221558->24224113, apps: 0/0, packages: 0/0
+[2024-07-03 17:22:24] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-07-03 17:22:24] Requested 47 app access tokens, 43 received, 4 denied
+[2024-07-03 17:22:24] Updated SHAs with 43 new access tokens
+[2024-07-03 17:22:25] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-07-03 17:22:25] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-07-03 17:22:40] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (989 KB)
+[2024-07-03 17:23:24] Change number 24224113->24224125, apps: 0/10, packages: 0/1
+[2024-07-03 17:38:07] Change number 24224125->24224340, apps: 0/145, packages: 0/16
+[2024-07-03 17:54:11] Apps changed: 1493710=24224410,
+[2024-07-03 17:54:11] Change number 24224340->24224548, apps: 1/212, packages: 0/34
+[2024-07-03 17:54:11] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-07-03 17:54:12] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-07-03 17:54:12] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-07-03 17:54:27] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (989 KB)
+[2024-07-03 18:08:04] Change number 24224548->24224749, apps: 0/152, packages: 0/35
+[2024-07-03 20:06:52] Packages changed: force all
+[2024-07-03 20:06:52] Apps changed: 2738040=24225295,
+[2024-07-03 20:06:52] Change number 24224749->24226201, apps: 1/917, packages: 0/0
+[2024-07-03 20:06:52] Requesting 1 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-07-03 20:06:53] Downloaded 1 apps via HTTP, 3 KB (1 KB compressed)
+[2024-07-03 20:06:53] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2024-07-03 20:07:08] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (989 KB)
+[2024-07-03 20:07:51] Change number 24226201->24226210, apps: 0/9, packages: 0/0
+[2024-07-03 20:24:18] Change number 24226210->24226386, apps: 0/126, packages: 0/4
+[2024-07-04 08:20:50] Packages changed: force all
+[2024-07-04 08:20:50] Apps changed: force all
+[2024-07-04 08:20:50] Change number 24226386->24232263, apps: 0/0, packages: 0/0
+[2024-07-04 08:20:50] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-07-04 08:20:51] Requested 47 app access tokens, 43 received, 4 denied
+[2024-07-04 08:20:51] Updated SHAs with 43 new access tokens
+[2024-07-04 08:20:52] Downloaded 6 apps via HTTP, 417 KB (65 KB compressed)
+[2024-07-04 08:20:52] UpdatesJob: finished OK, apps updated 6 (417 KB), packages updated 0 (0 KB)
+[2024-07-04 08:21:07] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (989 KB)
+[2024-07-04 08:35:57] Change number 24232263->24232406, apps: 0/118, packages: 0/15
+[2024-07-04 08:52:00] Change number 24232406->24232567, apps: 0/165, packages: 0/27
+[2024-07-04 09:05:49] Change number 24232567->24232722, apps: 0/118, packages: 0/12
+[2024-07-04 09:20:56] Apps changed: 443030=24232814,254700=24232779,
+[2024-07-04 09:20:56] Change number 24232722->24232874, apps: 2/112, packages: 0/10
+[2024-07-04 09:20:56] Requesting 2 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-07-04 09:20:57] Downloaded 2 apps via HTTP, 26 KB (8 KB compressed)
+[2024-07-04 09:20:57] UpdatesJob: finished OK, apps updated 2 (26 KB), packages updated 0 (0 KB)
+[2024-07-04 09:21:12] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+[2024-07-04 09:35:17] Change number 24232874->24233023, apps: 0/105, packages: 0/14
+[2024-07-04 09:48:47] Change number 24233023->24233229, apps: 0/198, packages: 0/15
+[2024-07-04 10:02:35] Change number 24233229->24233419, apps: 0/253, packages: 0/15
+[2024-07-04 10:18:29] Apps changed: 294420=24233584,
+[2024-07-04 10:18:29] Change number 24233419->24233589, apps: 1/137, packages: 0/10
+[2024-07-04 10:18:29] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-07-04 10:18:30] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2024-07-04 10:18:30] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2024-07-04 10:18:45] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+[2024-07-04 10:32:08] Change number 24233589->24233750, apps: 0/122, packages: 0/19
+[2024-07-04 10:47:37] Apps changed: 92=24233859,
+[2024-07-04 10:47:37] Change number 24233750->24233924, apps: 1/183, packages: 0/14
+[2024-07-04 10:47:37] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-07-04 10:47:37] Downloaded 1 apps via HTTP, 1 KB (0 KB compressed)
+[2024-07-04 10:47:37] UpdatesJob: finished OK, apps updated 1 (1 KB), packages updated 0 (0 KB)
+[2024-07-04 10:47:53] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+[2024-07-04 11:03:36] Change number 24233924->24234147, apps: 0/165, packages: 0/17
+[2024-07-04 11:17:36] Change number 24234147->24234327, apps: 0/145, packages: 0/10
+[2024-07-04 11:32:49] Change number 24234327->24234530, apps: 0/147, packages: 0/32
+[2024-07-04 11:47:23] Apps changed: 2738040=24234681,
+[2024-07-04 11:47:23] Change number 24234530->24234743, apps: 1/211, packages: 0/28
+[2024-07-04 11:47:23] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-07-04 11:47:24] Downloaded 1 apps via HTTP, 3 KB (1 KB compressed)
+[2024-07-04 11:47:24] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2024-07-04 11:47:39] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+[2024-07-04 12:01:56] Change number 24234743->24234931, apps: 0/133, packages: 0/36
+[2024-07-04 12:17:44] Change number 24234931->24235097, apps: 0/128, packages: 0/11
+[2024-07-04 12:31:43] Change number 24235097->24235257, apps: 0/127, packages: 0/14
+[2024-07-04 12:46:48] Change number 24235257->24235448, apps: 0/196, packages: 0/17
+[2024-07-04 13:02:26] Change number 24235448->24235640, apps: 0/149, packages: 0/25
+[2024-07-04 15:33:25] Packages changed: force all
+[2024-07-04 15:33:25] Apps changed: force all
+[2024-07-04 15:33:25] Change number 24235640->24237441, apps: 0/0, packages: 0/0
+[2024-07-04 15:33:25] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-07-04 15:33:25] Requested 47 app access tokens, 43 received, 4 denied
+[2024-07-04 15:33:26] Updated SHAs with 43 new access tokens
+[2024-07-04 15:33:26] Downloaded 1 apps via HTTP, 3 KB (1 KB compressed)
+[2024-07-04 15:33:26] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2024-07-04 15:33:41] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+[2024-07-04 15:48:19] Change number 24237441->24237624, apps: 0/206, packages: 0/17
+[2024-07-04 16:02:24] Change number 24237624->24237804, apps: 0/143, packages: 0/18
+[2024-07-04 16:16:30] Change number 24237804->24238004, apps: 0/128, packages: 0/39
+[2024-07-04 16:32:18] Change number 24238004->24238193, apps: 0/149, packages: 0/18
+[2024-07-04 16:47:38] Change number 24238193->24238401, apps: 0/231, packages: 0/30
+[2024-07-04 17:03:09] Change number 24238401->24238620, apps: 0/162, packages: 0/18
+[2024-07-04 17:19:25] Change number 24238620->24238825, apps: 0/153, packages: 0/22
+[2024-07-04 17:34:50] Change number 24238825->24239004, apps: 0/139, packages: 0/11
+[2024-07-05 10:02:20] Packages changed: force all
+[2024-07-05 10:02:20] Apps changed: force all
+[2024-07-05 10:02:20] Change number 24239004->24247009, apps: 0/0, packages: 0/0
+[2024-07-05 10:02:20] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-07-05 10:02:20] Requested 47 app access tokens, 43 received, 4 denied
+[2024-07-05 10:02:21] Updated SHAs with 43 new access tokens
+[2024-07-05 10:02:22] Downloaded 5 apps via HTTP, 23 KB (8 KB compressed)
+[2024-07-05 10:02:22] UpdatesJob: finished OK, apps updated 5 (23 KB), packages updated 0 (0 KB)
+[2024-07-05 10:02:37] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+[2024-07-05 10:03:20] Change number 24247009->24247022, apps: 0/19, packages: 0/6
+[2024-07-05 10:18:30] Change number 24247022->24247290, apps: 0/209, packages: 0/22
+[2024-07-05 10:34:19] Change number 24247290->24247483, apps: 0/164, packages: 0/18
+[2024-07-05 10:49:58] Apps changed: 1493710=24247580,
+[2024-07-05 10:49:58] Change number 24247483->24247697, apps: 1/198, packages: 0/28
+[2024-07-05 10:49:58] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-07-05 10:49:59] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-07-05 10:49:59] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-07-05 10:50:14] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+[2024-07-05 11:05:51] Change number 24247697->24247903, apps: 0/159, packages: 0/19
+[2024-07-05 11:22:20] Change number 24247903->24248100, apps: 0/139, packages: 0/21
+[2024-07-05 11:35:54] Change number 24248100->24248243, apps: 0/106, packages: 0/9
+[2024-07-05 11:51:50] Apps changed: 443030=24248410,
+[2024-07-05 11:51:50] Change number 24248243->24248440, apps: 1/187, packages: 0/31
+[2024-07-05 11:51:50] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-07-05 11:51:51] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2024-07-05 11:51:51] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2024-07-05 11:52:06] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+[2024-07-05 12:07:56] Change number 24248440->24248680, apps: 0/176, packages: 0/32
+[2024-07-05 12:24:15] Change number 24248680->24248845, apps: 0/136, packages: 0/6
+[2024-07-05 12:40:15] Change number 24248845->24249077, apps: 0/139, packages: 0/59
+[2024-07-05 12:54:19] Packages changed: force all
+[2024-07-05 12:54:19] Change number 24249077->24249335, apps: 0/178, packages: 0/0
+[2024-07-05 12:54:19] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-07-05 12:54:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-07-05 16:43:56] Packages changed: force all
+[2024-07-05 16:43:56] Apps changed: force all
+[2024-07-05 16:43:56] Change number 24249335->24252137, apps: 0/0, packages: 0/0
+[2024-07-05 16:43:56] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-07-05 16:43:56] Requested 47 app access tokens, 43 received, 4 denied
+[2024-07-05 16:43:57] Updated SHAs with 43 new access tokens
+[2024-07-05 16:43:57] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-07-05 16:43:57] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-07-05 16:44:12] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+[2024-07-05 16:58:46] Change number 24252137->24252334, apps: 0/223, packages: 0/6
+[2024-07-05 17:14:33] Apps changed: 1493710=24252522,
+[2024-07-05 17:14:33] Change number 24252334->24252530, apps: 1/156, packages: 0/13
+[2024-07-05 17:14:33] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-07-05 17:14:34] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-07-05 17:14:34] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-07-05 17:14:49] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+[2024-07-05 17:30:23] Apps changed: 1493710=24252543,
+[2024-07-05 17:30:23] Change number 24252530->24252683, apps: 1/125, packages: 0/7
+[2024-07-05 17:30:24] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-07-05 17:30:24] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-07-05 17:30:24] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-07-05 17:30:39] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+[2024-07-06 08:38:47] Packages changed: force all
+[2024-07-06 08:38:47] Apps changed: force all
+[2024-07-06 08:38:47] Change number 24252683->24258982, apps: 0/0, packages: 0/0
+[2024-07-06 08:38:47] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-07-06 08:38:48] Requested 47 app access tokens, 43 received, 4 denied
+[2024-07-06 08:38:48] Updated SHAs with 43 new access tokens
+[2024-07-06 08:38:50] Downloaded 4 apps via HTTP, 19 KB (6 KB compressed)
+[2024-07-06 08:38:50] UpdatesJob: finished OK, apps updated 4 (19 KB), packages updated 0 (0 KB)
+[2024-07-06 08:39:05] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+[2024-07-06 08:39:49] Change number 24258982->24258984, apps: 0/2, packages: 0/0
+[2024-07-06 08:54:04] Change number 24258984->24259044, apps: 0/89, packages: 0/3
+[2024-07-06 09:09:40] Change number 24259044->24259116, apps: 0/56, packages: 0/7
+[2024-07-06 09:17:13] Change number 24259116->24259139, apps: 0/16, packages: 0/4
+[2024-07-06 09:33:32] Change number 24259139->24259205, apps: 0/43, packages: 0/10
+[2024-07-06 09:47:11] Change number 24259205->24259281, apps: 0/103, packages: 0/9
+[2024-07-06 10:02:54] Change number 24259281->24259419, apps: 0/193, packages: 0/11
+[2024-07-06 10:18:40] Change number 24259419->24259505, apps: 0/63, packages: 0/11
+[2024-07-06 12:55:15] Change number 24259505->24260210, apps: 0/574, packages: 0/64
+[2024-07-06 12:56:17] Change number 24260210->24260212, apps: 0/2, packages: 0/0
+[2024-07-06 13:10:33] Change number 24260212->24260281, apps: 0/41, packages: 0/8
+[2024-07-06 13:18:09] Change number 24260281->24260318, apps: 0/28, packages: 0/2
+[2024-07-06 13:32:03] Change number 24260318->24260371, apps: 0/45, packages: 0/1
+[2024-07-06 13:47:46] Change number 24260371->24260434, apps: 0/94, packages: 0/2
+[2024-07-06 14:03:22] Change number 24260434->24260502, apps: 0/144, packages: 0/11
+[2024-07-06 14:16:54] Change number 24260502->24260560, apps: 0/49, packages: 0/8
+[2024-07-06 14:30:42] Change number 24260560->24260631, apps: 0/54, packages: 0/10
+[2024-07-06 14:45:28] Change number 24260631->24260711, apps: 0/131, packages: 0/8
+[2024-07-06 14:49:02] Change number 24260711->24260725, apps: 0/12, packages: 0/0
+[2024-07-07 11:25:12] Packages changed: force all
+[2024-07-07 11:25:12] Apps changed: force all
+[2024-07-07 11:25:12] Change number 24260725->24265858, apps: 0/0, packages: 0/0
+[2024-07-07 11:25:12] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-07-07 11:25:13] Requested 47 app access tokens, 43 received, 4 denied
+[2024-07-07 11:25:13] Updated SHAs with 43 new access tokens
+[2024-07-07 11:25:14] Downloaded 2 apps via HTTP, 29 KB (8 KB compressed)
+[2024-07-07 11:25:14] UpdatesJob: finished OK, apps updated 2 (29 KB), packages updated 0 (0 KB)
+[2024-07-07 11:25:29] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (990 KB)
+
+
+[2024-07-14 12:04:24] Client version: 1718904662
+[2024-07-14 12:04:24] Packages changed: force all
+[2024-07-14 12:04:24] Apps changed: force all
+[2024-07-14 12:04:24] Change number 24265858->24356433, apps: 0/0, packages: 0/0
+[2024-07-14 12:04:24] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-07-14 12:04:25] Requested 47 app access tokens, 43 received, 4 denied
+[2024-07-14 12:04:25] Updated SHAs with 43 new access tokens
+[2024-07-14 12:04:26] Downloaded 13 apps via HTTP, 539 KB (96 KB compressed)
+[2024-07-14 12:04:26] UpdatesJob: finished OK, apps updated 13 (539 KB), packages updated 0 (0 KB)
+[2024-07-14 12:04:41] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (991 KB)
+
+
+[2024-08-22 11:47:31] Client version: 1718904662
+[2024-08-22 11:47:31] Packages changed: force all
+[2024-08-22 11:47:31] Apps changed: force all
+[2024-08-22 11:47:31] Change number 24356433->24894500, apps: 0/0, packages: 0/0
+[2024-08-22 11:47:31] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-08-22 11:47:31] Requested 47 app access tokens, 43 received, 4 denied
+[2024-08-22 11:47:32] Updated SHAs with 43 new access tokens
+[2024-08-22 11:47:33] Downloaded 32 apps via HTTP, 707 KB (147 KB compressed)
+[2024-08-22 11:47:33] Requesting 1 apps, 0 packages (full data, 0 prev attempts, expected 1 KB)
+[2024-08-22 11:47:33] UpdatesJob: finished OK, apps updated 33 (708 KB), packages updated 0 (0 KB)
+[2024-08-22 11:47:48] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (996 KB)
+[2024-08-22 12:01:34] Change number 24894500->24894684, apps: 0/139, packages: 0/31
+[2024-08-22 12:15:26] Change number 24894684->24894829, apps: 0/109, packages: 0/21
+[2024-08-22 12:29:54] Apps changed: 1042420=24894982,
+[2024-08-22 12:29:54] Change number 24894829->24895006, apps: 1/147, packages: 0/7
+[2024-08-22 12:29:55] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-22 12:29:55] Downloaded 1 apps via HTTP, 9 KB (3 KB compressed)
+[2024-08-22 12:29:55] UpdatesJob: finished OK, apps updated 1 (9 KB), packages updated 0 (0 KB)
+[2024-08-22 12:30:10] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (996 KB)
+[2024-08-22 12:46:09] Change number 24895006->24895197, apps: 0/184, packages: 0/13
+[2024-08-22 13:01:20] Apps changed: 223350=24895322,1042420=24895214,
+[2024-08-22 13:01:20] Change number 24895197->24895392, apps: 2/154, packages: 0/13
+[2024-08-22 13:01:20] Requesting 2 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-22 13:01:21] Downloaded 2 apps via HTTP, 23 KB (8 KB compressed)
+[2024-08-22 13:01:21] UpdatesJob: finished OK, apps updated 2 (23 KB), packages updated 0 (0 KB)
+[2024-08-22 13:01:36] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (996 KB)
+[2024-08-22 13:15:33] Change number 24895392->24895546, apps: 0/120, packages: 0/17
+[2024-08-22 13:31:33] Change number 24895546->24895746, apps: 0/282, packages: 0/35
+[2024-08-22 13:46:13] Apps changed: 1874900=24895782,
+[2024-08-22 13:46:13] Change number 24895746->24895939, apps: 1/191, packages: 0/13
+[2024-08-22 13:46:13] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-22 13:46:13] Downloaded 1 apps via HTTP, 5 KB (2 KB compressed)
+[2024-08-22 13:46:13] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2024-08-22 13:46:28] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (996 KB)
+[2024-08-22 14:01:45] Change number 24895939->24896151, apps: 0/166, packages: 0/36
+[2024-08-22 14:15:41] Change number 24896151->24896317, apps: 0/140, packages: 0/8
+[2024-08-22 14:31:31] Change number 24896317->24896521, apps: 0/164, packages: 0/5
+[2024-08-22 14:45:08] Change number 24896521->24896704, apps: 0/213, packages: 0/5
+[2024-08-22 15:01:12] Apps changed: 1042420=24896725,
+[2024-08-22 15:01:12] Change number 24896704->24896942, apps: 1/173, packages: 0/38
+[2024-08-22 15:01:13] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-22 15:01:13] Downloaded 1 apps via HTTP, 9 KB (3 KB compressed)
+[2024-08-22 15:01:13] UpdatesJob: finished OK, apps updated 1 (9 KB), packages updated 0 (0 KB)
+[2024-08-22 15:01:28] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (996 KB)
+[2024-08-22 15:15:11] Change number 24896942->24897128, apps: 0/133, packages: 0/25
+[2024-08-22 15:29:56] Change number 24897128->24897334, apps: 0/154, packages: 0/14
+[2024-08-22 15:44:15] Change number 24897334->24897527, apps: 0/186, packages: 0/19
+[2024-08-22 16:00:15] Apps changed: 1493710=24897618,
+[2024-08-22 16:00:15] Change number 24897527->24897704, apps: 1/137, packages: 0/11
+[2024-08-22 16:00:15] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-22 16:02:15] UpdatesJob: finished Timeout, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-22 16:02:35] Requesting 1 apps, 0 packages (meta data, 1 prev attempts, expected 0 KB)
+[2024-08-22 16:02:36] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-08-22 16:02:36] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-08-22 16:02:51] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (996 KB)
+[2024-08-22 16:16:10] Change number 24897704->24897891, apps: 0/156, packages: 0/11
+[2024-08-22 16:30:10] Apps changed: 223350=24897990,1899670=24897944,
+[2024-08-22 16:30:10] Change number 24897891->24898124, apps: 2/186, packages: 0/15
+[2024-08-22 16:30:10] Requesting 2 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-22 16:30:10] Downloaded 2 apps via HTTP, 15 KB (5 KB compressed)
+[2024-08-22 16:30:10] UpdatesJob: finished OK, apps updated 2 (15 KB), packages updated 0 (0 KB)
+[2024-08-22 16:30:26] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (996 KB)
+[2024-08-22 16:46:35] Change number 24898124->24898374, apps: 0/233, packages: 0/21
+[2024-08-22 17:02:30] Change number 24898374->24898614, apps: 0/161, packages: 0/48
+[2024-08-22 17:18:57] Change number 24898614->24898902, apps: 0/312, packages: 0/35
+[2024-08-22 21:18:52] Packages changed: force all
+[2024-08-22 21:18:52] Apps changed: force all
+[2024-08-22 21:18:52] Change number 24898902->24902254, apps: 0/0, packages: 0/0
+[2024-08-22 21:18:52] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-08-22 21:18:53] Requested 47 app access tokens, 43 received, 4 denied
+[2024-08-22 21:18:53] Updated SHAs with 43 new access tokens
+[2024-08-22 21:18:53] Downloaded 3 apps via HTTP, 30 KB (7 KB compressed)
+[2024-08-22 21:18:53] UpdatesJob: finished OK, apps updated 3 (30 KB), packages updated 0 (0 KB)
+[2024-08-22 21:19:08] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (996 KB)
+[2024-08-22 21:35:04] Change number 24902254->24902423, apps: 0/133, packages: 0/15
+[2024-08-22 22:11:41] Apps changed: 250820=24902547,
+[2024-08-22 22:11:41] Change number 24902423->24902796, apps: 1/304, packages: 0/21
+[2024-08-22 22:11:41] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-22 22:11:42] Downloaded 1 apps via HTTP, 57 KB (16 KB compressed)
+[2024-08-22 22:11:42] UpdatesJob: finished OK, apps updated 1 (57 KB), packages updated 0 (0 KB)
+[2024-08-22 22:11:57] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (996 KB)
+
+
+[2024-08-24 18:26:30] Client version: 1721173382
+[2024-08-24 18:26:30] Packages changed: force all
+[2024-08-24 18:26:30] Apps changed: force all
+[2024-08-24 18:26:30] Change number 24902796->24925865, apps: 0/0, packages: 0/0
+[2024-08-24 18:26:30] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-08-24 18:26:30] Requested 47 app access tokens, 43 received, 4 denied
+[2024-08-24 18:26:31] Updated SHAs with 43 new access tokens
+[2024-08-24 18:26:31] Downloaded 9 apps via HTTP, 437 KB (72 KB compressed)
+[2024-08-24 18:26:31] UpdatesJob: finished OK, apps updated 9 (437 KB), packages updated 0 (0 KB)
+[2024-08-24 18:26:46] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-24 18:40:13] Change number 24925865->24925919, apps: 0/43, packages: 0/4
+[2024-08-24 18:55:45] Change number 24925919->24926013, apps: 0/136, packages: 0/10
+[2024-08-24 19:10:38] Packages changed: force all
+[2024-08-24 19:10:38] Change number 24926013->24926127, apps: 0/69, packages: 0/0
+[2024-08-24 19:10:38] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-24 19:10:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-24 19:25:46] Change number 24926127->24926204, apps: 0/64, packages: 0/2
+[2024-08-24 19:40:53] Apps changed: 1493710=24926280,
+[2024-08-24 19:40:53] Change number 24926204->24926286, apps: 1/136, packages: 0/3
+[2024-08-24 19:40:53] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-24 19:40:53] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-08-24 19:40:53] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-08-24 19:41:08] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-24 19:56:03] Change number 24926286->24926390, apps: 0/72, packages: 0/16
+[2024-08-24 20:10:50] Change number 24926390->24926479, apps: 0/62, packages: 0/9
+[2024-08-25 09:56:09] Packages changed: force all
+[2024-08-25 09:56:09] Apps changed: force all
+[2024-08-25 09:56:09] Change number 24926479->24930194, apps: 0/0, packages: 0/0
+[2024-08-25 09:56:09] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-08-25 09:56:09] Requested 47 app access tokens, 43 received, 4 denied
+[2024-08-25 09:56:10] Updated SHAs with 43 new access tokens
+[2024-08-25 09:56:11] Downloaded 2 apps via HTTP, 19 KB (5 KB compressed)
+[2024-08-25 09:56:11] UpdatesJob: finished OK, apps updated 2 (19 KB), packages updated 0 (0 KB)
+[2024-08-25 09:56:26] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-25 09:57:04] Change number 24930194->24930199, apps: 0/5, packages: 0/0
+[2024-08-25 10:11:55] Change number 24930199->24930283, apps: 0/76, packages: 0/12
+[2024-08-25 10:28:19] Change number 24930283->24930365, apps: 0/149, packages: 0/13
+[2024-08-25 19:30:34] Packages changed: force all
+[2024-08-25 19:30:34] Apps changed: force all
+[2024-08-25 19:30:34] Change number 24930365->24933200, apps: 0/0, packages: 0/0
+[2024-08-25 19:30:34] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-08-25 19:30:34] Requested 47 app access tokens, 43 received, 4 denied
+[2024-08-25 19:30:35] Updated SHAs with 43 new access tokens
+[2024-08-25 19:30:35] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-25 19:45:39] Change number 24933200->24933277, apps: 0/127, packages: 0/6
+[2024-08-25 20:01:24] Change number 24933277->24933350, apps: 0/54, packages: 0/27
+[2024-08-25 20:16:42] Change number 24933350->24933439, apps: 0/66, packages: 0/7
+[2024-08-25 20:30:25] Change number 24933439->24933539, apps: 0/66, packages: 0/15
+[2024-08-25 20:46:44] Change number 24933539->24933642, apps: 0/139, packages: 0/18
+[2024-08-25 21:02:57] Change number 24933642->24933729, apps: 0/69, packages: 0/3
+[2024-08-25 21:15:10] Change number 24933729->24933781, apps: 0/41, packages: 0/9
+[2024-08-25 21:21:50] Change number 24933781->24933817, apps: 0/32, packages: 0/1
+[2024-08-25 21:35:29] Change number 24933817->24933905, apps: 0/49, packages: 0/4
+[2024-08-25 21:51:22] Change number 24933905->24933995, apps: 0/134, packages: 0/8
+[2024-08-25 22:07:38] Change number 24933995->24934080, apps: 0/73, packages: 0/3
+[2024-08-25 22:22:35] Change number 24934080->24934158, apps: 0/185, packages: 0/4
+[2024-08-26 09:50:55] Packages changed: force all
+[2024-08-26 09:50:55] Apps changed: force all
+[2024-08-26 09:50:55] Change number 24934158->24938469, apps: 0/0, packages: 0/0
+[2024-08-26 09:50:55] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-08-26 09:50:56] Requested 47 app access tokens, 43 received, 4 denied
+[2024-08-26 09:50:56] Updated SHAs with 43 new access tokens
+[2024-08-26 09:50:57] Downloaded 5 apps via HTTP, 58 KB (18 KB compressed)
+[2024-08-26 09:50:57] UpdatesJob: finished OK, apps updated 5 (58 KB), packages updated 0 (0 KB)
+[2024-08-26 09:51:12] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-26 10:05:02] Apps changed: 443030=24938611,
+[2024-08-26 10:05:02] Change number 24938469->24938672, apps: 1/167, packages: 0/35
+[2024-08-26 10:05:02] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-26 10:05:03] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2024-08-26 10:05:03] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2024-08-26 10:05:18] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-26 10:18:36] Change number 24938672->24938844, apps: 0/214, packages: 0/28
+[2024-08-26 10:32:40] Change number 24938844->24939042, apps: 0/124, packages: 0/20
+[2024-08-26 10:47:36] Change number 24939042->24939210, apps: 0/154, packages: 0/29
+[2024-08-26 11:01:12] Change number 24939210->24939371, apps: 0/112, packages: 0/50
+[2024-08-26 11:16:59] Change number 24939371->24939561, apps: 0/141, packages: 0/21
+[2024-08-26 11:31:08] Change number 24939561->24939739, apps: 0/126, packages: 0/22
+[2024-08-26 11:46:33] Change number 24939739->24939933, apps: 0/139, packages: 0/32
+[2024-08-26 12:01:37] Change number 24939933->24940085, apps: 0/116, packages: 0/12
+[2024-08-26 12:18:03] Change number 24940085->24940275, apps: 0/160, packages: 0/14
+[2024-08-26 12:33:44] Change number 24940275->24940482, apps: 0/155, packages: 0/28
+[2024-08-26 13:17:58] Change number 24940482->24941010, apps: 0/435, packages: 0/67
+[2024-08-26 13:34:26] Change number 24941010->24941176, apps: 0/128, packages: 0/22
+[2024-08-26 13:48:51] Change number 24941176->24941327, apps: 0/162, packages: 0/5
+[2024-08-26 14:02:22] Change number 24941327->24941479, apps: 0/111, packages: 0/22
+[2024-08-26 14:17:08] Change number 24941479->24941658, apps: 0/133, packages: 0/32
+[2024-08-26 14:33:08] Change number 24941658->24941863, apps: 0/269, packages: 0/28
+[2024-08-26 14:46:47] Change number 24941863->24942039, apps: 0/176, packages: 0/8
+[2024-08-26 15:01:36] Apps changed: 223350=24942119,
+[2024-08-26 15:01:36] Change number 24942039->24942200, apps: 1/119, packages: 0/47
+[2024-08-26 15:01:36] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-26 15:01:37] Downloaded 1 apps via HTTP, 14 KB (5 KB compressed)
+[2024-08-26 15:01:37] UpdatesJob: finished OK, apps updated 1 (14 KB), packages updated 0 (0 KB)
+[2024-08-26 15:01:52] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-26 15:17:01] Change number 24942200->24942382, apps: 0/142, packages: 0/10
+[2024-08-26 15:33:08] Apps changed: 223350=24942552,
+[2024-08-26 15:33:08] Change number 24942382->24942581, apps: 1/144, packages: 0/22
+[2024-08-26 15:33:08] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-26 15:33:09] Downloaded 1 apps via HTTP, 14 KB (5 KB compressed)
+[2024-08-26 15:33:09] UpdatesJob: finished OK, apps updated 1 (14 KB), packages updated 0 (0 KB)
+[2024-08-26 15:33:24] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-26 15:48:52] Change number 24942581->24942813, apps: 0/248, packages: 0/23
+[2024-08-26 16:04:01] Change number 24942813->24943021, apps: 0/152, packages: 0/25
+[2024-08-26 16:18:11] Change number 24943021->24943198, apps: 0/137, packages: 0/13
+[2024-08-26 16:32:51] Change number 24943198->24943384, apps: 0/147, packages: 0/20
+[2024-08-26 16:47:48] Apps changed: 1493710=24943581,
+[2024-08-26 16:47:48] Change number 24943384->24943598, apps: 1/236, packages: 0/20
+[2024-08-26 16:47:48] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-26 16:47:49] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-08-26 16:47:49] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-08-26 16:48:04] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-26 17:02:49] Apps changed: 1493710=24943624,
+[2024-08-26 17:02:49] Change number 24943598->24943842, apps: 1/158, packages: 0/57
+[2024-08-26 17:02:49] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-26 17:02:50] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-08-26 17:02:50] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-08-26 17:03:05] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-26 17:18:26] Change number 24943842->24943997, apps: 0/120, packages: 0/13
+[2024-08-26 17:34:23] Change number 24943997->24944177, apps: 0/137, packages: 0/14
+[2024-08-26 18:33:35] Packages changed: force all
+[2024-08-26 18:33:35] Change number 24944177->24945021, apps: 0/711, packages: 0/0
+[2024-08-26 18:33:35] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-26 18:33:35] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-26 18:48:57] Change number 24945021->24945231, apps: 0/215, packages: 0/18
+[2024-08-26 19:03:58] Packages changed: force all
+[2024-08-26 19:03:58] Change number 24945231->24945457, apps: 0/151, packages: 0/0
+[2024-08-26 19:03:58] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-26 19:03:58] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-27 08:33:06] Packages changed: force all
+[2024-08-27 08:33:06] Apps changed: force all
+[2024-08-27 08:33:06] Change number 24945457->24953437, apps: 0/0, packages: 0/0
+[2024-08-27 08:33:06] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-08-27 08:33:07] Requested 47 app access tokens, 43 received, 4 denied
+[2024-08-27 08:33:07] Updated SHAs with 43 new access tokens
+[2024-08-27 08:33:24] Failed request /appinfo/570/sha/7eee1ce2a271c164c1c871569f25fe2a28a7045e.txt.gz
+[2024-08-27 08:33:24] Downloaded 6 apps via HTTP, 37 KB (12 KB compressed)
+[2024-08-27 08:33:24] Requesting 1 apps, 0 packages (full data, 0 prev attempts, expected 386 KB)
+[2024-08-27 08:33:24] UpdatesJob: finished No Connection, apps updated 6 (37 KB), packages updated 0 (0 KB)
+[2024-08-27 08:33:39] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-27 08:34:02] Packages changed: force all
+[2024-08-27 08:34:02] Apps changed: force all
+[2024-08-27 08:34:02] Change number 24945457->24953456, apps: 0/0, packages: 0/0
+[2024-08-27 08:34:02] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-08-27 08:34:02] Requested 47 app access tokens, 43 received, 4 denied
+[2024-08-27 08:34:03] Updated SHAs with 43 new access tokens
+[2024-08-27 08:34:03] Downloaded 1 apps via HTTP, 386 KB (55 KB compressed)
+[2024-08-27 08:34:03] UpdatesJob: finished OK, apps updated 1 (386 KB), packages updated 0 (0 KB)
+[2024-08-27 08:34:18] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-27 08:47:48] Change number 24953456->24953580, apps: 0/88, packages: 0/12
+[2024-08-27 09:02:55] Change number 24953580->24953735, apps: 0/108, packages: 0/28
+[2024-08-27 09:19:16] Apps changed: 1874900=24953946,
+[2024-08-27 09:19:16] Change number 24953735->24953950, apps: 1/170, packages: 0/19
+[2024-08-27 09:19:16] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-27 09:19:17] Downloaded 1 apps via HTTP, 5 KB (2 KB compressed)
+[2024-08-27 09:19:17] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2024-08-27 09:19:32] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-27 09:57:37] Change number 24953950->24954465, apps: 0/363, packages: 0/36
+[2024-08-27 10:12:31] Change number 24954465->24954713, apps: 0/210, packages: 0/27
+[2024-08-27 10:27:24] Change number 24954713->24954900, apps: 0/237, packages: 0/18
+[2024-08-27 10:41:47] Change number 24954900->24955094, apps: 0/149, packages: 0/25
+[2024-08-27 10:56:04] Change number 24955094->24955283, apps: 0/147, packages: 0/11
+[2024-08-27 11:11:04] Change number 24955283->24955496, apps: 0/187, packages: 0/17
+[2024-08-27 11:26:43] Apps changed: 443030=24955510,
+[2024-08-27 11:26:43] Change number 24955496->24955728, apps: 1/210, packages: 0/14
+[2024-08-27 11:26:43] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-27 11:26:44] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2024-08-27 11:26:44] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2024-08-27 11:26:59] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-27 11:41:53] Change number 24955728->24955933, apps: 0/154, packages: 0/31
+[2024-08-27 11:57:53] Change number 24955933->24956134, apps: 0/166, packages: 0/19
+[2024-08-27 12:13:42] Change number 24956134->24956307, apps: 0/177, packages: 0/13
+[2024-08-27 12:28:08] Change number 24956307->24956507, apps: 0/158, packages: 0/15
+[2024-08-27 12:42:03] Change number 24956507->24956674, apps: 0/136, packages: 0/9
+[2024-08-27 12:57:46] Change number 24956674->24956883, apps: 0/157, packages: 0/21
+[2024-08-27 13:12:23] Change number 24956883->24957076, apps: 0/191, packages: 0/27
+[2024-08-27 13:27:16] Change number 24957076->24957288, apps: 0/150, packages: 0/28
+[2024-08-27 13:41:53] Change number 24957288->24957465, apps: 0/148, packages: 0/11
+[2024-08-27 13:57:02] Change number 24957465->24957640, apps: 0/142, packages: 0/12
+[2024-08-27 14:12:15] Apps changed: 360=24957805,
+[2024-08-27 14:12:15] Change number 24957640->24957838, apps: 1/206, packages: 0/29
+[2024-08-27 14:12:15] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-27 14:12:15] Downloaded 1 apps via HTTP, 5 KB (1 KB compressed)
+[2024-08-27 14:12:15] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2024-08-27 14:12:30] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-27 14:27:14] Change number 24957838->24958035, apps: 0/301, packages: 0/8
+[2024-08-27 14:41:19] Change number 24958035->24958249, apps: 0/165, packages: 0/19
+[2024-08-27 14:57:14] Apps changed: 233780=24958343,
+[2024-08-27 14:57:14] Change number 24958249->24958440, apps: 1/138, packages: 0/15
+[2024-08-27 14:57:14] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-27 14:57:14] Downloaded 1 apps via HTTP, 13 KB (4 KB compressed)
+[2024-08-27 14:57:14] UpdatesJob: finished OK, apps updated 1 (13 KB), packages updated 0 (0 KB)
+[2024-08-27 14:57:29] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-27 15:11:31] Change number 24958440->24958647, apps: 0/179, packages: 0/53
+[2024-08-27 15:25:54] Apps changed: 1493710=24958829,1899670=24958770,
+[2024-08-27 15:25:54] Change number 24958647->24958844, apps: 2/194, packages: 0/13
+[2024-08-27 15:25:54] Requesting 2 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-27 15:25:55] Downloaded 2 apps via HTTP, 4 KB (1 KB compressed)
+[2024-08-27 15:25:55] UpdatesJob: finished OK, apps updated 2 (4 KB), packages updated 0 (0 KB)
+[2024-08-27 15:26:10] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-27 15:41:03] Change number 24958844->24959008, apps: 0/126, packages: 0/23
+[2024-08-27 15:55:39] Apps changed: 1874900=24959085,
+[2024-08-27 15:55:39] Change number 24959008->24959206, apps: 1/155, packages: 0/20
+[2024-08-27 15:55:39] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-27 15:55:40] Downloaded 1 apps via HTTP, 5 KB (2 KB compressed)
+[2024-08-27 15:55:40] UpdatesJob: finished OK, apps updated 1 (5 KB), packages updated 0 (0 KB)
+[2024-08-27 15:55:55] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-27 16:10:00] Apps changed: 1493710=24959329,
+[2024-08-27 16:10:00] Change number 24959206->24959417, apps: 1/156, packages: 0/23
+[2024-08-27 16:10:00] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-27 16:10:00] Downloaded 1 apps via HTTP, 2 KB (1 KB compressed)
+[2024-08-27 16:10:00] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-08-27 16:10:15] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-27 16:25:11] Change number 24959417->24959694, apps: 0/281, packages: 0/47
+[2024-08-27 16:40:39] Change number 24959694->24959942, apps: 0/179, packages: 0/30
+[2024-08-27 16:57:08] Change number 24959942->24960178, apps: 0/162, packages: 0/26
+[2024-08-27 17:12:11] Apps changed: 2738040=24960210,
+[2024-08-27 17:12:11] Change number 24960178->24960418, apps: 1/196, packages: 0/59
+[2024-08-27 17:12:11] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-27 17:12:12] Downloaded 1 apps via HTTP, 3 KB (1 KB compressed)
+[2024-08-27 17:12:12] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2024-08-27 17:12:27] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-27 17:27:20] Apps changed: 2738040=24960586,
+[2024-08-27 17:27:20] Change number 24960418->24960648, apps: 1/212, packages: 0/15
+[2024-08-27 17:27:20] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-27 17:27:21] Downloaded 1 apps via HTTP, 3 KB (1 KB compressed)
+[2024-08-27 17:27:21] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2024-08-27 17:27:36] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-27 17:42:34] Change number 24960648->24960842, apps: 0/136, packages: 0/23
+[2024-08-27 17:45:55] Change number 24960842->24960889, apps: 0/41, packages: 0/4
+[2024-08-27 18:01:06] Change number 24960889->24961106, apps: 0/162, packages: 0/20
+[2024-08-27 18:15:41] Apps changed: 294420=24961233,
+[2024-08-27 18:15:41] Change number 24961106->24961317, apps: 1/221, packages: 0/16
+[2024-08-27 18:15:41] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-27 18:15:42] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2024-08-27 18:15:42] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2024-08-27 18:15:57] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (998 KB)
+[2024-08-27 18:30:21] Change number 24961317->24961573, apps: 0/332, packages: 0/37
+[2024-08-27 18:45:23] Change number 24961573->24961788, apps: 0/159, packages: 0/30
+[2024-08-27 19:01:21] Packages changed: force all
+[2024-08-27 19:01:21] Change number 24961788->24962081, apps: 0/183, packages: 0/0
+[2024-08-27 19:01:21] Requesting 0 apps, 17 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-08-27 19:01:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-27 19:15:21] Change number 24962081->24962270, apps: 0/190, packages: 0/25
+[2024-08-27 19:31:26] Change number 24962270->24962490, apps: 0/137, packages: 0/27
+[2024-08-27 19:45:49] Change number 24962490->24962713, apps: 0/149, packages: 0/42
+[2024-08-27 20:02:04] Change number 24962713->24962915, apps: 0/154, packages: 0/31
+[2024-08-27 20:18:31] Change number 24962915->24963128, apps: 0/222, packages: 0/29
+[2024-08-27 20:32:23] Change number 24963128->24963301, apps: 0/127, packages: 0/21
+[2024-08-27 20:46:30] Change number 24963301->24963473, apps: 0/122, packages: 0/26
+[2024-08-27 21:01:43] Change number 24963473->24963663, apps: 0/134, packages: 0/36
+
+
+[2024-10-01 20:23:09] Client version: 1721173382
+[2024-10-01 20:23:09] Packages changed: force all
+[2024-10-01 20:23:09] Apps changed: force all
+[2024-10-01 20:23:09] Change number 24963663->25482665, apps: 0/0, packages: 0/0
+[2024-10-01 20:23:10] Requesting 239 apps, 17 packages (meta data, 0 prev attempts, expected 12 KB)
+[2024-10-01 20:23:10] Requested 47 app access tokens, 43 received, 4 denied
+[2024-10-01 20:23:10] Updated SHAs with 43 new access tokens
+[2024-10-01 20:23:12] Downloaded 61 apps via HTTP, 707 KB (200 KB compressed)
+[2024-10-01 20:23:12] Requesting 1 apps, 0 packages (full data, 0 prev attempts, expected 0 KB)
+[2024-10-01 20:23:12] UpdatesJob: finished OK, apps updated 62 (707 KB), packages updated 0 (0 KB)
+[2024-10-01 20:23:27] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (693 KB)
+[2024-10-01 20:23:38] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-01 20:23:39] Downloaded 1 apps via HTTP, 9 KB (3 KB compressed)
+[2024-10-01 20:23:39] Requesting 0 apps, 1 packages (full data, 0 prev attempts, expected 0 KB)
+[2024-10-01 20:23:39] UpdatesJob: finished OK, apps updated 1 (9 KB), packages updated 1 (0 KB)
+[2024-10-01 20:23:39] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-10-01 20:23:39] RequestAppInfoUpdate: AppIDs 2062120
+[2024-10-01 20:23:39] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-01 20:23:40] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-10-01 20:23:54] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (700 KB)
+[2024-10-01 20:33:47] Requesting 0 apps, 1 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-01 20:33:47] Requesting 0 apps, 1 packages (full data, 0 prev attempts, expected 0 KB)
+[2024-10-01 20:33:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 1 (0 KB)
+[2024-10-01 20:33:48] Requesting 2 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-01 20:33:54] Downloaded 2 apps via HTTP, 48 KB (16 KB compressed)
+[2024-10-01 20:33:54] UpdatesJob: finished OK, apps updated 2 (48 KB), packages updated 0 (0 KB)
+[2024-10-01 20:34:09] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (735 KB)
+[2024-10-01 20:39:38] Apps changed: 443030=25482747,
+[2024-10-01 20:39:38] Change number 25482665->25482884, apps: 1/172, packages: 0/33
+[2024-10-01 20:39:38] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-01 20:39:39] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2024-10-01 20:39:39] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2024-10-01 20:39:54] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (735 KB)
+[2024-10-01 20:52:36] RequestAppInfoUpdate: AppIDs 1196590
+[2024-10-01 20:52:36] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-01 20:52:36] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-10-01 20:53:30] RequestAppInfoUpdate: AppIDs 1196590
+[2024-10-01 20:53:30] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-01 20:53:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-10-01 20:53:35] Requesting 6 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-01 20:53:36] Downloaded 6 apps via HTTP, 19 KB (6 KB compressed)
+[2024-10-01 20:53:36] UpdatesJob: finished OK, apps updated 6 (19 KB), packages updated 0 (0 KB)
+[2024-10-01 20:53:51] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (750 KB)
+[2024-10-01 20:55:52] Change number 25482884->25483168, apps: 0/194, packages: 0/17
+[2024-10-01 21:10:07] Change number 25483168->25483350, apps: 0/197, packages: 0/17
+[2024-10-01 21:24:09] Change number 25483350->25483514, apps: 0/134, packages: 0/12
+[2024-10-01 21:38:45] Change number 25483514->25483661, apps: 0/121, packages: 0/9
+[2024-10-01 21:53:43] Change number 25483661->25483870, apps: 0/151, packages: 0/24
+[2024-10-01 22:10:10] Change number 25483870->25484092, apps: 0/215, packages: 0/20
+[2024-10-01 22:25:26] Apps changed: 570=25484172,
+[2024-10-01 22:25:26] Change number 25484092->25484284, apps: 1/145, packages: 0/20
+[2024-10-01 22:25:26] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-01 22:25:28] Downloaded 1 apps via HTTP, 30 KB (10 KB compressed)
+[2024-10-01 22:25:28] UpdatesJob: finished OK, apps updated 1 (30 KB), packages updated 0 (0 KB)
+[2024-10-01 22:25:43] Starting async write C:\Program Files (x86)\Steam/appcache/appinfo.vdf (750 KB)
+[2024-10-01 22:39:30] Change number 25484284->25484441, apps: 0/117, packages: 0/16
+[2024-10-01 22:53:25] Change number 25484441->25484589, apps: 0/115, packages: 0/16
+[2024-10-01 23:09:27] Packages changed: force all
+[2024-10-01 23:09:27] Change number 25484589->25484807, apps: 0/205, packages: 0/0
+[2024-10-01 23:09:27] Requesting 0 apps, 19 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-01 23:09:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-10-02 08:33:16] Client version: 1726604483
+[2024-10-02 08:33:16] CAppInfoCacheReadFromDiskThread took 16 milliseconds to initialize
+[2024-10-02 08:33:49] Packages changed: force all
+[2024-10-02 08:33:49] Apps changed: force all
+[2024-10-02 08:33:49] Change number 25484807->25490408, apps: 0/0, packages: 0/0
+[2024-10-02 08:33:49] Requesting 248 apps, 19 packages (meta data, 1024 prev attempts, expected 12 KB)
+[2024-10-02 08:33:49] Requested 47 app access tokens, 43 received, 4 denied
+[2024-10-02 08:33:50] Updated SHAs with 43 new access tokens
+[2024-10-02 08:33:50] Downloaded 5 apps via HTTP, 73 KB (22 KB compressed)
+[2024-10-02 08:33:50] Requesting 4 apps, 0 packages (full data, 1024 prev attempts, expected 15 KB)
+[2024-10-02 08:33:50] UpdatesJob: finished OK, apps updated 9 (88 KB), packages updated 0 (0 KB)
+[2024-10-02 08:34:05] App cache write succeeded C:\Program Files (x86)\Steam/appcache/appinfo.vdf (248 apps, 596 KB) in 19 ms
+[2024-10-02 08:47:53] Change number 25490408->25490568, apps: 0/118, packages: 0/13
+[2024-10-02 09:02:32] Apps changed: 443030=25490705,
+[2024-10-02 09:02:32] Change number 25490568->25490747, apps: 1/138, packages: 0/18
+[2024-10-02 09:02:32] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-02 09:02:32] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2024-10-02 09:02:32] UpdatesJob: finished OK, apps updated 1 (10 KB), packages updated 0 (0 KB)
+[2024-10-02 09:02:47] App cache write succeeded C:\Program Files (x86)\Steam/appcache/appinfo.vdf (248 apps, 596 KB) in 19 ms
+[2024-10-02 09:16:16] Apps changed: 70=25490754,
+[2024-10-02 09:16:16] Change number 25490747->25490928, apps: 1/264, packages: 0/9
+[2024-10-02 09:16:16] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-02 09:16:16] Downloaded 1 apps via HTTP, 17 KB (4 KB compressed)
+[2024-10-02 09:16:16] UpdatesJob: finished OK, apps updated 1 (17 KB), packages updated 0 (0 KB)
+[2024-10-02 09:16:31] App cache write succeeded C:\Program Files (x86)\Steam/appcache/appinfo.vdf (248 apps, 596 KB) in 19 ms
+[2024-10-02 09:50:56] Apps changed: 1196590=25491203,
+[2024-10-02 09:50:56] Change number 25490928->25491333, apps: 1/278, packages: 0/34
+[2024-10-02 09:50:56] Requesting 1 apps, 0 packages (meta data, 0 prev attempts, expected 0 KB)
+[2024-10-02 09:50:57] Downloaded 1 apps via HTTP, 37 KB (13 KB compressed)
+[2024-10-02 09:50:57] UpdatesJob: finished OK, apps updated 1 (37 KB), packages updated 0 (0 KB)
+[2024-10-02 09:51:12] App cache write succeeded C:\Program Files (x86)\Steam/appcache/appinfo.vdf (248 apps, 597 KB) in 18 ms
