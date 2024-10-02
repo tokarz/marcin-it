@@ -1,0 +1,29 @@
+11/30/22 22:54:08 [AppID 730] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\directx_installer\DXSETUP.exe" /silent GLE 0
+11/30/22 22:54:10 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2019\Microsoft Visual C++ 2019 x86.cmd"  GLE 131
+11/30/22 22:54:11 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2019\Microsoft Visual C++ 2019 x64.cmd"  GLE 183
+11/30/22 22:54:30 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\DirectX\Jun2010\DXSETUP.exe" /silent GLE 183
+11/30/22 23:02:14 [AppID 1938090] Exit Code (0) :  "C:\Windows\System32\sc.exe" create atvi-randgrid_sr type= kernel binPath="C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\randgrid.sys" GLE 0
+11/30/22 23:02:14 [AppID 1938090] Exit Code (0) :  "C:\Windows\System32\sc.exe" sdset atvi-randgrid_sr D:(A;;CCLCSWRPWPDTLOCRRC;;;SY)(A;;CCDCLCSWRPWPDTLOCRSDRCWDWO;;;BA)(A;;CCLCSWRPWPLOCRRC;;;IU)(A;;CCLCSWLOCRRC;;;SU)S:(AU;FA;CCDCLCSWRPWPDTLOCRSDRCWDWO;;;WD) GLE 183
+11/30/22 23:02:16 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2022\Microsoft Visual C++ 2022 x86.cmd"  GLE 183
+11/30/22 23:02:18 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2022\Microsoft Visual C++ 2022 x64.cmd"  GLE 183
+12/02/22 14:41:17 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2012\vcredist_x86.exe" /quiet /norestart GLE 0
+12/02/22 14:41:18 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2012\vcredist_x64.exe" /quiet /norestart GLE 183
+12/02/22 14:41:19 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2013\vcredist_x86.exe" /quiet /norestart GLE 183
+12/02/22 14:41:19 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2013\vcredist_x64.exe" /quiet /norestart GLE 183
+12/11/22 13:39:24 [AppID 730] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\directx_installer\DXSETUP.exe" /silent GLE 0
+12/21/22 11:36:35 [AppID 228980] Exit Code (1638) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2015\Microsoft Visual C++ 2015 x86.cmd"  GLE 0
+12/21/22 11:36:36 [AppID 228980] Exit Code (1638) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2015\Microsoft Visual C++ 2015 x64.cmd"  GLE 183
+12/21/22 11:36:36 [AppID 228980] Exit Code (1638) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2017\Microsoft Visual C++ 2017 x86.cmd"  GLE 183
+12/21/22 11:36:37 [AppID 228980] Exit Code (1638) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2017\Microsoft Visual C++ 2017 x64.cmd"  GLE 183
+12/30/22 12:58:51 [AppID 221100] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\DayZ\DayZUninstaller.exe"  GLE 0
+01/02/23 12:09:08 [AppID 1174180] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\Redistributables\VulkanRT-1.1.108.0-Installer.exe" /S GLE 0
+01/02/23 12:09:14 [AppID 1174180] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\Redistributables\Social-Club-Setup.exe" /silent GLE 183
+01/02/23 12:09:48 [AppID 1174180] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\Redistributables\Rockstar-Games-Launcher.exe" /s /t GLE 183
+01/04/23 14:44:18 [AppID 40970] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Stronghold Crusader Extreme\support\GameRangerOEMSetup.exe" /oem /bundle 47107 GLE 0
+01/14/23 21:39:49 [AppID 730] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\directx_installer\DXSETUP.exe" /silent GLE 0
+07/27/23 12:42:23 [AppID 582660] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online\EasyAntiCheat\EasyAntiCheat_Setup.exe" install 614 -console GLE 0
+07/27/23 13:40:06 [AppID 582660] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Black Desert Online\EasyAntiCheat\EasyAntiCheat_Setup.exe" uninstall 614 -console GLE 0
+12/24/23 17:23:25 [AppID 1238840] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Battlefield 1\__Installer\Origin\redist\internal\EAappInstaller.exe" EAX_LAUNCH_CLIENT=0 IGNORE_INSTALLED=1 GLE 0
+06/04/24 18:07:44 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2010\vcredist_x86.exe" /quiet /norestart GLE 0
+06/04/24 18:07:48 [AppID 228980] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2010\vcredist_x64.exe" /quiet /norestart GLE 183
+10/02/24 09:29:00 [AppID 2429640] Exit Code (0) :  "C:\Program Files (x86)\Steam\steamapps\common\Throne and Liberty\EasyAntiCheat\EasyAntiCheat_EOS_Setup.exe" install 58dec5a58e8f4ce6beca223311f65b4c GLE 0
