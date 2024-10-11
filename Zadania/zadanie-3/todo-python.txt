@@ -1,8 +1,8 @@
-1) kliknij na Sponsoring
-2) kliknij Klub 100
-3) wyszukaj "czarni" i kliknij w przycisk Wyszukaj
-4) Kliknij w ostatnia druzyne w tabeli
-5) kliknij w pod-opcje Druzyny/Juniorzy mlodsi
+1) kliknij na Sponsoring  +
+2) kliknij Klub 100 +
+3) wyszukaj "czarni" i kliknij w przycisk Wyszukaj +
+4) Kliknij w ostatnia druzyne w tabeli +
+5) kliknij w pod-opcje Druzyny/Juniorzy mlodsi +
 
 6*) sprobuj zrobic selector do kilku elementow i je policzyc :
 
