@@ -14,6 +14,8 @@ try:
     # 2. Find all menu items matching the CSS selector
     menu_items = driver.find_elements(By.CSS_SELECTOR, '#menu-menu-3 .menu-item i.tdb-sub-menu-icon')
 
+    print(f"Selektor znalazl {len(menu_items)} elementow!!")
+
     # 3. Loop through each menu item
     for index, item in enumerate(menu_items):
         print(f"Clicking on menu item {index + 1}")

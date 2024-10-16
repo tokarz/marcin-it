@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Cool Title</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+
+      header {
+        background-color: #4caf50;
+        color: white;
+        padding: 10px;
+        text-align: center;
+      }
+
+      .container {
+        display: flex;
+        justify-content: space-around;
+        padding: 20px;
+      }
+
+      .panel {
+        background-color: #f1f1f1;
+        padding: 20px;
+        flex: 1;
+        margin: 10px;
+        text-align: center;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+      }
+
+      table,
+      th,
+      td {
+        border: 1px solid #ddd;
+      }
+
+      th,
+      td {
+        padding: 10px;
+        text-align: left;
+      }
+
+      th {
+        background-color: #4caf50;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Flexbox Panels with Table</h1>
+    </header>
+
+    <div class="container">
+
+        
+
+
+      <div  test-id="selectable-panel"  naglowek-id="moje-wlasne-id"  id="abc" class="panel"      >Panel 1</div>
+
+      <a href="http://www.google.pl">Link</a>
+
+
+
+
+
+      <div class="panel">Panel 2</div>
+      <div class="panel">Panel 3</div>
+    </div>
+
+    <div style="padding: 20px">
+      <h2>Simple Table</h2>
+      <table>
+        <tr>
+          <th>Column 1</th>
+          <th>Column 2</th>
+          <th>Column 3</th>
+        </tr>
+        <tr>
+          <td>Row 1, Cell 1</td>
+          <td>Row 1, Cell 2</td>
+          <td>Row 1, Cell 3</td>
+        </tr>
+        <tr>
+          <td>Row 2, Cell 1</td>
+          <td>Row 2, Cell 2</td>
+          <td naglowek-id="moje-wlasne-id-2">Row 2, Cell 3</td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,34 @@
+wszystko bedziemy robic w 1 duzym pliku o nazwie testy_funckje.py
+
+Poczytaj w chacieGPT o :
+
+- funkcji print
+- konkatenacji (łączeniu) tekstow w pythonie = czyli coś w stylu "Hello" + "Jakis inny tekst"
+
+
+1) stworz plik testy_funkcje.py
+2) zdefiniuj w  nim nastepujace funckje:
+	- wejdz_na_strone(adres_www) <-- wchodzi na dana strone internetowa
+	- kliknij_na(  selektor  )
+	- wpisz_tekst_do_pola(selektor, jaki_tekst) <-- o tym nie mowilismy duzo, ale funkcja moze miec wiecej argumentow
+													i byc wywolana np wpisz_tekst_do_pola(".moje_pole_tekstowe", "Dupa")
+	- wyswietlNapis(tekst) <-- ma wypisac w konsoli dany tekst (funkcja print)
+	- wyszukaj(tekst)  <-- ma kliknac na pole wyszukaj, wpisac tekst i wcisnac przycisk "szukaj"
+	
+3) uzywajac funkcji wywolaj je, aby przetestowac 3 przypadki:
+	- Wyszukaj tekstu "Cosmos" na czarnijaslo.pl
+	- kliknij na youtube by sie zaczal filmik (selektor #movie_player)
+	- kliknij na Rozgrywki > IV liga podkarpacka i potem na lidera tabeli (ewentualnie dowolny inny klub)
+	
+4) napisalem plik "test_meczyki.py" ktory potrafi sie zalogowac na meczykach:) sluzy do tego funkcja zaloguj_na_meczykach.
+	Swój kod pisz pod komentarzem:
+	# ######################################### TUTAJ PISZ TESTY ###########################################################
+	
+	- uruchom funkcje zaloguj_na_meczykach i sprawdz czy dziala :)
+	- zaloguj sie na meczykach i potem wyloguj
+	- zmien tryb z "dark" na "light" (ikonka w lewym gornym rogu)
+	- kliknij na ligę  Polską, potem na ekstraklase i na Lidera rozgrywek, sprawdz czy url to https://www.meczyki.pl/druzyna/lech-poznan/1653,
+	  jesli tak to test ok jak nie to czerwony :)
+	  
+	 Powodzenia!
+	
