@@ -42,25 +42,33 @@ def zaloguj_na_meczykach():
     wejdz_na_strone("https://www.meczyki.pl/")
     poczekaj(5)
     kliknij_zaakceptuj()
-    
     poczekaj(2)
-
     kliknij_na_selektor('[href*="logowanie"]')
     poczekaj(2)
-
     wpiszTekst('[placeholder*="Login lub adres e-mail"]', "czarny-python")
     poczekaj(2)
     wpiszTekst('[placeholder*="Hasł"]', "Tester#!Tester#!")
     kliknij_zaloguj()
+    poczekaj(10)
 
 
-
-try:
  
     # ######################################### TUTAJ PISZ TESTY ###########################################################
-    
-    
-    
+def kliknij_na_selektor_wyloguj(selektor):
+        wszystkie_opcje = driver.find_elements(By.CSS_SELECTOR, selektor)
+        przycisk_wyloguj = wszystkie_opcje[2]
+        przycisk_wyloguj.click()
+        time.sleep(5)
+
+
+
+def wyloguj():
+    kliknij_na_selektor('.user-buttons')
+    kliknij_na_selektor_wyloguj('.router-link-exact-active')
+
+
+zaloguj_na_meczykach()
+wyloguj()
 
 
 
@@ -80,6 +88,5 @@ try:
 
 
 
-finally:
     # Close the driver after everything is done
-    driver.quit()
+driver.quit()
