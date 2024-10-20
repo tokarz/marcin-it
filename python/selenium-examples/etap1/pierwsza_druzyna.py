@@ -19,7 +19,7 @@ def znajdz_element(selektor):
     poczekaj(3)
 
 def pierwsza_druzyna(druzyna):
-    lider = driver.find_element("link text", druzyna)
+    lider = driver.find_element('link text', druzyna)
     lider.click()
     poczekaj(5)
 
@@ -29,6 +29,17 @@ def lider(druzyna):
     znajdz_element('.menu-item-10357')
     pierwsza_druzyna(druzyna)
     driver.quit()
+     
+
+
+
+
+
+
+
+
+
+
      
 
 

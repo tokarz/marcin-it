@@ -1,0 +1,65 @@
+Klasy (i czym jest self)
+Klasy w Pythonie są jak wzorce, które pozwalają tworzyć własne obiekty. 
+Obiekty to takie „rzeczy” w programowaniu, które mogą mieć swoje własne właściwości (czyli dane) i metody (czyli funkcje). 
+Klasa jest jak przepis na zrobienie takich obiektów.
+
+Na przykład, jeśli chcesz stworzyć klasę opisującą psa, to mogłaby ona wyglądać tak:
+
+	Skopiuj kod
+	class Dog:
+		def __init__(self, name, age):
+			self.name = name
+			self.age = age
+
+		def bark(self):
+			print(f"{self.name} says woof!")
+
+Kiedy tworzysz obiekt z tej klasy, na przykład:
+
+
+
+	my_dog = Dog("Portos", 3)
+
+Tworzysz psa o imieniu Portos, który ma 3 lata. A co to jest self? self to sposób, w jaki Python mówi: „to dotyczy tego konkretnego obiektu”. Kiedy funkcja w klasie, taka jak bark, używa self, odnosi się do tego konkretnego psa (czyli obiektu) – w tym wypadku do Portosa.
+
+Instrukcje warunkowe pozwalają programowi podejmować decyzje. Wyobraź sobie, że chcesz sprawdzić, czy jakieś stwierdzenie jest prawdziwe. Używamy do tego słowa kluczowego if:
+
+x = 5
+	if x > 3:
+		print("x jest większe niż 3")
+
+Jeśli warunek (czyli x > 3) jest prawdziwy, kod wewnątrz instrukcji if zostanie wykonany. Możesz dodać inne warunki, używając elif (co oznacza „inaczej, jeśli”), a na końcu może być else, które wykona się, jeśli żaden wcześniejszy warunek nie był prawdziwy.
+
+
+	x = 2
+	if x > 3:
+		print("x jest większe niż 3")
+	elif x == 2:
+		print("x jest równe 2")
+	else:
+		print("x jest mniejsze niż 3 i nie równe 2")
+
+
+Pętle pozwalają powtarzać pewne operacje wiele razy. 
+Najprostszą formą pętli, z którą się spotkasz, jest pętla for, która pozwala przejść przez każdy element w tablicy 
+(lub liście w Pythonie).
+
+Jeśli masz tablicę liczb:
+
+	numbers = [1, 2, 3, 4]
+Możesz przejść przez każdy element tej tablicy i coś z nim zrobić:
+
+
+	for number in numbers:
+		print(number)
+
+Ten kod wydrukuje każdy element z tablicy – najpierw 1, potem 2, 3 i 4. Pętla powtarza się tyle razy, ile elementów jest w tablicy. Dopiero zaczynasz rozumieć tablice, więc ważne, abyś pamiętał, że w pętli przechodzisz po elementach, jeden po drugim.
+
+Pętla while działa nieco inaczej – powtarza się, dopóki jakiś warunek jest prawdziwy:
+
+
+	x = 0
+	while x < 5:
+		print(x)
+		x += 1
+Ta pętla będzie działała dopóki x jest mniejsze od 5. Za każdym razem zwiększamy wartość x o 1, aż osiągnie 5 i pętla się zakończy.
