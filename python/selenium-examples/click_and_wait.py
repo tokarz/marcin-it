@@ -18,7 +18,6 @@ try:
     # WHEN
     menu_items = driver.find_elements(By.CSS_SELECTOR, '.menu-item-10460') # tu sa 2 elementy, musze wziac [1]!!!
     target_menu_item = menu_items[1]
-    
     target_menu_item.click()
 
     # 3. Wait for 2 seconds
