@@ -1,0 +1,35 @@
+Oto prosty kod w Pythonie, który używa Selenium i czeka na pojawienie się elementu w DOM:
+
+Użyjemy klasy WebDriverWait, która pozwala czekać na określony warunek.
+Przykładowy kod poczeka, aż element o danym identyfikatorze (id) pojawi się w DOM, zanim przejdzie dalej.
+Przykładowy kod w Pythonie z Selenium:
+
+	from selenium import webdriver
+	from selenium.webdriver.common.by import By
+	from selenium.webdriver.support.ui import WebDriverWait
+	from selenium.webdriver.support import expected_conditions as EC
+
+	# Uruchamiamy przeglądarkę (tutaj Chrome, ale możesz użyć innej)
+	driver = webdriver.Chrome()
+
+	# Otwórz stronę
+	driver.get("https://example.com")
+
+	try:
+		# Czekaj do 10 sekund na pojawienie się elementu z id 'example-element-id'
+		element = WebDriverWait(driver, 10).until(
+			EC.presence_of_element_located((By.ID, "example-element-id"))
+		)
+		# Jeśli element zostanie znaleziony, kontynuuj
+		print("Element został znaleziony!")
+	finally:
+		# Zamknij przeglądarkę
+		driver.quit()
+
+	WebDriverWait(driver, 10) – To tworzy obiekt, który czeka maksymalnie 10 sekund.
+	until(EC.presence_of_element_located((By.ID, "example-element-id"))) – To warunek, który mówi Selenium, aby czekało, aż element z danym identyfikatorem pojawi się w DOM. W tym przypadku szukamy elementu o id = "example-element-id".
+	By.ID – Określa, że szukamy elementu po jego identyfikatorze. Możesz użyć również innych sposobów, np. By.CLASS_NAME, By.XPATH, itp.
+	driver.quit() – Zamykamy przeglądarkę, gdy skończymy.
+	
+	
+To podejście pozwala uniknąć błędów, gdy Selenium próbuje znaleźć element, który jeszcze nie został załadowany na stronie.

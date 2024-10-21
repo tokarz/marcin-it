@@ -1,0 +1,24 @@
+Kazdy z testow mozesz po prostu opisac w funkcjach test1, test2 itd albo dla kazdego testu zrob plik osobny i skopiuj 
+funkcje logujace sie do meczykow
+
+1) wejdz na strone meczyki.pl uzywajac gotowej funkcji do logowania (etap3/test_meczyki)
+	- sprobuj sie wylogowac
+	- wejdz na "Lige  Mistrzow", poczekaj az pojawi sie tabela i kliknij na lidera tabeli (z prawej strony)
+
+2) na czarnijaslo.pl pozmieniaj swoje testy ktore robily poczekaj() lub time.sleep() na czekanie az element sie pojawi
+3) porownaj czasy testow z czekaniem statycznym (sleep) i nowym podejsciem
+4) napisz klase Pilkarz majaca takie funkcje:
+	- __init__(self, imie, nazwisko, pozycja, wiek, overall)
+	- kopnijPilke
+	- biegnij
+	- strzel(self, kierunek)
+	- przedstawSie <-- ta funkcja powinna wypisac imie nazwisko, pozycje i wiek pilkarza
+	- stworz kilku pilkarzy z czarnych jaslo i nadaj im Overall jak w Fifie, moze byc cala jedenastka :P
+5) stworz tablice liczb od 1 do 20 (zobacz w chatgpt jak to sprytniej zrobic niz wypisywac kazda liczbe:))
+	- wypisz wszystkie liczby z tablicy ktore sa wieksze od 7
+	- wypisz wszystkie liczby z tablicy, ktore sa mniejsze od 11
+	- uzywajac funkcji:
+		def czyParzyste(liczba):
+			return liczba %2 ==0
+	- wypisz wszystkie liczby w tablicy ktore sa parzyste
+	- wypisz wszystkie liczby w tablicy ktore sa nieparzyste
