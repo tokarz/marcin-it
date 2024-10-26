@@ -1,0 +1,71 @@
+Dziedziczenie to technika, która pozwala tworzyć nową klasę, bazując na już istniejącej klasie. 
+Wyobraź sobie, że mamy klasę, która opisuje ogólne cechy jakiejś grupy obiektów, 
+na przykład Samochód. W tej klasie Samochód definiujemy ogólne cechy samochodów, 
+jak kolor, liczba drzwi, czy metody, np. jedz(), która uruchamia samochód. 
+Gdy chcemy stworzyć klasy bardziej szczegółowe, jak SamochódElektryczny czy SamochódSpalinowy,
+możemy odziedziczyć wszystkie cechy klasy Samochód, czyli nie musimy ich ponownie 
+pisać – dziedziczenie robi to za nas. Takie klasy szczegółowe, korzystające z dziedziczenia,
+nazywamy klasami pochodnymi.
+
+
+Page Object Model (POM) to wzorzec, który upraszcza zarządzanie kodem testów automatycznych. 
+Zamiast trzymać cały kod w jednym miejscu, tworzymy klasy, które reprezentują różne strony
+aplikacji (np. StronaLogowania, StronaGlowna). Klasy te przechowują elementy i akcje dostępne
+na danej stronie.
+
+Przykład:
+Tworzymy bazową klasę, która definiuje ogólne działania dla wszystkich stron, 
+np. otwieranie strony czy zamykanie przeglądarki.
+Klasa StronaLogowania dziedziczy te cechy od klasy bazowej 
+
+Klasa bazowa:
+from selenium.webdriver.common.by import By
+
+class BasePage:
+    def __init__(self, driver):
+        self.driver = driver
+
+    def open_url(self, url):
+        self.driver.get(url)
+		
+Klasa StronaLogowania, która dziedziczy od klasy BasePage:
+
+class LoginPage(BasePage):
+    def __init__(self, driver):
+        super().__init__(driver)  # Dziedziczenie metody z klasy bazowej
+
+    def enter_username(self, username):
+        username_field = self.driver.find_element(By.ID, "username")
+        username_field.send_keys(username)
+
+    def enter_password(self, password):
+        password_field = self.driver.find_element(By.ID, "password")
+        password_field.send_keys(password)
+
+    def click_login_button(self):
+        login_button = self.driver.find_element(By.ID, "login")
+        login_button.click()
+		
+		
+W klasie LoginPage możemy używać metody open_url, mimo że jej nie zdefiniowaliśmy 
+tutaj bezpośrednio – odziedziczyliśmy ją z klasy BasePage.
+
+A teraz troche o asercjach (Then z GIven When Then :)
+Asercje to instrukcje, które sprawdzają, czy wynik testu jest zgodny z oczekiwaniami. 
+Dzięki asercjom możemy automatycznie zweryfikować, czy aplikacja działa poprawnie, a jeśli nie,
+test zostanie przerwany i zgłosi błąd.
+
+Przykład asercji w Pythonie:
+Używamy modułu assert, aby sprawdzić, czy np. po udanym logowaniu pojawia się odpowiedni komunikat.
+
+
+def test_login_page():
+    # Załóżmy, że login_page to obiekt klasy LoginPage
+    login_page.open_url("http://example.com/login")
+    login_page.enter_username("testuser")
+    login_page.enter_password("password")
+    login_page.click_login_button()
+
+    # Asercja: Sprawdzamy, czy URL zmienił się na stronę główną
+    assert login_page.driver.current_url == "http://example.com/home", "Nie udało się zalogować"
+W powyższym przykładzie asercja assert sprawdza, czy użytkownik został przeniesiony na stronę główną po zalogowaniu.

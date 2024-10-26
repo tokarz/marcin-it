@@ -1,0 +1,48 @@
+
+Selektory z atrybutami
+Selektory z atrybutami to takie, które pozwalają wyszukiwać elementy na podstawie wartości ich atrybutów, 
+np. href, title, data-id itd. Używamy ich, gdy wiemy, że dany element ma unikalny atrybut.
+
+Przykład:
+
+	input[type="text"]
+Ten selektor znajdzie wszystkie elementy <input>, które mają atrybut type ustawiony na text.
+
+	a[href="https://example.com"]
+Ten selektor znajdzie wszystkie linki <a>, które prowadzą do adresu https://example.com.
+
+W Selenium użycie selektorów z atrybutami wygląda tak:
+
+	element = driver.find_element(By.CSS_SELECTOR, 'input[type="text"]')
+
+Spacja w selektorach oznacza, że szukamy elementu wewnątrz innego elementu. Przykładowo:
+
+	div p
+Ten selektor znajdzie wszystkie elementy <p>, które są dzieciami elementów <div> (czyli znajdują się wewnątrz).
+
+W Selenium można go użyć tak:
+
+	element = driver.find_element(By.CSS_SELECTOR, 'div p')
+Notacja selektor.klasa
+Ta notacja selektor.klasa pozwala na znalezienie elementów z określoną klasą. Kropka (.) oznacza klasę.
+
+Przykład:
+
+	div.card
+Ten selektor znajdzie wszystkie elementy <div>, które mają klasę card.
+
+W Selenium można go użyć tak:
+
+	element = driver.find_element(By.CSS_SELECTOR, 'div.card')
+Notacja selektor#id
+Notacja selektor#id pozwala na znalezienie elementów na podstawie ich identyfikatora (ID). 
+Hash (#) oznacza ID, który musi być unikalny na stronie.
+
+Przykład:
+	button#submit
+Ten selektor znajdzie element <button>, który ma ID submit.
+
+W Selenium wygląda to tak:
+
+
+	element = driver.find_element(By.CSS_SELECTOR, 'button#submit')
