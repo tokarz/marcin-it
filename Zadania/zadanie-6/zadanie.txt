@@ -1,20 +1,20 @@
 0. Przejdz cala gre:
-https://flukeout.github.io/
+https://flukeout.github.io/  +
 
 :)
 
-1. Napisz klase Osoba, ktora bedzie miala pola: imie, nazwisko, wiek, oraz funkcje jedz() i pij()
+1. Napisz klase Osoba, ktora bedzie miala pola: imie, nazwisko, wiek, oraz funkcje jedz() i pij() +
 
-2. Napisz klase Pilkarz dziedziczaca po klasie osoba, i dodaj mu pola: szybkosc, strzal, 
-oraz funkcje graj() i strzelaj()
+2. Napisz klase Pilkarz dziedziczaca po klasie osoba, i dodaj mu pola: szybkosc, strzal,
+oraz funkcje graj() i strzelaj() +
 
 3. Napisz klase bramkarz, ktora dziedziczy po klasie Pilkarz i daj mu pola : wyskok i gra_na_przedpolu
-oraz jedna dodatkowa funkcje bron()
+oraz jedna dodatkowa funkcje bron()+
 
 3. Napisz klase Kapitan, ktora dziecziczy po klasie Pilkarz i ma tylko jedna dodatkowa funkcje
-rozmawiaj_z_sedzia()
+rozmawiaj_z_sedzia()+
 
-4. Stworz instancje (czyli stworz obiekty) pilkarzy z Czarnych jaslo, dodaj kapitana i bramkarza
+4. Stworz instancje (czyli stworz obiekty) pilkarzy z Czarnych jaslo, dodaj kapitana i bramkarza+
 
 5. Stworz przyklad klasy CzarniJasloPl i sprobuj sam dodac do niej pola, na jakie bys podzielil taka klase
 (np menu_gorne, youtube, sponsorzy itd)
