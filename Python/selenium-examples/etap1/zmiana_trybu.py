@@ -14,10 +14,10 @@ def poczekaj(tyle_masz_czekac):
     time.sleep(tyle_masz_czekac)
 
 def zmien_tryb():
-    wszystkie_znalezione_elementy = driver.find_element(By.CSS_SELECTOR,'.moon')
+    wszystkie_znalezione_elementy = driver.find_elements(By.CSS_SELECTOR,'.switch-wrapper .switch')
     pierwszy_znaleziony_element = wszystkie_znalezione_elementy[0]
     pierwszy_znaleziony_element.click()
-    poczekaj(3)
+    poczekaj(8)
 
 
 def kliknij_zaakceptuj():

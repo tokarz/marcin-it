@@ -1,0 +1,12 @@
+1) Przeczytaj wymagania i stwórz do nich Test Suity i Test Case'y. Sam postanów, ile TS ma być do każdego wymagania,
+i ile TC dla każdego Test Suite'a
+
+2) Pamiętaj o formie BDD i postaraj się opis przebiegu testu opisać jak najbardziej szczegółowo
+3) w każdym TC dodaj pozycję - Automatyczny lub Manualny
+4) Te testy, które są manualne, przetestuj manualnie
+5) Te testy, które są automatyczne - przetestuj w selenium (przekopiuj kod z folderu python lub zrób je tam - jak Ci wygodnie)
+6) Każde wymaganie które przetestujesz zaznacz na zielono jeśli każde  jest przetestowane, żółty jeśli część lub czerwony jeśli 
+nie ma dla niego testu
+7) postaraj się obliczyć pokrycie wymagań (ilość możliwych testów / ilość zrobionych testów)
+
+Powodzenia!:)

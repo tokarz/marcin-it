@@ -26,10 +26,10 @@ def kliknij_zaakceptuj():
     poczekaj(5)
 
 def go_to_ekstraklasa_and_click_leader():
-    ekstraklasa_link = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.XPATH, "//a[contains(text(), 'Ekstraklasa')]"))
-        )
-        
+    poczekaj(120)
+    
+    ekstraklasa_link = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".tree-wrapper a[href*='ekstraklasa']")))
+
     ekstraklasa_link.click()
     poczekaj(5)
     leader = WebDriverWait(driver, 10).until(
@@ -42,5 +42,5 @@ def go_to_ekstraklasa_and_click_leader():
 
 
 wejdz_na_strone("https://www.meczyki.pl/")
-kliknij_zaakceptuj()
+# kliknij_zaakceptuj()
 go_to_ekstraklasa_and_click_leader()

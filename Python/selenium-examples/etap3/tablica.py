@@ -27,5 +27,4 @@ print("Liczby nieparzyste: ")
 for liczba in liczby:
      if not czyParzyste(liczba):
           print(liczba)
-    
-
+          

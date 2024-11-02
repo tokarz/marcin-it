@@ -75,7 +75,7 @@ def go_to_champions_league_and_click_leader():
         EC.visibility_of_element_located((By.XPATH, "//table//tr[1]//a"))  
     )
     leader.click()
-    poczekaj(5)
+        
     driver.quit()
    
 
