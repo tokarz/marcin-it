@@ -1,0 +1,17 @@
+Dzialanie odnosnika do social mediow - X
+
+Wymagania : REQ1
+
+Tytul : Sprawdzenie Dzialania odnosnika do social mediow - X
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl, klika na odnosnik do social mediow - X , zostaje przeniesiony 
+na strone X klubu
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: klika na odnosnik - X
+
+T:zostaje przeniesiony na strone https://x.com/czarnijaslo1910
+
+
+Automatyczny

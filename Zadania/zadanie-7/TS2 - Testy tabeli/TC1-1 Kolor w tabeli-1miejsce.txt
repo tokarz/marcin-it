@@ -1,0 +1,15 @@
+Sprawdzanie koloru pierwszego miejsca w tabeli
+
+Wymagania :REQ3
+
+Tytul : Sprawdzenie wkoloru 1 miejsca w tabeli
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl , kolor pierwszego miejsca w tabeli jest rowny : #c3e6cb
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona laduje sie do konca
+
+T: kolor pierwszego miejsca w tabeli jest rowny : #c3e6cb
+
+automatyczny

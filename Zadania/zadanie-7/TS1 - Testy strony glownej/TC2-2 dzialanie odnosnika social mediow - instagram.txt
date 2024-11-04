@@ -1,0 +1,16 @@
+Dzialanie odnosnika do social mediow - instagram
+
+Wymagania : REQ1
+
+Tytul : Sprawdzenie Dzialania odnosnika do social mediow - instagram
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl, klika na odnosnik do social mediow - instagram , zostaje przeniesiony 
+na strone instagram klubu
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: klika na odnosnik - instagram
+
+T:zostaje przeniesiony na strone https://www.instagram.com/czarni_1910_jaslo/
+
+Automatyczny

@@ -1,0 +1,15 @@
+Sprawdzanie koloru 5 ostatnich miejsc 
+
+Wymagania :REQ3
+
+Tytul : Sprawdzenie wkoloru 5 ostatnich miejsc 
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl , kolor 5 ostatnich miejsca w tabeli jest rowny : #b8daff
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona laduje sie do konca
+
+T: kolor 5 ostatnich miejsc w tabeli jest rowny : #f5c6cb
+
+automatyczny

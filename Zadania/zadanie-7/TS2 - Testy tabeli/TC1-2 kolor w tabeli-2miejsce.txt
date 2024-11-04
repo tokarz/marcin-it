@@ -1,0 +1,15 @@
+Sprawdzanie koloru 2 miejsca w tabeli
+
+Wymagania :REQ3
+
+Tytul : Sprawdzenie wkoloru 2 miejsca w tabeli
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl , kolor 2 miejsca w tabeli jest rowny : #b8daff
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona laduje sie do konca
+
+T: kolor 2 miejsca w tabeli jest rowny : #b8daff
+
+automatyczny

@@ -1,0 +1,15 @@
+Sprawdzanie czy kazdy klub w tabeli posiada swoje logo,ilosc meczy i punkty
+
+Wymagania :REQ3
+
+Tytul : Sprawdzenie poprawnosci tabeli
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl , kazdy klub powinien posiadac swoje logo, liczbe meczy oraz liczbe punktow
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona laduje sie do konca
+
+T:wszystkie zespoly w tabeli posiadaja swoje logo , liczbe meczy i liczbe punktow
+
+manualny

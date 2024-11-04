@@ -1,0 +1,15 @@
+Sprawdzenie wyswietlania popawnej daty na stronie glownej
+
+Wymagania : REQ1
+
+Tytul : Sprawdzenie wyswietlania poprawnej daty na stronie glownej
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl i w lewym gornym rogu widnieje data z tego dnia
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona zaladowala sie 
+
+T: w lewym gornym rogu wyswietla sie data z tego dnia 
+
+manualny

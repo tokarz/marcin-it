@@ -1,0 +1,17 @@
+Dzialanie odnosnika do social mediow -youtube
+
+Wymagania : REQ1
+
+Tytul : Sprawdzenie Dzialania odnosnika do social mediow - youtube
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl, klika na odnosnik do social mediow - youtube , zostaje przeniesiony 
+na strone youtube klubu
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: klika na odnosnik - youtube
+
+T:zostaje przeniesiony na strone https://www.youtube.com/channel/UCrk8GobYCsKntXBQBUYK7Ww
+
+
+Automatyczny

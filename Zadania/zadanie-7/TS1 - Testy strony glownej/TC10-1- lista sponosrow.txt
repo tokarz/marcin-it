@@ -1,0 +1,14 @@
+Sprawdzanie czy sponsorzy wyswietlani sa na stronie glownej
+Wymagania : REQ1
+
+Tytul : Sprawdzenie wyswietlania sponsorow
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl,po zjechaniu na dol na stronie glownej widoczna jest lista sponsorow
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona laduje sie do konca
+
+T: na stronie glownej widoczna jest lista sponsorow
+
+manualny

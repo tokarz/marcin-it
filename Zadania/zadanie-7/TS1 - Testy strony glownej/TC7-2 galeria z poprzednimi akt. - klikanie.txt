@@ -1,0 +1,16 @@
+Sprawdzenie fuckcjonalnosci klikania w galeri aktualnosci
+
+Wymagania : REQ1
+
+Tytul : Sprawdzenie klikania w jeden artykul w galeri aktualnosci
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl,  na stronie glownej widoczna jest galeria z poprzednimi aktualnosciami , 
+uzytkownik klika w jenda galerie w aktualnosciach i zostaje przeniesiony do strony artykulu danej galeri
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: uzywtkownik klika w galeria w akltualnosciach
+
+T: zostaje przeniesiony na strone danego artykuku galeri
+
+manualny

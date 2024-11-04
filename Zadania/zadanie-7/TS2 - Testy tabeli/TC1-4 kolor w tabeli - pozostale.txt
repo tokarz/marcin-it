@@ -1,0 +1,15 @@
+Sprawdzanie koloru pozostalych miejsc w tabeli
+
+Wymagania :REQ3
+
+Tytul : Sprawdzenie wkoloru pozostalych miejsc w tabeli 
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl , kolor  miejsc 3-13  w tabeli jest bialy
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona laduje sie do konca
+
+T: kolor miejsc 3-13 w tabeli jest bialy
+
+automatyczny
