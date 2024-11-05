@@ -1,6 +1,6 @@
 Sprawdzenie wyswietlania popawnej daty na stronie glownej
 
-Wymagania : REQ1
+Wymagania : REQ1-1
 
 Tytul : Sprawdzenie wyswietlania poprawnej daty na stronie glownej
 
@@ -12,4 +12,4 @@ W: strona zaladowala sie
 
 T: w lewym gornym rogu wyswietla sie data z tego dnia 
 
-manualny
+manualny?
