@@ -20,13 +20,25 @@ class PanelGlowny:
 
 
     def click_klub(self): 
-        pass
+        wszystkie_klub = self.driver.find_elements(By.CSS_SELECTOR, ".menu-item-656")
+        klub = wszystkie_klub[1]
+        klub.click()
+
     def click_druzyny(self): 
-        pass
+        wszystkie_druzyny = self.driver.find_elements(By.CSS_SELECTOR, ".menu-item-10460")
+        druzyny = wszystkie_druzyny[1]
+        druzyny.click()
+    
     def click_rozgrywki(self): 
-        pass
+        wszystkie_rozgrywki = self.driver.find_elements(By.CSS_SELECTOR, ".menu-item-10461")
+        rozgrywki = wszystkie_rozgrywki[1]
+        rozgrywki.click()
+    
     def click_kibice(self): 
-        pass
+        wszystkie_kibice = self.driver.find_elements(By.CSS_SELECTOR, ".menu-item-975")
+        kibice = wszystkie_kibice[1]
+        kibice.click()
+   
     def click_klub100(self): 
         wszystkie_klub100 = self.driver.find_elements(By.CSS_SELECTOR, ".menu-item-626")
         klub100 = wszystkie_klub100[1]
@@ -35,11 +47,19 @@ class PanelGlowny:
 
 
     def click_sponsoring(self): 
-        pass
+        wszystkie_sponsoring = self.driver.find_elements(By.CSS_SELECTOR, ".menu-item-267")
+        sponsoring = wszystkie_sponsoring[1]
+        sponsoring.click()
+    
     def click_akademia(self): 
-        pass
+        wszystkie_akademia = self.driver.find_elements(By.CSS_SELECTOR, ".menu-item-20775")
+        akademia = wszystkie_akademia[1]
+        akademia.click()
+
+    
     def czy_na_stronie(self , url):
         return self.driver.current_url == url
+    
     def otworz_strone(self):
         self.driver.get("https://czarnijaslo.pl/") 
 
@@ -52,6 +72,23 @@ class PanelGlowny:
              wszystkie_sztab = self.driver.find_elements(By.CSS_SELECTOR, ".menu-item-20646")
              sztab = wszystkie_sztab[1]
              sztab.click()
+        if podstrona == "Bilety":
+            wszystkie_opcje_kibice = self.driver.find_elements(By.CSS_SELECTOR, ".menu-item-862")
+            bilety = wszystkie_opcje_kibice[1]
+            bilety.click()
+        if podstrona == "IV liga":
+            wszystkie_opcje_IV_liga = self.driver.find_elements(By.CSS_SELECTOR, ".menu-item-10357")
+            IV_liga = wszystkie_opcje_IV_liga[1]
+            IV_liga.click()
+        if podstrona == "seniorzy":
+            wszystkie_opcje_druzyny = self.driver.find_elements(By.CSS_SELECTOR, ".menu-item-545")
+            seniorzy = wszystkie_opcje_druzyny[1]
+            seniorzy.click()
+        if podstrona == "o klubie":
+            wszystkie_opcje_klub = self.driver.find_elements(By.CSS_SELECTOR, ".menu-item-696")
+            o_klubie = wszystkie_opcje_klub[1]
+            o_klubie.click()
+
 
 
 

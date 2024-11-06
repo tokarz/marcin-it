@@ -1,0 +1,15 @@
+Sprawdzanie czy kazdy klub w tabeli posiada link przenoszacy nas do opisu klubu
+
+Wymagania :REQ3
+
+Tytul : Sprawdzenie dzialania odnosnikow w tabeli
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl , po kliknieciu na kazdy klub w tabeli ppwinien zostac przeniesiony na strone opisu danego zespolu
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona laduje sie do konca, uzytkownik klika na odnosnik do danego klubu w tabeli
+
+T: zostaje przeniesiony na strone opisujaca dany klub
+
+automatyczny
