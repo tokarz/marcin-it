@@ -13,15 +13,21 @@ enter_button_selector = '.enter-button'
 
 success_class='.level-header.completed'
 
-def test_level_1():
+
+def openPage():
+    driver.get("https://flukeout.github.io/")
+
+def closePage():
+    driver.quit()
+
+def test(tekst):
     try:
-    # 1. Open the target webpage
-        driver.get("https://flukeout.github.io/") 
+        
         
         input = WebDriverWait(driver, 10).until(
             EC.visibility_of_element_located((By.CSS_SELECTOR, input_selector))
         )
-        input.send_keys('plate')
+        input.send_keys(tekst)
         
         time.sleep(1)
         
@@ -43,8 +49,12 @@ def test_level_1():
         
     finally:
         time.sleep(3)
-        driver.quit()
+        
 
 
+openPage()
+test("plate")
+test("bento")
 
-test_level_1()
+
+closePage()
