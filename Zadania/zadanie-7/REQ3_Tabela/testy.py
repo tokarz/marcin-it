@@ -4,13 +4,23 @@ import time
 test = Tabela()
 
 #TC1-1
+# Given
 test.otworz_strone()
-test.pierwsze_miejsce_kolor()
+# When
+
+# Then (sprawdzenie, asercja)
+czyJestOk = test.pierwsze_miejsce_kolor()
+if(czyJestOk):
+    print("Sukces")
+else:
+    print("Porazka")
 time.sleep(3)
 
 #TC1-2
 test.otworz_strone()
-test.drugie_miejsce_kolor()
+
+#Then
+czyTestOk = test.drugie_miejsce_kolor()
 time.sleep(3)
 
 #TC1-3
