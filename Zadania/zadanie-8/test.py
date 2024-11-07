@@ -42,10 +42,10 @@ def test(tekst):
         
         if(isCompleted):
             print("Sukces")
-            return 2
+            return 5
         else:
             print("Porazka")
-            return 1
+            return 5
         
     finally:
         time.sleep(3)
