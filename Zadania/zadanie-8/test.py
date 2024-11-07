@@ -41,11 +41,11 @@ def test(tekst):
         isCompleted = driver.find_elements(By.CSS_SELECTOR, success_class)
         
         if(isCompleted):
-            print("Sukces testu")
-            return 1
+            print("Sukces")
+            return 3
         else:
-            print("Porazka testu")
-            return 0
+            print("Porazka")
+            return 4
         
     finally:
         time.sleep(3)
@@ -55,6 +55,7 @@ def test(tekst):
 openPage()
 test("plate")
 test("bento")
+test("")
 
 
 closePage()
