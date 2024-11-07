@@ -35,10 +35,10 @@ def test_level_1():
         isCompleted = driver.find_elements(By.CSS_SELECTOR, success_class)
         
         if(isCompleted):
-            print("Sukces")
+            print("Sukces testu")
             return 1
         else:
-            print("Porazka")
+            print("Porazka testu")
             return 0
         
     finally:
