@@ -1,0 +1,33 @@
+SELEKTORY;INDEX
+plate;1
+bento;2
+#fancy;3
+plate apple;4
+#fancy pickle;5
+apple.small;6
+orange.small;7
+bento orange.small;8
+plate , bento;9
+*;10
+plate *;11
+plate + apple;12
+bento ~ pickle;13
+plate > apple;14
+orange:first-child;15
+plate :only-child;16
+.small:last-child;17
+:nth-child(3);18
+bento:nth-last-child(3);19
+apple:first-of-type;20
+:nth-of-type(even);21
+:nth-of-type(2n+3);22
+apple:only-of-type;23
+.small:last-of-type;24
+bento:empty;25
+apple:not(.small);26
+[for];27 
+plate[for];28
+[for='Vitaly'];29
+[for^='Sa'];30
+[for$='ato'];31
+[for*='obb'];32

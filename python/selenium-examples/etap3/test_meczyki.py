@@ -90,3 +90,17 @@ wyloguj()
 
     # Close the driver after everything is done
 driver.quit()
+
+
+
+
+
+def doSomething(self):
+    self.x = 'abc'
+    
+    return 'foo'
+    
+
+
+
+myValue = doSomething()
