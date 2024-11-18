@@ -1,0 +1,24 @@
+1) stwórz tabele w PGAdminie z teori (klient, produkt)
+2) uzywając skryptów INSERT dodaj dane z teorii do tabel produkt i klient
+3) uzywajac selecta pobierz różne dane z tabel
+	- wszystkie informacje o klientach
+	- wszystkie informacje o produktach
+	- tylko nazwy produktów
+	- tylko imie i nazwisko klienta (bez id)
+4) przeczytaj część o kluczach głównych i obcych (PK, FK)
+5) zrób selecty z inner joinem z teorii
+6) spróbuj stworzyć klucze główne do tabel klient i produkt
+7) dodaj nową tabelę o nazwie zamówienie, z kolumnami:
+     - id
+	 - klient_id,
+	 - produkt_id
+	 - komentarz
+8) pododawaj do tej tabeli klucze główne i obce :
+	  - id = PK
+      - zamowienie.klient_id = klient.id
+	  - zamowienie.produkt_id = produkt.id
+9) wyswietl zamowienia Anny Nowak i Jana Kowalskiego uzywajac tabeli zamowienia
+
+
+
+	

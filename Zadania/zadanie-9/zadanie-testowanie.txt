@@ -1,0 +1,49 @@
+1) stworz klase kalkulator
+2) dodaj do niej funkcje
+	- dodaj (a,b)
+	- odejmij (a,b)
+	- pomnoz (a,b)
+	- podziel (a,b)
+	- napisz kod dla kazdej z tych funkcji
+	
+3) stworz klase matematyk
+4) zdefiniuj funkcje :
+	- policz_dzialanie(dzialanie:string)
+	- klasa matematyk powinna miec w sobie POLE o typie kalkulator
+	- funkcja policz dzialanie powinna dzialac w taki sposob, ze moge napisac dzialanie np:
+	
+		"1+2/3*4", czyli wywolac ja tak:
+		matematyk.policz_dzialanie("1+2/3*4) i powinna pokazac wynik dzialania
+	- Jak to zrobic ? Napis "1+2/3*4" musimy podzielić na kawalki i w zaleznosci od znaku, musimy wywolac
+	odpowiednia funkcje z klasy kalkulator
+	
+	Zeby to zrobic mozemy uzyc funkcji split:
+		tekst = "jabłko,banan,gruszka"
+		wynik = tekst.split(',')
+		print(wynik)
+		
+	albo petla po kazdej literce w napisie:
+	
+		expression = "1+2/3*4"
+
+		# Przechodzimy po każdym znaku w stringu
+		for char in expression:
+			... <---- tutuaj piszemy nasze ify, np if char == '+'
+			
+		Postaraj sie to zrobic bez chata GPT:)
+			
+		Uwaga - OLEWAMY KOLEJNOSC DZIALAN, nie ma znaczenia ze mnozenie jest przed dodawaniem itd, lecimy po prostu
+		od lewej do prawej
+			
+
+
+bedziemy to testowac tak, ze np 
+	- matematyk.policz_dzialanie("1+2/3*4) ma sie rownac 4
+	- matematyk.policz_dzialanie("1+2+3+4) ma sie rownac 10
+	- matematyk.policz_dzialanie("1+2/3*0) ma sie rownac 0
+	
+	itd.
+	
+	
+Powodzenia!:)
+	
