@@ -1,22 +1,50 @@
-1) stwórz tabele w PGAdminie z teori (klient, produkt)
-2) uzywając skryptów INSERT dodaj dane z teorii do tabel produkt i klient
+1) stwórz tabele w PGAdminie z teori (klient, produkt) +
+2) uzywając skryptów INSERT dodaj dane z teorii do tabel produkt i klient+
+
+
 3) uzywajac selecta pobierz różne dane z tabel
-	- wszystkie informacje o klientach
-	- wszystkie informacje o produktach
-	- tylko nazwy produktów
-	- tylko imie i nazwisko klienta (bez id)
-4) przeczytaj część o kluczach głównych i obcych (PK, FK)
+	- wszystkie informacje o klientach : SELECT * FROM klient
+	- wszystkie informacje o produktach : SELECT * from produkty
+	- tylko nazwy produktów  :SELECT nazwa FROM produkt
+	- tylko imie i nazwisko klienta (bez id) : SELECT imie,nazwusko FROM klient +
+
+
+4) przeczytaj część o kluczach głównych i obcych (PK, FK):
+Klucz główny (Primary Key) to unikalna kolumna identyfikująca każdy wiersz w tabeli.
+Klucz obcy (Foreign Key) to kolumna w jednej tabeli, która odwołuje się do klucza głównego w innej tabeli,
+służąc do tworzenia relacji między tabelami.+
+
 5) zrób selecty z inner joinem z teorii
+
+
+
 6) spróbuj stworzyć klucze główne do tabel klient i produkt
+CREATE TABLE klient (
+    id SERIAL PRIMARY KEY,
+    imie VARCHAR(50),
+    nazwisko VARCHAR(50)
+);
+
+CREATE TABLE produkt (
+    id SERIAL PRIMARY KEY,
+    nazwa VARCHAR(100),
+    cena NUMERIC(10, 2)
+);    to mi czat podpowiedzial ze to jest to przy tworrzeniu tabeli +
+
+
 7) dodaj nową tabelę o nazwie zamówienie, z kolumnami:
-     - id
+         - id
 	 - klient_id,
 	 - produkt_id
-	 - komentarz
+	 - komentarz +
+
+
 8) pododawaj do tej tabeli klucze główne i obce :
 	  - id = PK
-      - zamowienie.klient_id = klient.id
+      	  - zamowienie.klient_id = klient.id
 	  - zamowienie.produkt_id = produkt.id
+
+
 9) wyswietl zamowienia Anny Nowak i Jana Kowalskiego uzywajac tabeli zamowienia
 
 
