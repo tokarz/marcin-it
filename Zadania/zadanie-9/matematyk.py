@@ -24,4 +24,5 @@ class Matematyk:
 
 matematyk = Matematyk()
 
-matematyk.policz_dzialanie("1" + "1" / "4")
+
+
