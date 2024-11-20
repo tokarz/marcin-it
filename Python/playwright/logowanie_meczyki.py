@@ -5,7 +5,7 @@ class Logowanie:
     def __init__(self): 
         self.id = "logowanie_meczyki"
     
-    def test_open_page_and_click(self , driver):
+    def otworz_strone(self , driver):
         browser = driver.chromium.launch(headless=False)  
         page = browser.new_page()
         page.goto("https://www.meczyki.pl")
