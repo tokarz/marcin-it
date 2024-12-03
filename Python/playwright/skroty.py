@@ -11,14 +11,14 @@ class Skroty:
         
 
     def click_england(self , driver ):
-        page = self.logowanie.test_open_page_and_click(driver)
+        page = self.logowanie.otworz_strone(driver)
         self.logowanie.login(page)
         page.get_by_role("link", name="Skróty").click()
         page.get_by_role("link", name="Anglia Anglia").click()
    
 
     def click_lider_ekstraklasa(self , driver):
-        page = self.logowanie.test_open_page_and_click(driver)
+        page = self.logowanie.otworz_strone(driver)
         self.logowanie.login(page)
         page.get_by_role("link", name="Skróty").click()
         page.locator(".competition-wrapper").first.click()
@@ -30,7 +30,7 @@ class Skroty:
         
 
     def clicl_lider_premierLeague(self, driver):
-        page = self.logowanie.test_open_page_and_click(driver)
+        page = self.logowanie.otworz_strone(driver)
         self.logowanie.login(page)
         page.get_by_role("link", name="Skróty").click()
         page.get_by_role("link", name="Premier League", exact=True).click()
@@ -41,7 +41,7 @@ class Skroty:
         print("Asercja przebiegła pomyślnie: URL jest zgodny z oczekiwanym: https://www.meczyki.pl/druzyna/liverpool-fc/663")
     
     def click_lider_laLiga(self , driver):
-        page = self.logowanie.test_open_page_and_click(driver)
+        page = self.logowanie.otworz_strone(driver)
         self.logowanie.login(page)
         page.get_by_role("link", name="Skróty").click()
         page.get_by_role("link", name="La Liga", exact=True).click()
@@ -52,7 +52,7 @@ class Skroty:
         print("Asercja przebiegła pomyślnie: URL jest zgodny z oczekiwanym: https://www.meczyki.pl/druzyna/fc-barcelona/2017")
 
     def click_lider_bundesliga(self , driver):
-        page = self.logowanie.test_open_page_and_click(driver)
+        page = self.logowanie.otworz_strone(driver)
         self.logowanie.login(page)
         page.get_by_role("link", name="Skróty").click()
         page.get_by_role("link", name="Bundesliga", exact=True).click()
@@ -63,7 +63,7 @@ class Skroty:
         print("Asercja przebiegła pomyślnie: URL jest zgodny z oczekiwanym: https://www.meczyki.pl/druzyna/bayern-monachium/961")
 
     def click_lider_serieA(self , driver):
-        page = self.logowanie.test_open_page_and_click(driver)
+        page = self.logowanie.otworz_strone(driver)
         self.logowanie.login(page)
         page.get_by_role("link", name="Skróty").click()
         page.get_by_role("link", name="Serie A", exact=True).click()
@@ -74,7 +74,7 @@ class Skroty:
         print("Asercja przebiegła pomyślnie: URL jest zgodny z oczekiwanym: https://www.meczyki.pl/druzyna/napoli/1270")
 
     def click_lider_ligue1(self , driver):
-        page = self.logowanie.test_open_page_and_click(driver)
+        page = self.logowanie.otworz_strone(driver)
         self.logowanie.login(page)
         page.get_by_role("link", name="Skróty").click()
         page.get_by_role("link", name="Ligue 1", exact=True).click()
