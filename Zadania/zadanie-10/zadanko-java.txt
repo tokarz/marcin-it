@@ -1,0 +1,34 @@
+1) stwórz plik Auto.java
+2) stwórz plik Silnik.java
+3) stwórz plik Kolo.java
+4) stwórz plik Hamulec.java
+5) stworz plik Kierownica.java
+6) w każdym z tych plików stwórz funkcję hello() która zwracać będzie Stringa z nazwą klasy (np klasa Kolo bedzie zwracala Stringa "Kolo")
+7) w klasie Auto stwórz 4 POLA 
+	- Silnik silnik;
+	- Kolo[] kola;
+	- Hamulec[] ;
+	- Kierownica kierownica
+	
+8) w klasie Auto  stworz konstruktor i w nim przypisz wartości początkowe dla PÓŁ (używając magicznego operatora this):
+	- Auto{
+		this.silnik = new Silnik();
+		this.kola = {new Kolo(), new Kolo()}
+	
+	}
+
+9) Analogicznie stwórz 2 hamulce i kierownicę w konstruktorze
+10) w klasie Auto dodaj funkcje opis() która będzie wywoływała funckję hello z każdego swojego elementu (dla tablic spróbuj zrobić
+pętle, jeśli Ci się nie uda, to po prostu wypisz elementy ręcznie używając indeksów [0] i [1])
+11) w klasie Auto dodaj funkcję main
+12) w funkcji Main stwórz nowe Auto (Auto mojeAuto = new Auto())  i wywołaj dla niego funkcję opis()
+13) skompiluj wszystkie pliki używając :
+	java Auto.java Silnik.java Kolo.java Hamulec.java Kierownica.java
+14) Uruchom program main z pliku Auto wywołując
+	java Auto
+
+
+Zadanko z gwiazdką:
+
+Spróbuj zrobić to wszystko też w Pythonie:)
+
