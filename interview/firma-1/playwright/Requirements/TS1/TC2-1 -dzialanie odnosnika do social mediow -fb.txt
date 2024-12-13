@@ -1,0 +1,16 @@
+Dzialanie odnosnika do social mediow - Facebook
+
+Wymagania : REQ1
+
+Tytul : Sprawdzenie Dzialania odnosnika do social mediow - Facebook
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl, klika na odnosnik do social mediow - facebook , zostaje przeniesiony 
+na strone facebook klubu
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: klika na odnosnik - facebook 
+
+T:zostaje przeniesiony na strone https://www.facebook.com/czarnijaslo1910/
+
+Automatyczny

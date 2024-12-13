@@ -1,0 +1,17 @@
+Sprawdzanie funcjonalnosci rozwijania panelu menu - zwykly
+
+Wymagania : REQ1/REQ2
+
+Tytul : Sprawdzenie funcjonalnosci rozwijanego menu - zwyklego - " Aktualnosci"
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl, ustawia kursor myszki na opcje "Aktualnosci" w panelu menu i klika na niego , 
+po kliknieciu zostaje przeniesiony na strone https://czarnijaslo.pl/category/wydarzenia/
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: ustawia kursor myszy na przycisk "Aktualnosci" i klika na niego
+
+T: zostaje przeniesiony na strone https://czarnijaslo.pl/category/wydarzenia/
+
+
+automatyczny

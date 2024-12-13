@@ -1,0 +1,19 @@
+Sprawdzanie funcjonalnosci rozwijania panelu menu - rozwijany
+
+Wymagania : REQ1/REQ2
+
+Tytul : Sprawdzenie funcjonalnosci rozwijanego menu - "Klub"
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl, ustawia kursor myszki na opcje "Klub" w panelu menu , panel rozwija sie 
+i wyswietla opcje mozliwe do klikniecia : O klubie , Wladze , Sztab , Historia , Statut , po kliknieciu przycisku " O klubie" zostaje przeniesiony na https://czarnijaslo.pl/o-klubie/
+
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: ustawia kursor myszy na opcje "Klub", panel rozwija sie , w panelu  klika w przycisk " O klubie "
+
+T: zostaje przeniesiony na strone https://czarnijaslo.pl/o-klubie/
+
+
+automatyczny
+

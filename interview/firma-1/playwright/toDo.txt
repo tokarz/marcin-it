@@ -1,0 +1,5 @@
+1: Stworzyc po 1 tescie w kazdym katalogu i uruchomic je wszystkie naraz z pyTest'a
+2: Na podstawie wymagan napisac testy w playwright (od zera) do Panelu menu - czarnych jaslo (sprobuj uzyc innych selektorów)
+3: Zaproponuj jakąś klasę pomocniczą albo Utils która będzie wykonywała powtarzalne rzeczy
+4. Analiza pokrycia wymagań i testów
+

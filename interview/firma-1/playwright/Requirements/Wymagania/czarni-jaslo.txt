@@ -1,0 +1,66 @@
+REQ1) Strona czarni jaslo powinna miec na stronie głównej:
+	1) aktualną datę
+	2) odnośniki do social mediów (działające)
+	3) panel z opcjami menu (opisane w REQ2)
+	4) aktualny artykuł z najnowszymi informacjami
+	5) sponsora strategicznego
+	6) galerię z artykułami poprzednimi - z tytułem aktualności
+	7) informację o następnym meczu
+	8) aktualną tabelę (REQ3)
+	9) listę sponsorów
+	10) stopkę 
+	
+	
+REQ2) Panel powinien mieć 2 rodzaje opcji - rozwijane i zwykłe. Pownien mieć takie opcje:
+
+	1) Aktualności - przenosi do  https://czarnijaslo.pl/category/wydarzenia/
+	2) Rozwijana klub: 
+		a) o Klubie - https://czarnijaslo.pl/o-klubie/
+		b) władze - https://czarnijaslo.pl/wladze-klubu/
+		c) sztab - https://czarnijaslo.pl/sztab-szkoleniowy/
+		d) historia - https://czarnijaslo.pl/historia/
+		e) statt - https://czarnijaslo.pl/statut-klubu/
+	3) drużyny
+		a) seniorzy - https://czarnijaslo.pl/kadra-seniorow/
+		b) rezerwy - https://czarnijaslo.pl/kadra-zespolu-rezerw/
+		c) juniorzy młodsi - https://czarnijaslo.pl/juniorzy-mlodsi/
+		d) trampkarze starsi - https://czarnijaslo.pl/trampkarze-starsi/
+		e) trampkarze młodsi - https://czarnijaslo.pl/trampkarze-mlodsi/
+	4) Rozgrywki
+		a) aktualna liga - https://czarnijaslo.pl/competition/4-liga-podkarpacka/
+		b) puchar polski - https://czarnijaslo.pl/competition/okregowy-puchar-polski/
+		
+	5) Kibice
+		a) bilety - https://czarnijaslo.pl/bilety/
+		b) koszulki - https://czarnijaslo.pl/koszulki-meczowe/
+		c) kibice gosci - https://czarnijaslo.pl/informacja-dla-kibicow-gosci/
+		d) regulamin - https://czarnijaslo.pl/regulamin-imprez-masowych/
+	6)  Klub 100 - https://czarnijaslo.pl/category/klub-100/
+	7)  Sponsoring - https://czarnijaslo.pl/sponsoring/
+	8)  Akademia - https://www.facebook.com/APCzarniJaslo
+
+REQ3) Tabela
+	1) powinna kolorowac pozycje w tabeli
+		a) 1 miejsce zielone
+		b) 2 miejsce niebieskie
+		c) 5 ostatnich miejsc - czerwone
+		d) reszta - biala
+	2) kazdy klub powinien miec swoje logo, liczbe meczow i punktow
+	3) kazdy klub powinien miec swoj odnosnik (href) z opisem zespolu-rezerw/
+	4) Czarni jaslo powinni byc zaznczeni w tabeli na złoto
+
+REQ4) Strona przy ładowaniu powinna wysyłać request do youtube z pobraniem playera:
+	1) https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create
+	2) odpowiedź powinna być 200
+	3) Request powinien być typu POST
+
+REQ5) Przy przejsciu do opcji Klub>O Klubie powinna być załadowana mapka google 
+	1) request powinien być wysłany na starcie strony /o-klubie: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true
+	2) Strona o Klubie powinna mieć informacje:
+		a) Adres
+		b) email
+		c) rok zalozenia
+		d) stadion
+		e) numer konta
+		f) nip
+

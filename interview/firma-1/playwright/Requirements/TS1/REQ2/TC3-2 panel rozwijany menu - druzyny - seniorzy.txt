@@ -1,0 +1,19 @@
+Sprawdzanie funcjonalnosci rozwijania panelu menu - rozwijany
+
+Wymagania : REQ1/REQ2
+
+Tytul : Sprawdzenie funcjonalnosci rozwijanego menu - "Druzyny"
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl, ustawia kursor myszki na opcje "Druzyny" w panelu menu , panel rozwija sie 
+i wyswietla opcje mozliwe do klikniecia : Seniorzy , Rezerwy U-19 , Juniorzy mlodsi , Trampkarze starsi , Trampkarze mlodsi , 
+po kliknieciu przycisku "Seniorzy" zostaje przeniesiony na https://czarnijaslo.pl/kadra-seniorow/
+
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: ustawia kursor myszy na opcje "Druzyny", panel rozwija sie , w panelu  klika w przycisk " Seniorzy "
+
+T: zostaje przeniesiony na strone https://czarnijaslo.pl/kadra-seniorow/
+
+
+automatyczny

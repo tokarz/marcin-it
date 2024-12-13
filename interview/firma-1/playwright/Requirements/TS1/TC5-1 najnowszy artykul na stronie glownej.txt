@@ -1,0 +1,15 @@
+Sprawdzanie wyswietlania najnowszego artykulu
+
+Wymagania : REQ1
+
+Tytul : Sprawdzenie wyswietlania sie najnowszego artykulu na stronie glownej
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl,  na stronie glownej widoczny jest artykul z najnowszymi aktualnosciami
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona laduje sie do konca
+
+T: na stronie widoczny jest artykul z najnowszymi aktualnosciami
+
+manualny

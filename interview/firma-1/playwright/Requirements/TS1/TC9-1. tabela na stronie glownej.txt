@@ -1,0 +1,15 @@
+Sprawdzanie czy aktualna tabela wyswietla sie na stronie glownej
+
+Wymagania : REQ1/REQ3
+
+Tytul : Sprawdzeniewyswietlania tabeli na stronie glownej
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl,po zjechaniu na dol na stronie glownej widoczna jest aktualna tabela rozgrywek
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona laduje sie do konca
+
+T: na stronie glownej widoczna jest aktualna tabela rozgrywek
+
+manualny

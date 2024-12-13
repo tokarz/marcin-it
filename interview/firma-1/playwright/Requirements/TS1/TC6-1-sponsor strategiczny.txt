@@ -1,0 +1,15 @@
+Sprawdzanie wyswietlania sponsora strategicznego
+
+Wymagania : REQ1
+
+Tytul : Sprawdzenie czy wyswietlany jest sponsor strategiczny
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl,  na stronie glownej widoczny jest sponsor strategiczny
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona laduje sie do konca
+
+T: na stronie wyswietlany jest sponsor strateginczy Alfaram
+
+manualny

@@ -1,0 +1,15 @@
+Sprawdzanie czy stopka jest widoczna na stronie 
+
+Wymagania : REQ1
+
+Tytul : Sprawdzenie wwidocznosci stopki
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl , po zaladowaniu strony widoczna jest stopka
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona laduje sie do konca
+
+T: na stronie glownej widoczna jest stopka
+
+manualny

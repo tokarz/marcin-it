@@ -1,0 +1,16 @@
+Sprawdzanie funcjonalnosci rozwijania panelu menu - zwykly
+
+Wymagania : REQ1/REQ2
+
+Tytul : Sprawdzenie funcjonalnosci rozwijanego menu - zwyklego - " Akademia"
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl, ustawia kursor myszki na opcje "Akademia" w panelu menu i klika na niego , 
+po kliknieciu zostaje przeniesiony na strone facebook https://www.facebook.com/APCzarniJaslo
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: ustawia kursor myszy na przycisk "Akademia" i klika na niego
+
+T: zostaje przeniesiony na strone facebook https://www.facebook.com/APCzarniJaslo
+
+automatyczny

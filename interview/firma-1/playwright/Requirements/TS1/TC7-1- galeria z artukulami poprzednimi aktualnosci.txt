@@ -1,0 +1,16 @@
+Sprawdzanie czy galeria z poprzednimi artykulami znajduje sie na stronie
+
+Wymagania : REQ1
+
+Tytul : Sprawdzenie galeri aktualnosci
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl,  na stronie glownej widoczny jest galeria
+ z artykulami poprzednimi o nazwie aktualnosci
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona laduje sie do konca
+
+T: na stronie widoczna jest galeria z poprzednimi artykulami o nazwie aktualnosci
+
+manualny

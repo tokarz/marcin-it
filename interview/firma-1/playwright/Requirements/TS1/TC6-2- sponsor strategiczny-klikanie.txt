@@ -1,0 +1,16 @@
+Sprawdzanie klikania na sponsora strategicznego
+
+Wymagania : REQ1
+
+Tytul : Sprawdzenie klikania na sponsora strategicznego
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl,  na stronie glownej widoczny jest sponsor strategiczny, po kliknieciu na jego logo
+zostajem przeniesiony na strone https://alfaram.pl/
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: uzywtkownik klika na logo sponsora strategicznego Alfaram
+
+T: zostaje przeniesiony na strone sponsora strategicznego https://alfaram.pl/
+
+automatyczny

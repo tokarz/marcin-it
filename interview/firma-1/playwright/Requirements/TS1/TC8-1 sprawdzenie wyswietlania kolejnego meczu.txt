@@ -1,0 +1,16 @@
+Sprawdzanie kczy wyswietla sie kolejny mecz na str glownej
+
+Wymagania : REQ1
+
+Tytul : Sprawdzenie wyswietlania kolejnego meczu
+
+Opis : uzytkownik wchodzi na strone glowna www.czarnijaslo.pl,  na stronie glownej po prawej stronie widoczne jest kiedy i zkim bedzie 
+rozgrywany kolejny mecz ligowy
+
+G: uzytkownik jest na stronie glownej www.czarnijaslo.pl
+
+W: strona zostaje zaladowana do konca
+
+T: po prawej stronie widoczna jest informacja o kolejnym meczu
+
+manulany
