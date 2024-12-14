@@ -1,8 +1,5 @@
 from playwright.sync_api import sync_playwright
 
-
-
-
 class Utilities:
     def __init__(self):
         self.id = "utilis"
@@ -13,13 +10,10 @@ class Utilities:
         page.goto("https://czarnijaslo.pl/")
         return page
           
-    
 
-
-###PANEL GLOWNY###
+    ###PANEL GLOWNY###
     ####CLICK AKTUALCOSCI /KLUB100/SPONSORING/AKADEMIA####
-    def click_panel_glowny_zwykly(self , driver , nazwa , url ):
-        page = self.czarnijaslo(driver)
+    def click_panel_glowny_zwykly(self, page , nazwa , url ):
         selektor =page.locator("#menu-menu-3").get_by_role("link", name = nazwa)
         selektor.click()
         page.wait_for_url(url)
