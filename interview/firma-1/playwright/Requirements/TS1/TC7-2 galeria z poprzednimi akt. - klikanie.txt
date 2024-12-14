@@ -13,4 +13,4 @@ W: uzywtkownik klika w galeria w akltualnosciach
 
 T: zostaje przeniesiony na strone danego artykuku galeri
 
-manualny
+automatyczny
