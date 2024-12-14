@@ -1,0 +1,11 @@
+1) Tworzymy plik X w pom/  który odpowiada czemuś na stronie
+2) tworzymy plik test_X w all_tests/ który już będzie naszym testem
+3) test_X używa pliku X to wykonywania działań na stronie
+
+4) na koniec dodajemy nasz nowy test do pliku conftest.py (kopiuj/wklej/podmień typy po dwukropku na nowe test_X)
+
+Zalety:
+
+1) odzielamy kod POM od testu
+2) różne testy mogą używać tych samych POMów
+
