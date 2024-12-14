@@ -1,48 +1,28 @@
-from playwright.sync_api import Page
-
+from pom.Utilities.Utilities import Utilities
 
 class SocialMedia:
-    def __init__(self , page : Page):
+    def __init__(self , page):
         self.page = page
-
+        self.utils = Utilities(page)
 
     def click_facebook(self):
-        self.page.goto("https://czarnijaslo.pl/")
-        selektor = self.page.locator(".tdm-social-item")
-        selektor.nth(0).click()
-        self.page.wait_for_url("https://www.facebook.com/czarnijaslo1910/")
-        assert self.page.url == "https://www.facebook.com/czarnijaslo1910/"
+        resultUrl = self.utils.sprawdz_odnosnik("0", "https://www.facebook.com/czarnijaslo1910/")
+        assert resultUrl == "https://www.facebook.com/czarnijaslo1910/"
         print("OK")
 
-
-   
     def click_instagram(self): 
-        self.page.goto("https://czarnijaslo.pl/")
-        selektor = self.page.locator(".tdm-social-item")
-        selektor.nth(1).click()
-        self.page.wait_for_url("https://www.instagram.com/czarni_1910_jaslo/")
-        assert self.page.url == "https://www.instagram.com/czarni_1910_jaslo/"
+        resultUrl = self.utils.sprawdz_odnosnik("1", "https://www.instagram.com/czarni_1910_jaslo/")
+        assert resultUrl == "https://www.instagram.com/czarni_1910_jaslo/"
         print("OK")
-
-    
+        
     
     def click_x(self): 
-        self.page.goto("https://czarnijaslo.pl/")
-        selektor = self.page.locator(".tdm-social-item")
-        selektor.nth(2).click()
-        self.page.wait_for_url("https://x.com/i/flow/login?redirect_after_login=%2Fczarnijaslo1910")
-        assert self.page.url == "https://x.com/i/flow/login?redirect_after_login=%2Fczarnijaslo1910"
+        resultUrl = self.utils.sprawdz_odnosnik("2", "https://x.com/i/flow/login?redirect_after_login=%2Fczarnijaslo1910")
+        assert resultUrl == "https://x.com/i/flow/login?redirect_after_login=%2Fczarnijaslo1910"
         print("OK")
-
-   
-   
+        
     def click_yt(self):
-        self.page.goto("https://czarnijaslo.pl/")
-        selektor = self.page.locator(".tdm-social-item")
-        selektor.nth(3).click()
-        self.page.wait_for_url("https://www.youtube.com/channel/UCrk8GobYCsKntXBQBUYK7Ww")
-        assert self.page.url == "https://www.youtube.com/channel/UCrk8GobYCsKntXBQBUYK7Ww"
+        resultUrl = self.utils.sprawdz_odnosnik("3", "https://www.youtube.com/channel/UCrk8GobYCsKntXBQBUYK7Ww")
+        assert resultUrl == "https://www.youtube.com/channel/UCrk8GobYCsKntXBQBUYK7Ww"
         print("OK")
-
-
         

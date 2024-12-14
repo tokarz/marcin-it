@@ -1,8 +1,5 @@
 from pom.SocialMedia.SocialMedia import SocialMedia
 
-
-
-
 def test_click_facebook(socialmedia : SocialMedia):
     socialmedia.click_facebook()
 
