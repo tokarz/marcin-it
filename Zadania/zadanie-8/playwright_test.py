@@ -16,4 +16,3 @@ def page():
         yield page
         browser.close()
 
-def run_css_t
