@@ -1,3 +1,11 @@
+0) WAŻNE!
+	przed uruchomieniem testów wywołaj w konsoli:
+		
+	pip install pytest-playwright
+
+	python -m playwright install
+
+
 1) uruchamianie pytesta:
 
 	python -m pytest <nazwa-pliku>
