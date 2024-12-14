@@ -5,6 +5,7 @@ from playwright.sync_api import Page
 from all_tests.Stopka.test_stopki import Stopka
 from all_tests.Sponsoring.test_sponsoring import Sponsoring
 from all_tests.Tabela.test_tabeli import Tabela
+from all_tests.SocialMedia.test_socialMedia import SocialMedia
 
 @pytest.fixture
 def aktualnosci(page: Page) -> Aktualnosci:
@@ -19,9 +20,13 @@ def stopka(page: Page) -> Stopka:
     return Stopka(page)
 
 @pytest.fixture
-def sponsoring(page: Page):
+def sponsoring(page: Page) -> Sponsoring:
     return Sponsoring(page)
 
 @pytest.fixture
-def tabela(page : Page):
+def tabela(page : Page) -> Tabela:
     return Tabela(page)
+
+@pytest.fixture
+def socialmedia(page :  Page) -> SocialMedia:
+    return SocialMedia(page)

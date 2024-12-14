@@ -17,8 +17,8 @@
 #     assert przegladarka.url == "https://czarnijaslo.pl/"
 #     print ("OK")
 
-from playwright.sync_api import Page
 
+from playwright.sync_api import Page
 class Sponsoring:
     def __init__(self , page : Page):
         self.page = page

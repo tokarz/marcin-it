@@ -8,7 +8,6 @@ class Klub:
         
     def click_club(self):
         self.page.goto("https://czarnijaslo.pl/")
-        time.sleep(5)
         aktualnosci = self.page.locator("#menu-menu-3 .menu-item-327")
         aktualnosci.click()
         self.page.wait_for_url("https://czarnijaslo.pl/category/wydarzenia/")
@@ -16,7 +15,6 @@ class Klub:
         
     def click_wladze(self):
         self.page.goto("https://czarnijaslo.pl/")
-        time.sleep(5)
         aktualnosci = self.page.locator("#menu-menu-3 .menu-item-327")
         aktualnosci.click()
         self.page.wait_for_url("https://czarnijaslo.pl/category/wydarzenia/")
