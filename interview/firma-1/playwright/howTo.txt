@@ -1,0 +1,19 @@
+1) uruchamianie pytesta:
+
+	python -m pytest <nazwa-pliku>
+	
+	
+2) pisanie testu w playwright:
+	
+	
+	- test musi miec fragment:
+		from playwright.sync_api import sync_playwright
+		from newsy_strona_glowna import SprawdzNaglowekNewsa
+		from liczba_komentarzy_news import LiczbaKomentarzyNews
+		from bukmacherzy import Bukmacherzy
+		from sportbuzz_ranking import Sportbuzz
+
+		with sync_playwright() as driver:
+		
+	- zobacz test: D:\marcin-iskrzycki\git\marcin-it\python\playwright\testy.py
+
