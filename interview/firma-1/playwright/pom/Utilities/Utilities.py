@@ -56,13 +56,28 @@ class Utilities:
 
 #### SPRAWDZENIE POPRZEDNICH AKTUALNOSCI /GALERI na stronie glownej #####
 
-    def przejdz_do_artykulu(self , driver , ktory_art , url):
-        page = self.czarnijaslo(driver)
-        selektor = page.locator(".td-thumb-css ")
-        selektor.nth(ktory_art).click()
-        page.wait_for_url(url)
-        assert page.url == url
-        page.close()
+    def sprawdz_poprawnosc_tytulu_artykulu(self , ktory_art ):
+        self.czarnijaslo(self.page)
+        selektory = self.page.locator(".td-thumb-css ")
+        selektor = selektory.nth(ktory_art)
+        selektor_text = selektor.text_content()
+        selektor.click()
+        #self.page.wait_for_url(url)
+        selektor2 = self.page.locator(".td-post-title")
+        selektor2_text = selektor2.text_content()
+        assert selektor2_text == selektor_text
+        print("OK")
+
+
+#### SPRAWDZENIE POSZCZEGOLNYCH DRUZYN TABELI ###############
+
+    
+    def tabela(self ,nazwa_druzyny , url ):   
+        self.czarnijaslo(self.page)
+        druzyna = self.page.locator("#anwpfl-widget-standing-4 div").filter(has_text=nazwa_druzyny).nth(2)
+        druzyna.click()
+        self.page.wait_for_url(url)
+        assert self.page.url == url
         print("OK")
         
 

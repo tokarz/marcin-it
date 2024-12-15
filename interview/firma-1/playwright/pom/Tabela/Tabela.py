@@ -1,33 +1,32 @@
-# from playwright.sync_api import sync_playwright
-# import pytest
-
-# @pytest.fixture(scope="function")
-# def przegladarka():  
-#     with sync_playwright() as playwright:    
-#         browser = playwright.chromium.launch(headless=False)
-#         page = browser.new_page()
-#         yield page 
-#         browser.close()
-    
-# def test_tabela_kolbuszowa(przegladarka):   
-#     przegladarka.goto("https://czarnijaslo.pl/")
-#     sokol_kolbuszowa = przegladarka.get_by_role("link", name="Sokół Kolbuszowa D.")
-#     sokol_kolbuszowa.click()
-#     przegladarka.wait_for_url("https://czarnijaslo.pl/club/sokol-kolbuszowa-dolna/")
-#     assert przegladarka.url == "https://czarnijaslo.pl/club/sokol-kolbuszowa-dolna/"
-#     print("OK")
-from playwright.sync_api import Page
-
+from pom.Utilities.Utilities import Utilities
 
 class Tabela:
-
-    def __init__(self , page : Page):
+    def __init__(self , page):
         self.page = page
+        self.utls = Utilities(page)
 
-    def test_tabela_kolbuszowa(self):   
-        self.page.goto("https://czarnijaslo.pl/")
-        sokol_kolbuszowa = self.page.get_by_role("link", name="Sokół Kolbuszowa D.")
-        sokol_kolbuszowa.click()
-        self.page.wait_for_url("https://czarnijaslo.pl/club/sokol-kolbuszowa-dolna/")
-        assert self.page.url == "https://czarnijaslo.pl/club/sokol-kolbuszowa-dolna/"
+    def click_sokol_kolbuszowa_dolna(self):
+        self.utls.tabela("Sokół Kolbuszowa D." , "https://czarnijaslo.pl/club/sokol-kolbuszowa-dolna/")
+        
         print("OK")
+    
+        
+    def click_jks_jaroslaw(self):
+        self.utls.tabela("JKS Jarosław" , "https://czarnijaslo.pl/club/jks-jaroslaw/")
+       
+        print("OK")
+    
+
+
+    def click_jks_czarni_jaslo(self):
+        self.utls.tabela("Czarni Jasło" , "https://czarnijaslo.pl/club/czarni-jaslo/")
+        
+        print("OK")
+
+    def click_sokol_kamien(self):
+        self.utls.tabela("Sokół Kamień" , "https://czarnijaslo.pl/club/sokol-kamien/")
+        
+        print("OK")
+
+        
+        

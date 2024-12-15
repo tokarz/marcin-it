@@ -6,6 +6,7 @@ from all_tests.Stopka.test_stopki import Stopka
 from all_tests.Sponsoring.test_sponsoring import Sponsoring
 from all_tests.Tabela.test_tabeli import Tabela
 from all_tests.SocialMedia.test_socialMedia import SocialMedia
+from all_tests.Artykuly.test_artykulow import Artykuly
 
 @pytest.fixture
 def aktualnosci(page: Page) -> Aktualnosci:
@@ -23,10 +24,15 @@ def stopka(page: Page) -> Stopka:
 def sponsoring(page: Page) -> Sponsoring:
     return Sponsoring(page)
 
+
+@pytest.fixture
+def socialmedia(page :  Page) -> SocialMedia:
+    return SocialMedia(page)
+
 @pytest.fixture
 def tabela(page : Page) -> Tabela:
     return Tabela(page)
 
 @pytest.fixture
-def socialmedia(page :  Page) -> SocialMedia:
-    return SocialMedia(page)
+def artykuly(page : Page) -> Artykuly:
+    return Artykuly(page)
