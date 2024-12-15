@@ -1,0 +1,42 @@
+Devtoolsy to potężne narzędzie do analizy i testowania stron i aplikacji webowych. każda przeglądarka ma swoje, 
+ale gównie używamy Chroma i Firefoxa.
+
+wystarczy wcisnąć F12
+
+Użyuwamy głównie 2 zakładek
+
+
+1) Elements
+
+	- służy do analizy struktury HTML aplikacji, szukania CSSów i analizy STRUKTURY STRONY!
+	
+2) Network
+	- służy do analizy  RUCHU SIECIOWEGO! My głównie analizowaliśmy requesty RESTOWE, by zobaczyć ich wyniki i wysyłane parametry
+	
+	
+Opis z czata GPT:
+
+Co to jest REST?
+
+REST to sposób, w jaki aplikacje komunikują się ze sobą przez internet. Wyobraź sobie, że aplikacja działa jak kelner w restauracji: Ty prosisz o coś (np. o danie z menu), a kelner przynosi to, co zamówiłeś. W przypadku REST Ty (użytkownik lub aplikacja) wysyłasz żądanie (np. "pokaż mi listę produktów"), a serwer odpowiada danymi (np. listą produktów w formacie JSON). REST działa głównie na podstawie protokołu HTTP, tego samego, którego używasz do przeglądania stron internetowych.
+
+Jak debugować REST w dev-toolsach?
+
+Otwórz narzędzia deweloperskie
+W przeglądarce (np. Chrome) kliknij prawym przyciskiem myszy na stronie i wybierz „Zbadaj” lub „Inspect”. Przejdź do zakładki „Network”.
+
+Wykonaj działanie na stronie
+Kliknij przycisk lub wykonaj jakąś akcję, która powoduje wysłanie żądania REST (np. wypełnienie formularza i kliknięcie „Wyślij”).
+
+Znajdź żądanie
+W zakładce „Network” zobaczysz listę wszystkich żądań wysyłanych przez stronę. Szukaj takich z typem „XHR” lub „Fetch”. Kliknij jedno z nich.
+
+Sprawdź szczegóły żądania
+Po kliknięciu żądania zobaczysz:
+
+Headers (Nagłówki) – jakie informacje zostały wysłane do serwera.
+Response (Odpowiedź) – co serwer odesłał (np. dane w formacie JSON).
+Status – czy żądanie się powiodło (np. „200” oznacza sukces, „404” – brak danych).
+
+
+To świetne narzędzie, żeby sprawdzić, co poszło nie tak, jeśli dane się nie ładują lub serwer zwraca błąd. 😊

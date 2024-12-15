@@ -1,0 +1,25 @@
+W postmanie robiliśmy przede wszystkim testy requestów RESTowych, wysyłaliśmy requesty GET i POST, innych nie było za dużo.
+sam BE jest w napisany w C#. Przy POST było trochę trudniej, bo parametry  requestu trzeba było wrzucać 
+
+Request typu POST - czyli od FE (Przeglądarki) przekazujemy dane DO SERWERA (BE).
+Tych danych często jest dużo, np. cały formularz zamówienia w sklepie internetowym.
+
+Parametry typu POST nie powinny mieć wartości przekazywanych przezz adres URL (czyli zaczynać się od znaku "?" na końcu adresu)
+tylko przekazywać je w części BODY. My w Tokisofcie mieliśmy opisane typy do requestów i musiałem tylko przeklejać JSONy
+i wysyłać requesty (zobacz plik gif o requescie typu POST)
+
+Request typu GET - czyli FE (Front End) POBIERA dane z BE (z serwera).
+Request typu get NIE MA SEKCJI BODY!! czyli jeśli chcemy aby request typu GET wysyłał do BE jakieś parametry, 
+musimy to dopisać na końcu adresu www po znaku "?", a kazdy z nich musi byc oddzielony znakiem "&".
+Nie możemy używać żadnych spacji ani odstępów!!
+
+czyli np
+
+http://serwer-pogody/pobierz-pogode-na-dzis?dzien=dzisiaj&czas=2godziny
+
+to wysyłamy 2 parametry  :
+
+dzien = dzisiaj
+czas = 2godziny
+
+(zobacz plik gif z GET)
