@@ -58,14 +58,13 @@ class Utilities:
 
     def sprawdz_poprawnosc_tytulu_artykulu(self , ktory_art ):
         self.czarnijaslo(self.page)
-        selektory = self.page.locator(".td-thumb-css ")
-        selektor = selektory.nth(ktory_art)
-        selektor_text = selektor.text_content()
+        text_naglowka = self.page.locator('.td-module-title').nth(ktory_art).text_content()
+        selektory = self.page.locator(".td-thumb-css")
+        selektor = selektory.nth(ktory_art)       
         selektor.click()
-        #self.page.wait_for_url(url)
-        selektor2 = self.page.locator(".td-post-title")
+        selektor2 = self.page.locator(".entry-title").nth(0)
         selektor2_text = selektor2.text_content()
-        assert selektor2_text == selektor_text
+        assert selektor2_text == text_naglowka
         print("OK")
 
 
