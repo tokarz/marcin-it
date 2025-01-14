@@ -7,6 +7,10 @@
 	
 3) przeczytaj o XPath (będziemy to robić jeszcze na spotkaniu następnym)
 	https://www.dlatesterow.pl/xpath-lokalizowanie-elementow/
+	- Xpathy możesz poćwiczyć w DevTools'ach używając w konsoli funkcji $x(<selektor>),
+	np 
+	
+	$x('/html/body/div[@class, "xyz"')
 	
 4) Przygotuj się po krótce bo będę Cię sprawdzał czy pamiętasz z tematów:
 
