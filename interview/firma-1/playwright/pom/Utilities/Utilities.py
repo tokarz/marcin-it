@@ -78,10 +78,24 @@ class Utilities:
         self.page.wait_for_url(url)
         assert self.page.url == url
         print("OK")
-        
+
+
+####WYSZUKIWARKA####
+    def wyszukiwarka(self , wyszukaj , nr_artykulu):
+        self.czarnijaslo(self.page)
+        wyszukiwarka = self.page.locator(".tdb_header_search")
+        wyszukiwarka.click()
+        pole_wyszukiwarki = self.page.locator(".tdb-head-search-form-input")
+        pole_wyszukiwarki.click()
+        self.page.type(pole_wyszukiwarki + wyszukaj)
+        click_wyszukaj = self.page.locator(".tdb-head-search-form-btn")
+        click_wyszukaj.click()
+        artykul = self.page.locator(".td-module-title")
+        artykul.nth(nr_artykulu).click()
 
 
         
+
 
 
   

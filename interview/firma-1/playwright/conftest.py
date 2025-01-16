@@ -7,6 +7,7 @@ from all_tests.Sponsoring.test_sponsoring import Sponsoring
 from all_tests.Tabela.test_tabeli import Tabela
 from all_tests.SocialMedia.test_socialMedia import SocialMedia
 from all_tests.Artykuly.test_artykulow import Artykuly
+from all_tests.Wyszukiwarka.test_wyszukiwarki import Wyszukiwarka
 
 @pytest.fixture
 def aktualnosci(page: Page) -> Aktualnosci:
@@ -36,3 +37,7 @@ def tabela(page : Page) -> Tabela:
 @pytest.fixture
 def artykuly(page : Page) -> Artykuly:
     return Artykuly(page)
+
+@pytest.fixture
+def wyszukiwanie(page: Page) -> Wyszukiwarka:
+    return Wyszukiwarka(page)

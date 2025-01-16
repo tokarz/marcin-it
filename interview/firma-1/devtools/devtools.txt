@@ -18,7 +18,9 @@ Opis z czata GPT:
 
 Co to jest REST?
 
-REST to sposób, w jaki aplikacje komunikują się ze sobą przez internet. Wyobraź sobie, że aplikacja działa jak kelner w restauracji: Ty prosisz o coś (np. o danie z menu), a kelner przynosi to, co zamówiłeś. W przypadku REST Ty (użytkownik lub aplikacja) wysyłasz żądanie (np. "pokaż mi listę produktów"), a serwer odpowiada danymi (np. listą produktów w formacie JSON). REST działa głównie na podstawie protokołu HTTP, tego samego, którego używasz do przeglądania stron internetowych.
+REST to sposób, w jaki aplikacje komunikują się ze sobą przez internet. Wyobraź sobie, że aplikacja działa jak kelner w restauracji:
+ Ty prosisz o coś (np. o danie z menu), a kelner przynosi to, co zamówiłeś. W przypadku REST Ty (użytkownik lub aplikacja) wysyłasz żądanie (np. "pokaż mi listę produktów"),
+ a serwer odpowiada danymi (np. listą produktów w formacie JSON). REST działa głównie na podstawie protokołu HTTP, tego samego, którego używasz do przeglądania stron internetowych.
 
 Jak debugować REST w dev-toolsach?
 
