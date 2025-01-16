@@ -1,0 +1,23 @@
+<xml>
+    <miasto>
+        <populacja>100000</populacja>
+
+        <godlo>orzel</godlo>
+
+    </miasto>
+
+     <miasto>
+        <populacja class="">200000</populacja>
+
+        <godlo>orzel</godlo>
+
+    </miasto>
+
+
+
+</xml>
+
+
+
+
+

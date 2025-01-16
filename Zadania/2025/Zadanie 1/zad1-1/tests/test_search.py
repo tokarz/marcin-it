@@ -1,8 +1,6 @@
-from pom.search import SearchPage
 from playwright.sync_api import sync_playwright
 
-
-
+from pom.search import SearchPage
 
 def test_search():
     with sync_playwright() as p:
@@ -12,6 +10,8 @@ def test_search():
 
         search.navigate()
         search.search("playwright")
+
+        # assert?
 
         browser.close()
 

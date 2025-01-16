@@ -1,0 +1,13 @@
+XPATH's:
+
+^ <--- zaczyna sie od  
+
+$ <-- konczy sie na
+
+* <-- dowolny znak
+
+
+$x('//a[@href="https://czarnijaslo.pl/category/klub-100/"]')
+
+
+$x('//li[contains(@class, "menu-item-626")]//div[@class="tdb-menu-item-text"]')
