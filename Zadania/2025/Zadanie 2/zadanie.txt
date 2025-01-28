@@ -1,0 +1,16 @@
+1) Zdefiniuj klase Silnik
+2) Zdefiniuj w niej 4 pola:
+	- Integer Pojemnosc
+	- String Nazwa
+	- String Paliwo
+	- String Id
+3) Zdefiniuj Klase Auto
+4) W klasie Auto zrob pola:
+	- String nazwa
+	- Silnik silnik
+5) W kazdej klasie zdefiniuj 2 rodzaje konstruktorow:
+	- domylsny (bez parametrow  ())
+	- z parametrami ( (String a, String b ....)
+6) w klasie Silnik zrob metode Hello ktora wyswietla "Hello" + Nazwa + Pojemnosc
+7*) Stworz klasy Diesel, Benzyna, Prad i niech dziedzicza po Silnik
+8*) Stworz konstruktory w klasach potomnych i wywolaj tam "super())

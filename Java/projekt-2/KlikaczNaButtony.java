@@ -1,0 +1,7 @@
+class KlikaczNaButtony{
+
+
+    void click() {
+
+    }
+}
