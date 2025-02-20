@@ -19,10 +19,10 @@ public class ApiSeleniumTest {
         // Step 1: API Request to Get First User ID
         RestAssured.baseURI = "https://jsonplaceholder.typicode.com";
         Response response = RestAssured
-                .given()
-                .when()
+            .given()
+            .when()
                 .get("/users")
-                .then()
+            .then()
                 .statusCode(200)
                 .extract()
                 .response();
@@ -47,7 +47,7 @@ public class ApiSeleniumTest {
             System.out.println("Page Title: " + pageTitle);
 
             // Step 4: Extract and Print User Name from the Page
-            WebElement userNameElement = driver.findElement(By.tagName("h1"));
+            WebElement userNameElement = driver.findElement(By.tagName("h1"));   
             String displayedUserName = userNameElement.getText();
             System.out.println("User Name on Page: " + displayedUserName);
 

@@ -1,14 +1,15 @@
 package moj.pakiet;
 
-import org.junit.jupiter.api.Test;
-import io.github.bonigarcia.wdm.WebDriverManager;
-import io.restassured.RestAssured;
-import io.restassured.response.Response;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+import io.restassured.RestAssured;
+import io.restassured.response.Response;
+
 
 public class ApiSeleniumTest2 {
 
@@ -17,9 +18,7 @@ public class ApiSeleniumTest2 {
     public void selenumTest(){
         RestAssured.baseURI = "https://jsonplaceholder.typicode.com";
 
-        Response response = RestAssured
-        
-
+        Response response = RestAssured        //Nie wiem czemu podkresla mi tu RestAssured i cos nie dziala 
         given()
         .when()
             .get("posts/1/comments")
@@ -44,25 +43,27 @@ public class ApiSeleniumTest2 {
             String pageTitle = driver.getTitle();
             System.out.println("Page title : " + pageTitle);
 
-            WebElement userName = driver.findElement(By.tagName("h1"));
-            String displayedUserName = userName.getText();
-            System.out.println("User name : " + displayedUserName);
+            WebElement emailWebElement = driver.findElement(By.tagName("h1"));  //Selektor do wymiany bo nie wiem jak go zlokalizowac na tej stronie####
+            String displayedEmail = emailWebElement.getText();
+            System.out.println("User name : " + displayedEmail);
 
+            if (email.equals(displayedEmail)) {
+                System.out.println("✅ Email name matches the API response!");
+            } else {
+                System.out.println("❌ Email name does not match the API response!");
+            }
 
-
+            } catch (Exception e) {
+                e.printStackTrace();
+            } finally {
+                driver.quit();
+            }
 
 
 
         }
 
 
-
-        
-
-
-      
-
-
     }
     
-}
+
