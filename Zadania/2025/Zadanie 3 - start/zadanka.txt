@@ -1,22 +1,16 @@
-Temat: Konstruktory
+Nowe zadanie:
 
-1) napisz klasy (w Javie i Pythonie):
- - Ręka (bool lewa; bool prawa; int dlugosc)
- - Noga (String lewaCzyPrawa; int dlugosc)
- - Tulow (int waga; bool tatuaz)
- - Glowa (int obwod; String kolorOczu)
- - * Czlowiek (Reka lewa; Reka prawa; Noga lewa; 
-   Noga prawa; Tulow tulow; Glowa glowa)
+1) Analogicznie do Człowieka - Stwórz klasy :
 
+- Koło (int obwód, String bieznik)
+- Silnik (int pojemność, String rodzaj)
+- Kierownica (bool czyOgrzewana)
+- SkrzyniaBiegow(int ilośćBiegów, bool czyAutomat)
 
-Czlowiek(Reka prawa, Reka lewa, Noga lewa, Noga prawa, Tulow tulow, Glowa glowa ){
-    this.prawa = prawa;
-    ...
-}
+2) Stworz klase Auto(Kolo kolo, Silnik silnik, Kierownica kierownica, SzkrzyniaBiegow skrzynia) 
+(popatrz jak zrobilem klase Czlowiek)
 
+3) W  pliku Main.java sprobuj stworzyc Czlowieka (ja zaczalem i zrobilem juz glowe)
+4)* Zrob tez auto skladajace sie z 4 kol, Silnika, Kierownicy i Skrzyni biegow, np
+- 4 zimowe opony 20calowe RS255, silnik Diesel 2.0, Ogrzewana kierownica i 8stopniowa automatyczna skrzynia biegow:)
 
-2) Sprobuj napisac klase Main, ktora stworzy przykladowego czlowieka
-- praworeczny,
-- lewonozny 
-- Gruby
-- niebieski oczy
