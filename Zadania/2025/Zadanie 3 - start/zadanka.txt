@@ -1,0 +1,22 @@
+Temat: Konstruktory
+
+1) napisz klasy (w Javie i Pythonie):
+ - Ręka (bool lewa; bool prawa; int dlugosc)
+ - Noga (String lewaCzyPrawa; int dlugosc)
+ - Tulow (int waga; bool tatuaz)
+ - Glowa (int obwod; String kolorOczu)
+ - * Czlowiek (Reka lewa; Reka prawa; Noga lewa; 
+   Noga prawa; Tulow tulow; Glowa glowa)
+
+
+Czlowiek(Reka prawa, Reka lewa, Noga lewa, Noga prawa, Tulow tulow, Glowa glowa ){
+    this.prawa = prawa;
+    ...
+}
+
+
+2) Sprobuj napisac klase Main, ktora stworzy przykladowego czlowieka
+- praworeczny,
+- lewonozny 
+- Gruby
+- niebieski oczy
