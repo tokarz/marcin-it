@@ -3,10 +3,6 @@ from Reka import Reka
 from Noga import Noga
 from Tulow import Tulow
 from Glowa import Glowa
-
-
-
-
         
 def main():
     nowy_czlowiek = Czlowiek(
