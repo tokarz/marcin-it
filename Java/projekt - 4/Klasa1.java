@@ -1,3 +1,5 @@
+//moj komentarz
+
 public class Klasa1 {
 
     String imie ;
