@@ -1,3 +1,4 @@
+package Czlowiek;
 public class Czlowiek {
     Glowa glowa;
     Tulow tulow;

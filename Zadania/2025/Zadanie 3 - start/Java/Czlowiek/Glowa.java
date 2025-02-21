@@ -1,3 +1,4 @@
+package Czlowiek;
 public class Glowa {
     int obwod;
     String kolorOczu;

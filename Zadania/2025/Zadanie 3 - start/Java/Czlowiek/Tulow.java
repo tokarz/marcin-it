@@ -1,3 +1,4 @@
+package Czlowiek;
 public class Tulow {
     int waga;
     boolean tatuaz;

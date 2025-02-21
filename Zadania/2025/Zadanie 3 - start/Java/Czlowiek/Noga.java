@@ -1,3 +1,4 @@
+package Czlowiek;
 public class Noga {
     String lewaCzyPrawa ;
     int dlugosc;
