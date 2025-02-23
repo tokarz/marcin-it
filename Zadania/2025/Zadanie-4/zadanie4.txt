@@ -1,0 +1,7 @@
+1) Utwórz Klasę Wyścig
+2) Ta klasa wyścig ma mieć 2 kierowców (klasa typu Czlowiek)
+3) Ma tez miec 2 Auta
+4) Ma tez miec pole kierowcyWAutach ktora jest Tablicą! ([]) klas typu Czlowiek (na początek pustą)
+5) Ma tez miec pole autaNaStarcie ktora jest Tablicą! ([]) klas typu Auto (na początek pustą)
+6)* W klasie stwórz funkcję getIntoCar(Kierowca kierowca, Wyscig wyscig)
+7)* po wywolaniu, dodaj kierowce do tablicy kierowcyWAutach i auto do tablicy autaNaStarcie
