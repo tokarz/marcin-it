@@ -20,6 +20,9 @@ JAVA:
 	List<String> alfabetLepszy = new ArrayList<String>();  // <-- sposób na "nieskonczoną" tablice ktora sama rosnie
 
 
+	Pętle:
+	for(int i = 0;i < 100;i++){}
+
 
 PYTHON:
 
