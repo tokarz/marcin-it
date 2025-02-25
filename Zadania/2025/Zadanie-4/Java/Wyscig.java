@@ -1,41 +1,44 @@
 package Wyscig;
 
+class Czlowiek {
+    String imie;
+    String nazwisko;
 
-class Czlowiek{
-    String  imie;
-    String  nazwisko;
-
-    Czlowiek(String imie , String nazwisko){
+    Czlowiek(String imie, String nazwisko) {
         this.imie = imie;
-        this.nazwisko  = nazwisko;
+        this.nazwisko = nazwisko;
     }
 }
 
-class Auto{
+class Auto {
     String marka;
     int moc;
 
-    Auto(String marka , int moc){
+    Auto(String marka, int moc) {
         this.marka = marka;
         this.moc = moc;
     }
 }
 
-public class Wyscig{
+public class Wyscig {
+    Czlowiek kierowca1;
+    Czlowiek kierowca2;
 
-    Czlowiek czlowiek;
-    Auto auto;
+    Auto auto1;
+    Auto auto2;
 
-    Wyscig(){
+    Czlowiek[] kierowcyWAutach;
+    Auto[] autaNaStarcie;
 
-        Czlowiek kierowca1 = new Czlowiek("Marcin", "Iskrzycki");
-        Czlowiek kierowca2 = new Czlowiek("Waclaw", "Nowak");
-        Auto auto1 = new Auto("Vw", 1998);
-        Auto auto2 = new Auto("Chevrolet", 4000);
+    Wyscig() {
+        this.kierowca1 = new Czlowiek("Marcin", "Iskrzycki");
+        this.kierowca2 = new Czlowiek("Waclaw", "Nowak");
 
-        Czlowiek [] kierowcyWAutach = new Czlowiek[0];
-        Auto [] autaNaStarcie = new Auto[0];
+        this.auto1 = new Auto("Vw", 1998);
+        this.auto2 = new Auto("Chevrolet", 4000);
 
+        this.kierowcyWAutach = new Czlowiek[2];
+        this.autaNaStarcie = new Auto[2];
     }
 
 }

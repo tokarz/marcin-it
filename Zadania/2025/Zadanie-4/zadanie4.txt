@@ -5,3 +5,9 @@
 5) Ma tez miec pole autaNaStarcie ktora jest Tablicą! ([]) klas typu Auto (na początek pustą)
 6)* W klasie stwórz funkcję getIntoCar(Kierowca kierowca, Wyscig wyscig)
 7)* po wywolaniu, dodaj kierowce do tablicy kierowcyWAutach i auto do tablicy autaNaStarcie
+
+
+Klasa ma mieć  === klasa ma mieć POLE 
+
+
+Klasa ma robić === klasa ma mieć FUNKCJĘ
