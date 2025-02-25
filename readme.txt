@@ -12,7 +12,12 @@ GIT:
 
 
 JAVA:
-
+	
+	import java.util.ArrayList;
+	import java.util.List;
+	
+	
+	List<String> alfabetLepszy = new ArrayList<String>();  // <-- sposób na "nieskonczoną" tablice ktora sama rosnie
 
 
 
