@@ -1,2 +1,21 @@
 1) Przerób klasę Wyscig na pythona
 
+2) Stwórz Klasę Alfabet, która ma pole "List<String> litery"
+- w konstruktorze stwórz ją, przypisując do new ArrayList<String>() 
+- stworz metodę "void dodaj(String litera)", która dodaje do listy literę wskazaną w argumencie
+- stwóz metodę "void usun(int pozycja)" która usunie literę o indeksie "pozycja" z listy
+- stwórz metodę "void wypisz()" która wypisze wszystkie litery dodane do listy
+- stwórz metodę main() w której spróbuj dodać parę liter, parę pousuwać i wypisać
+
+3) Stwórz klasę Stwórz klasę "Kawiarnia"
+- kawiarnia ma mieć 2 listy - List<String> kawaNaStanie i List<String> kawaSprzedana
+- w konstruktorze stwórz 2 listy. kawaSprzedana ma byc pusta a kawaNaStanie ma miec pozycje:
+"Latte", "Czarna", Capuccino", "Mocca", "Corto", "Espresso", "Ristretto" (normalnie używając kawaNaStanie.add("Latte")
+- stwórz metodę sprzedajKawe(String kawa) ktora ma usunac kawe z listy kawaNaStanie, i dodac ja do listy kawaSprzedana
+(zeby znalezc indeks elementu ktory trzeba usunac uzyj: 
+			int index = list.indexOf("Latte");
+			kawaNaStanie.remove(index)
+
+- dodaj metode pokazSprzedane() i pokazNaStanie()
+- kazda z tych metod powinna wypisac aktualna zawartosc swoich list
+- sprobuj to przetestowac w funkcji main() jesli dasz rade
