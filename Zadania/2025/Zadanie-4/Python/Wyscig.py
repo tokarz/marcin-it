@@ -10,14 +10,19 @@ class Auto :
         self.marka = marka
         self.moc = moc
 
+class Team :
+    def __init__(self, nazwa , budzet):
+        self.nazwa = nazwa
+        self.budzet = budzet
+
 
 class Wyscig:
     def __init__(self , ):
-        kierowca1  = Czlowiek("Marcin" , "Iskrzycki")
-        kierowca2 = Czlowiek ("Jan" , "Kowalski")
-        auto1 = Auto("BMW" , "2000")
-        auto2 = Auto("Mercedes" , "1998")
-        self.kierowcyWAutach = [Czlowiek]
-        self.autaNaStarcie = [Auto]
-        
+        self.kierowca1  = Czlowiek("Marcin" , "Iskrzycki")
+        self.kierowca2 = Czlowiek ("Jan" , "Kowalski")
+        self.auto1 = Auto("BMW" , "2000")
+        self.auto2 = Auto("Mercedes" , "1998")
+        self.kierowcyWAutach = []
+        self.autaNaStarcie = []
+        self.teamList = []
         
