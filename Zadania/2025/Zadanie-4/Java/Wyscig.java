@@ -2,18 +2,13 @@ package Wyscig;
 
 
 class Czlowiek{
-
     String  imie;
     String  nazwisko;
 
     Czlowiek(String imie , String nazwisko){
-
         this.imie = imie;
         this.nazwisko  = nazwisko;
-
     }
-
-
 }
 
 class Auto{
@@ -23,7 +18,6 @@ class Auto{
     Auto(String marka , int moc){
         this.marka = marka;
         this.moc = moc;
-
     }
 }
 

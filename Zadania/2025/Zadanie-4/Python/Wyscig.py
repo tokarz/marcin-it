@@ -11,10 +11,6 @@ class Auto :
         self.moc = moc
 
 
-
-
-
-
 class Wyscig:
     def __init__(self , ):
         kierowca1  = Czlowiek("Marcin" , "Iskrzycki")
