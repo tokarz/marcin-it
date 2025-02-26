@@ -21,10 +21,19 @@ public class Kawiarnia {
         kawaSprzedana.add(kawa);
         }
     public void pokazNaStanie(){
-        System.out.println(kawaNaStanie);
+        System.out.println("Kawa na stanie : ");{
+            for (int i=0; i < kawaNaStanie.size(); i++){
+                System.out.println("Na stanie : " +kawaNaStanie.get(i) );
+            }
+        }
+     
     }
     public void pokazSprzedane(){
-        System.out.println(kawaSprzedana);
+        System.out.println("Kawa sprzedana : ");{
+            for (int i=0 ; i < kawaSprzedana.size(); i++){
+                System.out.println("Sprzedane : " +kawaSprzedana.get(i));
+            }
+        }
     }   
     public static void main(String[] args) {
         Kawiarnia Kawiarnia = new Kawiarnia();

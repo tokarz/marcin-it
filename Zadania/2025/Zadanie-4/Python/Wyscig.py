@@ -25,4 +25,17 @@ class Wyscig:
         self.kierowcyWAutach = []
         self.autaNaStarcie = []
         self.teamList = []
-        
+
+    def getIntoCar(self ,kierowca , auto):
+        self.kierowcyWAutach.append(kierowca)
+        self.autaNaStarcie.append(auto)
+
+    def ktoNaStarcie(self , numer):
+        return self.kierowcyWAutach[numer]
+    
+    def jakieAuto(self, numer):
+        return self.autaNaStarcie[numer]
+    
+    def jakiTeam(self , numer):
+        return self.jakiTeam[numer]
+    
