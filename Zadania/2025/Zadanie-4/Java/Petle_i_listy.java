@@ -12,6 +12,7 @@ public class Petle_i_listy {
         this.alfabetLepszy.add("a");
         this.alfabetLepszy.add("b");
         this.alfabetLepszy.add("c");
+        this.alfabetLepszy.add("d");
         this.alfabetLepszy.add("e"); //
         this.alfabetLepszy.add("f");
 
@@ -40,5 +41,21 @@ public class Petle_i_listy {
             this.alfabetLepszy.get(i);
         }
 
+    }
+
+    public void wypiszParzyste() {
+        for (int i = 0; i < this.alfabetLepszy.size(); i++) {
+            if (i % 2 == 0) {
+                System.out.println("Parzyste : " + this.alfabetLepszy.get(i));
+            }
+        }
+    }
+
+    public void wypiszNieparzyste() {
+        for (int i = 0; i < this.alfabetLepszy.size(); i++) {
+            if (i % 2 == 1) {
+                System.out.println("Nieparzyste : " + this.alfabetLepszy.get(i));
+            }
+        }
     }
 }
