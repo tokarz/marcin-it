@@ -44,6 +44,24 @@ public class Kawiarnia {
             }
         }
     }
+    public String ileKofeiny(String kawa){
+        switch (kawa) {
+            case "Latte": return "20g";
+            case "Czarna": return "25g";
+            case "Cappucino": return "15g";
+            case "Mokka": return "10g";
+            case "Corto": return "22g";
+            case "Espresso": return "80g";
+            default:
+                return "0g";
+        }
+    }
+    public void ileKaloriMajaKawy(){
+        for(int i = 0 ; i < kawaNaStanie.size(); i ++){
+            String ileKofeiny = ileKofeiny(kawaNaStanie.get(i));
+            System.out.println(ileKofeiny);
+        }
+    }
 
     public static void main(String[] args) {
         Kawiarnia Kawiarnia = new Kawiarnia();
