@@ -1,0 +1,62 @@
+1) póki nie ma mnie bo jestem na szkleniu to pocwiczymy wiecej zadan z list i omowimy sobie
+jeden dodatkowy temat, ktory Ci pozniej przyblize jak sie spotkamy
+- Map<> - czyli slowniki
+
+Słownik jest typem do przechowywaniu wielu elementów (podobnie jak List i [])
+JEdnak nie przechowuje on elementów jeden po drugim, do którego odwołujemy się za pomocą indeksu 
+(np w pętli for list.get(i)) tylko przechowuje dane ułożone w strukturę klucz-wartość.
+Dobrym przykładem takiej organizacji jest np. książka telefoniczna, gdzie kluczami są
+imiona osób a wartościami ich nr telefonu
+
+Słownik deklaruje się tak:
+
+// Tworzenie nowej mapy
+Map<String, String> ksiazkaTelefoniczna = new HashMap<String, String>();
+
+// wkladanie danych
+dictionary.put("MarcinIskrzycki", "601 602 603");
+
+// wyciaganie danych
+String value = dictionary.get("key");
+
+Zadanka:
+
+1) stworz klase Uczen ktory bedzie mial pola:
+- imie (String)
+- nazwisko (String)
+- numerWDzienniku (int)
+- sredniaOcen (double), ale z przednialu 1 do 6 (po prostu nie dawaj tu wiekszych wartosci)
+
+2) Stwórz klasę Klasa, ktora bedzie miala konstruktor i pola 
+- literaKlasy (String)
+- int)
+- uczniowe (List<Uczen>)
+
+3) Stworz klase Szkola ktora bedzie miala pola
+- Patron (String)
+- Numer (int)
+- klasy (List<Klasa>)
+
+4) w klasie Szkola stworz metode static void main i w niej
+- Stworz szkole im. Mikolaja Kopernika nr 4 ktora bedzie miala 5 klas 
+- Klasy beda mialy literki  od A do E i kazda bedzie miala 20 uczniowe
+- kazdy uczen bedzie mial imie losowe (mozesz uzyc czata GPT) np 
+Jan Kowalski, nr. 1, sredniaOcen - 3.5
+Jan Kowalski, nr. 2 sredniaOcen - 4.5
+
+
+
+5) napisz w klasie Szkola funkcje 
+public Uczen prymus(){}
+ktora powinna zwrocic ucznia o najlepszej sredniej w szkole  
+
+6) napisz w klasie Szkola funkcje
+public Uczen zdolnyAleLen(){}
+ktora powinna zwrocic ucznia o najnizszej sredniej w szkole
+
+
+ 
+
+
+
+
