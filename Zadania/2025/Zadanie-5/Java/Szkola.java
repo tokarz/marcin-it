@@ -24,6 +24,36 @@ public class Szkola {
             System.out.println(klasa);
         }
     }
+    
+    public Uczen prymus() {
+        Uczen najlepszyUczen = null;
+        double najwyzszaSrednia = -1;
+
+        for (Klasa klasa : klasy) {
+            for (Uczen uczen : klasa.uczniowie) {
+                if (uczen.sredniaOcen > najwyzszaSrednia) {
+                    najwyzszaSrednia = uczen.sredniaOcen;
+                    najlepszyUczen = uczen;
+                }
+            }
+        }
+        return najlepszyUczen;
+    }
+
+    public Uczen zdolnyAleLen() {
+        Uczen najgorszyUczen = null;
+        double najnizszaSrednia = 6.1; 
+
+        for (Klasa klasa : klasy) {
+            for (Uczen uczen : klasa.uczniowie) {
+                if (uczen.sredniaOcen < najnizszaSrednia) {
+                    najnizszaSrednia = uczen.sredniaOcen;
+                    najgorszyUczen = uczen;
+                }
+            }
+        }
+        return najgorszyUczen;
+    }
 
     public static void main(String[] args) {
         Szkola szkola = new Szkola("Mikolaj Kopernik", 4, null);
@@ -33,7 +63,7 @@ public class Szkola {
 
         for (char litera = 'A'; litera <= 'E'; litera++) {
             Klasa klasa = new Klasa(String.valueOf(litera), 1, null);
-            for (int i = 0; i <=20; i++) {
+            for (int i = 1; i <=20; i++) {
                 String imie = imiona[random.nextInt(imiona.length)];
                 String nazwisko = nazwiska[random.nextInt(nazwiska.length)];
                 double srednia = 1 + (5 * random.nextDouble());
@@ -42,6 +72,10 @@ public class Szkola {
             szkola.dodajKlase(klasa);
         }
             szkola.wyswietlSzkole();
+            Uczen prymus = szkola.prymus();
+            Uczen zdolnyAleLen = szkola.zdolnyAleLen();
+            System.out.println(prymus);
+            System.out.println(zdolnyAleLen);
         
     }
 }
