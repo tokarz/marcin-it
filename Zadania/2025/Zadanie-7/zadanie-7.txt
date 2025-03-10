@@ -1,0 +1,38 @@
+1) Zmerdżuj branche z zadania 6 do main'a :)
+2) Stwórz klasę Terrorysta i Antyterrorysta (obie mogą pochodzić z klasy bazowej Gracz, ale nie muszą;)
+3) W klasie Terrorysta stwórz metodę:
+- podlozBombe
+- strzel
+- zmienBron(Bron nowaBron)
+4) W klasie Terrorysta stwórz pola:
+- aktualnaBron (typu Bron)
+- czyMaBombe - typu boolean
+- strzel - ma odpalic metode shoot() swojej broni, jesli ja ma, jesli nie, to ma nic nie robic
+
+5) W klasie  Antyterrorysta zrob metody:
+- rozbrojBombe
+- strzel
+- zmienBron(Bron nowaBron)
+6) W klasie Antyterrorysta stworz pola
+- aktualnaBron
+- strzel - ma odpalic metode shoot() swojej broni, jesli ja ma, jesli nie, to ma nic nie robic
+- rozbrojBombe
+
+7) Stworz klase typu Bron ktora ma miec :
+- pole typu nazwaBroni (String)
+- metode shoot() ktora wypisze na ekran (albo zwroci przez return) tekst nazwaBroni + " booom!");
+- dodatkowo mozesz dodac flage czyAutomat - i jesli to jest prawda to niech wypisze nazwaBroni + "ratatatatatata" :)
+
+8) Stworz klase typu MeczCS ktora ma miec:
+- pole czyBombaPodlozona
+- liste 4 terrorystow
+- liste 4 antyterrorystow
+- kazdy  terrorysta musi miec bron 
+- kazdy antyterrorysta musi miec bron 
+- stworz metode start() w ktorej:
+- kazdy terrorysta odda strzał
+- kazdy antyterrorysta odda strzał
+- terrorysta (jeden wybrany) podlozy bombe (i ustawi flage czyBombaPodlozona na true)
+- antyterrorysta rozbroi bombe
+
+9*) jak najwiecej wspolnych cech miedzy Terrorysta i Antyterrorysta mozesz przerzucic do klasy bazowej Gracz
