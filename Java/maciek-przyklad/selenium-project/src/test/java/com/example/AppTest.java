@@ -40,7 +40,7 @@ public class AppTest {
     @Test
     public void testKlub100(){
         mainPage.open();
-        mainPage.click(CSS_KLUB100);
+        mainPage.click_aktualnosci(CSS_KLUB100);
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.urlToBe("https://czarnijaslo.pl/category/klub-100/"));
             String currentUrl = driver.getCurrentUrl();
