@@ -39,26 +39,11 @@ public class Klub100Test  extends AppTest{
         mainPage.setUp();
         mainPage.open();
         mainPage.click_klub100();
-        mainPage.clickArtykolKlub100(0);
-        mainPage.back();
-        mainPage.clickArtykolKlub100(1);
-        mainPage.back();
-        mainPage.clickArtykolKlub100(2);
-        mainPage.back();
-        mainPage.clickArtykolKlub100(3);
-        mainPage.back();
-        mainPage.clickArtykolKlub100(4);
-        mainPage.back();
-        mainPage.clickArtykolKlub100(5);
-        mainPage.back();
-        mainPage.clickArtykolKlub100(6);
-        mainPage.back();
-        mainPage.clickArtykolKlub100(7);
-        mainPage.back();
-        mainPage.clickArtykolKlub100(8);
-        mainPage.back();
-        mainPage.clickArtykolKlub100(9);
-        mainPage.back();
+        
+        for (int i = 0; i < 10; i++) {
+            mainPage.clickArtykolKlub100(i);
+            mainPage.back();
+        }
         mainPage.tearDown();
     }
 }
