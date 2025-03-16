@@ -11,13 +11,19 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.example.POM.MainPage;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class AppTest {
+    public final String CSS_WYDARZENIA = ".menu-item-327";
+    public final String CSS_KLUB100 = ".menu-item-626";
     private WebDriver driver;
+    private MainPage mainPage;
 
     @BeforeEach
     public void setUp() {
@@ -28,6 +34,20 @@ public class AppTest {
         // Maximize window and set implicit wait
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+        this.mainPage = new MainPage(driver);
+    }
+
+    @Test
+    public void testKlub100(){
+        mainPage.open();
+        mainPage.click_aktualnosci(CSS_KLUB100);
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        wait.until(ExpectedConditions.urlToBe("https://czarnijaslo.pl/category/klub-100/"));
+            String currentUrl = driver.getCurrentUrl();
+            String expectedUrl = "https://czarnijaslo.pl/category/klub-100/";
+            assertEquals(expectedUrl, currentUrl, "Weryfikacja URL nie powiodła się!");
+
+
     }
 
     @Test
@@ -42,15 +62,14 @@ public class AppTest {
 
         try {
             // 1. Otwórz stronę docelową
-            driver.get("https://czarnijaslo.pl/");
+            mainPage.open();
 
             // 2. Czekaj aż elementy o klasie CSS '.menu-item-327' będą obecne
             WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-            wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector(".menu-item-327")));
+            wait.until(isElementVisible());
 
             // 3. Zidentyfikuj drugi element i kliknij go
-            WebElement aktualnosci = driver.findElements(By.cssSelector(".menu-item-327")).get(1); // Zwróć drugi element
-            aktualnosci.click();
+            mainPage.click(CSS_WYDARZENIA);
 
             // 4. Czekaj aż zmieni się URL po kliknięciu
             wait.until(ExpectedConditions.urlToBe("https://czarnijaslo.pl/category/wydarzenia/"));
@@ -133,7 +152,9 @@ public class AppTest {
 
     }
 
-
+    private ExpectedCondition<List<WebElement>> isElementVisible(){
+        return ExpectedConditions.presenceOfAllElementsLocatedBy(By.cssSelector(CSS_WYDARZENIA));
+    }
 
 
 

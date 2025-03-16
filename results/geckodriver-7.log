@@ -1,0 +1,41 @@
+1741877796191	geckodriver	INFO	Listening on 127.0.0.1:62993
+1741877799248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62994" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marci\\AppData\\Local\\Temp\\rust_mozprofileY3aIFw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741877799515	Marionette	INFO	Marionette enabled
+1741877799618	Marionette	INFO	Listening on port 63014
+WebDriver BiDi listening on ws://127.0.0.1:62994
+Read port: 63014
+1741877799740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62994/devtools/browser/3d076105-faac-498c-8e31-979adf3abdbe
+JavaScript error: https://czarnijaslo.pl/wp-content/plugins/auto-refresh-post-page/public/js/auto-refresh-post-page-public.js?ver=1.0.0, line 1: TypeError: $ is not a function
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript, line 1882: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript, line 1882: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript, line 1882: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript, line 1882: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript, line 1882: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript, line 1882: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval, line 1882: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval, line 1882: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval, line 1882: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval line 1882 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval line 1882 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval line 1882 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval, line 1882: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval, line 1882: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval, line 1882: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval line 1882 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval line 1882 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval line 1882 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/embed/SjiyPaIeWyc?autoplay=0&mute=0&enablejsapi=1&origin=https%3A%2F%2Fczarnijaslo.pl&widgetid=1&forigin=https%3A%2F%2Fczarnijaslo.pl%2F&aoriginsup=0&vf=1 line 867 > injectedScript line 2 > eval line 1882 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-138876566-1, line 283: Script terminated by timeout at:
+Wm@https://www.googletagmanager.com/gtag/js?id=UA-138876566-1:283:327
+
+JavaScript warning: https://www.youtube.com/s/player/74e4bb46/www-embed-player.vflset/www-embed-player.js, line 937: Script terminated by timeout at:
+am/<@https://www.youtube.com/s/player/74e4bb46/www-embed-player.vflset/www-embed-player.js:937:47
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v4i3gA4/yr/l/pl_PL/HGrlv167_lp.js, line 213: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1741877804660	Marionette	INFO	Stopped listening on port 63014
+Dynamically enable window occlusion 1

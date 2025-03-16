@@ -1,0 +1,26 @@
+Zadanie: Gildia Wojowników
+
+    Stwórz klasę Wojownik, która będzie miała pola:
+        imie (String) – imię wojownika
+        rasa (String) – rasa wojownika (np. "Elf", "Ork", "Człowiek", "Krasnolud")
+        poziom (int) – poziom wojownika (1-100)
+        sila (double) – siła wojownika (1.0 - 10.0)
+
+    Stwórz klasę Druzyna, która będzie miała:
+        nazwa (String) – nazwa drużyny
+        czlonkowie (List<Wojownik>) – lista wojowników w drużynie
+
+    Stwórz klasę Gildia, która będzie miała pola:
+        nazwa (String) – nazwa gildii
+        mistrzGildii (String) – imię lidera gildii
+        druzyny (List<Druzyna>) – lista drużyn
+
+    W klasie Gildia stwórz metodę main(), w której:
+        Utworzysz gildię "Cienie Valhalli", której mistrzem jest "Ragnar"
+        Gildia będzie miała 3 drużyny ("Wilki Północy", "Strażnicy Ognia", "Mroczne Ostrza")
+        Każda drużyna będzie miała 5 wojowników
+        Imiona wojowników i ich statystyki powinny być losowe (możesz ustalić kilka przykładowych i losowo je przydzielać)
+
+    Napisz w klasie Gildia funkcję
+        public Wojownik najsilniejszyWojownik() – zwraca wojownika z najwyższą siłą
+        public Wojownik najmocniejszyPoziom() – zwraca wojownika z najwyższym poziomem
