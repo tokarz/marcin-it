@@ -1,0 +1,33 @@
+1) CI - Continous Integration, Po każdym pushu albo merdżu, narzędzie do CI (np Jenkins, Azure Devops, AWS itd) uruchamia
+ciąg testów i  kroków (nazywanych jako całość - pipeline'ami) do sprawdzenia jakości systemu PO POPRAWCE
+najczęściej pipeline wygląda tak
+- git checkout albo clone
+- Lint (sprawdzanie składni, błędów językowych w kodzie, stylistycznych itd)
+- Budowanie/Komp
+- Testy Jednostkowe (UT)
+- Testy Integracyjne (Selenium/Playwright/Robot)
+
+CD - Continous Delivery - wrzucanie najnowszych poprawek zawsze na serwer testowy, do którego dostęp mają wszyscy - 
+developerzy, managerowie, testerzy, klienci
+
+Różni się od CI dodatkowym krokiem:
+- Deployment (wrzucenie działającego programu na serwer klienta, ewentualnie konfigurowanie go tam)
+
+2) Azure Devops - obejrzyj filmik +
+- służy do kompleksowego zarządzania projektami IT
+- Boards - służy do zarządzania SCRUM'em (sprinty, zadania dla poszczególnych osób, deadline'y)
+- Pipelines - odpowiednik Jenkinsa - czyli CI/CD 
+- TestLab/TestPlan - opcja dla testerów, narzędzia do zarządania testami
+
+3) Testy performance'owe 
+- sprawdzanie, jak zachowa się system, gdy połączenie będzie słabe, lub gdy będzie z niego korzystać wielu użytkowników
+- możliwe narzędzia używanie to np. JMeter i Postman do wysyłania wielu requestów w tym samym czasie
+- my używamy zakładki performance i Network throttle by symulować wolniejszą sieć
+- używamy też zakładki Network, by badać kolumnę Time każdego requestu i zoabczyć który z requestów zajął ile czasu i dlaczego
+- testujemy też performance odpalając dużo razy ten sam test w robot frameworku i selenium lub playwright i patrzymy, czy 
+wait until mieści się w 5 sekundach
+
+
+
+
+

@@ -1,0 +1,35 @@
+1) Napisz Klasę w pythonie CzarniJaslo, która będzie miałą pola
+- menuOptions - Lista obiektow typu Menu
+- table - Obiekt typu Table
+2) Napisz klasę Menu która będzie miała pola
+- Name - string
+- isDropdown - boolean
+- link: string
+- subMenus - lista obiektów typu Menu
+
+3) Napisz klase Table, która będzie miała
+- zespoly - Lista obiektów typu zespół
+- klasyfikacja - obiekt typu dict ktory przechowuje zespoly i punkty:
+- uzyj np. takiego zapisu:
+	
+	klasyfikacja = {
+    "czarni": {"name"="Czarni Jasło", "points"=55, "wins"=15, "draws"=10, "loses"=7},
+    "sokół": {"name": "Sokół", "points"=35, "wins"=10, "draws"=5, "loses"=2},
+	...
+}
+
+
+4) Stwórz klasę Main która:
+	- stworzy obiekt CzarniJaslo z Menu Options jak na stronie 
+	  (te które są rozwijalne muszą mieć isDropdown=true, i subMenus z opcjami rozwijanymi)
+	- stworzy klasę table w czarnych jaslo, ktora bedzie miala aktualną tabelę ze strony :) 
+	- w funkcji main napisz funkcję spadkowicze - wypisz zespoly ktore sa w strefie spadkowej:
+	(aby z obiektu z zespolami wypisac jakie sa zespoly i móc na nich robić pętlę - użytj funkcji keys()):
+	
+	keys_list = list(klasyfikacja.keys())
+	print(keys_list)  # ['name', 'age', 'city']
+	
+	- napisz funkcję lider - która wypisze który zespół jest 1 w tabeli
+	
+5) napisz pętlę, która  wywoła się dla każdej opcji menu i wypisze jej name
+	
