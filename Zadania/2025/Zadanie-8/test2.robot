@@ -13,7 +13,7 @@ Logowanie Meczyki
     #Zaakceptuj cookies
     Wait Until Element Is Visible    id=sp_message_iframe_1174352    timeout=10s
     Select Frame    id=sp_message_iframe_1174352
-    Click Button    xpath=//button[contains(text(),'Zaakceptuj i zamknij')]  # Dostosuj ten selektor według potrzeby
+    Click Button    xpath=//button[contains(text(),'Zaakceptuj i zamknij')]  
     Unselect Frame
     #Klikamy przycisk logowania
     Wait Until Element Is Visible   xpath=//div[@class="col buttons"]//a[@href="/logowanie.html"]
