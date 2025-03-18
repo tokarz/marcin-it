@@ -1,20 +1,30 @@
 *** Settings ***
 Library    SeleniumLibrary
 Library    Collections
+Library    PythonLibs/Logger.py
+Library    PythonLibs/Clicker.py
 
+*** Variables ***
+${Rozgrywki}    .tdb-block-menu .menu-item-10461  
+${xpath_rozgrywki}    //div[@class="tdb-menu-items-pulldown"]//div[@class="tdb-menu-item-text"][contains(text(),"IV liga")]  
+${URL}    https://czarnijaslo.pl/
+${link_to_czarnijaslo}    //div[@class="competition__group-wrapper"]//div[@class="d-flex flex-column"]//a[contains(@href, "https://czarnijaslo.pl/club/czarni-jaslo/")]    
 *** Test Cases ***
 Test_daty
     #otwieramy strone
-    Open Browser    https://czarnijaslo.pl/    chrome
+    Open Browser    ${URL}    firefox
     Maximize Browser Window
+    Log My Data    helloworld
     #czekamy na zaladowanie i klikamy w 4liga
-    Wait Until Location Is    https://czarnijaslo.pl/ 
-    Wait Until Element Is Visible    xpath=//div[@class="tdb-menu-items-pulldown"]//div[@class="tdb-menu-item-text"][contains(text(),"Rozgrywki")]
-    Click Element    css=.tdb-block-menu .menu-item-10461
-    Click Element    xpath=//div[@class="tdb-menu-items-pulldown"]//div[@class="tdb-menu-item-text"][contains(text(),"Rozgrywki")]
+    Wait Until Location Is    ${URL} 
+    #Wait Until Element Is Visible    xpath=${Rozgrywki}
+    Sleep    3
+    Mouse Over   css=${Rozgrywki}
+    #Click Element    xpath=${xpath_rozgrywki}
+    Click Xpath    ${xpath_rozgrywki}    
     #kikamy w czarnych
-    Wait Until Element Is Visible    xpath=//div[@class="competition__group-wrapper"]//div[@class="d-flex flex-column"]//a[contains(@href, "https://czarnijaslo.pl/club/czarni-jaslo/")]
-    Click Element    xpath=//div[@class="competition__group-wrapper"]//div[@class="d-flex flex-column"]//a[contains(@href, "https://czarnijaslo.pl/club/czarni-jaslo/")]
+    Wait Until Element Is Visible    xpath=${link_to_czarnijaslo}
+    Click Element    xpath=${link_to_czarnijaslo}
     #sprawdzenie daty
     ${info}    Get WebElements    xpath=//div[@class="club-header__option-value"]
     ${count}    Get Length    ${info}
