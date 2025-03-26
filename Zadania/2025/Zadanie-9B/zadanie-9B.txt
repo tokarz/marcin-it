@@ -1,0 +1,18 @@
+1) Napisz klase Calendar, która ma w sobie pola:
+- dniTygodnia - tablica dni tygodnia po angielsku ("Mon", "Tue", itd)
+- miesiace - ["Jan", "Feb"...] itd
+- metode ileDniWMiesiacu - tablica liczb, ile jest dni w kazdym miesiacu (czyli [31, 28, 31,30,...] itd
+- metode jakiDzien(numer) - ktora zwraca jaki jest dzien miesiaca jak podamy mu liczbe od 0 do 6 
+- metode jakiMiesiac(numer) - tak jak wyzej, ale zwraca nazwe miesiaca
+- *metode dniMiesiaca(numer) - metode, ktora wyswietli dla danego miesiaca jakie ma dni, zaczynajac od poniedzialku
+	(dla zapetlenia dni mozesz uzyc znanego nam juz wczesniej % - modulo:)
+	
+2) Robot Framework 
+- bedziemy testowac meczyki - napisz albo zapisz jako gotowy krok testu logowanie do meczykow
+- po zalogowaniu - przescrolluj widok do samego dolu, do stopki i znajdz opcje "LA LIGA STRZELCY", klikij na nia
+- sprawdz czy Lewandowski jest na 1 miejscu :)
+- pobierz do tablicy wszystkich strzelcow
+- sprawdz czy zawodnik na 1 miejscu ma wiecej bramek niz zawodnik na 2 miejscu
+- mozesz tez sprawdzic, czy udalo by Ci sie tak napisac testy, zeby je rowniez odpalic dla innych lig :)
+
+
