@@ -5,7 +5,7 @@ Resource    logowanieMeczyki.robot
 
 *** Variables ***
 ${selektor_strzelcyLaLiga}    //a[@href="/liga/laliga/7/ranking/strzelcy"]
-${selektor_1miejsce}    //div[@class="table stats-table"]//table[@class="base"]//td[@class="longer"]:first-child
+${selektor_1miejsce}    td.longer > a.wrappy[href*="/zawodnik/r-lewandowski/41310"]
 ${selektor_do_scrolla}    //a[@href="/porady/liga-mistrzow-gdzie-ogladac/18"]
 
 
@@ -16,15 +16,8 @@ Test1
     Scroll Element Into View    xpath=${selektor_do_scrolla}
     Click Element    xpath=${selektor_strzelcyLaLiga}
     Sleep    2
-    ${lista_elementow}    Get WebElements    xpath=//td[@class="longer"]
-    ${liczba_elementow}    Get Length    ${lista_elementow}
-    ${pierwszy}    Get From List    ${liczba_elementow}    1
-    ${znaleziony}    Get Text    ${pierwszy}
-    Should Be Equal As Strings    ${znaleziony}    Robert Lewandowski  
-
-
-    Wait Until Element Is Visible    xpath=${selektor_1miejsce}
-    Element Should Contain    xpath=${selektor_1miejsce}    Robert Lewandowski
+    Click Element    css=${selektor_1miejsce}
+    Location Should Be    https://www.meczyki.pl/zawodnik/r-lewandowski/41310
 
 
 Test2
