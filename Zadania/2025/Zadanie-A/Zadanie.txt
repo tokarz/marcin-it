@@ -1,0 +1,24 @@
+1) Napisz test w JMeter, który uruchomi stronę czarni jaslo dla 5, 10 i 20 uzytkownikow
+- musimy uwazac, bo to jest prawdziwa strona i moglibysmy jej zaszkodzić robiąc za dużo testów na niej :)
+2) Napisz własne metody w Robot Framework które:
+- rozwijają liste i klikają na n-ty element na niej (albo na konkretny selektor na niej - wybierz co  wolisz)
+	czyli chodzi o metode, np HoverAndClick(glowne_menu, ktory_element) lub HoverAndClick(glowne_menu, selector) ktora bym dla Klub->Wladze wywolal tak:
+	 HoverAndClick("selektor_do_zakladki_klub", 2)
+	 lub
+	 HoverAndClick("selektor_do_zakladki_klub", "selektor_do_opcji_wladze_klubu")
+	 
+- SearchAndSelect("text") : funkcja ktora zaznacza ikone wyszukiwania, wpisuje do pola wyszukiwany tekst i klika na 1 znalezionym
+elemencie
+
+- ScrollAndClick(selektor, timeout) : funkcja, która scrolluje do selektora, czeka przez timeout i klika na element
+
+
+3) Napisz test w robot frameworku, ktory na zalogowanych meczykach, ktory uzyje metody HoverAndClick by wybrac opcje 
+Bukmacherzy i zaznaczyc opcje "Obstawianie meczów"
+
+4) Uzyj metody ScrollAndClick by zjechać do  stopki, do elementu "Liga mistrzów terminarz" i kliknie na niego po 3 sekundach
+
+5)Napisz test, tkóry kliknie na "Ranking FIFA", zaznaczy opcje Ameryka Pd. i zobaczy czy tabelka jest dobrze ulozona 
+(mozesz oczami sprawdzic  lub sprobowac napisac ponownie ten kod ktory zczytuje punkty i patrzy czy 1 miejsce ma ich najwiecej)
+
+6) Jesli chcesz, mozesz to tez napisac w playwright jak znajdziesz chwilę :)  
