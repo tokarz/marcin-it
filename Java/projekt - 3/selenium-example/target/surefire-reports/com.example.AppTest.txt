@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.example.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.091 s <<< FAILURE! -- in com.example.AppTest
-com.example.AppTest.testNaglowekStrony -- Time elapsed: 0.068 s <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.089 s <<< FAILURE! -- in com.example.AppTest
+com.example.AppTest.testNaglowekStrony -- Time elapsed: 0.067 s <<< ERROR!
 org.openqa.selenium.remote.NoSuchDriverException: 
 chromedriver at location path/to/chromedriver, does not exist
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location/

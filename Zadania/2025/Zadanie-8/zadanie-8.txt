@@ -1,0 +1,12 @@
+1) Napisz test w Robot Frameworku, który:
+	- rozwinie listę Rozgrywki i wybierze opcje IV liga podkarpacka
+	- znajdzie Czarnych jaslo w tabeli i na nich kliknie 
+	- zobaczy czy data zalozenia klubu to 1910
+2) Napisz test w Robot Frameworku, który:
+	- uzywa slow klyczowych *** Keywords *** any ustawic precondition do testów
+	- uzywa wywolania [Setup] do uruchomienia czesci wspolnej testu 
+	- Przykład - patrz przyklad-preconditions.robot
+3) Sprobuj napisac test ktory w czesci Keywords loguje sie do meczykow i 2-3 testy ktore wykorzystuja to w czesci [Setup]
+4) Sprobuj napisac Test Case w wordzie do testow ktore napisales w Robot frameworku
+5) Poczytaj w chacie gpt jak uruchomic testy w robot framework w trybie headless
+6) uruchom i przeanalizuj wygenerowane pliki: log.html, output.html, report.html 
