@@ -1,10 +1,9 @@
 *** Settings ***
 Library    SeleniumLibrary
 Library    Collections
-Resource    Logowanie.robot
-Library    MojeMetody
-*** Variables ***
+Library    libs/MojeMetody.py
 
+Resource   Logowanie.robot
 
 
 
@@ -12,4 +11,6 @@ Library    MojeMetody
 *** Test Cases ***
 
 test1
-    
+    Logowanie Meczyki
+    Custom Hover    css=a[href="/bukmacherzy"] 
+    Sleep    5s
