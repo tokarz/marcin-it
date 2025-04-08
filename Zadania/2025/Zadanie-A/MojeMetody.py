@@ -8,15 +8,15 @@ class MojeMetody:
     def __init__(self):
         self.selenium = BuiltIn().get_library_instance("SeleniumLibrary")
 
-    def hover_and_click(self, selector1 , selector2):
+    def hover_and_click(self, hover_selector , click_selector):
        
         driver = self.selenium.driver
 
-        element1 = self.selenium.find_element(selector1)
+        element1 = self.selenium.find_element(hover_selector)
         ActionChains(driver).move_to_element(element1).perform()
 
-        self.selenium.wait_until_element_is_visible(selector2, timeout=5)
-        self.selenium.click_element(selector2)
+        self.selenium.wait_until_element_is_visible(click_selector, timeout=5)
+        self.selenium.click_element(click_selector)
 
     
     def scroll_and_click(self, selector, timeout):
