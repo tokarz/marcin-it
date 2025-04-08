@@ -13,7 +13,7 @@ Resource   Logowanie.robot
 test1
     Logowanie Meczyki
     #Custom Hover    locator=a[href="/bukmacherzy"]
-    #Hover And Click    selector1=a[href="/bukmacherzy"]    selector2=a[href="/bukmacherzy/nowy-bukmacher/165"] 
-    #Sleep    5s
-    Custom Click    locator=a[href="/newsy"]
-    Location Should Be    url=https://www.meczyki.pl/newsy
+    Sleep    2s
+    Hover And Click    css:a[href="/bukmacherzy"]    a[href="/bukmacherzy/nowy-bukmacher/165"] 
+    #Custom Click    css:a[href="/newsy"]
+    Location Should Be    url=https://www.meczyki.pl/bukmacherzy/nowy-bukmacher/165
