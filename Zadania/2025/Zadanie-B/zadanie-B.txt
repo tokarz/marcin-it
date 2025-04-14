@@ -1,0 +1,61 @@
+1) Napisz test  z krokiem Teardown, z wylogowaniem z meczyków
+- napisz wlasny krok [Teardown], który wypisze cos na ekran albo cos sprawdzi
+2) Napisz plik __init__.robot ktory wykona czesc Settings dla meczykow 
+
+3) zgodnie z linkiem:
+https://robotframework.org/robotframework-RFCP-syllabus/docs/chapter-04/tags
+Ustaw pole [Tag] i parametr dla ktorego test sie uruchamia 
+- needs-login dla testow, ktore wymagaja logowania
+- uzyj robot --include smoke path/to/tests
+- uzyj flag --include i --exclude
+
+4) zanalizuj zaawansowana zmienna jako wynik wyrazenia:
+
+	*** Test Cases ***
+	Test People In Room
+		${trainer_count}    Get Trainers In Room    # returns the integer 2
+		${trainee_count}    Get Trainees In Room    # returns the integer 12
+		${total_people}    Calculate Sum    ${trainer_count}    ${trainee_count}   <------- Zaawansowana zmienna
+		Should Be Equal As Numbers    ${total_people}    14
+
+	
+	
+	
+5) Zobacz test z La Liga i liderem strzelcow, jesli liderem jest Lewandowski, napisz cos na konsoli
+	IF    <condition1>
+		<keywords if condition1 is true>
+	ELSE IF    <condition2>
+		<keywords if condition2 is true>
+	ELSE
+		<keywords if all conditions are false>
+	END
+	
+6) napisz petle FOR ktora wypisze wszystkich strzelcow z tabeli:
+https://robotframework.org/robotframework-RFCP-syllabus/docs/chapter-05/control_structures#524-for-loops
+
+
+*** PYTHON/ Junior Python Developer***
+
+7) Typy w pythonie
+- Popraw kod w Zadaniu 7, zeby uzywal typow zmiennych w pythonie
+przykladowo lista taka:
+
+	self.terrorysci = []   <--- wszystko automatycznie otrzymuje typ Any
+
+	moze byc zapisana tak:
+
+	self.terrorysci:List[Terrorysta] = []  <-- typ  klasy Terrorysta
+	
+	
+	przyklad prostej funkcji z liczbami:
+	
+	przed:
+	
+	def dodaj(liczba1, liczba2):   <--- (wszytsko jest Any!)
+        return liczba1 + liczba2
+	
+	def dodaj(liczba1:int, liczba2:int) -> int:
+        return liczba1 + liczba2
+
+
+8*) Postaw Dockera z baza danych i serverem i napisz test w Robot frameworku ktory sprawdza, czy server diala
