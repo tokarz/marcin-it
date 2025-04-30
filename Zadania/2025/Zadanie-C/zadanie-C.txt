@@ -1,0 +1,18 @@
+1) Poczytaj o takich parametrach zawołań jak:
+- SELECT DISTINCT
+- GROUP BY
+- ORDER BY
+- UPDATE
+- LIKE
+2) stwórz plik z rozszerzeniem SQL (np db.SQL). Wszystkie kwerendy ktore bedziesz robil wpisuj do tego pliku
+3) Napisz UPDATE do tabeli Accounts i zmien numer konta ktory
+- ma Id = 4
+- ma PersonId = 66
+- Account number na "(pusty)" dla wszystkich numerow kont ktore nie maja osoby
+4) Dla tabeli Person Napisz operacje DELETE
+- dla wszystkich osob,które nie mają konta (użyj LEFT albo RIGHT JOIN)
+- dla osoby o id = 3
+5) Napisz skrypt SELECT:
+- wyswietl numer konta osoby o imieniu John
+- wyswietl date urodzenia osoby o LastName_10
+- wyswietl wszystkie osoby ktorych imie zawiera "Name_" (uzyj LIKE) i posortuj rosnaco po DateOfBirth
