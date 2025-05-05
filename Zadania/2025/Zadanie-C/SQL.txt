@@ -1,0 +1,33 @@
+1. SELECT DISTINCT
+Opis: Służy do wybierania unikalnych (różnych) wartości z kolumny lub zestawu kolumn.
+Przykład:
+SELECT DISTINCT kraj FROM klienci;
+Zwróci listę unikalnych krajów z tabeli klienci.
+
+2. GROUP BY
+    Opis: Grupuje wiersze o takich samych wartościach w wybranych kolumnach, 
+często używane z funkcjami agregującymi (SUM(), COUNT(), AVG() itd.).
+    Przykład:
+SELECT kraj, COUNT(*) FROM klienci GROUP BY kraj;
+Zliczy, ilu klientów pochodzi z każdego kraju.
+
+3. ORDER BY
+    Opis: Sortuje wyniki zapytania rosnąco (ASC, domyślnie) lub malejąco (DESC).
+Przykład:
+SELECT nazwisko FROM klienci ORDER BY nazwisko ASC;
+Zwróci nazwiska klientów posortowane alfabetycznie.
+
+4. UPDATE
+    Opis: Aktualizuj istniejące dane w tabeli.
+    Przykład:
+UPDATE klienci SET miasto = 'Warszawa' WHERE id = 5;
+Zmieni miasto na „Warszawa” tylko dla klienta o ID = 5.
+
+5. LIKE
+    Opis: Służy do wyszukiwania wzorców tekstowych w kolumnach typu tekstowego.
+    Przykład:
+    SELECT * FROM klienci WHERE nazwisko LIKE 'Kowal%';
+    Zwróci klientów, których nazwisko zaczyna się na „Kowal”.
+
+
+
