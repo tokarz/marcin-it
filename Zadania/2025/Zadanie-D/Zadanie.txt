@@ -1,0 +1,18 @@
+1) Ze skryptu SQL skopiuj tylko cczesc z create database i odpal w pgadminie
+2) W pgadmin odpal nowy Query Tool dla nowo powstalej bazy schooldb
+3) tam odpal wszystkie wywolania: create database i insert 
+4) przecwicz przykladowe selecty ktore sa w tym pliku 
+5) sprobuj napisac selecty z konca pliku:
+-- 1. Select all students who are not enrolled in any course.
+-- 2. Select all courses that have no students enrolled.
+-- 3. How many students are enrolled in each course?
+-- 4. List all students with their total number of enrolled courses.
+-- 5. List all enrollments with student name, course name, and enrollment date.
+-- 6. Show students who are enrolled in more than one course.
+-- 7. Count total enrollments per student.
+6) Zadanie z gwiazdką:) Nasza szkoła ma kursy, studentow i zapisy na zajecia, ale brakuje nam sposobu, by 
+zapisywać nauczycieli. Przydala by nam się tabela nauczycieli, w której będziemy mogli przechowywać nauczycieli
+i jakiś sposób, by powiązać nauczycieli z kursami, które prowadzą. 
+-- Spróbuj zaproponować nową tabelę i połączyć ją
+z istniejącymi tabelami i dodać paru nauczycieli i dodać do nich pare  kursów
+-- Spróbuj wykonać selecty jacy uczniowie chodzą na kursy do danego nauczyciela
