@@ -2,7 +2,7 @@ import psycopg2
 
 # Database connection parameters
 host = "localhost"
-database = "TestDB"
+database = "schooldb"
 user = "postgres"
 password = "admin"
 
@@ -19,14 +19,14 @@ try:
     cursor = connection.cursor()
 
     # Execute a simple SQL query
-    cursor.execute('select * from "Students" join "Klasa" on "Klasa"."Id" = "Students"."Klasa_ID";')
+    cursor.execute('select * from "students";')
 
     # Fetch and print the result
     rows = cursor.fetchall()
 
     # Print all rows
     for row in rows:
-        print("Name:", row[0], "Klasa_ID:", row[1])
+        print("Name:", row[1], "email:", row[2])
 
 except Exception as e:
     print("Error:", e)
