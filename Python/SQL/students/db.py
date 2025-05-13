@@ -17,20 +17,19 @@ try:
 
     # Create a cursor object
     cursor = connection.cursor()
-    update = 'UPDATE public.students SET  name=%s, email=%s WHERE student_id=%s' 
-    for i in range(100):
-        id = i
-        name = f"user {i}" 
-        email= f"user{i}@email.pl"
-        cursor.execute(update , ( name , email , id))
+
+    # Execute a simple SQL query
+    cursor.execute('select * from "students";')
 
     # Fetch and print the result
-    connection.commit()
+    rows = cursor.fetchall()
 
+    # Print all rows
+    for row in rows:
+        print("Name:", row[1], "email:", row[2])
 
 except Exception as e:
     print("Error:", e)
-    connection.rollback()
 
 finally:
     # Close the cursor and connection

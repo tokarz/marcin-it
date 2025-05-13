@@ -19,8 +19,13 @@ try:
     cursor = connection.cursor()
 
     # Execute a simple SQL query
-    cursor.execute("DELETE FROM public.students;")
-
+    #cursor.execute("INSERT INTO public.students(student_id, name, email) VALUES (5, 'daniel daniel' , 'daniel@gmail.com' );")
+    for i in range(100):
+        insert_query = "INSERT INTO public.teachers(teacher_id, name, email) VALUES (%s , %s, %s);"
+        id= i
+        name = f"teacher {i}" 
+        email= f"teacher{i}@email.pl"
+        cursor.execute(insert_query, (id, name, email))
     # Fetch and print the result
     connection.commit()
 
