@@ -66,4 +66,4 @@ def delete_student(where):
         if connection:
             connection.close()
 
-delete_student("students.student_id = 3")
+delete_all_students()

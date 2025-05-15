@@ -18,14 +18,14 @@ try:
     # Create a cursor object
     cursor = connection.cursor()
 
-    # Execute a simple SQL query
-    #cursor.execute("INSERT INTO public.students(student_id, name, email) VALUES (5, 'daniel daniel' , 'daniel@gmail.com' );")
+    courses = ["matematyka" , "fizyka" , "chemia" , "polski" , "angielski" , "przyroda" , "informatyka" , "wf" , "niemiecki" , "wdz"]
+
     for i in range(10):
-        insert_query = "INSERT INTO public.teachers(teacher_id, name, email) VALUES (%s , %s, %s);"
-        id= i
-        name = f"teacher {i}" 
-        email= f"teacher{i}@email.pl"
-        cursor.execute(insert_query, (id, name, email))
+        insert_query = "INSERT INTO public.courses (course_id, course_name, credits) VALUES (%s, %s, %s);"
+        id= i +1
+        name = courses[i]
+        credits = i+1
+        cursor.execute(insert_query, (id, name, credits))
     # Fetch and print the result
     connection.commit()
 

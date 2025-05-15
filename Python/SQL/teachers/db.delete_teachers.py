@@ -21,7 +21,7 @@ def delete_all_teachers():
         cursor = connection.cursor()
 
         # Execute a simple SQL query
-        cursor.execute("DELETE FROM public.teachers;")
+        cursor.execute("DELETE FROM public.teachers *")
 
         # Fetch and print the result
         connection.commit()
@@ -66,3 +66,5 @@ def delete_teacher(where):
             cursor.close()
         if connection:
             connection.close()
+
+delete_all_teachers()
