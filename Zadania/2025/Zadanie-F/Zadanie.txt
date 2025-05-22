@@ -1,0 +1,8 @@
+1) Dodaj skrypt games.db.py
+2) stworz funkcje "play_game"
+- pobierz dane klubu A, klubu B, wyniku klubu A i wyniku klubu B i dodaj insert do bazy
+ktory stworzy nowy mecz
+
+3) stworz funckje "correct_game" gdzie pobierzesz te same dane co wyzej, ale dodatkowo tez 
+mecz_id i poprawisz (uzywajac UPDATE) dane o meczu ktory juz istnieje
+4) pamietaj o obsludze bledow i wypisanie uzytkownikowi bledu jesli cos zle wpisze
