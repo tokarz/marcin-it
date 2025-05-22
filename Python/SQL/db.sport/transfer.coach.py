@@ -26,7 +26,7 @@ def dostepne_kluby():
         if connection:
             connection.close()
 
-def dostepni_pilkarze():
+def dostepni_trenerzy():
     try:
         connection = psycopg2.connect(
             host=host,
@@ -35,9 +35,9 @@ def dostepni_pilkarze():
             password=password
         )
         cursor = connection.cursor()
-        cursor.execute('SELECT pilkarz_id FROM "pilkarze";')
-        pilkarze = cursor.fetchall()
-        return [p[0] for p in pilkarze]  # <-- teraz to [10, 11, 12]
+        cursor.execute('SELECT trener_id FROM "trenerzy";')
+        trenerzy = cursor.fetchall()
+        return [p[0] for p in trenerzy]  
 
     except Exception as e:
         print("Error:", e)
@@ -48,7 +48,7 @@ def dostepni_pilkarze():
         if connection:
             connection.close()
 
-def transfer_player(klub_id, pilkarz_id):
+def transfer_player(klub_id, trener_id):
     try:
         connection = psycopg2.connect(
             host=host,
@@ -58,10 +58,10 @@ def transfer_player(klub_id, pilkarz_id):
         )
         cursor = connection.cursor()
         cursor.execute(
-            f'UPDATE public.pilkarze SET klub_id = {klub_id} WHERE pilkarz_id = {pilkarz_id};'
+            f'UPDATE public.trenerzy SET klub_id = {klub_id} WHERE trener_id = {trener_id};'
         )
         connection.commit()
-        print(f"Piłkarz {pilkarz_id} został przeniesiony do klubu {klub_id}.")
+        print(f"Trener {trener_id} zmienil klub na {klub_id}.")
 
     except Exception as e:
         print("Error:", e)
@@ -80,14 +80,14 @@ kluby = dostepne_kluby()
 print("Dostępne kluby:", kluby)
 klub = int(input("Podaj ID klubu: "))
 
-pilkarze = dostepni_pilkarze()
-print("Dostępni piłkarze:", pilkarze)
-pilkarz = int(input("Podaj ID piłkarza: "))
+trenerzy = dostepni_trenerzy()
+print("Dostępni trenerzy:", trenerzy)
+trener = int(input("Podaj ID trenera: "))
 
 if klub in kluby:
-    if pilkarz in pilkarze:
-        transfer_player(klub, pilkarz)
+    if trener in trenerzy:
+        transfer_player(klub, trener)
     else:
-        print("Nie ma takiego piłkarza!")
+        print("Nie ma takiego trenera!")
 else:
     print("Nie ma takiego klubu!")
