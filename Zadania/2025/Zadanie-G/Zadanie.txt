@@ -1,0 +1,17 @@
+1) do skryptu create.all.db.sql dodaj tabelę rozgrywki mającą kolumny:
+- rozgrywka_id (PK)
+- nazwa
+2) wypelnij ją danymi jak chcesz (liga mistrzów, serie a itd)
+3) do tabeli mecze dodaj kolumne rozgrywka_id 
+4) dodaj tabele historia_klubu o kolumnach:
+- historia_id (PK)
+- historia (typ varchar albo tekst zeby pomiescilo duzo informacji  tekstowych)
+5) wypelnij ta tabele losowymi danymi:
+
+6) napisz selekty w plikach SQL albo w pythonie (jak wolisz)
+- wszytkie mecze Wisly Kraków, z ostatniego miesiaca
+- wszystkie mecze Lecha na wyjezdzie 
+- wszystkie zwyciestwa Rakowa Czestochowa
+- wszystkie porazki albo zwyciestwa Jagielonii u siebie 
+- ostatnie 5 meczow Legii z Wisłą (dane  możesz dopisać do tabeli żeby ładnie było widać, ale  sam SELECT też wystarczy)
+- historię wszystkich klubów założonych przed wojną :)
