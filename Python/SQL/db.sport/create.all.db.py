@@ -57,6 +57,25 @@ try:
         rok_zalozenia INT
     );
 
+    CREATE TABLE IF NOT EXISTS Rozgrywki (
+        rozgrywka_id SERIAL PRIMARY KEY,
+        nazwa VARCHAR(100) NOT NULL
+    );
+
+    CREATE TABLE IF NOT EXISTS Mecze (
+        mecz_id SERIAL PRIMARY KEY,
+        data_meczu DATE NOT NULL,
+        klub_gospodarz_id INT NOT NULL,
+        klub_gosc_id INT NOT NULL,
+        wynik_gospodarz INT DEFAULT NULL,
+        wynik_gosc INT DEFAULT NULL,
+        stadion VARCHAR(100),
+        rozgrywka_id INT NOT NULL,
+        FOREIGN KEY (klub_gospodarz_id) REFERENCES Kluby(klub_id),
+        FOREIGN KEY (klub_gosc_id) REFERENCES Kluby(klub_id),
+        FOREIGN KEY (rozgrywka_id) REFERENCES Rozgrywki(rozgrywka_id)
+    );
+
     CREATE TABLE IF NOT EXISTS Trenerzy (
         trener_id SERIAL PRIMARY KEY,
         imie VARCHAR(50) NOT NULL,
@@ -78,24 +97,15 @@ try:
         FOREIGN KEY (klub_id) REFERENCES Kluby(klub_id)
     );
 
-    CREATE TABLE IF NOT EXISTS Mecze (
-        mecz_id SERIAL PRIMARY KEY,
-        data_meczu DATE NOT NULL,
-        klub_gospodarz_id INT NOT NULL,
-        klub_gosc_id INT NOT NULL,
-        wynik_gospodarz INT DEFAULT NULL,
-        wynik_gosc INT DEFAULT NULL,
-        stadion VARCHAR(100),
-        FOREIGN KEY (klub_gospodarz_id) REFERENCES Kluby(klub_id),
-        FOREIGN KEY (klub_gosc_id) REFERENCES Kluby(klub_id)
+    CREATE TABLE IF NOT EXISTS Historia (
+        historia_id SERIAL PRIMARY KEY,
+        historia VARCHAR(1000)
     );
     """
 
     cursor.execute(create_tables_sql)
     connection.commit()
     print("Tabele zostały utworzone pomyślnie.")
-
-    # --- Wstawianie danych ---
 
     kluby = [
         ("Legia Warszawa", "Warszawa", "Stadion Wojska Polskiego", 1916),
@@ -107,30 +117,31 @@ try:
         ("Cracovia", "Kraków", "Stadion Cracovii", 1906),
         ("Jagiellonia Białystok", "Białystok", "Stadion Miejski", 1920),
         ("Zagłębie Lubin", "Lubin", "Stadion Zagłębia", 1945),
-        ("Raków Częstochowa", "Częstochowa", "Stadion Rakowa", 1921)
+        ("Raków Częstochowa", "Częstochowa", "Stadion Rakowa", 1921),
+        ("Czarni Jaslo" , "Jaslo" , "Stadion w Jasle", 1910)
+        
     ]
     execute_values(cursor, "INSERT INTO Kluby (nazwa, miasto, stadion, rok_zalozenia) VALUES %s ON CONFLICT DO NOTHING", kluby)
 
-    # Pobierz klub_id, aby przypisać do trenerów, piłkarzy i meczów
     cursor.execute("SELECT klub_id FROM Kluby ORDER BY klub_id ASC")
     klub_ids = [row[0] for row in cursor.fetchall()]
 
     trenerzy = [
-        ("Jan", "Kowalski", "1965-03-10", "Polska", klub_ids[0]),
-        ("Piotr", "Nowak", "1970-07-15", "Polska", klub_ids[1]),
-        ("Andrzej", "Wiśniewski", "1962-12-01", "Polska", klub_ids[2]),
-        ("Marek", "Kaczmarek", "1968-05-20", "Polska", klub_ids[3]),
-        ("Tomasz", "Zieliński", "1975-01-30", "Polska", klub_ids[4]),
-        ("Adam", "Sikora", "1963-09-10", "Polska", klub_ids[5]),
-        ("Krzysztof", "Wójcik", "1972-04-14", "Polska", klub_ids[6]),
-        ("Łukasz", "Kubiak", "1969-11-22", "Polska", klub_ids[7]),
-        ("Dariusz", "Kowalczyk", "1971-08-08", "Polska", klub_ids[8]),
-        ("Paweł", "Baran", "1967-06-16", "Polska", klub_ids[9])
+        ("Kosta", "Runjaić", "1971-06-04", "Niemcy", klub_ids[0]),
+        ("John", "van den Brom", "1966-10-04", "Holandia", klub_ids[1]),
+        ("Radosław", "Sobolewski", "1976-12-13", "Polska", klub_ids[2]),
+        ("Jacek", "Magiera", "1977-01-01", "Polska", klub_ids[3]),
+        ("Jan", "Urban", "1962-05-14", "Polska", klub_ids[4]),
+        ("Jens", "Gustafsson", "1978-10-15", "Szwecja", klub_ids[5]),
+        ("Jacek", "Zielinski", "1961-03-01", "Polska", klub_ids[6]),
+        ("Adrian", "Siemieńiec", "1988-08-10", "Polska", klub_ids[7]),
+        ("Waldemar", "Fornalik", "1963-04-11", "Polska", klub_ids[8]),
+        ("Dawid", "Szwarga", "1991-07-15", "Polska", klub_ids[9])
     ]
     execute_values(cursor, "INSERT INTO Trenerzy (imie, nazwisko, data_urodzenia, narodowosc, klub_id) VALUES %s ON CONFLICT DO NOTHING", trenerzy)
 
     pilkarze = [
-        ("Robert", "Lewandowski", "1988-08-21", "Polska", "Napastnik", klub_ids[0]),
+         ("Robert", "Lewandowski", "1988-08-21", "Polska", "Napastnik", klub_ids[0]),
         ("Kamil", "Grosicki", "1988-06-08", "Polska", "Pomocnik", klub_ids[1]),
         ("Grzegorz", "Krychowiak", "1990-01-29", "Polska", "Pomocnik", klub_ids[2]),
         ("Wojciech", "Szczęsny", "1990-04-18", "Polska", "Bramkarz", klub_ids[3]),
@@ -161,25 +172,45 @@ try:
         ("Michał", "Helik", "1995-04-09", "Polska", "Obrońca", klub_ids[8]),
         ("Bartłomiej", "Drągowski", "1997-01-19", "Polska", "Bramkarz", klub_ids[9])
     ]
-    execute_values(cursor, """INSERT INTO Pilkarze 
-        (imie, nazwisko, data_urodzenia, narodowosc, pozycja, klub_id) 
-        VALUES %s ON CONFLICT DO NOTHING""", pilkarze)
+    
+    execute_values(cursor, "INSERT INTO Pilkarze (imie, nazwisko, data_urodzenia, narodowosc, pozycja, klub_id) VALUES %s ON CONFLICT DO NOTHING", pilkarze)
 
-    mecze = [
-        ("2023-08-01", klub_ids[0], klub_ids[1], 2, 1, "Stadion Wojska Polskiego"),
-        ("2023-08-02", klub_ids[2], klub_ids[3], 1, 1, "Stadion Wisły"),
-        ("2023-08-03", klub_ids[4], klub_ids[5], 0, 3, "Stadion im. Ernesta Pohla"),
-        ("2023-08-04", klub_ids[6], klub_ids[7], 2, 2, "Stadion Cracovii"),
-        ("2023-08-05", klub_ids[8], klub_ids[9], 1, 0, "Stadion Zagłębia"),
-        ("2023-08-06", klub_ids[1], klub_ids[0], 0, 4, "Stadion Miejski"),
-        ("2023-08-07", klub_ids[3], klub_ids[2], 2, 3, "Stadion Wrocław"),
-        ("2023-08-08", klub_ids[5], klub_ids[4], 1, 1, "Stadion Pogoni"),
-        ("2023-08-09", klub_ids[7], klub_ids[6], 3, 0, "Stadion Miejski"),
-        ("2023-08-10", klub_ids[9], klub_ids[8], 2, 2, "Stadion Rakowa")
+    rozgrywki = [
+        ("Liga Mistrzów",),
+        ("Liga Europy",),
+        ("Liga Konferencji",),
+        ("Ekstraklasa",),
+        ("Puchar Polski",)
+    ]
+    execute_values(cursor, "INSERT INTO Rozgrywki (nazwa) VALUES %s ON CONFLICT DO NOTHING", rozgrywki)
+
+    cursor.execute("SELECT rozgrywka_id FROM Rozgrywki ORDER BY rozgrywka_id ASC")
+    rozgrywka_ids = [row[0] for row in cursor.fetchall()]
+
+    mecze =[
+        ("2023-08-01", klub_ids[0], klub_ids[1], 2, 1, "Stadion Wojska Polskiego", 1),
+        ("2023-08-02", klub_ids[2], klub_ids[3], 1, 1, "Stadion Wisły", 3),
+        ("2023-08-03", klub_ids[4], klub_ids[5], 0, 3, "Stadion im. Ernesta Pohla", 4),
+        ("2023-08-04", klub_ids[6], klub_ids[7], 2, 2, "Stadion Cracovii", 4),
+        ("2023-08-05", klub_ids[8], klub_ids[9], 1, 0, "Stadion Zagłębia", 2),
+        ("2023-08-06", klub_ids[1], klub_ids[0], 0, 4, "Stadion Miejski", 2),
+        ("2023-08-07", klub_ids[3], klub_ids[2], 2, 3, "Stadion Wrocław", 1),
+        ("2023-08-08", klub_ids[5], klub_ids[4], 1, 1, "Stadion Pogoni", 3),
+        ("2023-08-09", klub_ids[7], klub_ids[6], 3, 0, "Stadion Miejski", 4),
+        ("2023-08-10", klub_ids[9], klub_ids[8], 2, 2, "Stadion Rakowa", 5)
     ]
     execute_values(cursor, """INSERT INTO Mecze 
-        (data_meczu, klub_gospodarz_id, klub_gosc_id, wynik_gospodarz, wynik_gosc, stadion) 
+        (data_meczu, klub_gospodarz_id, klub_gosc_id, wynik_gospodarz, wynik_gosc, stadion , rozgrywka_id) 
         VALUES %s ON CONFLICT DO NOTHING""", mecze)
+
+    historia = historia = [
+        ("Historia Legia Warszawa - wielokrotny mistrz Polski, znany z silnej obrony i dynamicznej gry ofensywnej. Klub od lat buduje silną pozycję na krajowej i europejskiej scenie.",),
+        ("Historia Lech Poznań - słynący z solidnej akademii młodzieżowej, która wychowała wielu czołowych piłkarzy. Klub z dużym wsparciem kibiców i tradycją walki o najwyższe cele.",),
+        ("Historia Wisła Kraków - jeden z najstarszych i najbardziej utytułowanych klubów w Polsce, wielokrotny mistrz kraju, z bogatą tradycją i lojalną bazą fanów.",),
+        ("Historia Górnik Zabrze - klub z wieloma mistrzostwami Polski, znany z zaangażowania i pasji, silnie zakorzeniony w górniczej społeczności, z imponującą historią sukcesów.",),
+        ("Historia Śląsk Wrocław - dynamiczny klub, który zdobył mistrzostwo Polski oraz Puchar kraju, znany z rozwoju młodych talentów i zaangażowania w lokalną społeczność.",)
+    ]
+    execute_values(cursor, "INSERT INTO Historia (historia) VALUES %s ON CONFLICT DO NOTHING", historia)
 
     connection.commit()
     print("Dane zostały dodane pomyślnie.")
