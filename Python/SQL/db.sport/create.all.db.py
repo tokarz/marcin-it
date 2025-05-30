@@ -99,7 +99,8 @@ try:
 
     CREATE TABLE IF NOT EXISTS Historia (
         historia_id SERIAL PRIMARY KEY,
-        historia VARCHAR(1000)
+        historia VARCHAR(1000),
+        klub_id INT
     );
     """
 
@@ -204,13 +205,13 @@ try:
         VALUES %s ON CONFLICT DO NOTHING""", mecze)
 
     historia = historia = [
-        ("Historia Legia Warszawa - wielokrotny mistrz Polski, znany z silnej obrony i dynamicznej gry ofensywnej. Klub od lat buduje silną pozycję na krajowej i europejskiej scenie.",),
-        ("Historia Lech Poznań - słynący z solidnej akademii młodzieżowej, która wychowała wielu czołowych piłkarzy. Klub z dużym wsparciem kibiców i tradycją walki o najwyższe cele.",),
-        ("Historia Wisła Kraków - jeden z najstarszych i najbardziej utytułowanych klubów w Polsce, wielokrotny mistrz kraju, z bogatą tradycją i lojalną bazą fanów.",),
-        ("Historia Górnik Zabrze - klub z wieloma mistrzostwami Polski, znany z zaangażowania i pasji, silnie zakorzeniony w górniczej społeczności, z imponującą historią sukcesów.",),
-        ("Historia Śląsk Wrocław - dynamiczny klub, który zdobył mistrzostwo Polski oraz Puchar kraju, znany z rozwoju młodych talentów i zaangażowania w lokalną społeczność.",)
+        ("Historia Legia Warszawa - wielokrotny mistrz Polski, znany z silnej obrony i dynamicznej gry ofensywnej. Klub od lat buduje silną pozycję na krajowej i europejskiej scenie.",1),
+        ("Historia Lech Poznań - słynący z solidnej akademii młodzieżowej, która wychowała wielu czołowych piłkarzy. Klub z dużym wsparciem kibiców i tradycją walki o najwyższe cele.",2),
+        ("Historia Wisła Kraków - jeden z najstarszych i najbardziej utytułowanych klubów w Polsce, wielokrotny mistrz kraju, z bogatą tradycją i lojalną bazą fanów.",3),
+        ("Historia Górnik Zabrze - klub z wieloma mistrzostwami Polski, znany z zaangażowania i pasji, silnie zakorzeniony w górniczej społeczności, z imponującą historią sukcesów.",4),
+        ("Historia Śląsk Wrocław - dynamiczny klub, który zdobył mistrzostwo Polski oraz Puchar kraju, znany z rozwoju młodych talentów i zaangażowania w lokalną społeczność.",5)
     ]
-    execute_values(cursor, "INSERT INTO Historia (historia) VALUES %s ON CONFLICT DO NOTHING", historia)
+    execute_values(cursor, "INSERT INTO Historia (historia, klub_id) VALUES %s ON CONFLICT DO NOTHING", historia)
 
     connection.commit()
     print("Dane zostały dodane pomyślnie.")
