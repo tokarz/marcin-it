@@ -4,6 +4,7 @@ from typing import Any
 from games import dostepne_kluby
 from games import play_game
 from pydantic import BaseModel
+from drop_database import delete 
 
 class MyOwnModel(BaseModel):
     imie: str
@@ -68,6 +69,14 @@ def play_one_game(data: MyOwnModel):
     try:
         #result = play_game(data.klubAid, data.klubBid, data.wynikA, data.wynikB, data.stadion)
         return {"status": "success", "data": data}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+@app.post("/delete")
+def delete_db():
+    try:
+        delete()
+        return {"status": "success"}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     
