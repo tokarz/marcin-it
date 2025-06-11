@@ -27,3 +27,20 @@ def get_data():
         return {"status": "success", "data": data}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+@app.get("/test")
+def get_test(name):
+    try:
+        data = {"name" : name}
+        return {"status": "success", "data": data}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+@app.post("/apppost")
+def appPost(data):
+    try:
+        data = {"data" : data}
+        return {"status": "success", "data": data}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+

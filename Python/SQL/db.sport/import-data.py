@@ -229,4 +229,4 @@ def import_players():
 # import_coach()
 # import_rozgrywki()
 # import_historia()
-import_players()
+# import_players()
