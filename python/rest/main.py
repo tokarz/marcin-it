@@ -5,6 +5,11 @@ from games import dostepne_kluby
 from games import play_game
 from pydantic import BaseModel
 from drop_database import delete 
+from create_db import stworz_baze_danych_sport
+from import_data import import_teams , import_coach
+from transfer_player import dostepni_pilkarze
+from transfer_coach import dostepni_trenerzy
+
 
 class MyOwnModel(BaseModel):
     imie: str
@@ -80,3 +85,37 @@ def delete_db():
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     
+@app.post("/newdatabase")
+def create_new_database():
+    try:
+        stworz_baze_danych_sport()
+        return {"status": "success"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+@app.post("/importteams")
+def import_new_teams():
+    try:
+        import_teams()
+        return {"status": "success"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+@app.get("/pilkarze")
+def get_pilkarze():
+    try:
+        data = dostepni_pilkarze()
+        return {"status": "success", "data": data}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+@app.get("/trenerzy")
+def get_trenerzy():
+    try:
+        data = dostepni_trenerzy()
+        return {"status": "success", "data": data}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+
+
