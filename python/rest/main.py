@@ -6,7 +6,7 @@ from games import play_game
 from pydantic import BaseModel
 from drop_database import delete 
 from create_db import stworz_baze_danych_sport
-from import_data import import_teams , import_coach
+from import_data import import_teams , import_players , import_all
 from transfer_player import dostepni_pilkarze
 from transfer_coach import dostepni_trenerzy
 
@@ -116,6 +116,26 @@ def get_trenerzy():
         return {"status": "success", "data": data}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+@app.post("/importpilkarze")
+def import_new_players():
+    try:
+        import_players()
+        return {"status": "success"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+@app.post("/importalldata")
+def import_all_data():
+    try:
+        import_all()
+        return {"status": "success"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+
+    
+
     
 
 
