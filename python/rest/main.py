@@ -7,8 +7,8 @@ from pydantic import BaseModel
 from drop_database import delete 
 from create_db import stworz_baze_danych_sport
 from import_data import import_teams , import_players , import_all
-from transfer_player import dostepni_pilkarze
-from transfer_coach import dostepni_trenerzy
+from transfer_player import dostepni_pilkarze , dostepni_pilkarze_z_danego_klubu
+from transfer_coach import dostepni_trenerzy , trener_klubu
 
 
 class MyOwnModel(BaseModel):
@@ -132,6 +132,24 @@ def import_all_data():
         return {"status": "success"}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+@app.get("/clubplayers")
+def get_club_players(klub_id):
+    try:
+        data = dostepni_pilkarze_z_danego_klubu(klub_id)
+        return {"status": "success", "data": data}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+@app.get("/clubtrener")
+def get_club_players(klub_id):
+    try:
+        data = trener_klubu(klub_id)
+        return {"status": "success", "data": data}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
     
 
     

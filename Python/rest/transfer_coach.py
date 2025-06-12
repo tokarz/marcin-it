@@ -73,5 +73,26 @@ def transfer_player(klub_id, trener_id):
         if connection:
             connection.close()
 
+def trener_klubu(klub_id):
+    try:
+        connection = psycopg2.connect(
+            host=host,
+            database='sport',
+            user=user,
+            password=password
+        )
+        cursor = connection.cursor()
+        cursor.execute(f'SELECT imie , nazwisko FROM "trenerzy" WHERE klub_id={klub_id}')
+        trenerzy = cursor.fetchall()
+        return trenerzy
+
+    except Exception as e:
+        print("Error:", e)
+
+    finally:
+        if cursor:
+            cursor.close()
+        if connection:
+            connection.close()
 # -------------------------------
 # Główna część programu
