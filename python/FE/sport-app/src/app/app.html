@@ -1,2 +1,19 @@
 <h1>Sport Teams</h1>
-{{data}}
+<ul>
+  @for(club of clubs;track club){
+    <li (click)="loadPlayers(club[0]);loadCoach(club[0])">{{club[1]}}</li>
+  }
+</ul>
+
+<div>
+  <h1>Players</h1>
+  <ul>
+    @for(player of players;track player){
+      <li>{{player[0]}}-{{player[1]}}</li>
+    }
+  </ul>
+</div>
+<div>
+  <h1>Coach</h1>
+  <span>{{coach[0]}}-{{coach[1]}}</span>
+</div>

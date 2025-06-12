@@ -10,4 +10,11 @@ export class ApiService {
   getData() {
     return this.http.get(this.apiUrl);
   }
+
+  getPlayers(klub_id:string) {
+    return this.http.get(`http://localhost:8000/clubplayers?klub_id=${klub_id}`);
+  }
+  getCoach(klub_id:string) {
+    return this.http.get(`http://localhost:8000/clubtrener?klub_id=${klub_id}`);
+  }
 }

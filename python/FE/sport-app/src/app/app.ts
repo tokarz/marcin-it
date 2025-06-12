@@ -10,11 +10,30 @@ import { ApiService } from './fetching/api.service';
 export class AppComponent implements OnInit {
   protected title = 'sport-app';
   public data:any='';
+  public clubs:any[]=[];
+  public players:any[]=[];
+  public coach:any[]=[];
 
   constructor(private readonly apiService: ApiService){
 
   }
-  async ngOnInit(): Promise<void> {
-    this.data = await this.apiService.getData();
+  ngOnInit(): void {
+    this.apiService.getData().subscribe((data:any) => {
+      this.data = data;
+      this.clubs = data.data;
+    })
+  }
+
+  public loadPlayers(klubId:string){
+    this.apiService.getPlayers(klubId).subscribe((data:any) => {
+      this.data = data;
+      this.players = data.data;
+    })
+  }
+  public loadCoach(klubId:string){
+    this.apiService.getCoach(klubId).subscribe((data:any) => {
+      this.data = data;
+      this.coach = data.data;
+    })
   }
 }
