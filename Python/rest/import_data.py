@@ -17,7 +17,7 @@ def import_games():
         )
         cursor = connection.cursor()
 
-        mecze = get_csv_rows('sezon-ek-2024-2025.csv')
+        mecze = get_csv_rows('mecze.csv')
         print(f"wczytane mecze={mecze}")
         for mecz in mecze:
             print(f"aktualny mecz={mecz[0]}")

@@ -1,11 +1,32 @@
 klub_gospodarz_id;klub_gosc_id;wynik_gospodarz;wynik_gosc;data_meczu;stadion;rozgrywka_id
-5;1;2;1;2023-08-01;Stadion Wojska Polskiego;1
-2;3;1;1;2023-08-02;Stadion Wisły;3
-5;6;3;4;2023-08-03;Stadion im. Ernesta Pohla;4
-7;2;2;6;2023-08-04;Stadion Cracovii;4
-9;1;0;8;2023-08-05;Stadion Zagłębia;2
-3;2;4;1;2023-08-06;Stadion Miejski;2
-2;2;3;3;2023-08-07;Stadion Wrocław;1
-4;1;1;5;2023-08-08;Stadion Pogoni;3
-6;3;0;7;2023-08-09;Stadion Miejski;4
-8;2;2;9;2023-08-10;Stadion Rakowa;5
+1;2;2;1;2023-08-01;Stadion Wojska Polskiego;1
+3;4;0;0;2023-08-02;Stadion Wisły;2
+5;6;3;2;2023-08-03;Stadion im. Ernesta Pohla;3
+7;8;1;1;2023-08-04;Stadion Cracovii;4
+9;10;0;2;2023-08-05;Stadion Zagłębia;1
+11;12;4;3;2023-08-06;Stadion w Jasle;2
+13;14;2;2;2023-08-07;Stadion Stali;3
+15;16;1;3;2023-08-08;Stadion GKS-u;4
+17;18;0;0;2023-08-09;Stadion Widzewa;1
+19;20;3;1;2023-08-10;Stadion Podbeskidzia;2
+21;22;2;4;2023-08-11;Stadion Chrobrego;3
+23;24;1;1;2023-08-12;Stadion Resovii;4
+25;26;0;3;2023-08-13;Stadion Górnika Łęczna;1
+27;28;2;2;2023-08-14;Stadion Olimpii;2
+29;30;1;0;2023-08-15;Stadion Puszczy;3
+2;1;3;3;2023-08-16;Stadion Miejski;4
+4;3;2;1;2023-08-17;Stadion Wrocław;1
+6;5;0;0;2023-08-18;Stadion Pogoni;2
+8;7;1;2;2023-08-19;Stadion Rakowa;3
+10;9;2;3;2023-08-20;Stadion Górnika;4
+12;11;0;1;2023-08-21;Stadion Odry;1
+14;13;4;4;2023-08-22;Stadion Motoru;2
+16;15;1;0;2023-08-23;Stadion Polonii;3
+18;17;3;2;2023-08-24;Stadion ŁKS-u;4
+20;19;0;1;2023-08-25;Stadion Sandecji;1
+22;21;2;3;2023-08-26;Stadion Głogowa;2
+24;23;1;1;2023-08-27;Stadion Radomiaka;3
+26;25;0;0;2023-08-28;Stadion Znicza;4
+28;27;3;1;2023-08-29;Stadion Bytovii;1
+30;29;2;2;2023-08-30;Stadion Sokoła;2
+1;3;1;0;2023-08-31;Stadion Wojska Polskiego;3

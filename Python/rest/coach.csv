@@ -1,11 +1,31 @@
 imie;nazwisko;data_urodzenia;narodowosc;klub_id
-Kosta; Runjaić; 1971-06-04; Niemcy; 1
-John; van den Brom; 1966-10-04; Holandia; 2
-Radosław; Sobolewski; 1976-12-13; Polska; 3
-Jacek; Magiera; 1977-01-01; Polska; 4
-Jan; Urban; 1962-05-14; Polska; 5
-Jens; Gustafsson; 1978-10-15; Szwecja; 6
-Jacek; Zielinski; 1961-03-01; Polska; 7
-Adrian; Siemieńiec; 1988-08-10; Polska; 8
-Waldemar; Fornalik; 1963-04-11; Polska; 9
-Dawid; Szwarga; 1991-07-15; Polska; 10
+Kosta;Runjaić;1971-06-04;Niemcy;1
+John;van den Brom;1966-10-04;Holandia;2
+Radosław;Sobolewski;1976-12-13;Polska;3
+Jacek;Magiera;1977-01-01;Polska;4
+Jan;Urban;1962-05-14;Polska;5
+Jens;Gustafsson;1978-10-15;Szwecja;6
+Jacek;Zielinski;1961-03-01;Polska;7
+Adrian;Siemieńiec;1988-08-10;Polska;8
+Waldemar;Fornalik;1963-04-11;Polska;9
+Dawid;Szwarga;1991-07-15;Polska;10
+Marek;Nowak;1975-03-22;Polska;11
+Piotr;Kowalski;1980-09-14;Polska;12
+Tomasz;Wiśniewski;1968-07-05;Polska;13
+Andrzej;Kamiński;1972-11-30;Polska;14
+Paweł;Lewandowski;1985-02-18;Polska;15
+Krzysztof;Zieliński;1970-06-10;Polska;16
+Łukasz;Wójcik;1978-04-25;Polska;17
+Michał;Kaczmarek;1982-12-09;Polska;18
+Artur;Mazur;1974-08-02;Polska;19
+Grzegorz;Kubiak;1969-05-16;Polska;20
+Sebastian;Sikora;1983-10-27;Polska;21
+Marcin;Pawlak;1977-03-08;Polska;22
+Rafał;Duda;1979-09-19;Polska;23
+Patryk;Szymański;1986-07-21;Polska;24
+Karol;Jabłoński;1973-02-14;Polska;25
+Damian;Czarnecki;1981-05-30;Polska;26
+Jakub;Baran;1984-11-03;Polska;27
+Szymon;Wilk;1987-01-12;Polska;28
+Dominik;Król;1976-06-07;Polska;29
+Filip;Lis;1989-08-23;Polska;30
