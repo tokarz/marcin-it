@@ -9,6 +9,7 @@ from create_db import stworz_baze_danych_sport
 from import_data import import_teams , import_players , import_all , import_coach , import_historia , import_games , import_rozgrywki
 from transfer_player import dostepni_pilkarze , dostepni_pilkarze_z_danego_klubu
 from transfer_coach import dostepni_trenerzy , trener_klubu
+from gets import get_kluby,get_trenerzy, get_pilkarze , get_rozgrywki , get_mecze , get_historie , get_club_trener
 
 
 class MyOwnModel(BaseModel):
@@ -57,29 +58,56 @@ def get_data():
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/kluby")
-def get_kluby():
+def kluby():
     try:
-        data = dostepne_kluby()
+        data = get_kluby()
         return {"status": "success", "data": data}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     
 @app.get("/pilkarze")
-def get_pilkarze():
+def pilkarze():
     try:
-        data = dostepni_pilkarze()
+        data = get_pilkarze()
         return {"status": "success", "data": data}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     
 @app.get("/trenerzy")
-def get_trenerzy():
+def trenerzy():
     try:
-        data = dostepni_trenerzy()
+        data = get_trenerzy()
+        return {"status": "success", "data": data}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+ 
+@app.get("/rozgrywki")
+def rozgrywki():
+    try:
+        data = get_rozgrywki()
         return {"status": "success", "data": data}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     
+@app.get("/historie")
+def historia():
+    try:
+        data = get_historie()
+        return {"status": "success", "data": data}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+@app.get("/mecze")
+def mecze():
+    try:
+        data = get_mecze()
+        return {"status": "success", "data": data}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+
+###GETY "zlozone"""
+
 @app.get("/clubplayers")
 def get_club_players(klub_id):
     try:
@@ -89,16 +117,16 @@ def get_club_players(klub_id):
         raise HTTPException(status_code=500, detail=str(e))
     
 @app.get("/clubtrener")
-def get_club_players(klub_id):
+def get_trener_kluby(klub_id):
     try:
-        data = trener_klubu(klub_id)
+        data = get_club_trener(klub_id)
         return {"status": "success", "data": data}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
 
 
-###POST###   
+###POSTy###   
      
     
 @app.post("/play")
@@ -118,7 +146,7 @@ def play_one_game(data: MyOwnModel):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     
-
+###NOWA BAZA DANYCH Z TABELAMI####
     
 @app.post("/newdatabase")
 def create_new_database():
@@ -128,14 +156,7 @@ def create_new_database():
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     
-@app.post("/importteams")
-def import_new_teams():
-    try:
-        import_teams()
-        return {"status": "success"}
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-    
+###IMPORTY###
 
 @app.post("/importplayers")
 def import_new_players():
@@ -184,6 +205,9 @@ def import_new_competitions():
         return {"status": "success"}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+###IMPORT WSZYSTKO "na raz ####"
 
 @app.post("/importalldata")
 def import_all_data():
