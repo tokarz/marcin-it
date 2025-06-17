@@ -8,8 +8,7 @@ from drop_database import delete
 from create_db import stworz_baze_danych_sport
 from import_data import import_teams , import_players , import_all , import_coach , import_historia , import_games , import_rozgrywki
 from transfer_player import dostepni_pilkarze , dostepni_pilkarze_z_danego_klubu
-from transfer_coach import dostepni_trenerzy , trener_klubu
-from gets import get_kluby,get_trenerzy, get_pilkarze , get_rozgrywki , get_mecze , get_historie , get_club_trener
+from gets import get_kluby,get_trenerzy, get_pilkarze , get_rozgrywki , get_mecze , get_historie , get_club_trener, get_history_of_club
 
 
 class MyOwnModel(BaseModel):
@@ -123,6 +122,16 @@ def get_trener_kluby(klub_id):
         return {"status": "success", "data": data}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+@app.get("/clubhistory")
+def get_club_history(klub_id):
+    try:
+        data = get_history_of_club(klub_id)
+        return {"status": "success", "data": data}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+
 
 
 

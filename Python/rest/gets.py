@@ -119,7 +119,7 @@ def get_mecze():
 
 ###############
 
-def get_trener_klubu(klub_id):
+def get_club_trener(klub_id):
     try:
         connection = psycopg2.connect(
             host=host,
@@ -140,4 +140,27 @@ def get_trener_klubu(klub_id):
             cursor.close()
         if connection:
             connection.close()
+
+def get_history_of_club(klub_id):
+    try:
+        connection = psycopg2.connect(
+            host=host,
+            database='sport',
+            user=user,
+            password=password
+        )
+        cursor = connection.cursor()
+        cursor.execute(f'SELECT historia FROM "historia" WHERE klub_id={klub_id}')
+        trenerzy = cursor.fetchall()
+        return trenerzy
+
+    except Exception as e:
+        print("Error:", e)
+
+    finally:
+        if cursor:
+            cursor.close()
+        if connection:
+            connection.close()
+
 
