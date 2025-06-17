@@ -1,28 +1,33 @@
 <div class="sport-app-wrapper">
   <div class="teams item">
-    <h1>Sport Teams</h1>
+    <h1>{{tSportTeams()}}</h1>
     <ul>
       @for(club of clubs;track club){
-      <li (click)="loadPlayers(club[0]);loadCoach(club[0])">{{club[1]}}</li>
+      <li [class.selected]="selectedKlub() === club[0]" (click)="loadPlayers(club[0]);loadCoach(club[0])">{{club[1]}}</li>
       }
     </ul>
   </div>
 
-  <div class="players item">
-    <h1>Players</h1>
-    @if(players.length > 0){
+  <div class="team-info item">
+    <div class="players">
+      <h1>Players</h1>
+      @if(players.length > 0){
 
-    <ul>
-      @for(player of players;track player){
-      <li>{{player[0]}}-{{player[1]}}</li>
+      <ul>
+        @for(player of players;track player){
+        <li>{{player[0]}}-{{player[1]}}</li>
+        }
+      </ul>
       }
-    </ul>
-    }
+    </div>
+    <div class="coach">
+      <h1>Coach</h1>
+      @if(coach && coach.length >= 2){
+      <span>{{coach[0]}}-{{coach[1]}}</span>
+      }
+    </div>
   </div>
-  <div class="coach item">
-    <h1>Coach</h1>
-    @if(coach && coach.length >= 2){
-    <span>{{coach[0]}}-{{coach[1]}}</span>
-    }
+  <div class="portfolio item">
+    <h1>Portfolio</h1>
   </div>
 </div>
