@@ -13,31 +13,42 @@
     </ul>
   </div>
 
+  @if(selectedKlub()){
   <div class="team-info item">
     <div class="players">
-      <h1>Players</h1>
+      <h1>{{tPlayers()}}</h1>
+      <div class="players-icon"></div>
       @if(players.length > 0){
 
       <ul>
         @for(player of players;track player){
-        <li>{{player[0]}}-{{player[1]}}</li>
+        <li (click)="selectPlayer(player)">{{player[0]}}-{{player[1]}}</li>
         }
       </ul>
       }
     </div>
     <div class="coach">
-      <h1>Coach</h1>
+      <h1>{{tCoach()}}</h1>
       @if(coach()){
       <span>{{printCoach()}}</span>
       }
     </div>
   </div>
   <div class="portfolio item">
-    <h1>Portfolio</h1>
-  </div>
-</div>
+    <h1>{{tPortfolio()}}</h1>
+    @if(selectedKlub()){
+    <app-portfolio [userData]="selectedPlayerData()"></app-portfolio>
 
-<div (click)="toggleLang()" class="language">
-  <div [class.pl]="bgImage() === 'pl'" [class.en]="bgImage() === 'en'"></div>
-  
+    }
+  </div>
+  } @else {
+  <h1 style="align-self: center; width: 55%">{{tSelectClub()}}</h1>
+  }
+
+  <div (click)="toggleLang()" class="language">
+    <div
+      [class.pl]="currentLanguage() === 'pl'"
+      [class.en]="currentLanguage() === 'en'"
+    ></div>
+  </div>
 </div>

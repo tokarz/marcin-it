@@ -34,6 +34,14 @@
       overflow-y: auto;
     }
 
+    .players-icon{
+      background-image: url(/assets/players_icon_clean_notext_transparent.png);
+      background-size: cover;
+      background-position: center;
+      width: 32px;
+      height: 32px;
+    }
+
     ul li {
       &.selected {
         color: black;
