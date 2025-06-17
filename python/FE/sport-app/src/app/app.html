@@ -3,7 +3,12 @@
     <h1>{{tSportTeams()}}</h1>
     <ul>
       @for(club of clubs;track club){
-      <li [class.selected]="selectedKlub() === club[0]" (click)="loadPlayers(club[0]);loadCoach(club[0])">{{club[1]}}</li>
+      <li
+        [class.selected]="selectedKlub() === club[0]"
+        (click)="loadPlayers(club[0]);loadCoach(club[0])"
+      >
+        {{club[1]}}
+      </li>
       }
     </ul>
   </div>
@@ -22,8 +27,8 @@
     </div>
     <div class="coach">
       <h1>Coach</h1>
-      @if(coach && coach.length >= 2){
-      <span>{{coach[0]}}-{{coach[1]}}</span>
+      @if(coach()){
+      <span>{{printCoach()}}</span>
       }
     </div>
   </div>

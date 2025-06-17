@@ -1,4 +1,4 @@
-import { Component, OnInit, signal } from '@angular/core';
+import { Component, OnInit, signal, computed } from '@angular/core';
 
 import { ApiService } from './fetching/api.service';
 
@@ -12,7 +12,19 @@ export class AppComponent implements OnInit {
   public data: any = '';
   public clubs: any[] = [];
   public players: any[] = [];
-  public coach: any[] = [];
+  public coach = signal('');
+  public printCoach = computed(() =>{
+    const currentCoach = this.coach();
+    if(currentCoach && currentCoach[0]){
+      if(currentCoach[0].length == 2){
+        return `${currentCoach[0][1]} ${currentCoach[0][0]}`
+      } else {
+        return currentCoach;
+      }
+    } else{
+      return '';
+    }
+  });
 
   public tSportTeams = signal('Sport Teams');
 
@@ -36,7 +48,7 @@ export class AppComponent implements OnInit {
   public loadCoach(klubId: string) {
     this.apiService.getCoach(klubId).subscribe((data: any) => {
       this.data = data;
-      this.coach = data.data;
+      this.coach.set(data.data)
     });
   }
 }
