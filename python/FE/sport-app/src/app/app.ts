@@ -13,15 +13,15 @@ export class AppComponent implements OnInit {
   public clubs: any[] = [];
   public players: any[] = [];
   public coach = signal('');
-  public printCoach = computed(() =>{
+  public printCoach = computed(() => {
     const currentCoach = this.coach();
-    if(currentCoach && currentCoach[0]){
-      if(currentCoach[0].length == 2){
-        return `${currentCoach[0][1]} ${currentCoach[0][0]}`
+    if (currentCoach && currentCoach[0]) {
+      if (currentCoach[0].length == 2) {
+        return `${currentCoach[0][1]} ${currentCoach[0][0]}`;
       } else {
         return currentCoach;
       }
-    } else{
+    } else {
       return '';
     }
   });
@@ -29,6 +29,7 @@ export class AppComponent implements OnInit {
   public tSportTeams = signal('Sport Teams');
 
   public selectedKlub = signal('');
+  public bgImage = signal('en');
 
   constructor(private readonly apiService: ApiService) {}
   ngOnInit(): void {
@@ -48,7 +49,15 @@ export class AppComponent implements OnInit {
   public loadCoach(klubId: string) {
     this.apiService.getCoach(klubId).subscribe((data: any) => {
       this.data = data;
-      this.coach.set(data.data)
+      this.coach.set(data.data);
     });
+  }
+
+  public toggleLang() {
+    if (this.bgImage() === 'pl') {
+      this.bgImage.set('en');
+    } else {
+      this.bgImage.set('pl');
+    }
   }
 }

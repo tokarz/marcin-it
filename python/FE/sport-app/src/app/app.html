@@ -1,5 +1,5 @@
 <div class="sport-app-wrapper">
-  <div class="teams_ item">
+  <div class="teams item">
     <h1>{{tSportTeams()}}</h1>
     <ul>
       @for(club of clubs;track club){
@@ -37,3 +37,7 @@
   </div>
 </div>
 
+<div (click)="toggleLang()" class="language">
+  <div [class.pl]="bgImage() === 'pl'" [class.en]="bgImage() === 'en'"></div>
+  
+</div>
