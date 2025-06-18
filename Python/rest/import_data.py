@@ -223,6 +223,45 @@ def import_players():
         if connection:
             connection.close()
 
+def import_statystyki():
+    try:
+        connection = psycopg2.connect(
+            host=host,
+            database=database,
+            user=user,
+            password=password
+        )
+        cursor = connection.cursor()
+
+        statystyki = get_csv_rows('statystyki.csv')
+        print(f"wczytane statystyki={statystyki}")
+        for statystyka in statystyki:
+            print(f"aktualna statystyka={statystyka[0]}")
+
+            sql = f"""
+                    INSERT INTO public.statystyki
+                    (szybkosc, sila, drybling, obrona, podania, ogolna_ocena, pilkarz_id) 
+                    VALUES ({int(statystyka[0])}, {int(statystyka[1])}, {int(statystyka[2])},
+                    {int(statystyka[3])}, {int(statystyka[4])}, {int(statystyka[5])},
+                    {int(statystyka[6])});
+                """.replace("\n", "")
+
+            print(sql)
+            cursor.execute(sql)
+            print(f"✅ Dodano statystyke: {statystyka[0]}")
+
+        connection.commit()
+
+    except Exception as e:
+        print("❌ Błąd:", e)
+        connection.rollback()
+
+    finally:
+        if cursor:
+            cursor.close()
+        if connection:
+            connection.close()
+
 # Wywołanie importów
 # import_games()
 # import_teams()
@@ -334,6 +373,24 @@ def import_all():
             cursor.execute(sql)
             print(f"✅ Dodano mecz: {mecz[0]} vs {mecz[1]} ({mecz[2]}:{mecz[3]}) na stadionie {mecz[5]}")
 
+        statystyki = get_csv_rows('statystyki.csv')
+        print(f"wczytane statystyki={statystyki}")
+        for statystyka in statystyki:
+            print(f"aktualna statystyka={statystyka[0]}")
+
+            sql = f"""
+                    INSERT INTO public.statystyki
+                    (szybkosc, sila, drybling, obrona, podania, ogolna_ocena, pilkarz_id) 
+                    VALUES ({int(statystyka[0])}, {int(statystyka[1])}, {int(statystyka[2])},
+                    {int(statystyka[3])}, {int(statystyka[4])}, {int(statystyka[5])},
+                    {int(statystyka[6])});
+                """.replace("\n", "")
+
+            print(sql)
+            cursor.execute(sql)
+            print(f"✅ statystyke: {statystyka[0]}")
+
+
         connection.commit()
 
     except Exception as e:
@@ -345,3 +402,5 @@ def import_all():
             cursor.close()
         if 'connection' in locals():
             connection.close()
+
+
