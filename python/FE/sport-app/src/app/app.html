@@ -1,3 +1,10 @@
+
+@if(selectedClub().length){
+<h1 style="position: absolute; top: 0; left: 50%; color: white;translate: -50%">
+  {{selectedClub()[1]}}
+</h1>
+}
+
 <div class="sport-app-wrapper">
   <div class="teams item">
     <h1>{{tSportTeams()}}</h1>
@@ -5,7 +12,7 @@
       @for(club of clubs;track club){
       <li
         [class.selected]="selectedKlub() === club[0]"
-        (click)="loadPlayers(club[0]);loadCoach(club[0])"
+        (click)="selectClub(club);loadPlayers(club[0]);loadCoach(club[0])"
       >
         {{club[1]}}
       </li>
@@ -17,7 +24,6 @@
   <div class="team-info item">
     <div class="players">
       <h1>{{tPlayers()}}</h1>
-      <div class="players-icon"></div>
       @if(players.length > 0){
 
       <ul>

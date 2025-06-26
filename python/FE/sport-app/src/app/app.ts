@@ -40,6 +40,7 @@ export class AppComponent implements OnInit, OnDestroy {
   });
 
   public selectedPlayer = signal({} as any);
+  public selectedClub = signal([] as string[]);
 
   public currentLanguage = signal('pl');
   public currentTranslations: WritableSignal<{ [key: string]: string }> =
@@ -108,6 +109,10 @@ export class AppComponent implements OnInit, OnDestroy {
     this.selectedKlub.set('');
     this.players = [];
     this.coach.set('');
+    this.selectedClub.set([]);
+  }
+  public selectClub(club: string[]){
+    this.selectedClub.set(club);
   }
 
   public selectPlayer(player: any) {

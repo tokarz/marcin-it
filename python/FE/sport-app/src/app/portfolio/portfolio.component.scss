@@ -4,8 +4,10 @@
   box-shadow: 0 0 2px black;
   background: white;
   border-radius: 5px;
-  color:black;
-  padding:15px;
+  color: black;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
   .portfolio-image {
     width: 128px;
     height: 128px;
@@ -13,5 +15,6 @@
     background-size: cover;
     border-radius: 5px;
     background-image: url(/assets/empty_user.png);
+    align-self: center;
   }
 }
