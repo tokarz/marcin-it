@@ -103,13 +103,24 @@ def stworz_baze_danych_sport():
             historia VARCHAR(1000),
             klub_id INT
         );
+
+        CREATE TABLE IF NOT EXISTS Statystyki (
+            statystyki_id SERIAL PRIMARY KEY,
+            szybkosc INT,
+            sila INT,
+            drybling INT,
+            obrona INT,
+            podania INT,
+            ogolna_ocena INT,
+            pilkarz_id INT NOT NULL,
+            FOREIGN KEY (pilkarz_id) REFERENCES Pilkarze(pilkarz_id)
+        );
         """
 
         cursor.execute(create_tables_sql)
         connection.commit()
         print("Tabele zostały utworzone pomyślnie.")
 
-        
     except Exception as error:
         print(f"Błąd podczas tworzenia tabel lub dodawania danych: {error}")
 
